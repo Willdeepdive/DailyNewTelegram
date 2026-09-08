@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-08T12:14:59.357Z",
+    "updatedAt": "2026-09-08T17:51:14.755Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2550 - Rick Springfield",
+      "link": "https://traffic.megaphone.fm/GLT5567898828.mp3",
+      "pubDate": "2026-09-08T17:00:00.000Z",
+      "duration": "8493",
+      "summary": "Rick Springfield is a Grammy Award-winning musician, actor, and author. In addition to his work as a solo artist, Springfield fronts the rock supergroup The Locustz. Their most recent album, “Buzzkill",
+      "art": "https://megaphone.imgix.net/podcasts/3b71cc92-ab23-11f1-bc29-3ba1f2c16d91/image/e880cbe32720950d5d161534ef00d664.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "left-right",
       "showName": "忽左忽右",
@@ -1043,17 +1054,6 @@
       "duration": "01:15:18",
       "summary": "(0:00) Bestie intros! Brad Gerstner fills in for Chamath (2:16) Major shakeups at Google: AI brain drain or better strategy? (20:39) SpaceX's big quarter: Terafab, AI Capex, $1T revenue projection? (4",
       "art": "https://static.libsyn.com/p/assets/9/e/9/6/9e9643601e425587d959afa2a1bf1c87/1_Pod_E284.png"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2537 - David Sinclair",
-      "link": "https://traffic.megaphone.fm/GLT1521681560.mp3",
-      "pubDate": "2026-08-07T17:00:00.000Z",
-      "duration": "9037",
-      "summary": "David Sinclair, AO, PhD, is a longevity scientist, Professor of Genetics at Harvard Medical School, author of the book \"Lifespan: Why We Age—and Why We Don't Have To,\" and host of the \"Lifespan\" podca",
-      "art": "https://megaphone.imgix.net/podcasts/16d5d7dc-91ee-11f1-bdcf-df9a64476d59/image/33b2538a59583328a79e1576b99e251e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
