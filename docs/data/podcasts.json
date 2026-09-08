@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-07T22:24:09.017Z",
+    "updatedAt": "2026-09-08T12:14:59.357Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,50 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "left-right",
+      "showName": "忽左忽右",
+      "category": "zh",
+      "title": "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6a9fd33ba0210c197dcf773e?utm_source=rss",
+      "pubDate": "2026-09-08T09:36:21.000Z",
+      "duration": "00:58:11",
+      "summary": "- 导语 - 从秦人翻越陇山东进关中，到汉朝西出陇山经略河西，位于中国版图中线的陇山是古代中国东西互动的重要轴心。古人翻越陇坂，留下的不仅有「陇头流水，鸣声呜咽」的悲歌，还有不同人群往来的痕迹。为什么说陇山大致位于中国版图的中线？从陇山出发，东西互动为理解早期中国的形成提供了怎样的新视角？请听阎海军老师带来的精彩分享。 - 本期话题成员 - 程衍樑（微博@GrenadierGuard2） 阎海军，",
+      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
+    },
+    {
+      "showId": "ezraklein",
+      "showName": "The Ezra Klein Show",
+      "category": "politics",
+      "title": "What ‘Hyperpolitics’ Explains About This Era",
+      "link": "https://www.nytimes.com/2026/09/08/opinion/ezra-klein-podcast-anton-jager.html",
+      "pubDate": "2026-09-08T09:00:00.000Z",
+      "duration": "01:08:17",
+      "summary": "Behind the intense political movements of the last decade, from Trumpism to wokeness and back again, there’s a strange and erratic rhythm. Movements saturate the culture seemingly overnight, only to e",
+      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Canada fights tariffs with tariffs",
+      "link": "https://www.npr.org/2026/09/08/nx-s1-5958626/canada-fights-tariffs-with-tariffs",
+      "pubDate": "2026-09-08T07:00:04.000Z",
+      "duration": "556",
+      "summary": "The era of friendly diplomacy has fallen to the wayside once again as the U.S. - Canada trade war enters a new phase. This time, Canada is countering the latest round of tariffs with their own, target",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1900x1900+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb4%2Faf%2F9defa6e54c2e87efea973c2e6b18%2F226c7859-0f1a-4f41-ab11-17097b46295f.jpg"
+    },
+    {
+      "showId": "weirdo",
+      "showName": "不合时宜",
+      "category": "zh",
+      "title": "我们如何老去？从《前浪》窥见中国老年生活的真实图景",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6a9f76a7f03e74ee6b06d00f?utm_source=rss",
+      "pubDate": "2026-09-08T02:56:31.000Z",
+      "duration": "01:09:37",
+      "summary": "【主播的话】 2022年，上海普陀公证处的公证员李辰阳，开始处理一位孤寡老人的身后事。老人一生未婚，与亲属断绝往来，签了意定监护协议住进养老院，四十天后猝然离世，只留下五百万无人继承的遗产。是按法律把钱交给她生前刻意疏远的亲人，还是尊重她想捐给社会的心愿？李辰阳最终促成了一个各方都能接受的结果，这是《前浪》第二季第一集《我在天堂等你》里的故事之一，也是意定监护，这项写入民法典不过四五年的新制度，第",
+      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
+    },
     {
       "showId": "20vc",
       "showName": "20VC",
@@ -770,17 +814,6 @@
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Trump versus Capital One",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5935601/trump-versus-capital-one",
-      "pubDate": "2026-08-18T07:00:00.000Z",
-      "duration": "528",
-      "summary": "The Trump Organization has sued Capital One for closing its bank accounts. The organization says it did so out of political reasons. But banks can close accounts for a zillion reasons. They don’t have",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2F4a%2F6cd2ca9241af9c57291811ebc298%2Ff6cd246f-86c2-4d07-8764-776d006656e6.png"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1320,17 +1353,6 @@
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "484 与许子东漫谈世界杯：四十年观赛史里的中国、美国与欧洲",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a59ed61a3fec224d59f16f2?utm_source=rss",
-      "pubDate": "2026-07-17T08:58:46.000Z",
-      "duration": "00:49:31",
-      "summary": "- 导语 - 美加墨世界杯决赛在即，而围绕着这届世界杯热议的票价暴涨与规则变化等争议，又不断反映着美式资本主义对这项运动的重塑。为什么美国人对足球始终提不起兴趣？一张山顶座位票价格涨到近万美元，这背后是纯粹的生意还是全新的文化心态？世界杯如何成为中国人开眼看世界的窗口，又怎样折射出殖民主义的后遗症与民族国家的戏剧化竞争？请听本期嘉宾许子东和郑诗亮带来的精彩分享！ - 本期话题成员 - 程衍樑（微博",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -1340,17 +1362,6 @@
       "duration": "52:06",
       "summary": "特朗普政府收紧移民政策、暂停难民接收后，南非白人却成了少数例外：一些人以「难民」身份进入美国，另一些人拿着农业签证，来到密西西比的农场工作。为什么偏偏是他们？ 今年 4 月，刘骁骞前往密西西比州中部的农业地区。在黄昏的加油站和餐馆里，穿着卡其色短裤的南非白人劳工陆续出现，聚在吧台旁喝酒；有人从早上 6 点工作到晚上 8 点，握手时指甲缝里还沾满泥土。更高的收入之外，围绕本地就业、工资差异和种族问题",
       "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
-    },
-    {
-      "showId": "ezraklein",
-      "showName": "The Ezra Klein Show",
-      "category": "politics",
-      "title": "What Xi Jinping Wants",
-      "link": "https://www.nytimes.com/2026/07/14/opinion/ezra-klein-podcast-kevin-rudd.html",
-      "pubDate": "2026-07-14T09:00:00.000Z",
-      "duration": "01:43:53",
-      "summary": "You can’t understand China today without understanding its president, Xi Jinping. Since coming to power in 2012, Xi has doubled down on communist ideology and significantly consolidated his own power ",
-      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
       "showId": "etw",
@@ -1802,17 +1813,6 @@
       "duration": null,
       "summary": "Jeff Kaplan is a legendary Blizzard game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama available to wishli",
       "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
-    },
-    {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "默茨访华之后：德国人也要开始“卷”了吗？",
-      "link": "https://www.xiaoyuzhoufm.com/episode/69aa97d35b2d0ed0699b62df?utm_source=rss",
-      "pubDate": "2026-03-06T09:16:51.000Z",
-      "duration": "01:10:15",
-      "summary": "【主播的话】 在刚刚过去的二月份，德国总理默茨（Friedrich Merz）携代表团访华，汽车与工业巨头悉数随行。 这次访华的一些画面在社交媒体上广为流传。比如，默茨走进了宇树科技，观看机器人跳舞。在回到德国之后，他发表了一个演讲，感慨中国发展之快，暗示德国的工作生活平衡或将拖累竞争力。这个演讲在中德两国引发了非常不同的解读——中国网友津津乐道于”连德国总理都来取经”，德国国内则掀起了一场关于产",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
     },
     {
       "showId": "acquired",
