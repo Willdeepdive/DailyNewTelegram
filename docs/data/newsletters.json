@@ -1,33 +1,6 @@
 {
-  "generatedAt": "2026-09-07T13:37:18.728Z",
+  "generatedAt": "2026-09-08T12:14:46.210Z",
   "items": [
-    {
-      "title": "Oil climbs as missiles fly in the Gulf",
-      "link": "https://newslink.reuters.com/click/47265264.7466/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtRXVyb3BlJnV0bV90ZXJtPTA4MzEyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OA/699d8f6975a57008a503f158B8c20e0cc",
-      "author": "Reuters Morning Bid Europe",
-      "source": "newsletter:Reuters Morning Bid Europe",
-      "pubDate": "2026-08-31T05:05:29.000Z",
-      "summary": "96 A look at the day ahead in European and global markets Get ahead of the European trading day with Reuters. Subscribe for $1/week. Morning Bid Europe Morning Bid Europe A look at the day ahead in European and global markets By Wayne Cole, Chief Correspondent, Treasury Data refreshes every time you",
-      "llmComment": null
-    },
-    {
-      "title": "US-Iran exchange first strikes in weeks",
-      "link": "https://newslink.reuters.com/click/47266816.434609/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249RGFpbHktQnJpZWZpbmcmdXRtX3Rlcm09MDgzMTI2JnV0bV9jb250ZW50PTA4MzEyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OCZ1c2VyX2VtYWlsPTJmYjc2MWE0ZDA1ODNiMzgyZmY1MzIyYWIxYjAyNjM0MDE3NjEyM2EyZWJjNzk2MTQxYmYxZTJlN2UwOTdhNGI/699d8f6975a57008a503f158Bc7f462bd",
-      "author": "Reuters Daily Briefing",
-      "source": "newsletter:Reuters Daily Briefing",
-      "pubDate": "2026-08-31T10:59:06.000Z",
-      "summary": "96 Plus, US carrier visit to Thailand's Pattaya lifts hope and sex-tourism risk. Go beyond the headlines with Reuters on the stories shaping the day. Subscribe for $1/week. Daily Briefing Daily Briefing By Claire Beers Hello. The US and Iran exchanged strikes for the first time since July, Nepal sea",
-      "llmComment": null
-    },
-    {
-      "title": "OpenAI's ad business hits $1 billion annualized revenue run rate",
-      "link": "https://newslink.reuters.com/click/47269942.65191/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249VGVjaG5vbG9neS1Sb3VuZHVwJnV0bV90ZXJtPTA4MzEyNiZ1dG1fY29udGVudD0wODMxMjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTgmdXNlcl9lbWFpbD0yZmI3NjFhNGQwNTgzYjM4MmZmNTMyMmFiMWIwMjYzNDAxNzYxMjNhMmViYzc5NjE0MWJmMWUyZTdlMDk3YTRi/699d8f6975a57008a503f158B1b5b3a40",
-      "author": "Reuters Technology Roundup",
-      "source": "newsletter:Reuters Technology Roundup",
-      "pubDate": "2026-08-31T15:00:23.000Z",
-      "summary": "96 OpenAI on Monday said ChatGPT Ads, the company's advertising business, has reached $1 billion in annualized revenue run rate, ​as adoption picks up and global expansion rolls ‌out. --> From breakthrough startups to Big Tech moves, stay ahead of industry changes. Subscribe to Reuters.com for $1/we",
-      "llmComment": null
-    },
     {
       "title": "The dog days are over",
       "link": "https://newslink.reuters.com/click/47276687.1388/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtRXVyb3BlJnV0bV90ZXJtPTA5MDEyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OA/699d8f6975a57008a503f158B09a60524",
@@ -278,6 +251,51 @@
       "source": "newsletter:Reuters Business",
       "pubDate": "2026-09-07T12:00:44.000Z",
       "summary": "96 Rising oil prices, conflict in the Middle East and political uncertainty in Europe kept investors on edge on Monday, ​leaving stocks to drift lower ahead of critical U.S. inflation data later this week. --> Follow the biggest business stories of the day with Reuters. Subscribe for $1/week. Reuter",
+      "llmComment": null
+    },
+    {
+      "title": "Tech companies look to Argentina’s windswept Patagonia to build massive data centers",
+      "link": "https://newslink.reuters.com/click/47373819.59173/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249VGVjaG5vbG9neS1Sb3VuZHVwJnV0bV90ZXJtPTA5MDcyNiZ1dG1fY29udGVudD0wOTA3MjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTgmdXNlcl9lbWFpbD0yZmI3NjFhNGQwNTgzYjM4MmZmNTMyMmFiMWIwMjYzNDAxNzYxMjNhMmViYzc5NjE0MWJmMWUyZTdlMDk3YTRi/699d8f6975a57008a503f158B08de61bf",
+      "author": "Reuters Technology Roundup",
+      "source": "newsletter:Reuters Technology Roundup",
+      "pubDate": "2026-09-07T15:00:35.000Z",
+      "summary": "96 Argentina's rugged Patagonia is drawing increasing interest from investors searching for sites for mega data centers who are enticed by the region's cool temperatures, renewable energy, shale gas and empty stretches of land. --> From breakthrough startups to Big Tech moves, stay ahead of industry",
+      "llmComment": null
+    },
+    {
+      "title": "The yen also rises",
+      "link": "https://newslink.reuters.com/click/47376513.5238/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtRXVyb3BlJnV0bV90ZXJtPTA5MDgyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OA/699d8f6975a57008a503f158Bdbb92de4",
+      "author": "Reuters Morning Bid Europe",
+      "source": "newsletter:Reuters Morning Bid Europe",
+      "pubDate": "2026-09-08T05:00:06.000Z",
+      "summary": "96 A look at the day ahead in European and global markets Get ahead of the European trading day with Reuters. Subscribe for $1/week. Morning Bid Europe Morning Bid Europe A look at the day ahead in European and global markets By Gregor Stuart Hunter, Asia Finance & Markets Breaking News Corresponden",
+      "llmComment": null
+    },
+    {
+      "title": "Israeli brothers drive a West Bank settler land grab",
+      "link": "https://newslink.reuters.com/click/47377000.412435/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249RGFpbHktQnJpZWZpbmcmdXRtX3Rlcm09MDkwODI2JnV0bV9jb250ZW50PTA5MDgyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OCZ1c2VyX2VtYWlsPTJmYjc2MWE0ZDA1ODNiMzgyZmY1MzIyYWIxYjAyNjM0MDE3NjEyM2EyZWJjNzk2MTQxYmYxZTJlN2UwOTdhNGI/699d8f6975a57008a503f158Bc43ac881",
+      "author": "Reuters Daily Briefing",
+      "source": "newsletter:Reuters Daily Briefing",
+      "pubDate": "2026-09-08T10:59:22.000Z",
+      "summary": "96 Plus, why food safety is suddenly in the spotlight in India. Go beyond the headlines with Reuters on the stories shaping the day. Subscribe for $1/week. Daily Briefing Daily Briefing By Claire Beers Hello. A Reuters special report looks into how two Israeli brothers are driving a West Bank settle",
+      "llmComment": null
+    },
+    {
+      "title": "Wall St futures slip as oil surge puts markets on edge",
+      "link": "https://newslink.reuters.com/click/47392147.44848/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249UmV1dGVycy1CdXNpbmVzcyZ1dG1fdGVybT0wOTA4MjYmdXRtX2NvbnRlbnQ9MDkwODI2JmxjdGc9Njk5ZDhmNjk3NWE1NzAwOGE1MDNmMTU4JnVzZXJfZW1haWw9MmZiNzYxYTRkMDU4M2IzODJmZjUzMjJhYjFiMDI2MzQwMTc2MTIzYTJlYmM3OTYxNDFiZjFlMmU3ZTA5N2E0Yg/699d8f6975a57008a503f158Bfe94a4c9",
+      "author": "Reuters Business",
+      "source": "newsletter:Reuters Business",
+      "pubDate": "2026-09-08T12:00:49.000Z",
+      "summary": "96 U.S. stock index futures slipped on Tuesday as fresh ​hostilities in the Middle East sent oil prices to their highest since late July, deepening ‌market gloom ahead of inflation data later this week. --> Follow the biggest business stories of the day with Reuters. Subscribe for $1/week. Reuters B",
+      "llmComment": null
+    },
+    {
+      "title": "They earned law degrees in prison.",
+      "link": "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap",
+      "author": "The Daily Docket",
+      "source": "newsletter:The Daily Docket",
+      "pubDate": "2026-09-08T12:01:21.000Z",
+      "summary": "96 + Can they become lawyers? Follow the biggest developments in courts, law firms and legal practice with Reuters. Subscribe for $1/week. The Daily Docket The Daily Docket A newsletter by Reuters and Westlaw By Caitlin Tremblay --> We’re back! Today we kick off with a look at Minnesota ’s prison la",
       "llmComment": null
     }
   ]
