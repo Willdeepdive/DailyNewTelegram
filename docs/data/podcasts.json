@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-09T12:25:54.571Z",
+    "updatedAt": "2026-09-09T17:43:59.201Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2551 - Daniel Kokotajlo",
+      "link": "https://traffic.megaphone.fm/GLT7087453482.mp3",
+      "pubDate": "2026-09-09T17:00:00.000Z",
+      "duration": "8405",
+      "summary": "Daniel Kokotajlo is the executive director of the AI Futures Project and a former governance researcher at OpenAI, where he focused on scenario planning.www.aifuturesmodel.com https://ai-2040.comhttps",
+      "art": "https://megaphone.imgix.net/podcasts/4a7504f8-abd6-11f1-922a-8727e0ad3325/image/d71f5070ed18919a32f495bfeba3376d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "indicator",
       "showName": "The Indicator",
@@ -977,17 +988,6 @@
       "duration": "00:59:06",
       "summary": "【主播的话】 2025 年，一位以公共报道著称的华人记者，突然把笔调转向了自己的家。 记者谭蕙芸，曾在新闻业里追问外部世界的真相，教学生如何采访弱势社群。可她自己的家中，一直藏着一个不能言说的秘密。她的哥哥，那位被寄予最高期望的长子长孙，青少年时期被情绪问题困扰。全家从香港移民到加拿大后，在\"家丑不可外扬\"的家风影响下，未能持续就医，就这样被隐去了三十年，失去机会建立成年人的独立生活和自理能力。 ",
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "JRE MMA Show #184 with Aljamain Sterling",
-      "link": "https://traffic.megaphone.fm/GLT9611837612.mp3",
-      "pubDate": "2026-08-11T17:00:00.000Z",
-      "duration": "10507",
-      "summary": "Joe sits down with professional mixed martial artist Aljamain Sterling, who currently competes in the Ultimate Fighting Championship's Featherweight division. He is the host of the \"Weekly Scraps\" pod",
-      "art": "https://megaphone.imgix.net/podcasts/99c85bdc-9523-11f1-8cce-6b6deb9f7357/image/2ae94d7b584e123b8a465fcc5a1f881c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
