@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-10T12:19:45.151Z",
+    "updatedAt": "2026-09-10T17:36:20.168Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -165,6 +165,17 @@
   ],
   "episodes": [
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2552 - Ehsan Ahmad & Deric Poston",
+      "link": "https://traffic.megaphone.fm/GLT5341784284.mp3",
+      "pubDate": "2026-09-10T17:00:00.000Z",
+      "duration": "11204",
+      "summary": "Ehsan Ahmad is a comedian and co-host of \"The Solid Show\" with Deric Poston. His new comedy special, \"Ehsan Ahmad: Too Soon,\" is streaming on YouTube. https://youtu.be/m6weMUz0lqA?si=mLbn1S0fCogIg0mjw",
+      "art": "https://megaphone.imgix.net/podcasts/41147402-acd5-11f1-ae8e-bb792e6b1e3d/image/55d2414fafdf9d2618a8cc90bc0074ae.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -204,7 +215,7 @@
       "title": "#2551 - Daniel Kokotajlo",
       "link": "https://traffic.megaphone.fm/GLT7087453482.mp3",
       "pubDate": "2026-09-09T17:00:00.000Z",
-      "duration": "8405",
+      "duration": "8645",
       "summary": "Daniel Kokotajlo is the executive director of the AI Futures Project and a former governance researcher at OpenAI, where he focused on scenario planning.www.aifuturesmodel.com https://ai-2040.comhttps",
       "art": "https://megaphone.imgix.net/podcasts/4a7504f8-abd6-11f1-922a-8727e0ad3325/image/d71f5070ed18919a32f495bfeba3376d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
@@ -977,17 +988,6 @@
       "duration": "01:11:36",
       "summary": "(0:00) Jason and Friedberg welcome Rahm Emanuel (1:16) Lessons from working with Clinton and Obama (7:45) China: How to approach conflict, new economic bloc, isolation, and Taiwan (28:49) Europe: Reas",
       "art": "https://static.libsyn.com/p/assets/c/7/8/3/c783805001ad85e616c3140a3186d450/1_Pod_Rahm.png"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2538 - Joe DeRosa",
-      "link": "https://traffic.megaphone.fm/GLT1242550719.mp3",
-      "pubDate": "2026-08-12T17:00:00.000Z",
-      "duration": "10047",
-      "summary": "Joe DeRosa is a comedian, actor, musician, restaurateur, and host of the \"Vile and Horrendous\" podcast. His latest special, \"I Never Promised You a Rose Garden,\" is now streaming on Netflix. www.youtu",
-      "art": "https://megaphone.imgix.net/podcasts/22233586-966b-11f1-8f2f-03112136bec0/image/46c5a7c092e94e1f6f989ff752de3211.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "lexfridman",
