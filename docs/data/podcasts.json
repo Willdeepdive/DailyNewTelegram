@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-09T22:06:50.398Z",
+    "updatedAt": "2026-09-10T12:19:45.151Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,39 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "etw",
+      "showName": "声东击西",
+      "category": "zh",
+      "title": "#404 邵阳：一位华人市议员亲历的美国地方政治丨十周年特别节目",
+      "link": "https://etw.fm/2224",
+      "pubDate": "2026-09-10T09:30:00.000Z",
+      "duration": "2:27:38",
+      "summary": "本期节目是声东击西「十周年」特别系列的第二期，在这个系列中，我们通过访谈那些亲历结构性变化并拥有独特观察的嘉宾们，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理解今天，又如何辨认出那些塑造未来的力量。 今年七月，徐涛前往了美国加州的佛利蒙市（Fremont），在那里采访了佛利蒙市市议员、前副市长邵阳。 过去十多年，邵阳亲历了美国地方政治中的许多具体变化：从关注华人家庭与学生的教育问题、竞",
+      "art": "https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/f/f96bdc7a-c667-4594-8719-2070d24f8231/cover.jpg?v=1"
+    },
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Jensen Huang Declares AGI Has Arrived | GPT Astra and Fable 5.1 Accelerate the Model Race | Tesla Launches Cybercabs | Index Pulls Out of Town & Anthropic Pulls From Descartes Acquisition",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-declares-agi-has-arrived-gpt-astra-and-fable-51-accelerate-the-model-race-tesla-launches-cybercabs-index-pulls-out-of-town-anthropic-pulls-from-descartes-acquisition",
+      "pubDate": "2026-09-10T07:07:00.000Z",
+      "duration": "01:18:07",
+      "summary": "AGENDA: 00:00 Jensen Huang Declares AGI Has Arrived 04:05 Instinct and GrokBot Ignite the AI Assistant War 13:32 OpenAI's GPT Astra Redefines What AGI Means 26:00 GPT Astra and Fable 5.1 Accelerate th",
+      "art": "https://static.libsyn.com/p/assets/2/b/1/0/2b1072dcf5bfcf93d959afa2a1bf1c87/WhatsApp_Image_2026-09-09_at_17.14.28.jpeg"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Are small town colleges going extinct?",
+      "link": "https://www.npr.org/2026/09/10/nx-s1-5963882/are-small-town-colleges-going-extinct",
+      "pubDate": "2026-09-10T07:00:00.000Z",
+      "duration": "517",
+      "summary": "Our favorite entry on the regional economy from the latest Beige Book reveals a troubling development in higher education. Fact checking by Sierra Juarez . Your Next Listen — Community colleges are ki",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2F67%2F53478b444792bcf57c60c3680be3%2Fd92a0952-176e-4475-85c0-8156b61233c0.jpg"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -781,17 +814,6 @@
       "art": "https://static.libsyn.com/p/assets/a/5/b/1/a5b196eaaff09f4516c3140a3186d450/WhatsApp_Image_2026-08-19_at_16.35.48.jpeg"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Is bankruptcy really all that bad?",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5938807/is-bankruptcy-really-all-that-bad",
-      "pubDate": "2026-08-20T07:00:00.000Z",
-      "duration": "540",
-      "summary": "Bankruptcy has a negative stigma surrounding it. But what if we told you it’s not as bad as you may think? In fact, economists think we should actually see more of it! Based on the radio story: More A",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2Fe0%2F951860b54fca98c0f967d267e11b%2F2329bd70-d67f-4936-8369-e752aafa65c3.jpg"
-    },
-    {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
       "category": "general",
@@ -1087,17 +1109,6 @@
       "duration": "2:08:08",
       "summary": "2016年10月末，「声东击西」第一期节目上线；到2026年10月末，「声东击西」将更新整整十年。在这十年中，我们采访了很多身处变化之中的人，也和大家一起经历了一个不断变化和转向的世界。 十周年之际，我们的确想做一些特别节目，但不太想只做一次简单回顾。所以我们决定还是用「声东击西」熟悉的形式，通过访谈那些亲历结构性变化并拥有独特观察的嘉宾们，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理",
       "art": "https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/b/b8cd9085-c37e-4dd3-92d7-5d7be257f078/cover.jpg?v=1"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: Airtable Sold for $1.285BN | Leo Achenbrenner's Situational Awareness Blows Up | Moonshot AI Raises $3.5B at $35B | Anthropic Model Breaches Three Companies' Security | Big Tech Earnings: Why Palantir Beat The Rest",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-airtable-sold-for-1285bn-leo-achenbrenners-situational-awareness-blows-up-moonshot-ai-raises-35b-at-35b-anthropic-model-breaches-three-companies-security-big-tech-earnings-why-palantir-beat-the-rest",
-      "pubDate": "2026-08-06T07:07:00.000Z",
-      "duration": "01:15:36",
-      "summary": "Special Guest: Nikesh Arora, CEO @ Palo Alto Networks. AGENDA: 04:50 Airtable Sold to Bending Spoons for $1.285B 17:00 Leo Aschenbrenner's Situational Awareness Blows Up as Citadel Buys His $16BN Book",
-      "art": "https://static.libsyn.com/p/assets/4/4/0/f/440f94d203a9389c16c3140a3186d450/WhatsApp_Image_2026-08-05_at_16.18.19.jpeg"
     },
     {
       "showId": "talksat",
@@ -1615,17 +1626,6 @@
       "duration": "995",
       "summary": "Caitlin Clark has become a sports and cultural icon, but her success is rooted in a grounded upbringing and a relentless focus on basketball fundamentals. She joins John Mallory, global co-head of Wea",
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "etw",
-      "showName": "声东击西",
-      "category": "zh",
-      "title": "#389 美元霸权正在走弱吗：从荷兰、英国到美国，货币霸权如何兴衰",
-      "link": "https://etw.fm/2210",
-      "pubDate": "2026-05-21T11:30:00.000Z",
-      "duration": "1:03:09",
-      "summary": "本月，执掌美联储八年的鲍威尔卸任，特朗普支持的沃什接棒；世界各国银行也在近期纷纷表示对美元的担忧：美元正在失去它的货币霸权地位吗？新一轮的货币替代会发生吗？ 过去 500 年，世界货币霸权先后在荷兰、英国、美国间流转，每一次交替，都伴随着战争、财政危机与信用崩塌。今天，美国国债占 GDP 已经高达 100%，各国央行的美元储备持续减少，全球的非美元结算却在逐步提升…… 这一期节目，我们邀请到美国凯",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "acquired",
