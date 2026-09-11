@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-10T22:06:25.715Z",
+    "updatedAt": "2026-09-11T12:19:00.016Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,39 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "left-right",
+      "showName": "忽左忽右",
+      "category": "zh",
+      "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6aa3c3269d32647781679918?utm_source=rss",
+      "pubDate": "2026-09-11T09:54:03.000Z",
+      "duration": "01:35:37",
+      "summary": "- 导语 - 晋江陈埭，一个不到40平方公里的福建小镇，却汇集了7000多家制鞋相关企业，全球每五双运动鞋中就有一双来自这里。晋江鞋业如何从侨乡「闲钱、闲房、闲人」的条件中起步？又如何经历星期鞋、亚洲金融危机和北京奥运会后的库存危机？陈埭丁氏有着怎样的历史，又为何走出了安踏、特步、361度等多家运动品牌的创始人？聚焦安踏个案，传统家族企业又如何在市场变化中适应职业经理人与现代管理制度？请听本期嘉宾",
+      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
+    },
+    {
+      "showId": "ezraklein",
+      "showName": "The Ezra Klein Show",
+      "category": "politics",
+      "title": "Francis Fukuyama on Trump, China and the Legacy of 9/11",
+      "link": "https://www.nytimes.com/2026/09/11/opinion/ezra-klein-podcast-francis-fukuyama.html",
+      "pubDate": "2026-09-11T09:00:00.000Z",
+      "duration": "01:17:30",
+      "summary": "Francis Fukuyama's “The End of History and the Last Man” is one of the most insightful books for understanding the strangeness and instability of this political moment. Fukuyama wrote his landmark boo",
+      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Bessent's yen bet, cold Argentine data centers set, and the summer box office net",
+      "link": "https://www.npr.org/2026/09/11/nx-s1-5965869/bessents-yen-bet-cold-argentine-data-centers-set-and-the-summer-box-office-net",
+      "pubDate": "2026-09-11T07:00:00.000Z",
+      "duration": "562",
+      "summary": "This week’s indicators: Is The U.S. Treasury Department futzing with financial markets?; Is Patagonia’s pretty picturesque setting … for data centers?; Was the summer box office actually swell? Fact c",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F1b%2F0c09f69c47abb4696a28b4d6685b%2F235bce2d-39a6-4712-a0d1-2ca4ce31348f.png"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -781,17 +814,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "EV sales slow, US Treasury yields grow, 'Niu Lai' has impressive box office mojo",
-      "link": "https://www.npr.org/2026/08/21/nx-s1-5940065/ev-sales-slow-us-treasury-yields-grow-niu-lai-has-impressive-box-office-mojo",
-      "pubDate": "2026-08-21T07:00:00.000Z",
-      "duration": "564",
-      "summary": "This week’s indicators: EV sales sputter in North America but flutter internationally; U.S. Treasury Yields … RISE!; a low-budget movie so terrible, it became a box office hit in China. Fact checking ",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2Fff%2Fb31217684f329543b52051ddf992%2Ffcaa24a3-0187-493e-9495-2fa22df110e7.png"
-    },
-    {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
       "category": "general",
@@ -1309,17 +1331,6 @@
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
     },
     {
-      "showId": "ezraklein",
-      "showName": "The Ezra Klein Show",
-      "category": "politics",
-      "title": "Best Of: A Breath of Fresh Air With Brian Eno",
-      "link": "https://www.nytimes.com/2025/10/03/opinion/ezra-klein-podcast-brian-eno.html",
-      "pubDate": "2026-07-21T09:00:00.000Z",
-      "duration": "01:30:44",
-      "summary": "How Brian Eno expanded the possibilities of what music and sound can be. Eno is a trailblazing musician and producer who’s worked on seminal records by U2, David Bowie, the Talking Heads and Coldplay,",
-      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1329,17 +1340,6 @@
       "duration": "41:39",
       "summary": "(0:00) Bubble talk: Comparing today's AI market to the dot-com bubble (7:50) AI's real-world limits: why enterprise AI is harder than expected (16:38) Transitioning to an AI-First Workspace (21:26) He",
       "art": "https://static.libsyn.com/p/assets/f/b/9/6/fb96aba754a36c7e16c3140a3186d450/1_Pod_Cuban.png"
-    },
-    {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "485 世界杯政治学：刘怡谈战后各洲思潮与三代FIFA主席如何塑造现代足球",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a5df13ba3fec224d5a07344?utm_source=rss",
-      "pubDate": "2026-07-20T10:06:52.000Z",
-      "duration": "01:17:43",
-      "summary": "- 导语 - 今日凌晨，美加墨世界杯落下帷幕，西班牙击败卫冕冠军阿根廷夺得大力神杯。本届世界杯，场内外的「非体育因素」常常占据头条，而回顾历史，足球始终承载着民族主义与政治的角力。九十年代克罗地亚总统如何因一场判罚召见德国大使？不同立场的海外伊朗人在世界杯看台上的表达经历了怎样的变迁？足球为何在南非承载了浓厚的种族政治色彩？历数国际足联的三代主席，他们如何一步步将FIFA塑造成如今的面貌？请听本期",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
       "showId": "allin",
