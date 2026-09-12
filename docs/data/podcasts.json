@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-11T22:06:22.753Z",
+    "updatedAt": "2026-09-12T11:41:48.055Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: 7 Predictions for How AI Changes the World: Labour, Engineering, Social Media, GrokBots Buying Cybercabs and more with Matteo Franceschetti, Co-Founder @ Eight Sleep",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-7-predictions-for-how-ai-changes-the-world-labour-engineering-social-media-grokbots-buying-cybercabs-and-more-with-matteo-franceschetti-co-founder-eight-sleep",
+      "pubDate": "2026-09-12T07:07:00.000Z",
+      "duration": "01:15:43",
+      "summary": "AGENDA: 04:30 How Do You Hire Exceptional People in the AI Era? 08:00 What Actually Works in Growth—and Why Can't You Trust Meta's Numbers? 17:00 How to Run Hundreds of Millions in Marketing with Zero",
+      "art": "https://static.libsyn.com/p/assets/2/5/f/4/25f4c74c1bf7c958d959afa2a1bf1c87/WhatsApp_Image_2026-09-11_at_11.45.57.jpeg"
+    },
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse",
+      "link": "https://allinchamathjason.libsyn.com/ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse",
+      "pubDate": "2026-09-11T23:32:00.000Z",
+      "duration": "01:35:57",
+      "summary": "(0:00) Bestie intros! (0:35) AI Doomsday: Valid concern or Doomer psyop? (33:40) Steelmanning AI Doomsday scenarios and the impact on Anthropic's IPO (58:45) OpenAI says it cracked a 200 year old math",
+      "art": "https://static.libsyn.com/p/assets/8/f/a/c/8fac2890418f76eed959afa2a1bf1c87/1_Pod_E289.png"
+    },
     {
       "showId": "left-right",
       "showName": "忽左忽右",
@@ -1078,17 +1100,6 @@
       "art": "https://img.transistorcdn.com/GwI1v26-YH_dXUXm6cxbMAU8_kLZ0TucnptVEAbOElY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80ZmU3/ZGE4MTQ3NjAzZGZj/MWU5YzVjYzViNTAw/OTIwYS5qcGc.jpg"
     },
     {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: The AI Boom Will Create Enormous Roadkill: Who Wins & Loses | Why Founders Should Never Take Multi-Stage Money at Seed | Why Triple, Triple, Double, Double is Good Enough",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-the-ai-boom-will-create-enormous-roadkill-who-wins-loses-why-founders-should-never-take-multi-stage-money-at-seed-why-triple-triple-double-double-is-good-enough",
-      "pubDate": "2026-08-08T12:56:00.000Z",
-      "duration": "01:24:23",
-      "summary": "David Frankel is one of the great seed investors of our time. As the Co-Founder of Founder Collective he has backed the likes of Uber, Coupang, Suno, PillPack, Airtable, Whoop, Shield AI and many more",
-      "art": "https://static.libsyn.com/p/assets/a/f/9/f/af9f01e7bbcf7f6a16c3140a3186d450/WhatsApp_Image_2026-08-07_at_16.34.49.jpeg"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1340,17 +1351,6 @@
       "duration": "41:39",
       "summary": "(0:00) Bubble talk: Comparing today's AI market to the dot-com bubble (7:50) AI's real-world limits: why enterprise AI is harder than expected (16:38) Transitioning to an AI-First Workspace (21:26) He",
       "art": "https://static.libsyn.com/p/assets/f/b/9/6/fb96aba754a36c7e16c3140a3186d450/1_Pod_Cuban.png"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Can the AI Industry Regulate Itself? Stripe Wants PayPal, China Catches Up, NY Bans Datacenters",
-      "link": "https://allinchamathjason.libsyn.com/can-the-ai-industry-regulate-itself-stripe-wants-paypal-china-catches-up-ny-bans-datacenters",
-      "pubDate": "2026-07-18T00:36:00.000Z",
-      "duration": "01:29:55",
-      "summary": "(0:00) Bestie intros! (1:32) New AI regulatory proposal: DeepMind's Demis Hassabis proposes FINRA-type body (20:01) Stripe, Block, and Advent offer $53B to acquire PayPal (37:51) Apple sues OpenAI, al",
-      "art": "https://static.libsyn.com/p/assets/1/d/b/4/1db440afa8f397edd959afa2a1bf1c87/1_Pod_E281.png"
     },
     {
       "showId": "talksat",
