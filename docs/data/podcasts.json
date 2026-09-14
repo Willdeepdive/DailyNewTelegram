@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-14T14:20:55.203Z",
+    "updatedAt": "2026-09-14T19:09:25.040Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2553 - Andrew Huberman",
+      "link": "https://traffic.megaphone.fm/GLT4909015971.mp3",
+      "pubDate": "2026-09-14T17:00:00.000Z",
+      "duration": "9718",
+      "summary": "Andrew Huberman, PhD, is a neuroscientist, author, and host of the \"Huberman Lab\" podcast. His latest book, \"Protocols: An Operating Manual for the Human Body,\" will be available on September 22.www.s",
+      "art": "https://megaphone.imgix.net/podcasts/019e9130-afb5-11f1-ba2a-77da5f707852/image/e96ac952ee0bbbd2060e7ba9d4f8a932.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "20vc",
       "showName": "20VC",
@@ -1021,17 +1032,6 @@
       "duration": "00:54:15",
       "summary": "We’re in a really strange moment in the foreign policy politics of the Democratic Party. People are looking for an alternative vision — an approach to American power in the world that would feel more ",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2539 - Protect Our Parks 17",
-      "link": "https://traffic.megaphone.fm/GLT2831972716.mp3",
-      "pubDate": "2026-08-13T17:00:00.000Z",
-      "duration": "16470",
-      "summary": "Shane Gillis, Mark Normand, and Ari Shaffir are comedians, writers, and podcasters.Shane Gillis is the co-host of \"Matt and Shane's Secret Podcast,\" creator and star of Netflix's comedy series \"Tires,",
-      "art": "https://megaphone.imgix.net/podcasts/a3aee712-96bb-11f1-807f-c72272cb9884/image/0bc2fc36526436e42d74dee9a06ad1e3.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "etw",
