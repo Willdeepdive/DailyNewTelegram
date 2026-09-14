@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-14T19:09:25.040Z",
+    "updatedAt": "2026-09-14T22:52:20.756Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -165,6 +165,17 @@
   ],
   "episodes": [
     {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)",
+      "link": "https://allinchamathjason.libsyn.com/jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump",
+      "pubDate": "2026-09-14T21:24:00.000Z",
+      "duration": "46:47",
+      "summary": "(0:00) Jensen Huang joins The Besties! (1:39) Thoughts on Dario's blog, Frontier Labs calling to slow down AI, and Doomer psychology (9:58) Sensible AI regulation and RSI (16:05) Hugging Face acquisit",
+      "art": "https://static.libsyn.com/p/assets/4/c/d/e/4cde7643ca820c8816c3140a3186d450/Podcast_Thumbnail_-_AIS_26.png"
+    },
+    {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
       "category": "general",
@@ -201,11 +212,11 @@
       "showId": "acquired",
       "showName": "Acquired",
       "category": "tech",
-      "title": "Home Depot",
+      "title": "The Home Depot",
       "link": "https://www.acquired.fm/episodes/home-depot",
       "pubDate": "2026-09-14T03:35:03.000Z",
       "duration": "12902",
-      "summary": "Home Depot's founding story is like an Avengers movie… if the Avengers got fired, went broke, and stacked empty paint cans ten feet high to look legitimate. After being unceremoniously fired from thei",
+      "summary": "The Home Depot's founding story is like an Avengers movie… if the Avengers got fired, went broke, and stacked empty paint cans ten feet high to look legitimate. After being unceremoniously fired from ",
       "art": "https://img.transistorcdn.com/DpYRwLVYbt09NDhOfdtKg4KNCH0yCkhX7PeHyOBbH14/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MDNm/MDk2YTNmOTBkNmFk/MzJkZmYzZTQ4OWMz/MjdhOS5qcGc.jpg"
     },
     {
@@ -1362,17 +1373,6 @@
       "duration": "01:07:34",
       "summary": "【主播的话】 十几年前，还在读研究生的於嘉向一本知名社会科学期刊投了一篇自己刚写完的论文——关于中国人结婚影响因素的研究。但很快，她收到了拒信。期刊的专家当时认为，选题意义不大，因为中国并不存在所谓的“结婚率下降”的问题。 十几年过去，这个曾被认为“并不存在”的问题变成了全民的焦虑，牵动了全国甚至是全球的神经。於嘉也从学校里毕业，成为了北京大学光华管理学院的一名老师，专事与婚姻、家庭、人口结构有关",
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Mark Cuban on the AI Bubble: Who Actually Gets Wiped Out?",
-      "link": "https://allinchamathjason.libsyn.com/mark-cuban-on-the-ai-bubble-who-actually-gets-wiped-out",
-      "pubDate": "2026-07-20T18:51:00.000Z",
-      "duration": "41:39",
-      "summary": "(0:00) Bubble talk: Comparing today's AI market to the dot-com bubble (7:50) AI's real-world limits: why enterprise AI is harder than expected (16:38) Transitioning to an AI-First Workspace (21:26) He",
-      "art": "https://static.libsyn.com/p/assets/f/b/9/6/fb96aba754a36c7e16c3140a3186d450/1_Pod_Cuban.png"
     },
     {
       "showId": "talksat",
