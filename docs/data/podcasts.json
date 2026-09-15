@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-15T12:48:13.809Z",
+    "updatedAt": "2026-09-15T18:03:01.058Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -165,6 +165,28 @@
   ],
   "episodes": [
     {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
+      "link": "https://allinchamathjason.libsyn.com/satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai",
+      "pubDate": "2026-09-15T17:10:00.000Z",
+      "duration": "36:33",
+      "summary": "(0:00) Satya Nadella joins The Besties! (0:55) Dario's blog, \"pacing the frontier,\" common sense AI safety (6:28) The failure of AI CEO messaging, monitoring agents, what will a slowdown mean for new ",
+      "art": "https://static.libsyn.com/p/assets/c/3/a/0/c3a06929ba0eba3027a2322813b393ee/1_Pod_Satya-20260915-59icvb9qde.png"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2554 - Carlo Rovelli",
+      "link": "https://traffic.megaphone.fm/GLT1673171329.mp3",
+      "pubDate": "2026-09-15T17:00:00.000Z",
+      "duration": "9494",
+      "summary": "Carlo Rovelli, PhD, is a theoretical physicist and author. His latest book, \"On The Equality of All Things,\" will be available on September 15. www.simonandschuster.com/books/On-the-Equality-of-All-Th",
+      "art": "https://megaphone.imgix.net/podcasts/78761fec-b0ac-11f1-bdd6-2b4a2c138356/image/57936a45911584efe78baf02ca683d8b.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -195,7 +217,7 @@
       "pubDate": "2026-09-15T07:00:06.000Z",
       "duration": "574",
       "summary": "Flock cameras promise to reduce crimes like car theft. But these automated license plate readers come with a trade-off: a wide-reaching surveillance network. Today on the show, does Flock actually mak",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1900x1900+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd6%2F56%2Fc762380a4d68bfddb1e6b1d046f7%2F3f82477d-95e3-45ca-9893-fb50a79ce9df.jpg"
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F12%2Ffc546b60485c83e33e1ce836c93e%2F8865acb8-1245-4b7d-adcc-2075cd3114c1.jpeg"
     },
     {
       "showId": "allin",
@@ -1045,17 +1067,6 @@
       "art": "https://static.libsyn.com/p/assets/d/0/5/8/d05879b603142d78d959afa2a1bf1c87/1_Pod_E285.png"
     },
     {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2540 - Travis Barker",
-      "link": "https://traffic.megaphone.fm/GLT5593509812.mp3",
-      "pubDate": "2026-08-14T17:00:00.000Z",
-      "duration": "9381",
-      "summary": "Travis Barker is a musician, songwriter, producer, entrepreneur, and drummer for Blink-182. He is the subject of the documentary \"Travis Barker: Louder Than Fear,\" which premieres August 13 on Hulu an",
-      "art": "https://megaphone.imgix.net/podcasts/b5568610-9764-11f1-8761-4370c8a2da8b/image/8e8868a3d2a847122f1f4b341c224283.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
       "showId": "left-right",
       "showName": "忽左忽右",
       "category": "zh",
@@ -1307,17 +1318,6 @@
       "duration": "1547",
       "summary": "The NobleReach Foundation taps into leaders across sectors – technology, science, government, academia – who have a penchant for national service and a desire to bridge the gap between a flourishing p",
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "The $1/Hour Worker: Four Robotics CEOs on Humanoids at Home, China's Threat, and the End of Dangerous Jobs",
-      "link": "https://allinchamathjason.libsyn.com/the-1hour-worker-four-robotics-ceos-on-humanoids-at-home-chinas-threat-and-the-end-of-dangerous-jobs",
-      "pubDate": "2026-07-28T20:21:00.000Z",
-      "duration": "01:08:35",
-      "summary": "(0:00) Intro: Humanoids, Robots, & AI+ (0:57) ANYbotics' Dr. Péter Fankhauser: Why ANYbotics Bet the Company on Four-Legged Robot Dogs, Not Humanoids (13:18) Dr. Péter Fankhauser: China's Armed Robot ",
-      "art": "https://static.libsyn.com/p/assets/1/d/7/b/1d7b87e95ecf4851d959afa2a1bf1c87/robots_lybson_thmbnl.png"
     },
     {
       "showId": "lexfridman",
