@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-15T18:03:01.058Z",
+    "updatedAt": "2026-09-15T22:33:34.547Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
+      "link": "https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
+      "pubDate": "2026-09-15T20:46:00.000Z",
+      "duration": "27:32",
+      "summary": "(0:00) VP JD Vance joins The Besties! (1:40) Assessing the Trump Admin so far: Border control, re-industrialization, inflation, Iran, government debt, anti-fraud (9:28) AI approach: Dealing with Doome",
+      "art": "https://static.libsyn.com/p/assets/3/b/2/1/3b21d4c1c8af4c7027a2322813b393ee/1_Pod_JDVance.png"
+    },
     {
       "showId": "allin",
       "showName": "All-In",
@@ -1274,17 +1285,6 @@
       "duration": "00:16:04",
       "summary": "'The Odyssey' is the political movie of the decade. Thoughts? Guest suggestions? Email us at ezrakleinshow@nytimes.com . You can find the transcript and more episodes of “The Ezra Klein Show” at nytim",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Chip Stocks Crash, $20B Fund Margin Called, Frontier Labs: SLOW DOWN AI, Mamdani's Grocery Stores",
-      "link": "https://allinchamathjason.libsyn.com/chip-stocks-crash-20b-fund-margin-called-frontier-labs-slow-down-ai-mamdanis-grocery-stores",
-      "pubDate": "2026-07-31T22:23:00.000Z",
-      "duration": "01:36:34",
-      "summary": "(0:00) Bestie intros (1:19) Chip stocks crash, Leopold Aschenbrenner's $20B fund gets margin called (20:20) China's advantage and green shoots for the US economy (34:12) Frontier Labs say \"SLOW DOWN A",
-      "art": "https://static.libsyn.com/p/assets/9/3/d/1/93d127ba8f063c6c16c3140a3186d450/1_E283.png"
     },
     {
       "showId": "left-right",
