@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-16T12:44:13.620Z",
+    "updatedAt": "2026-09-16T18:02:42.597Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -165,6 +165,28 @@
   ],
   "episodes": [
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2555 - Ron White",
+      "link": "https://traffic.megaphone.fm/GLT3641124128.mp3",
+      "pubDate": "2026-09-16T17:00:00.000Z",
+      "duration": "9259",
+      "summary": "Ron White is a comedian, actor, and author. He is currently on tour. https://linktr.ee/ronwhite www.youtube.com/@ronwhitecomedywww.tatersalad.com Perplexity: Download the app or ask Perplexity anythin",
+      "art": "https://megaphone.imgix.net/podcasts/33ba0998-b176-11f1-a5c0-6b85186c4a35/image/50bd6f2b02c49a2b2ef211ba1281a01a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "left-right",
+      "showName": "忽左忽右",
+      "category": "zh",
+      "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6aaa6e139d326477816a1bf6?utm_source=rss",
+      "pubDate": "2026-09-16T16:00:00.000Z",
+      "duration": "01:19:05",
+      "summary": "- 导语 - 从「大哥大」到智能手机，从1G模拟通信到5G连接人与物，手机技术的发展融汇了通信、计算、能源与材料等多条技术路径。在航空与南水北调等大型工程中，通信技术如何发挥作用？5G技术为用户带来的体验变化为何不显著？当数据传输能力继续提升，未来手机技术的革新方向是什么？当手机屏幕形态趋于稳定，折叠屏能否借铰链与柔性屏幕技术的成熟成为新主流？请听本期嘉宾移动通信专家杨旸教授带来的精彩分享！ 本期",
+      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
+    },
+    {
       "showId": "indicator",
       "showName": "The Indicator",
       "category": "macro",
@@ -289,7 +311,7 @@
       "showId": "indicator",
       "showName": "The Indicator",
       "category": "macro",
-      "title": "A Beautiful Bill, Mamdani's Market, and Stock Subscriptions",
+      "title": "A beautiful bill, Mamdani's market, and stock subscriptions",
       "link": "https://www.npr.org/2026/09/14/nx-s1-5966952/a-beautiful-bill-mamdanis-market-and-stock-subscriptions",
       "pubDate": "2026-09-14T07:00:00.000Z",
       "duration": "569",
@@ -1001,17 +1023,6 @@
       "art": "https://megaphone.imgix.net/podcasts/d0eed536-9b6e-11f1-91e1-87ba07d621a5/image/fdd7aa7699d5f97339dd75917ef489f0.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2541 - Thomas Campbell",
-      "link": "https://traffic.megaphone.fm/GLT7603949559.mp3",
-      "pubDate": "2026-08-18T17:00:00.000Z",
-      "duration": "10382",
-      "summary": "Thomas Campbell is a physicist, consciousness researcher, and author of the \"My Big TOE\" trilogy. www.youtube.com/@twcjr44 www.my-big-toe.com Perplexity: Download the app or ask Perplexity anything at",
-      "art": "https://megaphone.imgix.net/podcasts/792ba37c-9a99-11f1-802d-6faff96a5ef8/image/28569fa50040498b8dc3ec71e0962139.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -1329,17 +1340,6 @@
       "duration": "3:53:07",
       "summary": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep499-sc See below for timestamps, transcript, and to give fe",
       "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
-    },
-    {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "487 从战象政治到部落民：南亚的帝国生态五百年",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a68817056a3f3491ba6571f?utm_source=rss",
-      "pubDate": "2026-07-28T10:43:23.000Z",
-      "duration": "01:34:09",
-      "summary": "- 导语 - 15至19世纪，南亚次大陆发生了一场从邦国林立向大型军事财政国家的持续转型。在莫卧儿、马拉塔、英印三大帝国看似精密的统治下，大象、森林与水稻等生态要素正和国家治理产生着双向影响。从权力的视角解释，南亚何以至今留存大量野生亚洲象，而中国中原地区的大象却持续消退？殖民时代，鸦片、茶叶、柚木产业链如何塑造了南亚的土地景观？南亚大陆的山林地带何以成为民众躲避帝国管控的特殊空间？请听本期嘉宾张",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
       "showId": "ezraklein",
