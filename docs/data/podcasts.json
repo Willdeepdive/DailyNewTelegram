@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-17T12:44:35.437Z",
+    "updatedAt": "2026-09-17T18:04:24.232Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
+      "link": "https://allinchamathjason.libsyn.com/metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future",
+      "pubDate": "2026-09-17T16:54:00.000Z",
+      "duration": "43:52",
+      "summary": "(0:00) Dina Powell McCormick joins The Besties! (1:52) Impact of Meta's data center in Richland Parish, LA: $50K teacher checks, revitalizing a small town community (11:52) How Meta is alleviating dat",
+      "art": "https://static.libsyn.com/p/assets/9/e/2/2/9e224027d12228d85f2e77a3093c12a1/1_Pod_DPM.png"
+    },
     {
       "showId": "etw",
       "showName": "声东击西",
@@ -1230,17 +1241,6 @@
       "duration": "16376",
       "summary": "In 1984, the Walt Disney Company was worth more dead than alive. Disney Animation — the heart of Walt's famous flywheel — had stagnated for years, bleeding away talent while corporate raiders circled,",
       "art": "https://img.transistorcdn.com/GwI1v26-YH_dXUXm6cxbMAU8_kLZ0TucnptVEAbOElY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS80ZmU3/ZGE4MTQ3NjAzZGZj/MWU5YzVjYzViNTAw/OTIwYS5qcGc.jpg"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Google's AI Brain Drain, SpaceX's Huge Quarter, Airtable's 90% Collapse, US Data Fuels China AI",
-      "link": "https://allinchamathjason.libsyn.com/googles-ai-brain-drain-spacexs-huge-quarter-airtables-90-collapse-us-data-fuels-china-ai",
-      "pubDate": "2026-08-08T00:32:00.000Z",
-      "duration": "01:15:18",
-      "summary": "(0:00) Bestie intros! Brad Gerstner fills in for Chamath (2:16) Major shakeups at Google: AI brain drain or better strategy? (20:39) SpaceX's big quarter: Terafab, AI Capex, $1T revenue projection? (4",
-      "art": "https://static.libsyn.com/p/assets/9/e/9/6/9e9643601e425587d959afa2a1bf1c87/1_Pod_E284.png"
     },
     {
       "showId": "ezraklein",
