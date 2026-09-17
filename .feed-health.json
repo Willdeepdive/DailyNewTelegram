@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-16",
+  "lastRun": "2026-09-17",
   "feeds": [
     {
       "name": "Stratechery",
@@ -202,16 +202,15 @@
     {
       "name": "Sean Goedecke",
       "url": "https://www.seangoedecke.com/rss.xml",
-      "ok": false,
-      "itemCount": 0,
-      "consecutiveFails": 1,
-      "error": "fetch failed"
+      "ok": true,
+      "itemCount": 20,
+      "consecutiveFails": 0
     },
     {
       "name": "email",
       "url": "sources/newsletters.json",
       "ok": true,
-      "itemCount": 42,
+      "itemCount": 41,
       "consecutiveFails": 0,
       "skipped": false
     }
