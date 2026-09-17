@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-16T22:29:55.194Z",
+    "updatedAt": "2026-09-17T12:44:35.437Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,61 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "etw",
+      "showName": "声东击西",
+      "category": "zh",
+      "title": "#405 从地理边界到思维边界：我们如何被「划界」塑造？",
+      "link": "https://etw.fm/2225",
+      "pubDate": "2026-09-17T11:15:00.000Z",
+      "duration": "1:15:09",
+      "summary": "图们江边的一家交通旅社里，挂着一条双语横幅：「牲畜越境，请勿擅自处理。」在地图上，国界通常被画成一条清晰的线，而牲畜不懂国界，只认水草丰美的方向；可人呢？一个非此即彼、排他性的边界，真的存在吗？ 图们江作为边界已延续数百年，河流没有改变，人们认识边界的方式却不断变化。清朝与朝鲜都曾严禁越境，但当晚清面对俄罗斯扩张威胁时，清朝又开始将渡江垦荒的朝鲜人纳入「我民」。进入现代国家体系后，国籍、户籍和证件",
+      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+    },
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Why \"Pacing the Frontier\" is BS | Instinct Raising $1BN at $10BN & Meta Launches Muse | Miro Sells for $1.35BN After a $17.5BN Valuation | Mistral Raises €3BN & Could Sam Bankman-Fried Win His Freedom?",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-why-pacing-the-frontier-is-bs-instinct-raising-1bn-at-10bn-meta-launches-muse-miro-sells-for-135bn-after-a-175bn-valuation-mistral-raises-3bn-could-sam-bankman-fried-win-his-freedom",
+      "pubDate": "2026-09-17T07:07:00.000Z",
+      "duration": "01:15:34",
+      "summary": "AGENDA: 03:40 Dario Calls to \"Pace the Frontier\" 11:30 Why the Fed Will Raid Anthropic if Needed 21:50 Meta Launches Muse to Take On Instinct 28:30 Instinct Raising $1BN at $10BN—Would You Invest? 39:",
+      "art": "https://static.libsyn.com/p/assets/e/b/4/c/eb4c88a910c1da60e55e3c100dce7605/WhatsApp_Image_2026-09-16_at_15.41.20.jpeg"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Strait talk: Why the oil crisis is getting worse",
+      "link": "https://www.npr.org/2026/09/17/nx-s1-5971249/strait-talk-why-the-oil-crisis-is-getting-worse",
+      "pubDate": "2026-09-17T07:00:00.000Z",
+      "duration": "514",
+      "summary": "A vital artery for Saudi oil exports is under siege and it’s not the Strait of Hormuz. Today on the show, we explain what’s going on in the Bab el-Mandeb shipping lane connected to the Red Sea, why it",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2F45%2Fd20b32a24617a622e28d5071286d%2F5b03db06-4841-4f9f-9264-b185bde5279b.png"
+    },
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem",
+      "link": "https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem",
+      "pubDate": "2026-09-17T03:04:00.000Z",
+      "duration": "18:10",
+      "summary": "(0:00) Welcome Brad Gerstner! (1:01) Trump Accounts, Every Child a Capitalist & The CAC Scan (5:07) Can AI revenue pay for the CapEx? (8:53) The Build Out Issue: Gigawatts, TAM, Token Growth, and Marg",
+      "art": "https://static.libsyn.com/p/assets/a/3/b/8/a3b84e95eec0a80be55e3c100dce7605/signal-2026-09-16-23-09-12-817.jpg"
+    },
+    {
+      "showId": "lexfridman",
+      "showName": "Lex Fridman Podcast",
+      "category": "tech",
+      "title": "#502 – Psychiatry, Insane Asylums, Mental Illness, ECT, Lobotomies, Freud Jung",
+      "link": "https://lexfridman.com/andrew-scull/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=andrew-scull",
+      "pubDate": "2026-09-17T00:40:49.000Z",
+      "duration": null,
+      "summary": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sc See below for timestamps, transcript, and to give feedback, submit",
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -825,17 +880,6 @@
       "art": "https://static.libsyn.com/p/assets/3/6/6/6/3666124b8904e936d959afa2a1bf1c87/WhatsApp_Image_2026-08-26_at_16.53.24.jpeg"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Coyote vs. Acme finally gets its big break",
-      "link": "https://www.npr.org/2026/08/27/nx-s1-5945588/coyote-vs-acme-finally-gets-its-big-break",
-      "pubDate": "2026-08-27T07:00:00.000Z",
-      "duration": "569",
-      "summary": "Coyote vs. Acme will finally get its theatrical release on Friday after a years-long saga involving supposed tax write-downs, negotiations and multibillion-dollar studio deals. It's a drama almost str",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3a%2F8f%2F4e36885941afbd71a3e62aebb93c%2F6a1cd462-5c57-4275-857d-1861265e3794.jpg"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1122,17 +1166,6 @@
       "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: Canva Slashes Growth: How Much is it Really Worth | Demis Hassabis and Jeff Dean: Talent Exodus at Google | Revolut's $50BN CEO Pay Package | Elon Musk's $55BN Terrafab",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-canva-slashes-growth-how-much-is-it-really-worth-demis-hassabis-and-jeff-dean-talent-exodus-at-google-revoluts-50bn-ceo-pay-package-elon-musks-55bn-terrafab",
-      "pubDate": "2026-08-13T07:07:00.000Z",
-      "duration": "01:26:39",
-      "summary": "AGENDA: 05:00 Canva's Growth Gets Slashed as AI Costs Explode 20:00 The Great Software Reset: Why 2026 Will Punish AI Hesitancy 29:00 Canva's Valuation Reality Check—and the LP Liquidity Trap 35:00 Go",
-      "art": "https://static.libsyn.com/p/assets/e/f/8/3/ef8306225966b3dbd959afa2a1bf1c87/WhatsApp_Image_2026-08-12_at_15.56.51.jpeg"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1252,17 +1285,6 @@
       "duration": "1454",
       "summary": "WellWithAll is a purpose-led health and wellness company built on an inclusive capitalism model that reinvests 20% of its profits into health equity initiatives to help close the wellness gap across g",
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Saronic Founders: Autonomous Warships, China's 230X Advantage & Swarms of Robot Ships",
-      "link": "https://allinchamathjason.libsyn.com/saronic-founders-autonomous-warships-chinas-230x-advantage-swarms-of-robot-ships",
-      "pubDate": "2026-08-05T20:19:00.000Z",
-      "duration": "48:19",
-      "summary": "(0:00) Saronic founders join the show! (4:56) The Navy's first autonomous rescue in the Strait of Hormuz, and how China out builds America 230-to-1 (13:04) $3B destroyers vs. Marauder (21:25) Killing ",
-      "art": "https://static.libsyn.com/p/assets/5/4/d/4/54d4595000168b8616c3140a3186d450/1_Pod_Saronic.png"
     },
     {
       "showId": "ezraklein",
@@ -1628,17 +1650,6 @@
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
     },
     {
-      "showId": "etw",
-      "showName": "声东击西",
-      "category": "zh",
-      "title": "#390 从「关税战」到接受「战略稳定」，特朗普变了吗？",
-      "link": "https://etw.fm/2211",
-      "pubDate": "2026-05-25T11:45:00.000Z",
-      "duration": "1:01:47",
-      "summary": "这是一场全世界都关注的最高礼仪的会面，每个动作和肢体语言都被媒体所解读。 过去 9 年，中美之间鲜有如此规格的元首互访，双边关系长期在技术遏制与战略竞争的语境中艰难拉扯。在这样的背景下，这次特朗普为何接受了中国提出的「建设性战略稳定关系」这一关系框架；这体现了哪些变化正在发生，我们又可以如何理解这样的变化。 这一期节目，我们邀请了老朋友达巍教授，从一位国际关系学者的角度出发来进行解读。 本期人物 ",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
-    },
-    {
       "showId": "talksat",
       "showName": "Talks at GS",
       "category": "finance",
@@ -1945,17 +1956,6 @@
       "duration": "9474",
       "summary": "Why has Acquired — seemingly against all odds — “worked”? It's a puzzling question: episodes are four hours long, they come out infrequently, and they usually don’t have guests or video. Hardly the st",
       "art": "https://img.transistorcdn.com/f3mD-GFEd3Zlv0WKplxuSk1C_DRVQ3Xu-hdJnevbLu8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9lNWQw/NzI2ZTQwZDc2OTI0/MGQ5ZTIwMDI5Yjcy/ZjA0Ni5qcGc.jpg"
-    },
-    {
-      "showId": "lexfridman",
-      "showName": "Lex Fridman Podcast",
-      "category": "tech",
-      "title": "#487 – Irving Finkel: Deciphering Secrets of Ancient Civilizations Flood Myths",
-      "link": "https://lexfridman.com/irving-finkel/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=irving-finkel",
-      "pubDate": "2025-12-12T20:04:16.000Z",
-      "duration": null,
-      "summary": "Irving Finkel is a scholar of ancient languages and a longtime curator at the British Museum, renowned for his expertise in Mesopotamian history and cuneiform writing. He specializes in reading and in",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
     },
     {
       "showId": "acquired",
