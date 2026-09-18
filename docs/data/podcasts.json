@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-17T22:32:32.626Z",
+    "updatedAt": "2026-09-18T12:19:53.640Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "OpenAI's waiting game, gas pump pain, and severe sulfur strain!",
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5973282/openais-waiting-game-gas-pump-pain-and-severe-sulfur-strain",
+      "pubDate": "2026-09-18T07:00:00.000Z",
+      "duration": "549",
+      "summary": "This week’s indicators: Tracking your pain at the gas pump in real-time; OpenAI’s IPO hard-launch tug-of-war; one unexpected ingredient is making fertilizer—and potentially your groceries—a whole lot ",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2F1f%2Fc88ca2d14abe8259706f2ea1184a%2F84bf9354-1a85-47e2-871c-13a681985c11.png"
+    },
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media",
+      "link": "https://allinchamathjason.libsyn.com/nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media",
+      "pubDate": "2026-09-18T00:30:00.000Z",
+      "duration": "32:32",
+      "summary": "(0:00) Nick Shirley debuts his new video: \"Inside California's High Speed Rail to Nowhere\" (11:42) Nick joins The Besties to discuss California's \"Stop Nick Shirley Act\" and recent fraud arrests (17:0",
+      "art": "https://static.libsyn.com/p/assets/8/9/7/8/897867a4e87f7793e5bbc093207a2619/1_Pod_NickShirley.png"
+    },
     {
       "showId": "allin",
       "showName": "All-In",
@@ -836,17 +858,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "The teacher pay penalty, Meta's major settlement, and a footwear flop",
-      "link": "https://www.npr.org/2026/08/28/nx-s1-5947262/the-teacher-pay-penalty-metas-major-settlement-and-a-footwear-flop",
-      "pubDate": "2026-08-28T07:00:00.000Z",
-      "duration": "559",
-      "summary": "This week’s indicators: The teacher pay penalty; Meta’s massive settlement; Nike and Dick’s Sporting Goods are struggling. Fact checking by Sierra Juarez . Correction: An earlier version of this story",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fff%2Fad%2Fc11995ec4d019659c4f60b7ac6af%2F9981e3de-f605-41aa-b96a-a54435c4628e.png"
-    },
-    {
       "showId": "weirdo",
       "showName": "不合时宜",
       "category": "zh",
@@ -1175,17 +1186,6 @@
       "duration": "1:00:36",
       "summary": "去年12月，澳大利亚实施全球首个针对16岁以下未成年人的社交媒体禁令，此后不久，法国、英国、西班牙等更多国家便相继跟进。但反对者的声音也随之而来。他们认为禁令本身难以执行、年龄划分过于一刀切，更关键的是，科学尚未证明社交媒体与青少年心理问题之间存在明确的因果关系。然而，这些反对的理由真的成立吗？ 今年3月，社交媒体迎来「大烟草时刻」。被视为风向标的 K.G.M. v. Meta et al. 一案",
       "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Rahm Emanuel: Trump's Foreign Policy, China, Europe's Decline, Immigration & DSA vs Democrats",
-      "link": "https://allinchamathjason.libsyn.com/rahm-emanuel-trumps-foreign-policy-china-europes-decline-immigration-dsa-vs-democrats",
-      "pubDate": "2026-08-13T02:10:00.000Z",
-      "duration": "01:11:36",
-      "summary": "(0:00) Jason and Friedberg welcome Rahm Emanuel (1:16) Lessons from working with Clinton and Obama (7:45) China: How to approach conflict, new economic bloc, isolation, and Taiwan (28:49) Europe: Reas",
-      "art": "https://static.libsyn.com/p/assets/c/7/8/3/c783805001ad85e616c3140a3186d450/1_Pod_Rahm.png"
     },
     {
       "showId": "lexfridman",
