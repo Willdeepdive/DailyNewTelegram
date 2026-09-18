@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-18T12:19:53.640Z",
+    "updatedAt": "2026-09-18T17:36:14.286Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+      "link": "https://allinchamathjason.libsyn.com/jared-isaacman-a-new-era-for-nasa-and-american-space-exploration",
+      "pubDate": "2026-09-18T15:59:00.000Z",
+      "duration": "38:34",
+      "summary": "(0:00) NASA Administrator Jared Isaacman lays out the state and future of NASA (17:59) Moon base, creating new space industries, NASA's next chapter (23:29) How to make Mars realistic (25:30) Recruiti",
+      "art": "https://static.libsyn.com/p/assets/0/6/d/8/06d80148b6dff5d6e5bbc093207a2619/1_Pod_Jared_1.png"
+    },
     {
       "showId": "indicator",
       "showName": "The Indicator",
@@ -1142,17 +1153,6 @@
       "duration": "01:18:41",
       "summary": "Matt Swulinski is one of the best growth leaders in AI. He is currently Head of Growth at Viktor, the Accel-backed AI coworker. Previously, he was Head of Growth at Wispr Flow, where he was marketing ",
       "art": "https://static.libsyn.com/p/assets/0/6/4/a/064a527ef19a0027d959afa2a1bf1c87/14f7b9a6-9fef-46d8-9790-95e5ca7dd4fe-20260815-e87bp262k7.jpeg"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Anthropic's $2T IPO, Zuck's AI Manifesto, Nvidia's $500B AI Bet, Grok's Comeback",
-      "link": "https://allinchamathjason.libsyn.com/anthropics-2t-ipo-zucks-ai-manifesto-nvidias-500b-ai-bet-groks-comeback",
-      "pubDate": "2026-08-14T20:11:00.000Z",
-      "duration": "01:39:30",
-      "summary": "(0:00) Gavin Baker joins the show! (2:36) Anthropic IPO report: $2T valuation, $100B+ run rate, October listing (27:32) Zuck's AI manifesto: What it means for Meta and frontier AI (56:41) All-In Summi",
-      "art": "https://static.libsyn.com/p/assets/d/0/5/8/d05879b603142d78d959afa2a1bf1c87/1_Pod_E285.png"
     },
     {
       "showId": "left-right",
