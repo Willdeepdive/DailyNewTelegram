@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-19T21:57:36.603Z",
+    "updatedAt": "2026-09-20T12:33:52.064Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "ezraklein",
+      "showName": "The Ezra Klein Show",
+      "category": "politics",
+      "title": "We’re Not Losing Control of A.I. We’re Giving It Away.",
+      "link": "https://www.nytimes.com/2026/09/20/opinion/ezra-klein-column-ban-recursive-self-improvement-artificial-intelligence.html",
+      "pubDate": "2026-09-20T04:55:00.000Z",
+      "duration": "00:31:17",
+      "summary": "Fears of out-of-control A.I. have reached a boil over the last few weeks, and several industry executives have called for a coordinated slowdown of A.I. development. But if our goal is to control A.I.",
+      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
     {
       "showId": "20vc",
       "showName": "20VC",
@@ -1362,17 +1373,6 @@
       "duration": "3:53:07",
       "summary": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep499-sc See below for timestamps, transcript, and to give fe",
       "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
-    },
-    {
-      "showId": "ezraklein",
-      "showName": "The Ezra Klein Show",
-      "category": "politics",
-      "title": "What is the Democratic Party? What Could It Be?",
-      "link": "https://www.nytimes.com/2026/07/28/opinion/ezra-klein-podcast-ben-wikler.html",
-      "pubDate": "2026-07-28T09:00:00.000Z",
-      "duration": "00:57:31",
-      "summary": "President Trump is very unpopular right now. But polls show the Democratic Party is just as unpopular – if not more so. So what can the party do about it? But to answer that question, you first have t",
-      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
       "showId": "talksat",
