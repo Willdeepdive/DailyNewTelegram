@@ -1,15 +1,6 @@
 {
-  "generatedAt": "2026-09-20T12:33:44.022Z",
+  "generatedAt": "2026-09-21T14:26:28.989Z",
   "items": [
-    {
-      "title": "Trump says 'very negative forces' raising exaggerated concerns over AI",
-      "link": "https://newslink.reuters.com/click/47466351.59120/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249VGVjaG5vbG9neS1Sb3VuZHVwJnV0bV90ZXJtPTA5MTMyNiZ1dG1fY29udGVudD0wOTEzMjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTgmdXNlcl9lbWFpbD0yZmI3NjFhNGQwNTgzYjM4MmZmNTMyMmFiMWIwMjYzNDAxNzYxMjNhMmViYzc5NjE0MWJmMWUyZTdlMDk3YTRi/699d8f6975a57008a503f158B7dca979e",
-      "author": "Reuters Technology Roundup",
-      "source": "newsletter:Reuters Technology Roundup",
-      "pubDate": "2026-09-13T15:00:06.000Z",
-      "summary": "96 The administration has largely embraced AI firms, and their leaders have supported Trump's initiatives. --> From breakthrough startups to Big Tech moves, stay ahead of industry changes. Subscribe to Reuters.com for $1/week. Technology Roundup Technology Roundup Trump says 'very negative forces' r",
-      "llmComment": null
-    },
     {
       "title": "Shipping oil gets ever harder, costlier",
       "link": "https://newslink.reuters.com/click/47468953.22122/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtRXVyb3BlJnV0bV90ZXJtPTA5MTQyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OA/699d8f6975a57008a503f158Bdfe854f1",
@@ -323,6 +314,60 @@
       "source": "newsletter:Reuters Technology Roundup",
       "pubDate": "2026-09-19T15:00:38.000Z",
       "summary": "96 Proponents depict AI as a tool that can all but eliminate human error. New warnings from researchers and company leaders cast it as a force that could all but eliminate humans. --> Technology Roundup Technology Roundup Ten days that changed the course of AI IMF tells EU ministers AI could boost g",
+      "llmComment": null
+    },
+    {
+      "title": "Ten days that changed the course of AI",
+      "link": "https://newslink.reuters.com/click/47569823.54628/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249VGVjaG5vbG9neS1Sb3VuZHVwJnV0bV90ZXJtPTA5MjAyNiZ1dG1fY29udGVudD0wOTIwMjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTgmdXNlcl9lbWFpbD0yZmI3NjFhNGQwNTgzYjM4MmZmNTMyMmFiMWIwMjYzNDAxNzYxMjNhMmViYzc5NjE0MWJmMWUyZTdlMDk3YTRi/699d8f6975a57008a503f158B2787172c",
+      "author": "Reuters Technology Roundup",
+      "source": "newsletter:Reuters Technology Roundup",
+      "pubDate": "2026-09-20T15:00:23.000Z",
+      "summary": "96 Proponents depict AI as a tool that can all but eliminate human error. New warnings from researchers and company leaders cast it as a force that could all but eliminate humans. --> Technology Roundup Technology Roundup Ten days that changed the course of AI Trump says he will appoint a new AI adv",
+      "llmComment": null
+    },
+    {
+      "title": "More oil is flowing, depending on who you ask",
+      "link": "https://newslink.reuters.com/click/47572429.2152/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtRXVyb3BlJnV0bV90ZXJtPTA5MjEyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OA/699d8f6975a57008a503f158Bf7d2bd35",
+      "author": "Reuters Morning Bid Europe",
+      "source": "newsletter:Reuters Morning Bid Europe",
+      "pubDate": "2026-09-21T05:00:28.000Z",
+      "summary": "96 A look at the day ahead in European and global markets Morning Bid Europe Morning Bid Europe A look at the day ahead in European and global markets By Wayne Cole, Chief Correspondent, Treasury Data refreshes every time you open this email. For more European market news, click here . Please send a",
+      "llmComment": null
+    },
+    {
+      "title": "Summiteering",
+      "link": "https://newslink.reuters.com/click/47572883.47423/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtVVMmdXRtX3Rlcm09MDkyMTI2JnV0bV9jb250ZW50PTA5MjEyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OCZ1c2VyX2VtYWlsPTJmYjc2MWE0ZDA1ODNiMzgyZmY1MzIyYWIxYjAyNjM0MDE3NjEyM2EyZWJjNzk2MTQxYmYxZTJlN2UwOTdhNGI/699d8f6975a57008a503f158B2dfa64c8",
+      "author": "Morning Bid U.S.",
+      "source": "newsletter:Morning Bid U.S.",
+      "pubDate": "2026-09-21T10:30:36.000Z",
+      "summary": "96 What matters in U.S. and global markets today Morning Bid U.S. Morning Bid U.S. A Reuters Open Interest newsletter What matters in U.S. and global markets today By Mike Dolan , Editor-at-Large, Finance & Markets After a turbulent week of central bank tightening , markets now turn to diplomacy - o",
+      "llmComment": null
+    },
+    {
+      "title": "'Disaster' election in Germany",
+      "link": "https://newslink.reuters.com/click/47574064.437903/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249RGFpbHktQnJpZWZpbmcmdXRtX3Rlcm09MDkyMTI2JnV0bV9jb250ZW50PTA5MjEyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OCZ1c2VyX2VtYWlsPTJmYjc2MWE0ZDA1ODNiMzgyZmY1MzIyYWIxYjAyNjM0MDE3NjEyM2EyZWJjNzk2MTQxYmYxZTJlN2UwOTdhNGI/699d8f6975a57008a503f158B2adb9586",
+      "author": "Reuters Daily Briefing",
+      "source": "newsletter:Reuters Daily Briefing",
+      "pubDate": "2026-09-21T10:59:23.000Z",
+      "summary": "96 Plus, China pumps the brakes on humanoid IPOs. Daily Briefing Daily Briefing By Claire Beers Hello. Germany's Merz fights for survival after a 'disaster' state election, humanoid robot hype outruns reality as China slows IPO rush, and Iran and the US trade threats after Houthi attacks escalate re",
+      "llmComment": null
+    },
+    {
+      "title": "How are law schools handling AI?",
+      "link": "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap",
+      "author": "The Daily Docket",
+      "source": "newsletter:The Daily Docket",
+      "pubDate": "2026-09-21T11:59:03.000Z",
+      "summary": "96 + The stakes are high. The Daily Docket The Daily Docket A newsletter by Reuters and Westlaw By Sara Merken --> Good morning. Law schools are diverging in their policies for how students can – or can’t – use AI. Plus, Tesla is facing a major trial that starts today in a California agency's lawsui",
+      "llmComment": null
+    },
+    {
+      "title": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier",
+      "link": "https://newslink.reuters.com/click/47575060.52565/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249UmV1dGVycy1CdXNpbmVzcyZ1dG1fdGVybT0wOTIxMjYmdXRtX2NvbnRlbnQ9MDkyMTI2JmxjdGc9Njk5ZDhmNjk3NWE1NzAwOGE1MDNmMTU4JnVzZXJfZW1haWw9MmZiNzYxYTRkMDU4M2IzODJmZjUzMjJhYjFiMDI2MzQwMTc2MTIzYTJlYmM3OTYxNDFiZjFlMmU3ZTA5N2E0Yg/699d8f6975a57008a503f158B95da5257",
+      "author": "Reuters Business",
+      "source": "newsletter:Reuters Business",
+      "pubDate": "2026-09-21T12:00:35.000Z",
+      "summary": "96 Treasury Secretary Scott Bessent told reporters that the two sides discussed setting up a new US-China AI dialogue, with a particular emphasis on national security concerns. --> Reuters Business Reuters Business Bessent proposes US-China AI safety notifications in talks with Chinese vice premier ",
       "llmComment": null
     }
   ]
