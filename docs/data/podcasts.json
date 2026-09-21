@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-21T19:11:01.920Z",
+    "updatedAt": "2026-09-21T22:56:22.931Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -96,7 +96,7 @@
       "id": "jre",
       "name": "Joe Rogan Experience",
       "category": "general",
-      "art": "https://megaphone.imgix.net/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/44a67bcc8eafc1e9e5a834234176f4c4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "art": "https://megaphone.imgix.net/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/3596a0e67422520589ee9202dee6c93f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "link": "https://feeds.megaphone.fm/GLT1412515089"
     },
     {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
+      "link": "https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology",
+      "pubDate": "2026-09-21T21:03:00.000Z",
+      "duration": "22:35",
+      "summary": "(0:00) Welcome Naveen Rao (4:45) Is energy really the problem? The cost of a token, power contracts & the gap to close (10:24) Cutting out the middleman: abstractions, dynamical systems & a new kind o",
+      "art": "https://static.libsyn.com/p/assets/8/0/d/f/80dfa9286a3a8956e5bbc093207a2619/signal-2026-09-21-15-08-09-760.jpg"
+    },
     {
       "showId": "talksat",
       "showName": "Talks at GS",
@@ -1043,17 +1054,6 @@
       "duration": "01:16:41",
       "summary": "- 导语 - 莎士比亚，一个世界文学绕不开的名字。其魅力不仅在于传世的经典文本，更植根于他所处的时代语境与剧场生态。为什么莎剧会充满市井趣味的反差感？在一个尚无今天这套原创观念的时代，如何理解莎士比亚的原创性？他为现代英语贡献了哪些至今仍在使用的日常表达？覆盖中世纪英格兰历史的大转折，莎翁的历史剧如何改编史实，又如何回应都铎王朝的政治需要？请听本期嘉宾陆大鹏带来的精彩分享！ 本期节目与「戏不戏 ·",
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Michael Kratsios: Trump's Science Agenda, Anti-Science Claims, Fauci's Damage, DEI & China",
-      "link": "https://allinchamathjason.libsyn.com/michael-kratsios-trumps-science-agenda-anti-science-claims-faucis-damage-dei-china",
-      "pubDate": "2026-08-24T23:19:00.000Z",
-      "duration": "55:59",
-      "summary": "(0:00) Michael Kratsios joins the show! (01:56) Is this administration anti-science? The Nature poll, DEI grants, and $8B down the drain (8:16) Climate science cuts: RCP 8.5 gets pulled and the \"clima",
-      "art": "https://static.libsyn.com/p/assets/4/1/d/1/41d1959f3cb1ee5416c3140a3186d450/signal-2026-08-24-18-31-43-853.jpg"
     },
     {
       "showId": "20vc",
