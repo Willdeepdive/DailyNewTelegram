@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-21T22:56:22.931Z",
+    "updatedAt": "2026-09-22T12:46:17.069Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,39 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine",
+      "link": "https://allinchamathjason.libsyn.com/blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine",
+      "pubDate": "2026-09-22T09:00:00.000Z",
+      "duration": "17:40",
+      "summary": "(0:00) Welcome Blake Scholl! (5:11) Solving the sonic boom & legalizing supersonic flight (7:59) The pivot to powering data centers (10:38) Jason joins: data center demand, private jets & what winning",
+      "art": "https://static.libsyn.com/p/assets/7/6/e/f/76ef196ad6a901ad88c4a68c3ddbc4f2/signal-2026-09-21-15-08-09-760_002-1.jpg"
+    },
+    {
+      "showId": "left-right",
+      "showName": "忽左忽右",
+      "category": "zh",
+      "title": "502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6ab23bbe93d5eb3bdc793ad3?utm_source=rss",
+      "pubDate": "2026-09-22T08:39:24.000Z",
+      "duration": "01:03:03",
+      "summary": "- 导语 - 整四十年前，挑战者号航天飞机在全世界观众的注视之下，于升空73秒后爆炸解体。几十年来，媒体与技术人员对这场悲剧的追问从未停止。在一次技术故障的背后，是美国航天飞机项目在政治承诺、预算削减与过度公关的多重压力下，不断积累的系统性风险。工程师对低温风险的警告，为何最终未能阻止发射？已然看到风险的NASA为何仍执意按时起飞？航天飞机解体之后，至少三位宇航员又曾尝试怎样的自救？请听本期嘉宾刘",
+      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "How will the US refill its dwindling oil reserves?",
+      "link": "https://www.npr.org/2026/09/22/nx-s1-5974239/how-will-the-u-s-refill-its-dwindling-oil-reserves",
+      "pubDate": "2026-09-22T07:00:00.000Z",
+      "duration": "550",
+      "summary": "Whether it’s oil from Venezuela or somewhere else, the U.S. Strategic Petroleum Reserve needs to be refilled. The SPR is widely considered critical for energy security. On today’s show, the challenges",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F90%2Fda%2F10d1b96042e79d530b1c4d88d7e9%2F1ba9a028-f205-46c6-8cdb-d8fc6eb1d686.png"
+    },
     {
       "showId": "allin",
       "showName": "All-In",
@@ -869,17 +902,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "A Treasury showdown with the bond market",
-      "link": "https://www.npr.org/2026/09/01/nx-s1-5950593/a-treasury-showdown-with-the-bond-market",
-      "pubDate": "2026-09-01T07:00:00.000Z",
-      "duration": "569",
-      "summary": "Why is the U.S. Treasury planning to buyback at least double the number of long-dated government bonds it usually does? And will Treasury Secretary Scott Bessent’s buyback plan pit him against both th",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4c%2F46%2Fcb9592c749e48f50867df44bf694%2F9f257182-3fd2-47d7-af9c-4aa704e717f8.png"
-    },
-    {
       "showId": "20vc",
       "showName": "20VC",
       "category": "vc",
@@ -988,17 +1010,6 @@
       "duration": "01:22:40",
       "summary": "AGENDA: 00:00 NVIDIA Launches a Three-Deal Blitz Across the AI Stack 04:31 NVIDIA's $12BN Poolside Deal Exposes Frontier AI's Capital Wall 15:39 NVIDIA Moves to Back Mercor at $20BN and Perplexity at ",
       "art": "https://static.libsyn.com/p/assets/3/6/6/6/3666124b8904e936d959afa2a1bf1c87/WhatsApp_Image_2026-08-26_at_16.53.24.jpeg"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Eric Weinstein: The State of American Science, Breakthrough Coverups, and the Danger of Physics",
-      "link": "https://allinchamathjason.libsyn.com/eric-weinstein-the-scientific-precariat-chinas-brain-drain-physics-stagnation-string-theorys-collapse-uaps",
-      "pubDate": "2026-08-26T23:00:00.000Z",
-      "duration": "01:30:20",
-      "summary": "(0:00) Eric Weinstein joins the show! (03:09) Has American science stalled? Cowboy science, Fauci, and the scientific precariat (21:31) Weinstein's fix: Blow a hole in the Civil Rights Act, kill peer ",
-      "art": "https://static.libsyn.com/p/assets/9/8/0/b/980bb274c7d1a71ed959afa2a1bf1c87/signal-2026-08-26-16-28-33-642.jpg"
     },
     {
       "showId": "lexfridman",
@@ -1340,17 +1351,6 @@
       "duration": "00:16:04",
       "summary": "'The Odyssey' is the political movie of the decade. Thoughts? Guest suggestions? Email us at ezrakleinshow@nytimes.com . You can find the transcript and more episodes of “The Ezra Klein Show” at nytim",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "488 俄乌考察2026：无人机如何改变战争前线与后方",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a6c6160b581962ce2be819d?utm_source=rss",
-      "pubDate": "2026-07-31T09:15:54.000Z",
-      "duration": "00:03:00",
-      "summary": "- 导语 - 俄乌战争进行四年后发生了哪些变化？今年初夏，qiran先后探访了俄罗斯与乌克兰多地，并连续回访了几位过去采访过的当地人，看到战争心态怎样在四年间一点点发生变化。从莫斯科到利沃夫，从单兵装甲到光纤遗迹，他既了解了前线无人机不断加速的技术竞赛，也感受到了两国社会在旷日持久的消耗战下的精神状态。持续四年多的战争，前线士兵的生存状态发生了什么变化？泽连斯基的内阁改组为何激起乌克兰抗议浪潮？大",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
       "showId": "ezraklein",
