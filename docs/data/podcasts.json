@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-23T12:55:59.780Z",
+    "updatedAt": "2026-09-23T18:20:03.321Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -165,10 +165,21 @@
   ],
   "episodes": [
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2557 - Yakov Smirnoff",
+      "link": "https://traffic.megaphone.fm/GLT1399685644.mp3",
+      "pubDate": "2026-09-23T17:00:00.000Z",
+      "duration": "8786",
+      "summary": "Yakov Smirnoff, PhD, is a comedian, actor, visual artist, host of the \"Comedy Couch\" podcast, and owner of the Yakov Theatre in Branson, Missouri. He is currently touring the United States.www.youtube",
+      "art": "https://megaphone.imgix.net/podcasts/1f5f9bec-b6e0-11f1-928a-2f1012a42d65/image/a2304e957642d7aaf801d0b9b95a28af.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
-      "title": "Jensen Huang vs. the A.I. Doomers",
+      "title": "Jensen Huang Thinks A.I. Alarmism Has Gone Too Far",
       "link": "https://www.nytimes.com/2026/09/22/opinion/ezra-klein-podcast-jensen-huang.html",
       "pubDate": "2026-09-23T09:00:00.000Z",
       "duration": "01:47:56",
@@ -1142,17 +1153,6 @@
       "duration": "01:05:33",
       "summary": "Brad Setser follows Chinese trade closer than just about anyone else on earth, and he thinks we’re in the early days of a China Shock 2.0. The first China Shock was when China came to dominate low-end",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2543 - MrBallen",
-      "link": "https://traffic.megaphone.fm/GLT9789891628.mp3",
-      "pubDate": "2026-08-20T17:00:00.000Z",
-      "duration": "10937",
-      "summary": "John B. Allen (\"MrBallen\") is a former U.S. Navy SEAL, founder of Ballen Studios, and creator and host of the popular podcast \"MrBallen Podcast: Strange, Dark & Mysterious Stories.\" His latest graphic",
-      "art": "https://megaphone.imgix.net/podcasts/bd78a8a0-9c28-11f1-b11e-ef9789715e8e/image/d49830348c14609fff882d168231df27.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "etw",
