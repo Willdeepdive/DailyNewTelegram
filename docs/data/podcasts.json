@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-23T22:34:10.362Z",
+    "updatedAt": "2026-09-24T12:50:30.716Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,39 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Meta's Muse Hits No. 1. ChatGPT Finally Has a Rival | Menlo Sounds the AI Bubble Alarm | Factory Triples Its Valuation to $5 Billion | Keith Rabois vs Airwallex: Who is Right? | Crusoe's $3.9 Billion Round. Is the Data Centre Trade Overheating?",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-metas-muse-hits-no-1-chatgpt-finally-has-a-rival-menlo-sounds-the-ai-bubble-alarm-factory-triples-its-valuation-to-5-billion-keith-rabois-vs-airwallex-who-is-right-crusoes-39-billion-round-is-the-data-centre-trade-overheating",
+      "pubDate": "2026-09-24T07:07:00.000Z",
+      "duration": "01:20:34",
+      "summary": "AGENDA: 04:35 Anthropic's $2 Trillion IPO Delayed. Cracks in the AI Boom? 10:30 OpenAI Faces $278 Billion Cash Burn. Out of Money by 2028? 12:55 Meta's Muse Hits No. 1. ChatGPT Finally Has a Rival? 17",
+      "art": "https://static.libsyn.com/p/assets/d/9/0/b/d90ba3ef0594008ce5bbc093207a2619/WhatsApp_Image_2026-09-23_at_16.31.48.jpeg"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "What Doordash, Dell and Palantir all have in common",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5979093/what-doordash-dell-and-palantir-all-have-in-common",
+      "pubDate": "2026-09-24T07:00:00.000Z",
+      "duration": "462",
+      "summary": "President Trump and his money managers made more stock trades since his second term started than all members of Congress combined . The White House says there is no conflict of interest. Today on the ",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2Fd2%2Fc4bd7a6a4348ac1a614571b1b1f6%2F0162a3ae-c458-4e8f-89cd-f0f3c02c1358.jpg"
+    },
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Luca Ferrari, Bending Spoons CEO: The $40K Origin Story, Buying Product-Market Fit & Why Private Equity Can't Compete",
+      "link": "https://allinchamathjason.libsyn.com/luca-ferrari-bending-spoons-ceo-the-40k-origin-story-buying-product-market-fit-why-private-equity-cant-compete",
+      "pubDate": "2026-09-23T23:00:00.000Z",
+      "duration": "25:30",
+      "summary": "(0:00) Luca Ferrari joins the Besties! (1:56) Crashing an AI startup, the $40,000 restart & buying product market fit (4:59) The in-house tech stack, shrinking the teams & the 10 out of 10 standard (9",
+      "art": "https://static.libsyn.com/p/assets/2/c/d/a/2cda5dac73ee150988c4a68c3ddbc4f2/Luca_Ferrari_AIs26_Square.png"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -825,17 +858,6 @@
       "art": "https://static.libsyn.com/p/assets/b/a/2/4/ba245dc05ba2c537d959afa2a1bf1c87/WhatsApp_Image_2026-09-04_at_18.59.30.jpeg"
     },
     {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
-      "link": "https://allinchamathjason.libsyn.com/gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal",
-      "pubDate": "2026-09-04T23:10:00.000Z",
-      "duration": "01:31:56",
-      "summary": "(0:00) Bestie intros: Happy 50th Chamath! (1:17) OpenAI releases GPT-6 Astra: Have they reached AGI? (19:01) All-In Summit: Scholarships available! (19:56) Dwarkesh's Hugging Face hack article sparks ",
-      "art": "https://static.libsyn.com/p/assets/4/7/3/6/4736eed890afc15ed959afa2a1bf1c87/1_Pod_E288.png"
-    },
-    {
       "showId": "indicator",
       "showName": "The Indicator",
       "category": "macro",
@@ -889,17 +911,6 @@
       "duration": "01:17:40",
       "summary": "AGENDA: 00:00 Nvidia crushes $96.2B quarter and nears $12.9B Hugging Face deal 13:52 OpenAI cuts off Cursor as the Altman–Musk feud escalates 17:40 OpenAI's 1,000-agent cyberattack triggers an industr",
       "art": "https://static.libsyn.com/p/assets/e/e/a/c/eeac971b2d91bcb6d959afa2a1bf1c87/WhatsApp_Image_2026-09-02_at_17.45.52.jpeg"
-    },
-    {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Does Planet Money’s game pass the shelf test? We go undercover to find out",
-      "link": "https://www.npr.org/2026/09/03/nx-s1-5954516/does-planet-moneys-game-pass-the-shelf-test-we-go-undercover-to-find-out",
-      "pubDate": "2026-09-03T07:00:00.000Z",
-      "duration": "592",
-      "summary": "We go undercover at a big box store for an inside look at the secret shelf test the makers of Exploding Kittens use for their hit games. Fact checking by Sierra Juarez . Your Next Listen — Who decides",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc3%2F59%2Fa8cdf28342a6917af70905110d8b%2F1e64dc6c-0d54-4845-94d3-6aa5677afb0d.jpg"
     },
     {
       "showId": "jre",
@@ -1164,17 +1175,6 @@
       "duration": "1:16:46",
       "summary": "1956 年夏天，一群年轻研究者聚在美国东北部的达特茅斯学院，他们原本想用几周时间，解决「如何创造一台思考机器」的问题，但聚会很快丢掉了日程表：有人只来几天，教室里最多的时候只有八个人，最后也没有形成明确共识。这样一场看似松散、甚至没有明确成果的聚会，为什么后来被公认为为「人工智能」（ Artificial Intelligence ）的起点？ 在持续约八周的讨论中，符号主义、神经网络与概率推理等",
       "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: SpaceX Buys Cursor for $60BN | Stripe's $8BN OpenRouter Bet | Anthropic's First Profit & The Math Behind Reaching $600BN in Revenue? | Lovable and Higgsfield Raise Mega Rounds",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-spacex-buys-cursor-for-60bn-stripes-8bn-openrouter-bet-anthropics-first-profit-the-math-behind-reaching-600bn-in-revenue-lovable-and-higgsfield-raise-mega-rounds",
-      "pubDate": "2026-08-20T07:07:00.000Z",
-      "duration": "01:13:12",
-      "summary": "AGENDA: 04:20 Elon's Deal of the Decade: SpaceX Buys Cursor for $60BN 06:10 Why Cursor Was Surprisingly Cheap at $60BN 07:00 Why Zuckerberg Failed to Buy the AI Prize Elon Secured 12:00 Elon vs Zuck: ",
-      "art": "https://static.libsyn.com/p/assets/a/5/b/1/a5b196eaaff09f4516c3140a3186d450/WhatsApp_Image_2026-08-19_at_16.35.48.jpeg"
     },
     {
       "showId": "ezraklein",
