@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-26T12:20:27.011Z",
+    "updatedAt": "2026-09-26T17:40:52.041Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Five Predictions for a World of Agents | The Ads Business Model Will Die | Biggest Lessons from Working with Elon Musk at Twitter with Parag Agrawal, Parallel",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-five-predictions-for-a-world-of-agents-the-ads-business-model-will-die-biggest-lessons-from-working-with-elon-musk-at-twitter-with-parag-agrawal-parallel",
+      "pubDate": "2026-09-26T12:27:00.000Z",
+      "duration": "56:50",
+      "summary": "Parag Agrawal is the Co-Founder and CEO of Parallel, building web search infrastructure for AI agents. Parallel has announced $230M in funding from Sequoia, Khosla, and First Round Capital. Previously",
+      "art": "https://static.libsyn.com/p/assets/7/8/9/4/78943ac00fd13441e5bbc093207a2619/WhatsApp_Image_2026-09-25_at_16.13.47.jpeg"
+    },
     {
       "showId": "allin",
       "showName": "All-In",
@@ -1164,17 +1175,6 @@
       "duration": "01:18:41",
       "summary": "Julien Bek is a Partner at Sequoia Capital, one of the most renowned venture firms in the world. At Sequoia, he has partnered with companies including Rillet, Tacto, and Auctor. Before joining Sequoia",
       "art": "https://static.libsyn.com/p/assets/6/8/0/c/680caf2446c8c94316c3140a3186d450/WhatsApp_Image_2026-08-21_at_14.10.36.jpeg"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: The AI Bubble Will Burst: Half the Neoclouds Will Die | China: Should We Ban Chip Exports & Be Fearful of Chinese Open-Source | Mag7: Who Dies and Who Thrives: Why Meta is Meh and Microsoft is Mega",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-the-ai-bubble-will-burst-half-the-neoclouds-will-die-china-should-we-ban-chip-exports-be-fearful-of-chinese-open-source-mag7-who-dies-and-who-thrives-why-meta-is-meh-and-microsoft-is-mega",
-      "pubDate": "2026-08-22T07:07:00.000Z",
-      "duration": "01:06:24",
-      "summary": "Jerry Murdock is the Co-Founder of Insight Partners, which manages over $90 billion in assets. Jerry personally backed companies including Twitter, Nest and Docker, while Insight's portfolio includes ",
-      "art": "https://static.libsyn.com/p/assets/6/e/0/3/6e031e2ebd85a12216c3140a3186d450/WhatsApp_Image_2026-08-21_at_14.10.03.jpeg"
     },
     {
       "showId": "left-right",
