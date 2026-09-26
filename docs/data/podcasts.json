@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-25T22:58:17.441Z",
+    "updatedAt": "2026-09-26T12:20:27.011Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
+      "link": "https://allinchamathjason.libsyn.com/anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-gains-share-alignment-fails",
+      "pubDate": "2026-09-26T02:02:00.000Z",
+      "duration": "01:34:24",
+      "summary": "(0:00) Bestie Intros: Favorite All-In Summit moments (3:54) Reacting to AI chaos: Liability, competition, and rebranding frontier \"labs\" (20:03) Open Source performance and cost: What this means for f",
+      "art": "https://static.libsyn.com/p/assets/8/3/4/9/8349b7bbe0bfdf43e5bbc093207a2619/1_pod_E290.png"
+    },
     {
       "showId": "talksat",
       "showName": "Talks at GS",
@@ -713,17 +724,6 @@
       "duration": "01:15:43",
       "summary": "AGENDA: 04:30 How Do You Hire Exceptional People in the AI Era? 08:00 What Actually Works in Growth—and Why Can't You Trust Meta's Numbers? 17:00 How to Run Hundreds of Millions in Marketing with Zero",
       "art": "https://static.libsyn.com/p/assets/2/5/f/4/25f4c74c1bf7c958d959afa2a1bf1c87/WhatsApp_Image_2026-09-11_at_11.45.57.jpeg"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "AI Kills Everybody or Doomer Psyop? OpenAI's Math Breakthrough, Nike's $200B Collapse",
-      "link": "https://allinchamathjason.libsyn.com/ai-kills-everybody-or-doomer-psyop-openais-math-breakthrough-nikes-200b-collapse",
-      "pubDate": "2026-09-11T23:32:00.000Z",
-      "duration": "01:35:57",
-      "summary": "(0:00) Bestie intros! (0:35) AI Doomsday: Valid concern or Doomer psyop? (33:40) Steelmanning AI Doomsday scenarios and the impact on Anthropic's IPO (58:45) OpenAI says it cracked a 200 year old math",
-      "art": "https://static.libsyn.com/p/assets/8/f/a/c/8fac2890418f76eed959afa2a1bf1c87/1_Pod_E289.png"
     },
     {
       "showId": "left-right",
