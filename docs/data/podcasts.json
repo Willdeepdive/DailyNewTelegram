@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-27T22:42:11.914Z",
+    "updatedAt": "2026-09-28T15:47:15.584Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: $1BN ARR in 18 Months; The Untold Story of Higgsfield | Spending $4M Per Month on Models | Why Moats in AI are BS | Scaling a Content Team to 150 People with Alex Mashrabov",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-1bn-arr-in-18-months-the-untold-story-of-higgsfield-spending-4m-per-month-on-models-why-moats-in-ai-are-bs-scaling-a-content-team-to-150-people-with-alex-mashrabov",
+      "pubDate": "2026-09-28T07:07:00.000Z",
+      "duration": "01:09:34",
+      "summary": "Alex Mashrabov is the Founder and CEO of Higgsfield, the third fastest scaling company to $1BN in ARR behind OpenAI and Anthropic. Reports suggest their latest funding round could place an $8BN valuat",
+      "art": "https://static.libsyn.com/p/assets/3/4/0/7/34073c0516b23917e5bbc093207a2619/WhatsApp_Image_2026-09-25_at_13.19.00.jpeg"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "How the rich make money by losing money",
+      "link": "https://www.npr.org/2026/09/28/nx-s1-5981349/how-the-rich-make-money-by-losing-money",
+      "pubDate": "2026-09-28T07:00:04.000Z",
+      "duration": "565",
+      "summary": "Decades ago, rich Americans used to pay taxes as high as 40% on their investments. Nowadays, an obscure investment strategy is helping them slash that figure toward … 0%. Today on the show, Bloomberg ",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1900x1900+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd6%2F98%2F0b8a5030442cb0c08d8390c38a5f%2F71e7c594-c176-4df2-a22e-c56859b19140.jpg"
+    },
     {
       "showId": "20vc",
       "showName": "20VC",
@@ -902,17 +924,6 @@
       "art": "https://static.libsyn.com/p/assets/9/2/f/b/92fb6814e9d5e90ed959afa2a1bf1c87/WhatsApp_Image_2026-09-04_at_20.57.57.jpeg"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Which jobs are future-proofed?",
-      "link": "https://www.npr.org/2026/09/07/nx-s1-5955533/which-jobs-are-future-proofed",
-      "pubDate": "2026-09-07T07:00:00.000Z",
-      "duration": "522",
-      "summary": "With AI disrupting the workplace, is your job going to exist in ten years? The Bureau of Labor Statistics has just the handbook for that. Today on the show, we flip through the Occupational Outlook Ha",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9d%2Fa1%2Fde961066463fb1a766dbf1232142%2F404b684d-4ec9-43f7-a477-4caf67256926.jpg"
-    },
-    {
       "showId": "20vc",
       "showName": "20VC",
       "category": "vc",
@@ -1164,17 +1175,6 @@
       "duration": "01:16:41",
       "summary": "- 导语 - 莎士比亚，一个世界文学绕不开的名字。其魅力不仅在于传世的经典文本，更植根于他所处的时代语境与剧场生态。为什么莎剧会充满市井趣味的反差感？在一个尚无今天这套原创观念的时代，如何理解莎士比亚的原创性？他为现代英语贡献了哪些至今仍在使用的日常表达？覆盖中世纪英格兰历史的大转折，莎翁的历史剧如何改编史实，又如何回应都铎王朝的政治需要？请听本期嘉宾陆大鹏带来的精彩分享！ 本期节目与「戏不戏 ·",
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: Inside Sequoia's Investment Committee: Lessons from Don Valentine, Doug Leone and Alfred Lin | How the SpaceX and Citadel Deals Went Down | What Sequoia Specifically Looks for in Founders with Julien Bek",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-inside-sequoias-investment-committee-lessons-from-don-valentine-doug-leone-and-alfred-lin-how-the-spacex-and-citadel-deals-went-down-what-sequoia-specifically-looks-for-in-founders-with-julien-bek",
-      "pubDate": "2026-08-24T07:07:00.000Z",
-      "duration": "01:18:41",
-      "summary": "Julien Bek is a Partner at Sequoia Capital, one of the most renowned venture firms in the world. At Sequoia, he has partnered with companies including Rillet, Tacto, and Auctor. Before joining Sequoia",
-      "art": "https://static.libsyn.com/p/assets/6/8/0/c/680caf2446c8c94316c3140a3186d450/WhatsApp_Image_2026-08-21_at_14.10.36.jpeg"
     },
     {
       "showId": "left-right",
