@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-28T20:27:11.532Z",
+    "updatedAt": "2026-09-29T00:03:40.728Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
+      "link": "https://allinchamathjason.libsyn.com/daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-disease-early-ais-potential",
+      "pubDate": "2026-09-28T22:16:00.000Z",
+      "duration": "51:16",
+      "summary": "(0:00) Daniel Ek joins the Besties! (1:14) Starting Spotify: Beating piracy and betting his own money on the record labels (6:10) Neko Health: The Spotify playbook for healthcare, the $499 body scan, ",
+      "art": "https://static.libsyn.com/p/assets/4/c/0/c/4c0c09faa895838c88c4a68c3ddbc4f2/ek_spot_square.jpg"
+    },
     {
       "showId": "20vc",
       "showName": "20VC",
@@ -680,17 +691,6 @@
       "duration": "01:04:25",
       "summary": "(0:00) SpaceX's Gwynne Shotwell joins The Besties! (1:45) Gwynne's SpaceX story, selling rockets, and working for Elon (6:45) Running modern day SpaceX: AI, Starlink, Rockets, and X (13:43) Direct to ",
       "art": "https://static.libsyn.com/p/assets/2/3/5/1/2351a1c565fdf125e55e3c100dce7605/1_Pod_ElonGwynne.png"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Jensen Huang: The Doomer Hoax, Superintelligence Is Here, and The Future of AI (ft. President Trump)",
-      "link": "https://allinchamathjason.libsyn.com/jensen-huang-the-doomer-hoax-superintelligence-is-here-and-the-future-of-ai-ft-president-trump",
-      "pubDate": "2026-09-14T21:24:00.000Z",
-      "duration": "46:47",
-      "summary": "(0:00) Jensen Huang joins The Besties! (1:39) Thoughts on Dario's blog, Frontier Labs calling to slow down AI, and Doomer psychology (9:58) Sensible AI regulation and RSI (16:05) Hugging Face acquisit",
-      "art": "https://static.libsyn.com/p/assets/4/c/d/e/4cde7643ca820c8816c3140a3186d450/Podcast_Thumbnail_-_AIS_26.png"
     },
     {
       "showId": "jre",
