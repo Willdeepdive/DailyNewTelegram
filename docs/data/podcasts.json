@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-29T14:14:53.202Z",
+    "updatedAt": "2026-09-29T19:13:49.588Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2559 - Sam Morril",
+      "link": "https://traffic.megaphone.fm/GLT1481505854.mp3",
+      "pubDate": "2026-09-29T17:00:00.000Z",
+      "duration": "10394",
+      "summary": "Sam Morril is a stand-up comic, writer, actor, and co-host of the \"We Might Be Drunk\" podcast. Look for his new Netflix special, \"Incorrect,\" on September 29.www.netflix.com/title/82155480www.youtube.",
+      "art": "https://megaphone.imgix.net/podcasts/15242aa8-bb9a-11f1-b421-f7d46b049862/image/0ad06ff360f06a9c778a15d0c07c1ad6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
@@ -1164,17 +1175,6 @@
       "duration": "9468",
       "summary": "Michael Button is a YouTuber who explores ancient mysteries, lost history, and societal collapse.https://michaelbutton.substack.comhttps://www.youtube.com/@MichaelButton1 Perplexity: Download the app ",
       "art": "https://megaphone.imgix.net/podcasts/7c0a5244-a0db-11f1-bbe3-13e22537d5bb/image/ef3a034ce674226f82feecd9b537aa83.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2545 - Jesse Michels",
-      "link": "https://traffic.megaphone.fm/GLT5434878204.mp3",
-      "pubDate": "2026-08-25T17:00:00.000Z",
-      "duration": "11349",
-      "summary": "Jesse Michels is the creator and host of \"American Alchemy,\" a YouTube series exploring controversial topics in science and culture through longform interviews.www.youtube.com/@JesseMichelswww.patreon",
-      "art": "https://megaphone.imgix.net/podcasts/fc78372e-a00f-11f1-b4a6-67ef23d80453/image/e29f688a4586d2fb4d868993a074e1fe.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
