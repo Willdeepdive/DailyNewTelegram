@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-29T23:17:18.832Z",
+    "updatedAt": "2026-09-30T14:05:29.764Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,39 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "talksat",
+      "showName": "Talks at GS",
+      "category": "finance",
+      "title": "Daniel Nadler on Building an AI-Powered Search Engine for Medicine",
+      "link": "https://traffic.megaphone.fm/GLD5974561325.mp3",
+      "pubDate": "2026-09-30T13:30:00.000Z",
+      "duration": "1096",
+      "summary": "OpenEvidence is working to rapidly advance clinical decision-making, emerging as a global leader in delivering gold-standard medical knowledge to physicians at the point of care. Daniel Nadler, co-fou",
+      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Is investing in sports worth it for universities?",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5985211/is-investing-in-sports-worth-it-for-universities",
+      "pubDate": "2026-09-30T07:00:00.000Z",
+      "duration": "545",
+      "summary": "Universities spend millions of dollars every year on their athletics programs. But does that investment pay off? Today, we interrogate the “Doug Flutie Effect.” Fact checking by Cooper Katz McKim. You",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2Ffa%2F565f0055415b816105469c5da284%2F001378b2-eb6c-422f-9c3a-8b745b8b30e2.jpg"
+    },
+    {
+      "showId": "weirdo",
+      "showName": "不合时宜",
+      "category": "zh",
+      "title": "当科技让战争触屏可见，记者为何仍要抵达冲突现场？",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6abc9e05195d838e2aebebb9?utm_source=rss",
+      "pubDate": "2026-09-30T05:42:45.000Z",
+      "duration": "01:28:08",
+      "summary": "【主播的话】 人类自古以来就有对战争保持记录的传统——有战争的地方，就有讲故事的需求。“战地记者”在近代随着现代战争的发展，逐渐成为一个专门的职业。身处前线，冒着枪林弹雨做直播的战地记者，一度成为许多人心中对”记者”这个职业的终极想象。 但大多数冲突，其实并不总是以枪炮和热战的形式呈现。战前的摩擦、绵延数十年的族群对抗；战争中的大后方，虽然不是最激烈的交战前线，却也同样在塑造着战争。并且，它常常没",
+      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -889,17 +922,6 @@
       "duration": "8645",
       "summary": "Daniel Kokotajlo is the executive director of the AI Futures Project and a former governance researcher at OpenAI, where he focused on scenario planning.www.aifuturesmodel.com https://ai-2040.comhttps",
       "art": "https://megaphone.imgix.net/podcasts/4a7504f8-abd6-11f1-922a-8727e0ad3325/image/d71f5070ed18919a32f495bfeba3376d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Let's play ... Who Wants To Be a Bank!",
-      "link": "https://www.npr.org/2026/09/09/nx-s1-5962632/lets-play-who-wants-to-be-a-bank",
-      "pubDate": "2026-09-09T05:43:20.000Z",
-      "duration": "513",
-      "summary": "Why do so many fintech companies — like Square and Mercury — want to be banks? And what does it take to get there? Find out today when we play our fake game show … Who Wants To Be A Bank! Fact checkin",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2Ff5%2F5dfa2a0d4de2b4f366d2537602a9%2F941d3e32-fb0c-4199-b779-9a112458a136.png"
     },
     {
       "showId": "jre",
@@ -1749,17 +1771,6 @@
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
     },
     {
-      "showId": "talksat",
-      "showName": "Talks at GS",
-      "category": "finance",
-      "title": "Holocaust Survivors on Hope, Survival, and the Responsibility to Remember",
-      "link": "https://traffic.megaphone.fm/GLD4431462166.mp3",
-      "pubDate": "2026-04-13T13:19:00.000Z",
-      "duration": "2099",
-      "summary": "As children during the Holocaust, Henry and Bernie Schanzer were hidden and moved through a network of protectors who defied the Nazi regime to save them. They joined Sheara Fredman, Chief Accounting ",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
       "showId": "acquired",
       "showName": "Acquired",
       "category": "tech",
@@ -1802,17 +1813,6 @@
       "duration": null,
       "summary": "Jensen Huang is the co-founder and CEO of NVIDIA, the worlds most valuable company and the engine powering the AI computing revolution. Thank you for listening ❤ Check out our sponsors: https://lexfri",
       "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
-    },
-    {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "从河南到巴黎， 她想一个人生个孩子｜单身生育（三）",
-      "link": "https://www.xiaoyuzhoufm.com/episode/69c0fec13c625cc5aeb730c5?utm_source=rss",
-      "pubDate": "2026-03-23T09:10:58.000Z",
-      "duration": "01:07:01",
-      "summary": "【主播的话】 本期节目被我们笑称为单身生育系列之“西天取精”，也是单身生育系列的第三期。这期节目中，我的朋友李彩玲分享了她在准备一个人生个孩子前这段时间的感受，以及当她面对具体的精子库选择时，所遭遇到的一系列啼笑皆非的田野故事；你也会更加深入地了解到精子库的运作方式，以及养育的多种可能性。 如果你对前两期节目也感兴趣，欢迎收听： 单身生育：一场关于自由、自我与爱的实验 www.xiaoyuzhou",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
     },
     {
       "showId": "bg2pod",
