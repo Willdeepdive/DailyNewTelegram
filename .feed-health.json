@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-30",
+  "lastRun": "2026-10-01",
   "feeds": [
     {
       "name": "Stratechery",
@@ -112,7 +112,7 @@
       "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
       "ok": false,
       "itemCount": 0,
-      "consecutiveFails": 1,
+      "consecutiveFails": 2,
       "error": "fetch failed"
     },
     {
@@ -211,7 +211,7 @@
       "name": "email",
       "url": "sources/newsletters.json",
       "ok": true,
-      "itemCount": 41,
+      "itemCount": 43,
       "consecutiveFails": 0,
       "skipped": false
     }
