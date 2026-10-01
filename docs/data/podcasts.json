@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-09-30T23:20:23.524Z",
+    "updatedAt": "2026-10-01T14:40:53.433Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Instinct Raises $1B at $10B Valuation | AMD Buys Fei-Fei Li's World Labs for $8.2B | Meta Poaches MongoDB's CEO | Bessemer Raises $5.75B | Oura Pulls IPO & Nubank Eyes $8–12B Monzo Takeover",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-instinct-raises-1b-at-10b-valuation-amd-buys-fei-fei-lis-world-labs-for-82b-meta-poaches-mongodbs-ceo-bessemer-raises-575b-oura-pulls-ipo-nubank-eyes-812b-monzo-takeover",
+      "pubDate": "2026-10-01T07:07:00.000Z",
+      "duration": "01:18:41",
+      "summary": "AGENDA: 00:00 Highlights: Jack Altman Joins The Trio 05:00 Anthropic's S-1 Leaks: $8B Operating Loss and $518B in Compute Commitments 10:00 Instinct Raises $1B at a $10B Valuation to Take On Meta 25:0",
+      "art": "https://static.libsyn.com/p/assets/0/b/3/f/0b3f89b81924c7e5e5bbc093207a2619/WhatsApp_Image_2026-09-30_at_14.49.16.jpeg"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "New college degrees designed to job-proof graduates",
+      "link": "https://www.npr.org/2026/10/01/nx-s1-5985907/new-college-degrees-designed-to-job-proof-graduates",
+      "pubDate": "2026-10-01T07:00:00.000Z",
+      "duration": "502",
+      "summary": "What do influencing, AI and health sciences have in common? They’re all degree programs colleges have launched in the last few years to attract students looking for a new career path. On today's show,",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1d%2F0c%2F08141cbe47cd8e29723ad1cfca0b%2F04a41de2-e284-47f7-abbd-f44f8e127552.jpg"
+    },
     {
       "showId": "allin",
       "showName": "All-In",
@@ -913,17 +935,6 @@
       "art": "https://static.libsyn.com/p/assets/2/b/1/0/2b1072dcf5bfcf93d959afa2a1bf1c87/WhatsApp_Image_2026-09-09_at_17.14.28.jpeg"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Are small town colleges going extinct?",
-      "link": "https://www.npr.org/2026/09/10/nx-s1-5963882/are-small-town-colleges-going-extinct",
-      "pubDate": "2026-09-10T07:00:00.000Z",
-      "duration": "517",
-      "summary": "Our favorite entry on the regional economy from the latest Beige Book reveals a troubling development in higher education. Fact checking by Sierra Juarez . Your Next Listen — Community colleges are ki",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F60%2F67%2F53478b444792bcf57c60c3680be3%2Fd92a0952-176e-4475-85c0-8156b61233c0.jpg"
-    },
-    {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
       "category": "general",
@@ -1175,17 +1186,6 @@
       "duration": "41:21",
       "summary": "当最基本的粮食援助可能在几周后停止，生活在南苏丹难民营里的人们，接下来要靠什么活下去？ 2026 年 8 月，联合国世界粮食计划署与联合国难民署发出警告：由于人道主义援助资金严重不足，南苏丹超过 24 万名难民和寻求庇护者可能在数周内失去粮食援助，其中绝大多数是妇女和儿童。 本期节目，我们采访了正在世界粮食计划署（WFP）南苏丹国家办公室工作的王宏锐。不久前，他第一次前往位于南苏丹西北部阿维尔的难",
       "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: NVIDIA Bonanza: Buys Poolside & Invests in Mercor and Perplexity | Anthropic's $30TRN Revenue Assumption & OpenAI Confirms IPO | Why Customer Service, Defence and Robotics are Overinflated",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-nvidia-bonanza-buys-poolside-invests-in-mercor-and-perplexity-anthropics-30trn-revenue-assumption-openai-confirms-ipo-why-customer-service-defence-and-robotics-are-overinflated",
-      "pubDate": "2026-08-27T07:07:00.000Z",
-      "duration": "01:22:40",
-      "summary": "AGENDA: 00:00 NVIDIA Launches a Three-Deal Blitz Across the AI Stack 04:31 NVIDIA's $12BN Poolside Deal Exposes Frontier AI's Capital Wall 15:39 NVIDIA Moves to Back Mercor at $20BN and Perplexity at ",
-      "art": "https://static.libsyn.com/p/assets/3/6/6/6/3666124b8904e936d959afa2a1bf1c87/WhatsApp_Image_2026-08-26_at_16.53.24.jpeg"
     },
     {
       "showId": "lexfridman",
