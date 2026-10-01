@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updatedAt": "2026-10-01T19:21:53.869Z",
-    "totalEpisodes": 165,
+    "updatedAt": "2026-10-01T23:34:39.920Z",
+    "totalEpisodes": 180,
     "health": [
       {
         "id": "20vc",
@@ -18,8 +18,8 @@
       {
         "id": "jre",
         "name": "Joe Rogan Experience",
-        "ok": false,
-        "error": "所有源均失败"
+        "ok": true,
+        "count": 15
       },
       {
         "id": "indicator",
@@ -96,7 +96,7 @@
       "id": "jre",
       "name": "Joe Rogan Experience",
       "category": "general",
-      "art": null,
+      "art": "https://megaphone.imgix.net/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/5fcd0c14dce017c1f915e2e9f2bd50f7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "link": "https://feeds.megaphone.fm/GLT1412515089"
     },
     {
@@ -165,6 +165,17 @@
   ],
   "episodes": [
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "JRE MMA Show #186 with Sean Sharaf",
+      "link": "https://traffic.megaphone.fm/GLT1692440444.mp3",
+      "pubDate": "2026-10-01T17:00:00.000Z",
+      "duration": "8486",
+      "summary": "Joe sits down with Sean Sharaf, a professional mixed martial artist competing in the UFC’s heavyweight division. Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan. This ",
+      "art": "https://megaphone.imgix.net/podcasts/2089f348-bd41-11f1-a7c5-d7bc7ba22f90/image/3394d9f5735638705a5db9dfedd0face.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "20vc",
       "showName": "20VC",
       "category": "vc",
@@ -198,6 +209,17 @@
       "art": "https://static.libsyn.com/p/assets/b/f/e/7/bfe70c5fe7acc1f7e5bbc093207a2619/jp_x_chnsmkers_2.png"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2560 - David Grusch",
+      "link": "https://traffic.megaphone.fm/GLT2730878908.mp3",
+      "pubDate": "2026-09-30T17:00:00.000Z",
+      "duration": "9385",
+      "summary": "David Grusch is a former United States Air Force intelligence officer, former representative of the National Reconnaissance Office to the Unidentified Aerial Phenomena Task Force, and former co-lead f",
+      "art": "https://megaphone.imgix.net/podcasts/f3a56dec-bc61-11f1-b794-3f2a4515ae58/image/18f5d398c73d071f87bdcfb5a616b327.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "talksat",
       "showName": "Talks at GS",
       "category": "finance",
@@ -229,6 +251,17 @@
       "duration": "01:28:08",
       "summary": "【主播的话】 人类自古以来就有对战争保持记录的传统——有战争的地方，就有讲故事的需求。“战地记者”在近代随着现代战争的发展，逐渐成为一个专门的职业。身处前线，冒着枪林弹雨做直播的战地记者，一度成为许多人心中对”记者”这个职业的终极想象。 但大多数冲突，其实并不总是以枪炮和热战的形式呈现。战前的摩擦、绵延数十年的族群对抗；战争中的大后方，虽然不是最激烈的交战前线，却也同样在塑造着战争。并且，它常常没",
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2559 - Sam Morril",
+      "link": "https://traffic.megaphone.fm/GLT1481505854.mp3",
+      "pubDate": "2026-09-29T17:00:00.000Z",
+      "duration": "10394",
+      "summary": "Sam Morril is a stand-up comic, writer, actor, and co-host of the \"We Might Be Drunk\" podcast. Look for his new Netflix special, \"Incorrect,\" on September 29.www.netflix.com/title/82155480www.youtube.",
+      "art": "https://megaphone.imgix.net/podcasts/15242aa8-bb9a-11f1-b421-f7d46b049862/image/0ad06ff360f06a9c778a15d0c07c1ad6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
@@ -363,6 +396,17 @@
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2F67%2F110b9c6c4cfeb107dcd9e83fe259%2Ff6dbaa6c-094f-4104-82e8-b8f0e8fc8653.png"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2558 - Tyler Engle",
+      "link": "https://traffic.megaphone.fm/GLT7969377226.mp3",
+      "pubDate": "2026-09-24T17:00:00.000Z",
+      "duration": "8983",
+      "summary": "Tyler Engle is a musician, researcher, author, and host of the \"BassForge\" YouTube channel.www.youtube.com/@BassForge_ushttps://bassforge.us Perplexity: Download the app or ask Perplexity anything at ",
+      "art": "https://megaphone.imgix.net/podcasts/fdbc67aa-b7a1-11f1-974a-f3fc61fd3468/image/1a031d2726eef38308a4bab0d9ddca69.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "20vc",
       "showName": "20VC",
       "category": "vc",
@@ -396,6 +440,17 @@
       "art": "https://static.libsyn.com/p/assets/2/c/d/a/2cda5dac73ee150988c4a68c3ddbc4f2/Luca_Ferrari_AIs26_Square.png"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2557 - Yakov Smirnoff",
+      "link": "https://traffic.megaphone.fm/GLT1399685644.mp3",
+      "pubDate": "2026-09-23T17:00:00.000Z",
+      "duration": "9026",
+      "summary": "Yakov Smirnoff, PhD, is a comedian, actor, visual artist, host of the \"Comedy Couch\" podcast, and owner of the Yakov Theatre in Branson, Missouri. He is currently touring the United States.www.youtube",
+      "art": "https://megaphone.imgix.net/podcasts/1f5f9bec-b6e0-11f1-928a-2f1012a42d65/image/a2304e957642d7aaf801d0b9b95a28af.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -427,6 +482,17 @@
       "duration": "55:44",
       "summary": "(0:00) Steve Hilton joins the Besties! (3:53) How one-party rule broke the state, regulatory bloat & who really writes the laws (12:09) The path to victory: the persuadable voter, the cost-of-living p",
       "art": "https://static.libsyn.com/p/assets/9/8/6/b/986babeb267bdf5888c4a68c3ddbc4f2/Podcast_Thumbnail_-_AIS_26_1.png"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2556 - Siddharth Kara",
+      "link": "https://traffic.megaphone.fm/GLT6395368742.mp3",
+      "pubDate": "2026-09-22T17:00:00.000Z",
+      "duration": "8870",
+      "summary": "Siddharth Kara, PhD, is the author of several books, including \"Cobalt Red: How the Blood of the Congo Powers Our Lives,\" and, most recently, \"The Zorg: A Tale of Greed and Murder That Inspired the Ab",
+      "art": "https://megaphone.imgix.net/podcasts/36952024-b60a-11f1-903c-771baa11d490/image/117c9900038d3269a048bdd082fef824.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "allin",
@@ -649,6 +715,17 @@
       "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2555 - Ron White",
+      "link": "https://traffic.megaphone.fm/GLT3641124128.mp3",
+      "pubDate": "2026-09-16T17:00:00.000Z",
+      "duration": "9259",
+      "summary": "Ron White is a comedian, actor, and author. He is currently on tour. https://linktr.ee/ronwhite www.youtube.com/@ronwhitecomedywww.tatersalad.com Perplexity: Download the app or ask Perplexity anythin",
+      "art": "https://megaphone.imgix.net/podcasts/33ba0998-b176-11f1-a5c0-6b85186c4a35/image/50bd6f2b02c49a2b2ef211ba1281a01a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "left-right",
       "showName": "忽左忽右",
       "category": "zh",
@@ -693,6 +770,17 @@
       "art": "https://static.libsyn.com/p/assets/c/3/a/0/c3a06929ba0eba3027a2322813b393ee/1_Pod_Satya-20260915-59icvb9qde.png"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2554 - Carlo Rovelli",
+      "link": "https://traffic.megaphone.fm/GLT1673171329.mp3",
+      "pubDate": "2026-09-15T17:00:00.000Z",
+      "duration": "9494",
+      "summary": "Carlo Rovelli, PhD, is a theoretical physicist and author. His latest book, \"On The Equality of All Things,\" will be available on September 15. www.simonandschuster.com/books/On-the-Equality-of-All-Th",
+      "art": "https://megaphone.imgix.net/podcasts/78761fec-b0ac-11f1-bdd6-2b4a2c138356/image/57936a45911584efe78baf02ca683d8b.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -724,6 +812,17 @@
       "duration": "574",
       "summary": "Flock cameras promise to reduce crimes like car theft. But these automated license plate readers come with a trade-off: a wide-reaching surveillance network. Today on the show, does Flock actually mak",
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F12%2Ffc546b60485c83e33e1ce836c93e%2F8865acb8-1245-4b7d-adcc-2075cd3114c1.jpeg"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2553 - Andrew Huberman",
+      "link": "https://traffic.megaphone.fm/GLT4909015971.mp3",
+      "pubDate": "2026-09-14T17:00:00.000Z",
+      "duration": "9958",
+      "summary": "Andrew Huberman, PhD, is a neuroscientist, author, and host of the \"Huberman Lab\" podcast. His latest book, \"Protocols: An Operating Manual for the Human Body,\" will be available on September 22.www.s",
+      "art": "https://megaphone.imgix.net/podcasts/019e9130-afb5-11f1-ba2a-77da5f707852/image/e96ac952ee0bbbd2060e7ba9d4f8a932.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "20vc",
@@ -814,6 +913,17 @@
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F1b%2F0c09f69c47abb4696a28b4d6685b%2F235bce2d-39a6-4712-a0d1-2ca4ce31348f.png"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2552 - Ehsan Ahmad & Deric Poston",
+      "link": "https://traffic.megaphone.fm/GLT5341784284.mp3",
+      "pubDate": "2026-09-10T17:00:00.000Z",
+      "duration": "11204",
+      "summary": "Ehsan Ahmad is a comedian and co-host of \"The Solid Show\" with Deric Poston. His new comedy special, \"Ehsan Ahmad: Too Soon,\" is streaming on YouTube. https://youtu.be/m6weMUz0lqA?si=mLbn1S0fCogIg0mjw",
+      "art": "https://megaphone.imgix.net/podcasts/41147402-acd5-11f1-ae8e-bb792e6b1e3d/image/55d2414fafdf9d2618a8cc90bc0074ae.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -834,6 +944,28 @@
       "duration": "01:18:07",
       "summary": "AGENDA: 00:00 Jensen Huang Declares AGI Has Arrived 04:05 Instinct and GrokBot Ignite the AI Assistant War 13:32 OpenAI's GPT Astra Redefines What AGI Means 26:00 GPT Astra and Fable 5.1 Accelerate th",
       "art": "https://static.libsyn.com/p/assets/2/b/1/0/2b1072dcf5bfcf93d959afa2a1bf1c87/WhatsApp_Image_2026-09-09_at_17.14.28.jpeg"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2551 - Daniel Kokotajlo",
+      "link": "https://traffic.megaphone.fm/GLT7087453482.mp3",
+      "pubDate": "2026-09-09T17:00:00.000Z",
+      "duration": "8645",
+      "summary": "Daniel Kokotajlo is the executive director of the AI Futures Project and a former governance researcher at OpenAI, where he focused on scenario planning.www.aifuturesmodel.com https://ai-2040.comhttps",
+      "art": "https://megaphone.imgix.net/podcasts/4a7504f8-abd6-11f1-922a-8727e0ad3325/image/d71f5070ed18919a32f495bfeba3376d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2550 - Rick Springfield",
+      "link": "https://traffic.megaphone.fm/GLT5567898828.mp3",
+      "pubDate": "2026-09-08T17:00:00.000Z",
+      "duration": "8733",
+      "summary": "Rick Springfield is a Grammy Award-winning musician, actor, and author. In addition to his work as a solo artist, Springfield fronts the rock supergroup The Locustz. Their most recent album, “Buzzkill",
+      "art": "https://megaphone.imgix.net/podcasts/3b71cc92-ab23-11f1-bc29-3ba1f2c16d91/image/e880cbe32720950d5d161534ef00d664.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "left-right",
@@ -902,6 +1034,17 @@
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2549 - Jared Diamond",
+      "link": "https://traffic.megaphone.fm/GLT3310404935.mp3",
+      "pubDate": "2026-09-03T17:00:00.000Z",
+      "duration": "9254",
+      "summary": "Jared Diamond, PhD, is a professor, scientist, historian, and author of several books, including “Guns, Germs, and Steel,” “Collapse,” and “Why Is Sex Fun?” His latest book, “Profits, Prophets, Coache",
+      "art": "https://megaphone.imgix.net/podcasts/97b946a8-a725-11f1-b1c6-fb57637e3c16/image/8e1807c0317248abb2a18138102353db.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -922,6 +1065,28 @@
       "duration": "01:17:40",
       "summary": "AGENDA: 00:00 Nvidia crushes $96.2B quarter and nears $12.9B Hugging Face deal 13:52 OpenAI cuts off Cursor as the Altman–Musk feud escalates 17:40 OpenAI's 1,000-agent cyberattack triggers an industr",
       "art": "https://static.libsyn.com/p/assets/e/e/a/c/eeac971b2d91bcb6d959afa2a1bf1c87/WhatsApp_Image_2026-09-02_at_17.45.52.jpeg"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "JRE MMA Show #185 with Ethyn Ewing",
+      "link": "https://traffic.megaphone.fm/GLT6785965754.mp3",
+      "pubDate": "2026-09-02T17:00:00.000Z",
+      "duration": "9756",
+      "summary": "Joe sits down with Ethyn Ewing, a professional mixed martial artist competing in the UFC’s bantamweight division.www.professorfinessermma.com Learn more about your ad choices. Visit podcastchoices.com",
+      "art": "https://megaphone.imgix.net/podcasts/2f848f20-a658-11f1-ae00-9f0126f17601/image/5ed2ccde32aea065fcc54c64955c9954.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2548 - Brian Simpson",
+      "link": "https://traffic.megaphone.fm/GLT1161328740.mp3",
+      "pubDate": "2026-09-01T17:00:00.000Z",
+      "duration": "10196",
+      "summary": "Brian Simpson is a comedian, writer, host of the “Bottom of the Barrel” comedy show at the Comedy Mothership, and host of the podcast “BS with Brian Simpson.” His special “Live from the Mothership” is",
+      "art": "https://megaphone.imgix.net/podcasts/b401b5a8-a594-11f1-a46b-ebbce54c9d78/image/5931d8637c86c925004075567f58460a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "left-right",
