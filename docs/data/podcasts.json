@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-02T19:05:14.672Z",
+    "updatedAt": "2026-10-02T23:26:09.059Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions",
+      "link": "https://allinchamathjason.libsyn.com/trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm-predictions",
+      "pubDate": "2026-10-02T22:30:00.000Z",
+      "duration": "01:22:29",
+      "summary": "(0:00) Bestie intros! (2:01) Trump's Super Intelligence Summit: Behind the scenes and how the accord was created and signed (17:57) Cybersecurity arms race, data center national security, America.gov,",
+      "art": "https://static.libsyn.com/p/assets/7/b/0/3/7b0376a2e322dc87e5bbc093207a2619/1_Pod_E291.png"
+    },
     {
       "showId": "indicator",
       "showName": "The Indicator",
@@ -790,17 +801,6 @@
       "duration": "27:32",
       "summary": "(0:00) VP JD Vance joins The Besties! (1:40) Assessing the Trump Admin so far: Border control, re-industrialization, inflation, Iran, government debt, anti-fraud (9:28) AI approach: Dealing with Doome",
       "art": "https://static.libsyn.com/p/assets/3/b/2/1/3b21d4c1c8af4c7027a2322813b393ee/1_Pod_JDVance.png"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
-      "link": "https://allinchamathjason.libsyn.com/satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai",
-      "pubDate": "2026-09-15T17:10:00.000Z",
-      "duration": "36:33",
-      "summary": "(0:00) Satya Nadella joins The Besties! (0:55) Dario's blog, \"pacing the frontier,\" common sense AI safety (6:28) The failure of AI CEO messaging, monitoring agents, what will a slowdown mean for new ",
-      "art": "https://static.libsyn.com/p/assets/c/3/a/0/c3a06929ba0eba3027a2322813b393ee/1_Pod_Satya-20260915-59icvb9qde.png"
     },
     {
       "showId": "jre",
