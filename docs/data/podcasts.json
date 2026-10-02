@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-02T14:01:39.000Z",
+    "updatedAt": "2026-10-02T19:05:14.672Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Can we make Social Security better for blue-collar workers?",
+      "link": "https://www.npr.org/2026/10/02/nx-s1-5988860/can-we-make-social-security-better-for-blue-collar-workers",
+      "pubDate": "2026-10-02T14:13:30.000Z",
+      "duration": "549",
+      "summary": "Most workers can’t start collecting full Social Security benefits until age 67. But a new proposal from Michigan Congresswoman Haley Stevens would allow workers in “physically demanding jobs” to recei",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F80%2F14%2F2cf2b20a4ea899751151d9d80e0a%2Fb8e52981-0667-417f-a926-a2a3a926bf95.jpg"
+    },
     {
       "showId": "left-right",
       "showName": "忽左忽右",
@@ -922,17 +933,6 @@
       "duration": "01:17:30",
       "summary": "Francis Fukuyama's “The End of History and the Last Man” is one of the most insightful books for understanding the strangeness and instability of this political moment. Fukuyama wrote his landmark boo",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Bessent's yen bet, cold Argentine data centers set, and the summer box office net",
-      "link": "https://www.npr.org/2026/09/11/nx-s1-5965869/bessents-yen-bet-cold-argentine-data-centers-set-and-the-summer-box-office-net",
-      "pubDate": "2026-09-11T07:00:00.000Z",
-      "duration": "562",
-      "summary": "This week’s indicators: Is The U.S. Treasury Department futzing with financial markets?; Is Patagonia’s pretty picturesque setting … for data centers?; Was the summer box office actually swell? Fact c",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe0%2F1b%2F0c09f69c47abb4696a28b4d6685b%2F235bce2d-39a6-4712-a0d1-2ca4ce31348f.png"
     },
     {
       "showId": "jre",
