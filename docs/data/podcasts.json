@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-02T23:26:09.059Z",
+    "updatedAt": "2026-10-03T12:40:41.070Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: The Future of Datacentres: What You Need to Know | Why Everyone Gets GPU Depreciation and AI's Energy Costs Wrong | Who Really Makes Money From AI & Why Most Moats Don't Exist with Chase Lochmiller",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-the-future-of-datacentres-what-you-need-to-know-why-everyone-gets-gpu-depreciation-and-ais-energy-costs-wrong-who-really-makes-money-from-ai-why-most-moats-dont-exist-with-chase-lochmiller",
+      "pubDate": "2026-10-03T07:07:00.000Z",
+      "duration": "01:01:15",
+      "summary": "Chase Lochmiller is the Co-founder and CEO of Crusoe. Crusoe builds and powers the data centres that companies use to train and run AI. It has raised approximately $6.4 billion in equity, including it",
+      "art": "https://static.libsyn.com/p/assets/7/8/3/4/783491c80829c20f88c4a68c3ddbc4f2/WhatsApp_Image_2026-10-02_at_16.51.58.jpeg"
+    },
     {
       "showId": "allin",
       "showName": "All-In",
@@ -1153,17 +1164,6 @@
       "duration": "01:04:00",
       "summary": "【主播的话】 我们常以为，失智是一种“消失”——一个人渐渐忘记名字、忘记至亲、忘记自己是谁。但社会学者唐咏通过研究告诉我们，事情没那么简单：有人忘记了今天发生的一切，却能完整唱出几十年前的老歌；有人认不出朝夕相处的儿女，却依然保有情感和尊严感。失智老人丧失的和保留的部分，从来都不是我们以为的那样。 唐咏是深圳大学政府管理学院社会学系教授。她的研究兴趣始于一次意外——母亲的一场车祸，让她的学术兴趣转",
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: Is Anthropic's Coding Business Worth $2 Trillion? | Should American Enterprises Work With Open-Source Chinese Models? | Why 80–90% of Neo-Labs Die in the Next 18 Months? with Eno Reyes, Co-Founder @ Factory",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-is-anthropics-coding-business-worth-2-trillion-should-american-enterprises-work-with-open-source-chinese-models-why-8090-of-neo-labs-die-in-the-next-18-months-with-eno-reyes-co-founder-factory",
-      "pubDate": "2026-08-29T07:07:00.000Z",
-      "duration": "01:29:19",
-      "summary": "Eno Reyes is the co-founder and CTO of Factory, the agent-native software development platform building autonomous \"Droids\" for enterprise engineering teams. Factory has raised $220 million, most rece",
-      "art": "https://static.libsyn.com/p/assets/3/d/5/9/3d59f0ba4c72b496d959afa2a1bf1c87/WhatsApp_Image_2026-08-27_at_16.52.15.jpeg"
     },
     {
       "showId": "left-right",
