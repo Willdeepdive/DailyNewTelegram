@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-10-02",
+  "lastRun": "2026-10-03",
   "feeds": [
     {
       "name": "Stratechery",
@@ -89,10 +89,9 @@
     {
       "name": "Hacker News",
       "url": "https://hnrss.org/frontpage",
-      "ok": false,
-      "itemCount": 0,
-      "consecutiveFails": 1,
-      "error": "fetch failed"
+      "ok": true,
+      "itemCount": 20,
+      "consecutiveFails": 0
     },
     {
       "name": "V2EX 技术",
@@ -111,10 +110,9 @@
     {
       "name": "Paul Graham Essays",
       "url": "http://www.aaronsw.com/2002/feeds/pgessays.rss",
-      "ok": false,
+      "ok": true,
       "itemCount": 0,
-      "consecutiveFails": 3,
-      "error": "fetch failed"
+      "consecutiveFails": 0
     },
     {
       "name": "Gwern",
@@ -212,7 +210,7 @@
       "name": "email",
       "url": "sources/newsletters.json",
       "ok": true,
-      "itemCount": 42,
+      "itemCount": 39,
       "consecutiveFails": 0,
       "skipped": false
     }
