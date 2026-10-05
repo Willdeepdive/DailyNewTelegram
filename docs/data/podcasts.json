@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-04T22:37:28.278Z",
+    "updatedAt": "2026-10-05T16:18:24.677Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Is Seed Investing Dead Without a $1BN Fund? | Does Ownership and Price Matter When Companies Can Be $1TRN Exits | Are AI Revenue Numbers Real and What to Watch Out For with Venky Ganesan, Menlo Ventures",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-is-seed-investing-dead-without-a-1bn-fund-does-ownership-and-price-matter-when-companies-can-be-1trn-exits-are-ai-revenue-numbers-real-and-what-to-watch-out-for-with-venky-ganesan-menlo-ventures",
+      "pubDate": "2026-10-05T07:07:00.000Z",
+      "duration": "01:06:36",
+      "summary": "Venky Ganesan is a Partner at Menlo Ventures, whose portfolio includes Anthropic, Lovable, Legora and Higgsfield, alongside earlier hits Uber and Roku. Venky's own investment track record includes Pal",
+      "art": "https://static.libsyn.com/p/assets/7/f/3/a/7f3ae5ea8946c65ee5bbc093207a2619/WhatsApp_Image_2026-10-02_at_16.52.36.jpeg"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "The proper etiquette of the Venmo nudge",
+      "link": "https://www.npr.org/2026/10/05/nx-s1-5989639/the-proper-etiquette-of-the-venmo-nudge",
+      "pubDate": "2026-10-05T07:00:02.000Z",
+      "duration": "554",
+      "summary": "How do you ask your friends to pay you back in a timely way? We’ve got an etiquette coach to help with that. Fact checking by Sierra Juarez . Your Next Listen — Is this a bank? Connect with The Indica",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1900x1900+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F92%2Fbf%2Fc0010483489e811d5b5ca092ef8d%2Fe939feb5-1076-479b-94cd-5a2dfb48aaac.jpg"
+    },
     {
       "showId": "20vc",
       "showName": "20VC",
@@ -880,17 +902,6 @@
       "art": "https://static.libsyn.com/p/assets/d/0/d/a/d0da4fd59f97c065d959afa2a1bf1c87/WhatsApp_Image_2026-09-11_at_11.58.36-20260913-pt5rprljdj.jpeg"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "A beautiful bill, Mamdani's market, and stock subscriptions",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5966952/a-beautiful-bill-mamdanis-market-and-stock-subscriptions",
-      "pubDate": "2026-09-14T07:00:00.000Z",
-      "duration": "569",
-      "summary": "It’s time for another Indicator Quiz! For today’s quiz, we’re testing the Indicator knowledge of a brilliant mathematician. Will we stump his theoretician brain? Tune in and find out! Interested in be",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F14%2F44%2F0ca915da4a8ab6a14df927f50070%2F3024642a-ae83-42dc-95a8-155bc0545015.png"
-    },
-    {
       "showId": "acquired",
       "showName": "Acquired",
       "category": "tech",
@@ -1142,17 +1153,6 @@
       "duration": "01:29:56",
       "summary": "Whatever type of music you love, Rick Rubin has probably left his mark on it. Rubin, a founder of Def Jam Recordings and a former co-chairman of Columbia Records, might be the most influential music p",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: The AI Bubble Is Wrong | AI Margins Need to Improve | Revenue Concentration Should be a Concern | Why People Over-Estimate Open Models But Enterprises Still Fear Frontier Models with Aaron Katz, ClickHouse",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-the-ai-bubble-is-wrong-ai-margins-need-to-improve-revenue-concentration-should-be-a-concern-why-people-over-estimate-open-models-but-enterprises-still-fear-frontier-models-with-aaron-katz-clickhouse",
-      "pubDate": "2026-08-31T07:07:00.000Z",
-      "duration": "01:03:37",
-      "summary": "Aaron Katz is the Co-Founder and CEO of ClickHouse, the real-time analytics database powering companies including OpenAI, Anthropic, Tesla and Microsoft. ClickHouse just surpassed $350M in ARR and rai",
-      "art": "https://static.libsyn.com/p/assets/f/0/7/e/f07e812153f6593ad959afa2a1bf1c87/WhatsApp_Image_2026-08-28_at_15.53.10.jpeg"
     },
     {
       "showId": "weirdo",
