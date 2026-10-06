@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-06T14:24:32.180Z",
+    "updatedAt": "2026-10-06T19:22:24.850Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2561 - LL Cool J",
+      "link": "https://traffic.megaphone.fm/GLT5582771746.mp3",
+      "pubDate": "2026-10-06T17:00:00.000Z",
+      "duration": "9498",
+      "summary": "LL Cool J is a Grammy Award-winning rapper, actor, and philanthropist. Look for him on \"NCIS: New York,\" premiering October 6 on CBS and streaming the next day on Paramount+.www.paramountplus.com/show",
+      "art": "https://megaphone.imgix.net/podcasts/2013800e-c120-11f1-a768-6f890ba0aaa8/image/0259df876a79b0a57e1a854db2f13aeb.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "indicator",
       "showName": "The Indicator",
@@ -1120,17 +1131,6 @@
       "duration": "9756",
       "summary": "Joe sits down with Ethyn Ewing, a professional mixed martial artist competing in the UFC’s bantamweight division.www.professorfinessermma.com Learn more about your ad choices. Visit podcastchoices.com",
       "art": "https://megaphone.imgix.net/podcasts/2f848f20-a658-11f1-ae00-9f0126f17601/image/5ed2ccde32aea065fcc54c64955c9954.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2548 - Brian Simpson",
-      "link": "https://traffic.megaphone.fm/GLT1161328740.mp3",
-      "pubDate": "2026-09-01T17:00:00.000Z",
-      "duration": "10196",
-      "summary": "Brian Simpson is a comedian, writer, host of the “Bottom of the Barrel” comedy show at the Comedy Mothership, and host of the podcast “BS with Brian Simpson.” His special “Live from the Mothership” is",
-      "art": "https://megaphone.imgix.net/podcasts/b401b5a8-a594-11f1-a46b-ebbce54c9d78/image/5931d8637c86c925004075567f58460a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "left-right",
