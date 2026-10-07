@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-07T14:39:35.767Z",
+    "updatedAt": "2026-10-07T19:49:38.148Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2562 - Dan McClellan",
+      "link": "https://traffic.megaphone.fm/GLT6084226127.mp3",
+      "pubDate": "2026-10-07T17:00:00.000Z",
+      "duration": "9712",
+      "summary": "Dan McClellan, PhD, is a biblical scholar, author, and co-host of the \"Data Over Dogma\" podcast.www.youtube.com/@dataoverdogmawww.youtube.com/@maklelanhttps://static.macmillan.com/static/smp/bible-say",
+      "art": "https://megaphone.imgix.net/podcasts/5771b05c-c1f7-11f1-93bf-4bf5d16f6f9a/image/0adf163fd3fdd89b10d81e353e59403c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
@@ -1131,17 +1142,6 @@
       "duration": "01:17:40",
       "summary": "AGENDA: 00:00 Nvidia crushes $96.2B quarter and nears $12.9B Hugging Face deal 13:52 OpenAI cuts off Cursor as the Altman–Musk feud escalates 17:40 OpenAI's 1,000-agent cyberattack triggers an industr",
       "art": "https://static.libsyn.com/p/assets/e/e/a/c/eeac971b2d91bcb6d959afa2a1bf1c87/WhatsApp_Image_2026-09-02_at_17.45.52.jpeg"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "JRE MMA Show #185 with Ethyn Ewing",
-      "link": "https://traffic.megaphone.fm/GLT6785965754.mp3",
-      "pubDate": "2026-09-02T17:00:00.000Z",
-      "duration": "9756",
-      "summary": "Joe sits down with Ethyn Ewing, a professional mixed martial artist competing in the UFC’s bantamweight division.www.professorfinessermma.com Learn more about your ad choices. Visit podcastchoices.com",
-      "art": "https://megaphone.imgix.net/podcasts/2f848f20-a658-11f1-ae00-9f0126f17601/image/5ed2ccde32aea065fcc54c64955c9954.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "left-right",
