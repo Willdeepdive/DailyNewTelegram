@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-06T23:27:23.902Z",
+    "updatedAt": "2026-10-07T14:39:35.767Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "ezraklein",
+      "showName": "The Ezra Klein Show",
+      "category": "politics",
+      "title": "‘This Is Nuts.’ An OpenAI Insider Explains Why He Quit.",
+      "link": "https://www.nytimes.com/2026/10/06/opinion/ezra-klein-podcast-david-robinson.html",
+      "pubDate": "2026-10-07T09:00:00.000Z",
+      "duration": "01:11:24",
+      "summary": "Last week, David Robinson resigned from OpenAI. He’d been in charge of writing the safety reports for new models and came to believe that OpenAI and the broader artificial intelligence industry lack t",
+      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "One economist's answer to data center anxiety",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992976/one-economists-answer-to-data-center-anxiety",
+      "pubDate": "2026-10-07T07:00:00.000Z",
+      "duration": "568",
+      "summary": "Rising electricity prices are one of the primary reasons why data centers are a public enemy this election cycle. But is it realistic to expect energy prices to stay high forever? Fact checking by Sie",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F8e%2Fd8435163460f80ccb2bfb49c2416%2Fc2d2794a-874e-4180-8942-d9791db89519.jpg"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -836,17 +858,6 @@
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "How the bond market is handling AI risks",
-      "link": "https://www.npr.org/2026/09/16/nx-s1-5970376/how-the-bond-market-is-handling-ai-risks",
-      "pubDate": "2026-09-16T07:00:00.000Z",
-      "duration": "557",
-      "summary": "Big tech companies are borrowing billions of dollars to finance the build-out of AI data centers, and your 401(k) might be helping to fuel that. Today on the show, what AI hyperscalers are doing to th",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F41%2Fec%2F57522d5a4708aa325d20f345a4e2%2F89752c20-1afb-46bd-be90-0258febb63a1.jpg"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1351,17 +1362,6 @@
       "duration": "00:59:06",
       "summary": "【主播的话】 2025 年，一位以公共报道著称的华人记者，突然把笔调转向了自己的家。 记者谭蕙芸，曾在新闻业里追问外部世界的真相，教学生如何采访弱势社群。可她自己的家中，一直藏着一个不能言说的秘密。她的哥哥，那位被寄予最高期望的长子长孙，青少年时期被情绪问题困扰。全家从香港移民到加拿大后，在\"家丑不可外扬\"的家风影响下，未能持续就医，就这样被隐去了三十年，失去机会建立成年人的独立生活和自理能力。 ",
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
-      "showId": "ezraklein",
-      "showName": "The Ezra Klein Show",
-      "category": "politics",
-      "title": "Ross Douthat: The Exit Interview",
-      "link": "https://www.nytimes.com/2026/08/11/opinion/ezra-klein-podcast-ross-douthat.html",
-      "pubDate": "2026-08-11T09:00:00.000Z",
-      "duration": "01:13:57",
-      "summary": "My colleague Ross Douthat is leaving The Times after 17 years to become a correspondent on “60 Minutes.” Before he goes, I’m asking him a few questions. Douthat has had a unique vantage point on the n",
-      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
       "showId": "acquired",
