@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-07T23:56:11.809Z",
+    "updatedAt": "2026-10-08T14:47:31.374Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,39 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "etw",
+      "showName": "声东击西",
+      "category": "zh",
+      "title": "#406 从景山骑到三里屯：在街头寻找北京的十年痕迹丨十周年特别节目",
+      "link": "https://etw.fm/2226",
+      "pubDate": "2026-10-08T11:45:00.000Z",
+      "duration": "1:01:44",
+      "summary": "来和「声东击西」一起线下庆祝十周年吧！ 从 10 月 10 日至 12 月 9 日，我们将和「岩时攀岩」一起，在北京、上海、杭州三座城市的活动门店，推出「声东击西」的十周年定制攀岩线路。 如果你本来就攀岩，欢迎来到线下爬一爬这条线，参加打卡体验活动并带走一份小礼物；即使不会攀岩也没关系，因为我们就是想要换一种方式和你一起庆祝十周年，所以即使不上墙，只是拍照打卡，也能带走一份属于十周年的小纪念。 除",
+      "art": "https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/2/2f9cb979-23b4-4112-b345-4cb9fd31014b/cover.jpg?v=1"
+    },
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Cognition vs Factory: Vinod Khosla Creates a Storm | OpenAI Nears $70B Run Rate: Anthropic Under Threat | ElevenLabs Doubles Its Valuation to $22B & Salesforce Buys Listen Labs for $2B",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-cognition-vs-factory-vinod-khosla-creates-a-storm-openai-nears-70b-run-rate-anthropic-under-threat-elevenlabs-doubles-its-valuation-to-22b-salesforce-buys-listen-labs-for-2b",
+      "pubDate": "2026-10-08T07:07:00.000Z",
+      "duration": "01:13:22",
+      "summary": "Joinin the trio today we have Dev Ittycheria, CEO @ MongoDB. AGENDA: 04:00 OpenAI Nears $70B Run Rate—Anthropic's Lead Under Threat 12:00 Factory vs Cognition: Silicon Valley's Talent War Turns Ugly 2",
+      "art": "https://static.libsyn.com/p/assets/d/6/9/e/d69eb3c9c64caa58e5bbc093207a2619/WhatsApp_Image_2026-10-07_at_19.30.30.jpeg"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "The chilling effect of ICE in hospitals",
+      "link": "https://www.npr.org/2026/10/08/nx-s1-5993893/the-chilling-effect-of-ice-in-hospitals",
+      "pubDate": "2026-10-08T07:00:00.000Z",
+      "duration": "553",
+      "summary": "Federal immigration enforcement arrests reached record highs this past summer, and under the second Trump administration, immigration agents can now more easily access so-called sensitive areas, inclu",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F06%2F6cf0206d44a6aca352aa5ebec412%2Fd49d6e0b-a00e-46d8-871f-b3cb876b809d.png"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -814,17 +847,6 @@
       "art": "https://static.libsyn.com/p/assets/e/b/4/c/eb4c88a910c1da60e55e3c100dce7605/WhatsApp_Image_2026-09-16_at_15.41.20.jpeg"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Strait talk: Why the oil crisis is getting worse",
-      "link": "https://www.npr.org/2026/09/17/nx-s1-5971249/strait-talk-why-the-oil-crisis-is-getting-worse",
-      "pubDate": "2026-09-17T07:00:00.000Z",
-      "duration": "514",
-      "summary": "A vital artery for Saudi oil exports is under siege and it’s not the Strait of Hormuz. Today on the show, we explain what’s going on in the Bab el-Mandeb shipping lane connected to the Red Sea, why it",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbf%2F45%2Fd20b32a24617a622e28d5071286d%2F5b03db06-4841-4f9f-9264-b185bde5279b.png"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1131,17 +1153,6 @@
       "duration": "45:16",
       "summary": "80 年前，国泰航空第一架飞机 Betsy 降落上海龙华机场；80 年后，一场关于飞行的对谈，在这片曾经的机场旧址展开：从最初连接几座城市的货运与客运航线，到今天遍布世界的航空网络，一架飞机、一座机场，一条航线如何改变人们抵达远方的方式，又如何深刻影响一座城市的发展，乃至一个国家与世界之间的关系？ 8月末，在「国泰航空八十周年庆典」现场，国泰航空联合「声东击西」进行了一场线下圆桌。我们邀请到了北京",
       "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: NVIDIA Crushes Quarter and Buys Hugging Face | OpenAI Cuts Off Cursor | Instinct Hits $2.5BN Valuation and The Race for AI Assistants | Cognition Raises at $46BN, Linear $2.5BN and Clay $7BN",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-nvidia-crushes-quarter-and-buys-hugging-face-openai-cuts-off-cursor-instinct-hits-25bn-valuation-and-the-race-for-ai-assistants-cognition-raises-at-46bn-linear-25bn-and-clay-7bn",
-      "pubDate": "2026-09-03T07:07:00.000Z",
-      "duration": "01:17:40",
-      "summary": "AGENDA: 00:00 Nvidia crushes $96.2B quarter and nears $12.9B Hugging Face deal 13:52 OpenAI cuts off Cursor as the Altman–Musk feud escalates 17:40 OpenAI's 1,000-agent cyberattack triggers an industr",
-      "art": "https://static.libsyn.com/p/assets/e/e/a/c/eeac971b2d91bcb6d959afa2a1bf1c87/WhatsApp_Image_2026-09-02_at_17.45.52.jpeg"
     },
     {
       "showId": "left-right",
@@ -1648,17 +1659,6 @@
       "duration": "1251",
       "summary": "EY operates as one of the world’s largest and most globally connected professional services firms, employing 400,000 people across more than 150 countries. EY Global Chair and CEO Janet Truncale joins",
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "etw",
-      "showName": "声东击西",
-      "category": "zh",
-      "title": "#391 阿联酋与沙特：从亲密盟友到分道扬镳的 55 年",
-      "link": "https://etw.fm/2212",
-      "pubDate": "2026-06-04T09:30:00.000Z",
-      "duration": "56:55",
-      "summary": "6 月，美伊战争进入新一轮谈判，和平似有一线希望。但与此同时，海湾地区一对曾经的兄弟国家——沙特与阿联酋——却似乎渐行渐远，这一切究竟是怎么发生的？ 4 月 28 日，阿联酋宣布退出由沙特主导的 OPEC（欧佩克），这场看似突然的分手，背后却是一场 50 余年的关系演变：他们曾以小弟与大哥的姿态相处，曾在战场上并肩出兵，但近十年来，经济上的竞争、外交上的分歧、甚至军事上的正面对抗，已经让这对盟友走",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "weirdo",
