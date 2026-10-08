@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-08T14:47:31.374Z",
+    "updatedAt": "2026-10-08T19:45:03.686Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2563 - Dan Richards",
+      "link": "https://traffic.megaphone.fm/GLT1048281357.mp3",
+      "pubDate": "2026-10-08T17:00:00.000Z",
+      "duration": "10483",
+      "summary": "Dan Richards is an independent researcher whose YouTube channel, \"DeDunking the Past,\" examines lost civilizations and alternative history.www.youtube.com/@DeDunkingwww.patreon.com/DeDunking Perplexit",
+      "art": "https://megaphone.imgix.net/podcasts/5a662dac-c2b9-11f1-bf20-5b1cb8cb82fc/image/e25e701024fcfd432b0b9806e9b156bf.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "etw",
       "showName": "声东击西",
@@ -1131,17 +1142,6 @@
       "duration": "01:07:47",
       "summary": "- 导语 - 二十世纪初，来自法国的建筑师赉安选择在上海法租界扎根。二十五年间，他的赉安洋行设计了122栋建筑，留下了麦琪公寓、花园饭店等经典作品，最终却在1946年的上海神秘失踪。上海作家吴飞鹏长期致力于上海老房子的寻访，在一次偶然的契机接触到赉安的外孙后，他开启了在上海和巴黎寻找赉安的旅程。匈牙利籍建筑师邬达克的作品与赉安有何异同？柯布西耶与赉安在巴黎的交往如何影响了赉安的人生轨迹与建筑风格？",
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2549 - Jared Diamond",
-      "link": "https://traffic.megaphone.fm/GLT3310404935.mp3",
-      "pubDate": "2026-09-03T17:00:00.000Z",
-      "duration": "9254",
-      "summary": "Jared Diamond, PhD, is a professor, scientist, historian, and author of several books, including “Guns, Germs, and Steel,” “Collapse,” and “Why Is Sex Fun?” His latest book, “Profits, Prophets, Coache",
-      "art": "https://megaphone.imgix.net/podcasts/97b946a8-a725-11f1-b1c6-fb57637e3c16/image/8e1807c0317248abb2a18138102353db.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "etw",
