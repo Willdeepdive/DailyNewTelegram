@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-09T00:03:22.939Z",
+    "updatedAt": "2026-10-09T14:30:51.684Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,39 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "left-right",
+      "showName": "忽左忽右",
+      "category": "zh",
+      "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6ac8a47fe742e36efcc052a9?utm_source=rss",
+      "pubDate": "2026-10-09T09:08:34.000Z",
+      "duration": "01:13:50",
+      "summary": "- 导语 - 20世纪70年代末，经历了一段缓和期的美苏关系再度紧张，双方军事竞争与情报较量持续升级。苏联电子工程师托卡契夫在1979年至1985年间持续向美国中央情报局提供情报，其泄露的苏联军工机密价值连城，也因此有了「亿万美元间谍」之称。美苏新一轮军事竞争为何让苏联军工情报变得如此重要？在真假叛逃者难辨的冷战年代，托卡契夫如何一步步获得中央情报局的信赖？双方又如何在克格勃的监视下完成21次莫斯",
+      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
+    },
+    {
+      "showId": "ezraklein",
+      "showName": "The Ezra Klein Show",
+      "category": "politics",
+      "title": "Intelligence Isnt Power",
+      "link": "https://www.nytimes.com/2026/10/09/opinion/ezra-klein-podcast-arvind-narayanan.html",
+      "pubDate": "2026-10-09T09:00:00.000Z",
+      "duration": "01:01:29",
+      "summary": "At the center of the country’s debates over artificial intelligence is a simple but hard question: What kind of technology is this? Is A.I. a kind of “alien mind”? Are we unleashing a new species on t",
+      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "SNAP strains, youth baseball's class divide, and Meta's bug bounty",
+      "link": "https://www.npr.org/2026/10/09/nx-s1-5995635/snap-strains-youth-baseballs-class-divide-and-metas-bug-bounty",
+      "pubDate": "2026-10-09T07:00:00.000Z",
+      "duration": "543",
+      "summary": "This week our top indicators include changes to the funding model for SNAP, private equity’s influence on youth baseball and Meta’s attempt to find flaws in its brand new AI assistant. Fact checking b",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2F73%2F44926286494a874ff5d6722816f5%2F1a42934e-bc6e-4d00-832e-ebf345052ee3.jpg"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -803,17 +836,6 @@
       "art": "https://static.libsyn.com/p/assets/0/6/d/8/06d80148b6dff5d6e5bbc093207a2619/1_Pod_Jared_1.png"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "OpenAI's waiting game, gas pump pain, and severe sulfur strain!",
-      "link": "https://www.npr.org/2026/09/18/nx-s1-5973282/openais-waiting-game-gas-pump-pain-and-severe-sulfur-strain",
-      "pubDate": "2026-09-18T07:00:00.000Z",
-      "duration": "549",
-      "summary": "This week’s indicators: Tracking your pain at the gas pump in real-time; OpenAI’s IPO hard-launch tug-of-war; one unexpected ingredient is making fertilizer—and potentially your groceries—a whole lot ",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffe%2F1f%2Fc88ca2d14abe8259706f2ea1184a%2F84bf9354-1a85-47e2-871c-13a681985c11.png"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1318,28 +1340,6 @@
       "duration": "01:07:50",
       "summary": "- 导语 - 护照、签证，作为今日跨境迁移中常见的身份与准入凭证，往往被视为理所当然的存在。在历史学家麦基翁看来，现代意义上的「自由移民」并非天然自由，而是在国家权力的甄别与规训中形成。19世纪末至20世纪初，大量华人移民进入美国，并参与塑造了后来逐渐扩散至全球的移民管控制度。美国「排华法案」如何确立了移入国对移民的单方面管辖权？边境管控又如何反过来塑造华侨的国籍与民族认同？从比较研究到全球史，青",
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "492 刘怡、于杰谈保罗·沃尔克与现代美联储制度的形成",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a7ee43b17676351c571e363?utm_source=rss",
-      "pubDate": "2026-08-14T10:08:52.000Z",
-      "duration": "01:17:43",
-      "summary": "- 导语 - 今天的美联储常被视作一架精密运转的机器，但直到1970年代，美联储主席该做什么、货币政策该怎么用，仍没有今天这样清晰。作为美联储历史上的标志性人物，保罗·沃尔克经历了布雷顿森林体系的崩塌、广场协议的签订，并亲手带来了「沃尔克冲击」，他也成为经济史上影响最大的一任美联储主席。美联储主席职责如何在国内政策需要和组织博弈中明确起来？从拉美债务危机到卢浮宫协议，这些重大事件为今天的全球经济留",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
-      "showId": "ezraklein",
-      "showName": "The Ezra Klein Show",
-      "category": "politics",
-      "title": "The Warring Visions of American Power",
-      "link": "https://www.nytimes.com/2026/08/14/opinion/ezra-klein-podcast-linda-kinstler.html",
-      "pubDate": "2026-08-14T09:00:00.000Z",
-      "duration": "00:54:15",
-      "summary": "We’re in a really strange moment in the foreign policy politics of the Democratic Party. People are looking for an alternative vision — an approach to American power in the world that would feel more ",
-      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
       "showId": "etw",
