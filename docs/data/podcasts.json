@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-10T13:55:32.301Z",
+    "updatedAt": "2026-10-10T18:22:27.208Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -96,7 +96,7 @@
       "id": "jre",
       "name": "Joe Rogan Experience",
       "category": "general",
-      "art": "https://megaphone.imgix.net/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/5fcd0c14dce017c1f915e2e9f2bd50f7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "art": "https://megaphone.imgix.net/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/760b684379d2f5f6a98c67f65cf7b53f.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "link": "https://feeds.megaphone.fm/GLT1412515089"
     },
     {
