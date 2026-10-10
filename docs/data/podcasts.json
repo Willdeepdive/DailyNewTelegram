@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-09T23:43:24.245Z",
+    "updatedAt": "2026-10-10T13:55:32.301Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20Sales: Inside Ramp's Sales Playbook: How to Build a Sales Machine with Max Freeman, SVP Sales @ Ramp",
+      "link": "https://thetwentyminutevc.libsyn.com/20sales-inside-ramps-sales-playbook-how-to-build-a-17bn-arr-sales-machine-with-max-freeman-svp-sales-ramp",
+      "pubDate": "2026-10-10T13:33:00.000Z",
+      "duration": "01:07:59",
+      "summary": "Max Freeman is SVP of Sales at Ramp. He joined the company as its first sales hire. By 2025, he was leading more than 300 salespeople, helping build Ramp's sales organisation from the ground up. Ramp'",
+      "art": "https://static.libsyn.com/p/assets/d/f/5/8/df589da8ca48b38c88c4a68c3ddbc4f2/WhatsApp_Image_2026-10-09_at_13.12.26.jpeg"
+    },
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Is Claude Conscious? Pope Rejects, Model Welfare Movement, OpenAI's Math Backlash, France Riots",
+      "link": "https://allinchamathjason.libsyn.com/is-claude-conscious-pope-rejects-model-welfare-movement-openais-math-backlash-france-riots",
+      "pubDate": "2026-10-10T02:06:00.000Z",
+      "duration": "01:33:15",
+      "summary": "(0:00) Bestie intros! (2:53) Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, model welfare (38:28) OpenAI's math breakthroughs and community backlash ",
+      "art": "https://static.libsyn.com/p/assets/0/5/1/0/05106eb3c174bb5de5bbc093207a2619/1_Pod_E292.png"
+    },
     {
       "showId": "left-right",
       "showName": "忽左忽右",
@@ -924,17 +946,6 @@
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
-      "link": "https://allinchamathjason.libsyn.com/jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
-      "pubDate": "2026-09-15T20:46:00.000Z",
-      "duration": "27:32",
-      "summary": "(0:00) VP JD Vance joins The Besties! (1:40) Assessing the Trump Admin so far: Border control, re-industrialization, inflation, Iran, government debt, anti-fraud (9:28) AI approach: Dealing with Doome",
-      "art": "https://static.libsyn.com/p/assets/3/b/2/1/3b21d4c1c8af4c7027a2322813b393ee/1_Pod_JDVance.png"
-    },
-    {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
       "category": "general",
@@ -1142,17 +1153,6 @@
       "duration": "01:10:54",
       "summary": "Jean-Denis \"JD\" Grèze is the Co-Founder and CEO of Town, the AI work assistant reportedly in talks to raise funding at a $1BN valuation. Before founding Town, JD spent seven years as CTO of Plaid. Bef",
       "art": "https://static.libsyn.com/p/assets/9/2/f/b/92fb6814e9d5e90ed959afa2a1bf1c87/WhatsApp_Image_2026-09-04_at_20.57.57.jpeg"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: How to Build Your Own Data Center & Why Every Startup Should Do It | How ElevenLabs Leapfrogged Us: What I Learned | The AI Talent War: How Your Hiring Process Needs to Change with Cliff Weitzman, Speechify",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-how-to-build-your-own-data-center-why-every-startup-should-do-it-how-elevenlabs-leapfrogged-us-what-i-learned-the-ai-talent-war-how-your-hiring-process-needs-to-change-with-cliff-weitzman-speechify",
-      "pubDate": "2026-09-05T07:07:00.000Z",
-      "duration": "01:05:13",
-      "summary": "Cliff Weitzman is the co-founder and CEO of Speechify, the world's leading AI voice and text-to-speech platform, used by more than 60 million people globally. Diagnosed with dyslexia as a child, Cliff",
-      "art": "https://static.libsyn.com/p/assets/b/a/2/4/ba245dc05ba2c537d959afa2a1bf1c87/WhatsApp_Image_2026-09-04_at_18.59.30.jpeg"
     },
     {
       "showId": "left-right",
