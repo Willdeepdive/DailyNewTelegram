@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-11T23:19:17.058Z",
+    "updatedAt": "2026-10-12T16:54:54.568Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Atlassian CEO on Why Agents Won't Replace Interfaces | Why Enterprises Won't Trust Chinese Models | Why The Jury Is Still Out On The Benefits of Specialised Models with Mike Cannon-Brookes",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-atlassian-ceo-on-why-agents-wont-replace-interfaces-why-enterprises-wont-trust-chinese-models-why-the-jury-is-still-out-on-the-benefits-of-specialised-models-with-mike-cannon-brookes",
+      "pubDate": "2026-10-12T07:07:00.000Z",
+      "duration": "55:29",
+      "summary": "Mike Cannon-Brookes is the Co-Founder and CEO of Atlassian, the company behind Jira, Confluence, Trello and Loom. Atlassian generated $6.5BN in ARR in 2026, and serves more than 350,000 customers, inc",
+      "art": "https://static.libsyn.com/p/assets/f/3/b/d/f3bd264c3558be8288c4a68c3ddbc4f2/WhatsApp_Image_2026-10-09_at_13.12.59.jpeg"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "The echo of the bison (Encore)",
+      "link": "https://www.npr.org/2026/10/12/nx-s1-5996621/the-echo-of-the-bison-encore",
+      "pubDate": "2026-10-12T07:00:00.000Z",
+      "duration": "570",
+      "summary": "Nearly 30 million bison once roamed North America, from modern Canada to Mexico. In the late 1800s, white settlers and the U.S. military annihilated the population of bison, bringing these creatures t",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fc1%2F13ae89384a2c872e71ea16465975%2F5ad1f225-3f2c-4ee7-9168-e48c54d334fb.png"
+    },
     {
       "showId": "20vc",
       "showName": "20VC",
@@ -792,17 +814,6 @@
       "art": "https://static.libsyn.com/p/assets/8/2/9/0/829042fc775095ffe5bbc093207a2619/WhatsApp_Image_2026-09-18_at_12.41.29.jpeg"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "How Hemp-THC businesses are bracing for a near total ban",
-      "link": "https://www.npr.org/2026/09/21/nx-s1-5973166/how-hemp-thc-businesses-are-bracing-for-a-near-total-ban",
-      "pubDate": "2026-09-21T07:00:00.000Z",
-      "duration": "520",
-      "summary": "Follow us to Tennessee where hemp farmers are already pivoting in the face of a state ban and soon, a looming federal ban on basically all THC-derived hemp products. Will Congress step in to save this",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F15%2F9c%2F4b14be0a4d8aa7868948f777af84%2Fcee8e63c-e8f7-42a6-90e7-1c529cfd2229.jpg"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1142,17 +1153,6 @@
       "duration": "01:09:37",
       "summary": "【主播的话】 2022年，上海普陀公证处的公证员李辰阳，开始处理一位孤寡老人的身后事。老人一生未婚，与亲属断绝往来，签了意定监护协议住进养老院，四十天后猝然离世，只留下五百万无人继承的遗产。是按法律把钱交给她生前刻意疏远的亲人，还是尊重她想捐给社会的心愿？李辰阳最终促成了一个各方都能接受的结果，这是《前浪》第二季第一集《我在天堂等你》里的故事之一，也是意定监护，这项写入民法典不过四五年的新制度，第",
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: The $100 Billion AI Assistant Race: Town vs Instinct vs GrokBot | We Spend $75K Per Engineer on AI Tools | Why the AI Assistant Market Is Not a Bubble & AI Assistants Will Replace Every App on Your Phone with JD, Founder of Town",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-the-100-billion-ai-assistant-race-town-vs-instinct-vs-grokbot-we-spend-75k-per-engineer-on-ai-tools-why-the-ai-assistant-market-is-not-a-bubble-ai-assistants-will-replace-every-app-on-your-phone-with-jd-founder-of-town",
-      "pubDate": "2026-09-07T07:07:00.000Z",
-      "duration": "01:10:54",
-      "summary": "Jean-Denis \"JD\" Grèze is the Co-Founder and CEO of Town, the AI work assistant reportedly in talks to raise funding at a $1BN valuation. Before founding Town, JD spent seven years as CTO of Plaid. Bef",
-      "art": "https://static.libsyn.com/p/assets/9/2/f/b/92fb6814e9d5e90ed959afa2a1bf1c87/WhatsApp_Image_2026-09-04_at_20.57.57.jpeg"
     },
     {
       "showId": "left-right",
