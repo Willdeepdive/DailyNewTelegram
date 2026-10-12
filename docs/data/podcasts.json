@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-12T16:54:54.568Z",
+    "updatedAt": "2026-10-12T22:01:32.106Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Martin Shkreli: Big Pharma's Blind Spot, Betting Against Quantum & What Prison Taught Him",
+      "link": "https://allinchamathjason.libsyn.com/martin-shkreli-big-pharmas-blind-spot-betting-against-quantum-what-prison-taught-him",
+      "pubDate": "2026-10-12T15:49:00.000Z",
+      "duration": "25:17",
+      "summary": "(0:00) Martin Shkreli joins the Besties! (0:55) Why quantum computing is a one-trick business and why he's betting against it (7:42) The drugs big pharma sells too cheap and his journey from hedge fun",
+      "art": "https://static.libsyn.com/p/assets/0/3/8/9/03899771e763cf5de5bbc093207a2619/Podcast_Thumbnail_-_AIS_26_2.png"
+    },
     {
       "showId": "20vc",
       "showName": "20VC",
@@ -911,17 +922,6 @@
       "duration": "01:15:34",
       "summary": "AGENDA: 03:40 Dario Calls to \"Pace the Frontier\" 11:30 Why the Fed Will Raid Anthropic if Needed 21:50 Meta Launches Muse to Take On Instinct 28:30 Instinct Raising $1BN at $10BN—Would You Invest? 39:",
       "art": "https://static.libsyn.com/p/assets/e/b/4/c/eb4c88a910c1da60e55e3c100dce7605/WhatsApp_Image_2026-09-16_at_15.41.20.jpeg"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem",
-      "link": "https://allinchamathjason.libsyn.com/brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem",
-      "pubDate": "2026-09-17T03:04:00.000Z",
-      "duration": "18:10",
-      "summary": "(0:00) Welcome Brad Gerstner! (1:01) Trump Accounts, Every Child a Capitalist & The CAC Scan (5:07) Can AI revenue pay for the CapEx? (8:53) The Build Out Issue: Gigawatts, TAM, Token Growth, and Marg",
-      "art": "https://static.libsyn.com/p/assets/a/3/b/8/a3b84e95eec0a80be55e3c100dce7605/signal-2026-09-16-23-09-12-817.jpg"
     },
     {
       "showId": "lexfridman",
