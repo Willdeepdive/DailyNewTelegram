@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-13T01:44:03.142Z",
+    "updatedAt": "2026-10-13T15:12:58.208Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "left-right",
+      "showName": "忽左忽右",
+      "category": "zh",
+      "title": "507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6acdee13195d838e2af13466?utm_source=rss",
+      "pubDate": "2026-10-13T08:55:38.000Z",
+      "duration": "01:03:53",
+      "summary": "- 导语 - 葡萄酒「盲品」是一种玄学吗？曾拿下葡萄酒盲品全国冠军的纪录片导演安德烈，即将代表中国队出征在法国举办的葡萄酒盲品世锦赛。在他的讲述里，盲品既有日常娱乐的趣味，也有严格的竞技规则。1976年的「巴黎审判」如何挑战法国人长期掌握的葡萄酒评价权威？在葡萄酒鉴赏圈，风土、审美与评判标准是从何而来？从山东烟台到云南德钦梅里，中国葡萄酒的短板与潜力又在哪里？请听本期嘉宾安德烈带来的精彩分享！ -",
+      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "How did we get a Nobel Prize in economics?",
+      "link": "https://www.npr.org/2026/10/13/nx-s1-5999497/how-did-we-get-a-nobel-prize-in-economics",
+      "pubDate": "2026-10-13T07:00:00.000Z",
+      "duration": "568",
+      "summary": "This year's Nobel Prize for Economics went to American economists Robert E. Hall and Michael Woodford! Their research focused on macroeconomic models and economic shocks. But … How did we get a Nobel ",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2Fa4%2F3acd59934cbaba2731155c46876d%2F6dca8926-ca02-47a7-954f-51840a4c4c37.png"
+    },
     {
       "showId": "allin",
       "showName": "All-In",
@@ -781,17 +803,6 @@
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "How will the US refill its dwindling oil reserves?",
-      "link": "https://www.npr.org/2026/09/22/nx-s1-5974239/how-will-the-u-s-refill-its-dwindling-oil-reserves",
-      "pubDate": "2026-09-22T07:00:00.000Z",
-      "duration": "550",
-      "summary": "Whether it’s oil from Venezuela or somewhere else, the U.S. Strategic Petroleum Reserve needs to be refilled. The SPR is widely considered critical for energy security. On today’s show, the challenges",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F90%2Fda%2F10d1b96042e79d530b1c4d88d7e9%2F1ba9a028-f205-46c6-8cdb-d8fc6eb1d686.png"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1331,17 +1342,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "493 追忆历史学家亚当·麦基翁：华人移民与现代边境制度的形成",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a8418e88156bf33621a3055?utm_source=rss",
-      "pubDate": "2026-08-18T08:42:01.000Z",
-      "duration": "01:07:50",
-      "summary": "- 导语 - 护照、签证，作为今日跨境迁移中常见的身份与准入凭证，往往被视为理所当然的存在。在历史学家麦基翁看来，现代意义上的「自由移民」并非天然自由，而是在国家权力的甄别与规训中形成。19世纪末至20世纪初，大量华人移民进入美国，并参与塑造了后来逐渐扩散至全球的移民管控制度。美国「排华法案」如何确立了移入国对移民的单方面管辖权？边境管控又如何反过来塑造华侨的国籍与民族认同？从比较研究到全球史，青",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -1749,6 +1749,28 @@
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
     },
     {
+      "showId": "acquired",
+      "showName": "Acquired",
+      "category": "tech",
+      "title": "Rolex",
+      "link": "https://www.acquired.fm/episodes/rolex",
+      "pubDate": "2026-05-03T03:34:00.000Z",
+      "duration": "17485",
+      "summary": "Rolex is a series of paradoxes. They sell obsolete and objectively inferior mechanical devices for 10-1000x the price of their superior digital successors… and demand is stronger than ever in history!",
+      "art": "https://img.transistorcdn.com/gx6fhYO1SXMFGcVkU0FWykOtdtd5kMbwLFJMSN3_WZ4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMWQ4/NjUxMmJkYTUxMzRh/Mzk4ZWYwM2UwYWNk/M2Q2Ny5wbmc.jpg"
+    },
+    {
+      "showId": "acquired",
+      "showName": "Acquired",
+      "category": "tech",
+      "title": "Costco",
+      "link": "https://www.acquired.fm/episodes/costco",
+      "pubDate": "2026-05-02T04:46:00.000Z",
+      "duration": "10409",
+      "summary": "Costco is not only Charlie Munger’s favorite company of all time (plus he’s on the board, natch), it’s an absolutely fascinating study in how seemingly opposite characteristics can combine to create i",
+      "art": "https://img.transistorcdn.com/jFPz1nSL8JfyAmY8ab_xqfZWEVOQ1VqoHhJKdxvzTEY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hMWI0/NTE4ZGMzNWQ2ODli/ZTExZDkwNjBmZjVl/ZmQ1OS5wbmc.jpg"
+    },
+    {
       "showId": "talksat",
       "showName": "Talks at GS",
       "category": "finance",
@@ -1777,7 +1799,7 @@
       "title": "Ferrari",
       "link": "https://www.acquired.fm/episodes/ferrari",
       "pubDate": "2026-04-13T03:33:59.000Z",
-      "duration": "14360",
+      "duration": "13896",
       "summary": "Ferrari is the pinnacle of luxury scarcity — across its entire 79-year history, the company has sold just 330,000 cars at an average price today of $500,000. For context, Hermès sells that many Birkin",
       "art": "https://img.transistorcdn.com/0QGXNUgszcCY1ANfR29j6wYwABqNDaHjFNi3K5p7ZOw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8yYjg2/ZjI2MTRkZGRhNWVl/ZjlkYjA2Zjg2ZWI0/NGVhZS5qcGc.jpg"
     },
@@ -1835,28 +1857,6 @@
       "duration": null,
       "summary": "Jeff Kaplan is a legendary Blizzard game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama available to wishli",
       "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
-    },
-    {
-      "showId": "acquired",
-      "showName": "Acquired",
-      "category": "tech",
-      "title": "Rolex",
-      "link": "https://www.acquired.fm/episodes/rolex",
-      "pubDate": "2026-03-05T04:34:00.000Z",
-      "duration": "17485",
-      "summary": "Rolex is a series of paradoxes. They sell obsolete and objectively inferior mechanical devices for 10-1000x the price of their superior digital successors… and demand is stronger than ever in history!",
-      "art": "https://img.transistorcdn.com/gx6fhYO1SXMFGcVkU0FWykOtdtd5kMbwLFJMSN3_WZ4/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zMWQ4/NjUxMmJkYTUxMzRh/Mzk4ZWYwM2UwYWNk/M2Q2Ny5wbmc.jpg"
-    },
-    {
-      "showId": "acquired",
-      "showName": "Acquired",
-      "category": "tech",
-      "title": "Costco",
-      "link": "https://www.acquired.fm/episodes/costco",
-      "pubDate": "2026-03-04T05:46:00.000Z",
-      "duration": "10409",
-      "summary": "Costco is not only Charlie Munger’s favorite company of all time (plus he’s on the board, natch), it’s an absolutely fascinating study in how seemingly opposite characteristics can combine to create i",
-      "art": "https://img.transistorcdn.com/jFPz1nSL8JfyAmY8ab_xqfZWEVOQ1VqoHhJKdxvzTEY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hMWI0/NTE4ZGMzNWQ2ODli/ZTExZDkwNjBmZjVl/ZmQ1OS5wbmc.jpg"
     },
     {
       "showId": "acquired",
