@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-13T15:12:58.208Z",
+    "updatedAt": "2026-10-13T20:08:38.248Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2564 - Chuck Lorre",
+      "link": "https://traffic.megaphone.fm/GLT8839252815.mp3",
+      "pubDate": "2026-10-13T17:00:00.000Z",
+      "duration": "7698",
+      "summary": "Chuck Lorre is a writer, producer, and director behind numerous hit television series, including \"The Big Bang Theory,\" \"Two and a Half Men,\" \"Young Sheldon,\" and \"Stuart Fails to Save the Universe.\" ",
+      "art": "https://megaphone.imgix.net/podcasts/d8eaec50-c6b3-11f1-8ac9-0fbd42ed0525/image/9d76a459e6782bb5bdcfae45b272134a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "left-right",
       "showName": "忽左忽右",
@@ -1120,17 +1131,6 @@
       "duration": "8645",
       "summary": "Daniel Kokotajlo is the executive director of the AI Futures Project and a former governance researcher at OpenAI, where he focused on scenario planning.www.aifuturesmodel.com https://ai-2040.comhttps",
       "art": "https://megaphone.imgix.net/podcasts/4a7504f8-abd6-11f1-922a-8727e0ad3325/image/d71f5070ed18919a32f495bfeba3376d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2550 - Rick Springfield",
-      "link": "https://traffic.megaphone.fm/GLT5567898828.mp3",
-      "pubDate": "2026-09-08T17:00:00.000Z",
-      "duration": "8733",
-      "summary": "Rick Springfield is a Grammy Award-winning musician, actor, and author. In addition to his work as a solo artist, Springfield fronts the rock supergroup The Locustz. Their most recent album, “Buzzkill",
-      "art": "https://megaphone.imgix.net/podcasts/3b71cc92-ab23-11f1-bc29-3ba1f2c16d91/image/e880cbe32720950d5d161534ef00d664.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "left-right",
