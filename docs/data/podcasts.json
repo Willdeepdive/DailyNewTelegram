@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-14T12:59:29.124Z",
+    "updatedAt": "2026-10-14T18:25:11.436Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -165,10 +165,21 @@
   ],
   "episodes": [
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2565 - Michael Douglas",
+      "link": "https://traffic.megaphone.fm/GLT7323005226.mp3",
+      "pubDate": "2026-10-14T17:00:00.000Z",
+      "duration": "8185",
+      "summary": "Michael Douglas is an actor, producer, writer, and philanthropist whose film and television credits include \"Wall Street,\" \"Fatal Attraction,\" \"Basic Instinct,\" \"Behind the Candelabra,\" and \"The Komin",
+      "art": "https://megaphone.imgix.net/podcasts/bbd0bd42-c77c-11f1-a9b0-8fbfdfb1c3d8/image/f711426401759dc42b9c6de2fa699a4a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
-      "title": "Is It Wrong to Love a Chatbot?",
+      "title": "Is It a Relationship if No One’s on the Other Side?",
       "link": "https://www.nytimes.com/2026/10/14/opinion/ezra-klein-podcast-sherry-turkle.html",
       "pubDate": "2026-10-14T09:00:00.000Z",
       "duration": "01:14:50",
@@ -1131,17 +1142,6 @@
       "duration": "01:18:07",
       "summary": "AGENDA: 00:00 Jensen Huang Declares AGI Has Arrived 04:05 Instinct and GrokBot Ignite the AI Assistant War 13:32 OpenAI's GPT Astra Redefines What AGI Means 26:00 GPT Astra and Fable 5.1 Accelerate th",
       "art": "https://static.libsyn.com/p/assets/2/b/1/0/2b1072dcf5bfcf93d959afa2a1bf1c87/WhatsApp_Image_2026-09-09_at_17.14.28.jpeg"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2551 - Daniel Kokotajlo",
-      "link": "https://traffic.megaphone.fm/GLT7087453482.mp3",
-      "pubDate": "2026-09-09T17:00:00.000Z",
-      "duration": "8645",
-      "summary": "Daniel Kokotajlo is the executive director of the AI Futures Project and a former governance researcher at OpenAI, where he focused on scenario planning.www.aifuturesmodel.com https://ai-2040.comhttps",
-      "art": "https://megaphone.imgix.net/podcasts/4a7504f8-abd6-11f1-922a-8727e0ad3325/image/d71f5070ed18919a32f495bfeba3376d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "left-right",
