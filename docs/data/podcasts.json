@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-14T22:52:26.396Z",
+    "updatedAt": "2026-10-15T12:46:21.989Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,50 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "bg2pod",
+      "showName": "BG2Pod",
+      "category": "vc",
+      "title": "Jensen Huang | Does AI Revenue Justify Capex, '27 AI Bottlenecks, Singularity, Open vs Closed & more",
+      "link": "https://podcasters.spotify.com/pod/show/bg2pod/episodes/Jensen-Huang--Does-AI-Revenue-Justify-Capex--27-AI-Bottlenecks--Singularity--Open-vs-Closed--more-e3qhfl4",
+      "pubDate": "2026-10-15T10:00:00.000Z",
+      "duration": "01:39:52",
+      "summary": "Can AI revenues justify the spending? Jensen Huang breaks down the biggest bottlenecks heading into 2027, the path to the singularity, open vs. closed models, and why he’s 99.99% optimistic about the ",
+      "art": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40236188/40236188-1706073929930-da002b9be1355.jpg"
+    },
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: The Pro-Rata Battle: Valar Atomics Sues Day One Ventures | Meta Returns to the AI Frontier With Muse Wonder | NVIDIA Eyes $30B Reflection Deal & Jev Raises $870M at a $7.5B Valuation",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-the-pro-rata-battle-valar-atomics-sues-day-one-ventures-meta-returns-to-the-ai-frontier-with-muse-wonder-nvidia-eyes-30b-reflection-deal-jev-raises-870m-at-a-75b-valuation",
+      "pubDate": "2026-10-15T07:07:00.000Z",
+      "duration": "01:13:20",
+      "summary": "AGENDA: 04:00 Valar Atomics Sues Seed Investor Day One Ventures Over Pro Rata 17:00 Meta Returns to the AI Frontier With Muse Wonder 20:00 NVIDIA Eyes $30B Reflection Deal as Amazon Circles Decart 26:",
+      "art": "https://static.libsyn.com/p/assets/3/e/7/c/3e7c39b4c7cb008b5f2e77a3093c12a1/WhatsApp_Image_2026-10-14_at_16.57.59.jpeg"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "How did political campaigns get so expensive?",
+      "link": "https://www.npr.org/2026/10/15/nx-s1-6002938/how-did-political-campaigns-get-so-expensive",
+      "pubDate": "2026-10-15T07:00:00.000Z",
+      "duration": "492",
+      "summary": "The 2026 midterm elections are fast approaching, and it’s gearing up to be the most expensive election in American history. So how did we get here, where every election feels more expensive than the l",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2F1f%2F908891564f96b5afc9857b807b16%2F1521ace1-3635-4bde-89a4-a266ee1f6a14.jpg"
+    },
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Elizabeth Holmes' Husband Billy Evans: The Trial, Prison & Nathan Fielder's Documentary",
+      "link": "https://allinchamathjason.libsyn.com/elizabeth-holmes-husband-billy-evans-the-trial-prison-nathan-fielders-documentary",
+      "pubDate": "2026-10-15T01:54:00.000Z",
+      "duration": "41:55",
+      "summary": "(0:00) Billy Evans joins Friedberg (3:38) How they met, Elizabeth the person vs the headlines, indictment (11:02) Life on trial, having a child, where she went wrong in fundraising (19:28) Understandi",
+      "art": "https://static.libsyn.com/p/assets/9/3/a/e/93ae5febfd8efeb75f2e77a3093c12a1/1_Pod_AIS_Evans.png"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -748,17 +792,6 @@
       "art": "https://static.libsyn.com/p/assets/d/9/0/b/d90ba3ef0594008ce5bbc093207a2619/WhatsApp_Image_2026-09-23_at_16.31.48.jpeg"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "What Doordash, Dell and Palantir all have in common",
-      "link": "https://www.npr.org/2026/09/24/nx-s1-5979093/what-doordash-dell-and-palantir-all-have-in-common",
-      "pubDate": "2026-09-24T07:00:00.000Z",
-      "duration": "462",
-      "summary": "President Trump and his money managers made more stock trades since his second term started than all members of Congress combined . The White House says there is no conflict of interest. Today on the ",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2Fd2%2Fc4bd7a6a4348ac1a614571b1b1f6%2F0162a3ae-c458-4e8f-89cd-f0f3c02c1358.jpg"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -933,17 +966,6 @@
       "duration": "32:32",
       "summary": "(0:00) Nick Shirley debuts his new video: \"Inside California's High Speed Rail to Nowhere\" (11:42) Nick joins The Besties to discuss California's \"Stop Nick Shirley Act\" and recent fraud arrests (17:0",
       "art": "https://static.libsyn.com/p/assets/8/9/7/8/897867a4e87f7793e5bbc093207a2619/1_Pod_NickShirley.png"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Meta's Dina Powell McCormick: The Case for Data Centers, Backlash, AI Job Boom & Meta's Future",
-      "link": "https://allinchamathjason.libsyn.com/metas-dina-powell-mccormick-the-case-for-data-centers-backlash-ai-job-boom-metas-future",
-      "pubDate": "2026-09-17T16:54:00.000Z",
-      "duration": "43:52",
-      "summary": "(0:00) Dina Powell McCormick joins The Besties! (1:52) Impact of Meta's data center in Richland Parish, LA: $50K teacher checks, revitalizing a small town community (11:52) How Meta is alleviating dat",
-      "art": "https://static.libsyn.com/p/assets/9/e/2/2/9e224027d12228d85f2e77a3093c12a1/1_Pod_DPM.png"
     },
     {
       "showId": "etw",
@@ -1131,17 +1153,6 @@
       "duration": "2:27:38",
       "summary": "本期节目是声东击西「十周年」特别系列的第二期，在这个系列中，我们通过访谈那些亲历结构性变化并拥有独特观察的嘉宾们，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理解今天，又如何辨认出那些塑造未来的力量。 今年七月，徐涛前往了美国加州的佛利蒙市（Fremont），在那里采访了佛利蒙市市议员、前副市长邵阳。 过去十多年，邵阳亲历了美国地方政治中的许多具体变化：从关注华人家庭与学生的教育问题、竞",
       "art": "https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/f/f96bdc7a-c667-4594-8719-2070d24f8231/cover.jpg?v=1"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: Jensen Huang Declares AGI Has Arrived | GPT Astra and Fable 5.1 Accelerate the Model Race | Tesla Launches Cybercabs | Index Pulls Out of Town & Anthropic Pulls From Descartes Acquisition",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-declares-agi-has-arrived-gpt-astra-and-fable-51-accelerate-the-model-race-tesla-launches-cybercabs-index-pulls-out-of-town-anthropic-pulls-from-descartes-acquisition",
-      "pubDate": "2026-09-10T07:07:00.000Z",
-      "duration": "01:18:07",
-      "summary": "AGENDA: 00:00 Jensen Huang Declares AGI Has Arrived 04:05 Instinct and GrokBot Ignite the AI Assistant War 13:32 OpenAI's GPT Astra Redefines What AGI Means 26:00 GPT Astra and Fable 5.1 Accelerate th",
-      "art": "https://static.libsyn.com/p/assets/2/b/1/0/2b1072dcf5bfcf93d959afa2a1bf1c87/WhatsApp_Image_2026-09-09_at_17.14.28.jpeg"
     },
     {
       "showId": "left-right",
@@ -2131,17 +2142,6 @@
       "pubDate": "2025-05-22T16:23:05.000Z",
       "duration": "01:16:27",
       "summary": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they discuss the overturning of the AI Diffusion Rule, Brad’s trip to the M",
-      "art": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40236188/40236188-1706073929930-da002b9be1355.jpg"
-    },
-    {
-      "showId": "bg2pod",
-      "showName": "BG2Pod",
-      "category": "vc",
-      "title": "Tariffs, Free Trade, Export Controls, H20 & Rare Earth Ban | BG2 w/ Bill Gurley & Brad Gerstner",
-      "link": "https://podcasters.spotify.com/pod/show/bg2pod/episodes/Tariffs--Free-Trade--Export-Controls--H20--Rare-Earth-Ban--BG2-w-Bill-Gurley--Brad-Gerstner-e31vheo",
-      "pubDate": "2025-04-24T21:14:35.000Z",
-      "duration": "01:02:36",
-      "summary": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they revisit arguments about free trade, and discuss updates on tariff negot",
       "art": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40236188/40236188-1706073929930-da002b9be1355.jpg"
     }
   ]
