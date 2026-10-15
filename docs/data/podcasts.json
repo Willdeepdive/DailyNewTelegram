@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-15T18:07:27.460Z",
+    "updatedAt": "2026-10-15T22:47:11.441Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -174,6 +174,17 @@
       "duration": "10261",
       "summary": "Cody Tucker is the host of \"The Cody Tucker Show\" and \"Rewind and Repeat with Cody Tucker\" podcasts and author of \"And Now You Know: Mind-Blowing Stories from History and Pop Culture.\" His new book, \"",
       "art": "https://megaphone.imgix.net/podcasts/fef1382e-c842-11f1-ac58-43ecb7ca04ed/image/619ee177a144f2f77fc0c09865dd51db.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "bg2pod",
+      "showName": "BG2Pod",
+      "category": "vc",
+      "title": "Jensen Huang | Does AI Revenue Justify Capex, '27 AI Bottlenecks, Singularity, Open vs Closed & more",
+      "link": "https://podcasters.spotify.com/pod/show/bg2pod/episodes/Jensen-Huang--Does-AI-Revenue-Justify-Capex--27-AI-Bottlenecks--Singularity--Open-vs-Closed--more-e3qhfl4",
+      "pubDate": "2026-10-15T10:00:00.000Z",
+      "duration": "01:39:52",
+      "summary": "Can AI revenues justify the spending? Jensen Huang breaks down the biggest bottlenecks heading into 2027, the path to the singularity, open vs. closed models, and why he’s 99.99% optimistic about the ",
+      "art": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40236188/40236188-1706073929930-da002b9be1355.jpg"
     },
     {
       "showId": "20vc",
@@ -2131,17 +2142,6 @@
       "pubDate": "2025-05-22T16:23:05.000Z",
       "duration": "01:16:27",
       "summary": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week, they discuss the overturning of the AI Diffusion Rule, Brad’s trip to the M",
-      "art": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40236188/40236188-1706073929930-da002b9be1355.jpg"
-    },
-    {
-      "showId": "bg2pod",
-      "showName": "BG2Pod",
-      "category": "vc",
-      "title": "Tariffs, Free Trade, Export Controls, H20 & Rare Earth Ban | BG2 w/ Bill Gurley & Brad Gerstner",
-      "link": "https://podcasters.spotify.com/pod/show/bg2pod/episodes/Tariffs--Free-Trade--Export-Controls--H20--Rare-Earth-Ban--BG2-w-Bill-Gurley--Brad-Gerstner-e31vheo",
-      "pubDate": "2025-04-24T21:14:35.000Z",
-      "duration": "01:02:36",
-      "summary": "Open Source bi-weekly convo w/ Bill Gurley and Brad Gerstner on all things tech, markets, investing & capitalism. This week they revisit arguments about free trade, and discuss updates on tariff negot",
       "art": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40236188/40236188-1706073929930-da002b9be1355.jpg"
     }
   ]
