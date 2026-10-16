@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-16T12:38:28.545Z",
+    "updatedAt": "2026-10-16T17:54:32.720Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -159,21 +159,32 @@
       "id": "etw",
       "name": "声东击西",
       "category": "zh",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4",
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4",
       "link": "https://etw.fm"
     }
   ],
   "episodes": [
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2567 - Mariana van Zeller",
+      "link": "https://traffic.megaphone.fm/GLT2143664668.mp3",
+      "pubDate": "2026-10-16T17:00:00.000Z",
+      "duration": "9017",
+      "summary": "Mariana van Zeller is a Peabody and Emmy Award-winning journalist whose credits include \"Trafficked with Mariana van Zeller,\" \"The OxyContin Express,\" and \"Inside Secret America.\" She is also the host",
+      "art": "https://megaphone.imgix.net/podcasts/3c876c6c-c94c-11f1-b243-eb26db00851d/image/ebec094f37ff19b138a6b62b98c76582.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
       "title": "#407 今年的诺奖让我们离理解大脑、情绪和精神疾病更近了吗？",
-      "link": "https://etw.fm/2227",
+      "link": "https://etw.fm/2227-2026-noble-prize",
       "pubDate": "2026-10-16T10:00:00.000Z",
-      "duration": "1:40:32",
+      "duration": "1:40:02",
       "summary": "焦虑、抑郁、ADHD……我们越来越熟悉这些词，也经常用它们描述自己的状态。但当这些感受出现时，我们的大脑里究竟发生了什么？为什么同样被诊断为抑郁症，不同的人会有不同的表现，治疗也往往需要反复尝试？ 今年的诺贝尔生理学或医学奖，让一项用光调控神经细胞的技术——光遗传学——走进了更多人的视野。这项技术让研究者能够用光调控特定神经细胞的活动，进一步探索神经回路与情绪、记忆和行为之间的因果关系。 这一期节",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "left-right",
@@ -437,7 +448,7 @@
       "pubDate": "2026-10-08T11:45:00.000Z",
       "duration": "1:01:44",
       "summary": "来和「声东击西」一起线下庆祝十周年吧！ 从 10 月 10 日至 12 月 9 日，我们将和「岩时攀岩」一起，在北京、上海、杭州三座城市的活动门店，推出「声东击西」的十周年定制攀岩线路。 如果你本来就攀岩，欢迎来到线下爬一爬这条线，参加打卡体验活动并带走一份小礼物；即使不会攀岩也没关系，因为我们就是想要换一种方式和你一起庆祝十周年，所以即使不上墙，只是拍照打卡，也能带走一份属于十周年的小纪念。 除",
-      "art": "https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/2/2f9cb979-23b4-4112-b345-4cb9fd31014b/cover.jpg?v=1"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/2/2f9cb979-23b4-4112-b345-4cb9fd31014b/cover.jpg?v=1"
     },
     {
       "showId": "20vc",
@@ -1020,7 +1031,7 @@
       "pubDate": "2026-09-17T11:15:00.000Z",
       "duration": "1:15:09",
       "summary": "图们江边的一家交通旅社里，挂着一条双语横幅：「牲畜越境，请勿擅自处理。」在地图上，国界通常被画成一条清晰的线，而牲畜不懂国界，只认水草丰美的方向；可人呢？一个非此即彼、排他性的边界，真的存在吗？ 图们江作为边界已延续数百年，河流没有改变，人们认识边界的方式却不断变化。清朝与朝鲜都曾严禁越境，但当晚清面对俄罗斯扩张威胁时，清朝又开始将渡江垦荒的朝鲜人纳入「我民」。进入现代国家体系后，国籍、户籍和证件",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "20vc",
@@ -1100,17 +1111,6 @@
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2553 - Andrew Huberman",
-      "link": "https://traffic.megaphone.fm/GLT4909015971.mp3",
-      "pubDate": "2026-09-14T17:00:00.000Z",
-      "duration": "9958",
-      "summary": "Andrew Huberman, PhD, is a neuroscientist, author, and host of the \"Huberman Lab\" podcast. His latest book, \"Protocols: An Operating Manual for the Human Body,\" will be available on September 22.www.s",
-      "art": "https://megaphone.imgix.net/podcasts/019e9130-afb5-11f1-ba2a-77da5f707852/image/e96ac952ee0bbbd2060e7ba9d4f8a932.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
       "showId": "20vc",
       "showName": "20VC",
       "category": "vc",
@@ -1185,7 +1185,7 @@
       "pubDate": "2026-09-10T09:30:00.000Z",
       "duration": "2:27:38",
       "summary": "本期节目是声东击西「十周年」特别系列的第二期，在这个系列中，我们通过访谈那些亲历结构性变化并拥有独特观察的嘉宾们，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理解今天，又如何辨认出那些塑造未来的力量。 今年七月，徐涛前往了美国加州的佛利蒙市（Fremont），在那里采访了佛利蒙市市议员、前副市长邵阳。 过去十多年，邵阳亲历了美国地方政治中的许多具体变化：从关注华人家庭与学生的教育问题、竞",
-      "art": "https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/f/f96bdc7a-c667-4594-8719-2070d24f8231/cover.jpg?v=1"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/f/f96bdc7a-c667-4594-8719-2070d24f8231/cover.jpg?v=1"
     },
     {
       "showId": "left-right",
@@ -1240,7 +1240,7 @@
       "pubDate": "2026-09-03T10:00:00.000Z",
       "duration": "45:16",
       "summary": "80 年前，国泰航空第一架飞机 Betsy 降落上海龙华机场；80 年后，一场关于飞行的对谈，在这片曾经的机场旧址展开：从最初连接几座城市的货运与客运航线，到今天遍布世界的航空网络，一架飞机、一座机场，一条航线如何改变人们抵达远方的方式，又如何深刻影响一座城市的发展，乃至一个国家与世界之间的关系？ 8月末，在「国泰航空八十周年庆典」现场，国泰航空联合「声东击西」进行了一场线下圆桌。我们邀请到了北京",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "left-right",
@@ -1317,7 +1317,7 @@
       "pubDate": "2026-08-27T10:45:00.000Z",
       "duration": "41:21",
       "summary": "当最基本的粮食援助可能在几周后停止，生活在南苏丹难民营里的人们，接下来要靠什么活下去？ 2026 年 8 月，联合国世界粮食计划署与联合国难民署发出警告：由于人道主义援助资金严重不足，南苏丹超过 24 万名难民和寻求庇护者可能在数周内失去粮食援助，其中绝大多数是妇女和儿童。 本期节目，我们采访了正在世界粮食计划署（WFP）南苏丹国家办公室工作的王宏锐。不久前，他第一次前往位于南苏丹西北部阿维尔的难",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "lexfridman",
@@ -1361,7 +1361,7 @@
       "pubDate": "2026-08-20T11:15:00.000Z",
       "duration": "1:16:46",
       "summary": "1956 年夏天，一群年轻研究者聚在美国东北部的达特茅斯学院，他们原本想用几周时间，解决「如何创造一台思考机器」的问题，但聚会很快丢掉了日程表：有人只来几天，教室里最多的时候只有八个人，最后也没有形成明确共识。这样一场看似松散、甚至没有明确成果的聚会，为什么后来被公认为为「人工智能」（ Artificial Intelligence ）的起点？ 在持续约八周的讨论中，符号主义、神经网络与概率推理等",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "etw",
@@ -1372,7 +1372,7 @@
       "pubDate": "2026-08-13T08:15:00.000Z",
       "duration": "1:00:36",
       "summary": "去年12月，澳大利亚实施全球首个针对16岁以下未成年人的社交媒体禁令，此后不久，法国、英国、西班牙等更多国家便相继跟进。但反对者的声音也随之而来。他们认为禁令本身难以执行、年龄划分过于一刀切，更关键的是，科学尚未证明社交媒体与青少年心理问题之间存在明确的因果关系。然而，这些反对的理由真的成立吗？ 今年3月，社交媒体迎来「大烟草时刻」。被视为风向标的 K.G.M. v. Meta et al. 一案",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "lexfridman",
@@ -1416,7 +1416,7 @@
       "pubDate": "2026-08-06T11:30:00.000Z",
       "duration": "2:08:08",
       "summary": "2016年10月末，「声东击西」第一期节目上线；到2026年10月末，「声东击西」将更新整整十年。在这十年中，我们采访了很多身处变化之中的人，也和大家一起经历了一个不断变化和转向的世界。 十周年之际，我们的确想做一些特别节目，但不太想只做一次简单回顾。所以我们决定还是用「声东击西」熟悉的形式，通过访谈那些亲历结构性变化并拥有独特观察的嘉宾们，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理",
-      "art": "https://assets.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/b/b8cd9085-c37e-4dd3-92d7-5d7be257f078/cover.jpg?v=1"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/b/b8cd9085-c37e-4dd3-92d7-5d7be257f078/cover.jpg?v=1"
     },
     {
       "showId": "talksat",
@@ -1493,7 +1493,7 @@
       "pubDate": "2026-07-16T10:15:00.000Z",
       "duration": "52:06",
       "summary": "特朗普政府收紧移民政策、暂停难民接收后，南非白人却成了少数例外：一些人以「难民」身份进入美国，另一些人拿着农业签证，来到密西西比的农场工作。为什么偏偏是他们？ 今年 4 月，刘骁骞前往密西西比州中部的农业地区。在黄昏的加油站和餐馆里，穿着卡其色短裤的南非白人劳工陆续出现，聚在吧台旁喝酒；有人从早上 6 点工作到晚上 8 点，握手时指甲缝里还沾满泥土。更高的收入之外，围绕本地就业、工资差异和种族问题",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "etw",
@@ -1504,7 +1504,7 @@
       "pubDate": "2026-07-14T07:00:00.000Z",
       "duration": "53:20",
       "summary": "7 月 7 日至 8 日，北约峰会在土耳其安卡拉举行。美国总统特朗普在会议开场就因为军费问题向盟友施压，威胁切断与西班牙的贸易，甚至再次提起格陵兰岛的主权归属。随着「美国优先」与「欧洲自主」理念的碰撞，本次会议成了我们观察「北约是否已经脑死亡？」争论的关键窗口。 从会议内容上看，理念的碰撞似乎并不意味着联盟走向瓦解。从人工智能与军事能力的进一步结合，到美欧围绕防务支出、军工产业和全球责任展开新的博",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "etw",
@@ -1515,7 +1515,7 @@
       "pubDate": "2026-07-09T09:30:00.000Z",
       "duration": "59:18",
       "summary": "十年前的 6 月 23 日，英国以 51.9% 对 48.1% 的公投结果决定退出欧盟，十年后的当下，这个国家却似乎比任何时候都要显得迷茫。 来自工党的基尔·斯塔默宣布辞去首相职务，英国将在 10 年间迎来第 7 位首相。从穿衣的仪式感、王室的余晖，到「拿回控制权」的脱欧口号，英国一直在用各种方式证明自己“与众不同”——可当经济基础再也撑不起这套身份叙事，这个曾经的日不落帝国，究竟还能靠什么找到自",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "weirdo",
@@ -1537,7 +1537,7 @@
       "pubDate": "2026-07-02T08:30:00.000Z",
       "duration": "1:02:31",
       "summary": "以色列的多面战线正越扩越大。在刚刚过去的 6 月 30 日，以色列总理内塔尼亚胡在采访中赞扬以色列「近年来取得的军事成就」，坦言这场战斗「永无止境」。而仅仅一周前，联合国人权理事会发布的最新报告显示，自 2023 年 10 月以来，因为以色列的行动，加沙已有近 7.5 万人非正常死亡，其中儿童约 2 万人。 如果仔细盘点，以色列同时深陷加沙、黎巴嫩、叙利亚、也门、伊朗、约旦河西岸等多条战线。战争之",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "talksat",
@@ -1592,7 +1592,7 @@
       "pubDate": "2026-06-25T09:30:00.000Z",
       "duration": "1:19:14",
       "summary": "为什么磕 cp 比谈恋爱更快乐？为什么追星让人上头欲罢不能？为什么说这种现象，正展现出我们这个时代「爱」这种最私人的感情也正在发生结构性变化？ 在社交媒体、流量算法与情感商品化的层层作用下，「爱」这个原本属于私人领域的情感，正在被一步步地公共化、量化，乃至商品化 —— 从磕 CP 到情感专制，从乙女游戏到 AI 恋人，爱的形式与爱的能力似乎都在被重新定义。 这一期节目，我们邀请到复旦大学社会学系副",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "weirdo",
@@ -1636,7 +1636,7 @@
       "pubDate": "2026-06-18T06:00:00.000Z",
       "duration": "1:02:39",
       "summary": "当屏幕、AI 甚至算法越来越多地进入孩子们的生活，现在的「玩」和我们儿时的「玩」还是一个概念吗？ 《玩具总动员》系列从 1995 年走到今天，30 年间，它讨论过友谊、成长、告别……这一次，它把目光投向了一个非常当下的问题 —— 数字时代的童年，「玩」这件事正在发生怎样的改变，今天的我们又应该如何看待「玩」在人类成长过程中扮演的角色？ 这期节目，我们想借《玩具总动员 5》的上映来认真聊一聊：从儿童",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "bg2pod",
