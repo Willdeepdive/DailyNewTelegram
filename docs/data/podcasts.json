@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-15T22:47:11.441Z",
+    "updatedAt": "2026-10-16T12:38:28.545Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,50 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "etw",
+      "showName": "声东击西",
+      "category": "zh",
+      "title": "#407 今年的诺奖让我们离理解大脑、情绪和精神疾病更近了吗？",
+      "link": "https://etw.fm/2227",
+      "pubDate": "2026-10-16T10:00:00.000Z",
+      "duration": "1:40:32",
+      "summary": "焦虑、抑郁、ADHD……我们越来越熟悉这些词，也经常用它们描述自己的状态。但当这些感受出现时，我们的大脑里究竟发生了什么？为什么同样被诊断为抑郁症，不同的人会有不同的表现，治疗也往往需要反复尝试？ 今年的诺贝尔生理学或医学奖，让一项用光调控神经细胞的技术——光遗传学——走进了更多人的视野。这项技术让研究者能够用光调控特定神经细胞的活动，进一步探索神经回路与情绪、记忆和行为之间的因果关系。 这一期节",
+      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+    },
+    {
+      "showId": "left-right",
+      "showName": "忽左忽右",
+      "category": "zh",
+      "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6ad1e13c0e4e410a05bdd935?utm_source=rss",
+      "pubDate": "2026-10-16T09:17:07.000Z",
+      "duration": "01:35:22",
+      "summary": "- 导语 - 纵横国际关系学界的相蓝欣教授，曾长期在日内瓦任教，并与基辛格等外交政策圈人士保持交往。从陪同《凯恩斯传》作者、俄裔学者斯基德尔斯基重返哈尔滨，到走进五角大楼与美国战略大师安德鲁·马歇尔长谈，相蓝欣在本期节目中分享了诸多国际政治掌故，以及对当下中美欧关系的观察。他为何判断北约已进入「最后的倒计时」？如何从「三个特朗普」框架和WWE表演模式理解特朗普的外交手段？戴高乐如何影响了基辛格而基",
+      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
+    },
+    {
+      "showId": "ezraklein",
+      "showName": "The Ezra Klein Show",
+      "category": "politics",
+      "title": "Is There an A.I. Bubble? A Debate.",
+      "link": "https://www.nytimes.com/2026/10/16/opinion/ezra-klein-podcast-azeem-azhar-paul-kedrosky.html",
+      "pubDate": "2026-10-16T09:00:00.000Z",
+      "duration": "01:07:29",
+      "summary": "The gargantuan bet on the future of A.I. is driving the U.S. stock market and economic growth. And the building of data centers is sucking up so many construction resources, it’s crowding out the cons",
+      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Supercore inflation, Bumble valuation and Pooh's repatriation",
+      "link": "https://www.npr.org/2026/10/16/nx-s1-6004278/supercore-inflation-bumble-valuation-and-poohs-repatriation",
+      "pubDate": "2026-10-16T07:00:00.000Z",
+      "duration": "553",
+      "summary": "This week’s indicators: Why is inflation so super (derogatory)? How did Bumble go from dating app doldrums to a stock market sweetheart?; And oh, bother! Could Winnie the Pooh be moving home to Englan",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2Ff3%2Fd44d9d2244248a0eb1ead2be5af0%2Fa0fde56c-f4ef-4c40-8501-66a2fdb83f5d.png"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -770,17 +814,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Unaffordability index: Rent, GLP-1s, Obamacare",
-      "link": "https://www.npr.org/2026/09/25/nx-s1-5980410/unaffordability-index-rent-glp-1s-obamacare",
-      "pubDate": "2026-09-25T07:00:00.000Z",
-      "duration": "550",
-      "summary": "This week’s indicators: Rent is squeezing middle-income earners, the Trump admin is squeezing ACA enrollees, and GLP-1s are squeezing employers. Fact checking by Julia Ritchey. Your Next Listen — Why ",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F39%2F67%2F110b9c6c4cfeb107dcd9e83fe259%2Ff6dbaa6c-094f-4104-82e8-b8f0e8fc8653.png"
-    },
-    {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
       "category": "general",
@@ -1320,28 +1353,6 @@
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "494 张诗坪谈战争史视角下的秦末汉初混战",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a881352ef65145dfcc323d4?utm_source=rss",
-      "pubDate": "2026-08-21T09:07:42.000Z",
-      "duration": "01:38:33",
-      "summary": "- 导语 - 在传统历史叙事中，秦亡汉兴的故事常常呈现出鲜明的脸谱画像，历史作家张诗坪长期关注古代战争史，在梳理秦末各路势力的兴衰过程中，重新审视了项羽、刘邦、韩信等关键人物在后世叙事中被塑造的形象。项羽是否真的头脑简单？巨鹿之战是以少胜多吗？秦军战斗力本来就不如关东联军？项羽在楚汉战争中的表现已属惊人，本该更早战败？从更广阔的欧亚大陆视角来看，秦汉之际的骑兵战术与东西方军事交流之间可能存在怎样的",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
-      "showId": "ezraklein",
-      "showName": "The Ezra Klein Show",
-      "category": "politics",
-      "title": "The China Shock 2.0",
-      "link": "https://www.nytimes.com/2026/08/21/opinion/ezra-klein-podcast-brad-setser.html",
-      "pubDate": "2026-08-21T09:00:00.000Z",
-      "duration": "01:05:33",
-      "summary": "Brad Setser follows Chinese trade closer than just about anyone else on earth, and he thinks we’re in the early days of a China Shock 2.0. The first China Shock was when China came to dominate low-end",
-      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -1637,17 +1648,6 @@
       "duration": "01:20:47",
       "summary": "Brad Gerstner sits down with Gavin Baker and Andrew Fox of Atreides Management, alongside Altimeter partner Clark Tang, to break down one of the biggest questions in tech and markets: how should inves",
       "art": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40236188/40236188-1706073929930-da002b9be1355.jpg"
-    },
-    {
-      "showId": "etw",
-      "showName": "声东击西",
-      "category": "zh",
-      "title": "#392 世界杯折射的「美国例外论」：一届赛事如何照见一个国家的此刻",
-      "link": "https://etw.fm/2026worldcup",
-      "pubDate": "2026-06-11T11:00:00.000Z",
-      "duration": "1:00:36",
-      "summary": "「美国例外论」如何体现在正在进行的「美加墨世界杯」中？2026 男子足球世界杯正在美国、加拿大、墨西哥三国联合举办的赛场上开幕。但在开赛之前一周，最大的东道主城市洛杉矶街头却依然找不到太多世界杯的痕迹。一届史上规模最大的世界杯，为什么在它最重要的承办城市如此安静？ 9 年前，三国联合申办时向外界传递的信息是合作、开放、团结如一。但 9 年之后的今天，美国的对外政策显然已经走向了另一个方向，并且作为",
-      "art": "https://media24.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "weirdo",
