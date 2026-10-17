@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-16T22:20:16.752Z",
+    "updatedAt": "2026-10-17T11:42:39.630Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Horizontal vs Vertical Agents: Who Wins | Model Routing: Commodity or Increasing in Value | The Future of the Inference Market | Why Founders Should Take Discounts for Tier 1 Firms with Harrison Chase, LangChain",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain",
+      "pubDate": "2026-10-17T07:07:00.000Z",
+      "duration": "01:01:49",
+      "summary": "Harrison Chase is the co-founder and CEO of LangChain, which helps developers build, test and deploy AI agents. Backed by Sequoia Capital, Benchmark and IVP, LangChain has announced approximately $160",
+      "art": "https://static.libsyn.com/p/assets/5/7/e/3/57e3d06286258cbe5f2e77a3093c12a1/WhatsApp_Image_2026-10-16_at_14.04.46.jpeg"
+    },
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+      "link": "https://allinchamathjason.libsyn.com/coreweave-crash-ai-trade-cracks-anthropic-ipo-red-flags-bill-gates-doomer",
+      "pubDate": "2026-10-17T01:51:00.000Z",
+      "duration": "01:34:06",
+      "summary": "(0:00) Ben Horowitz fills in for Friedberg! (2:18) CoreWeave's debt selloff: did the AI bubble just pop? (31:14) AI's deflationary impact: decompiled software (45:44) Anthropic's investor day gets mix",
+      "art": "https://static.libsyn.com/p/assets/c/b/d/8/cbd880726b042b345f2e77a3093c12a1/1_Pod_E293.png"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -1012,17 +1034,6 @@
       "art": "https://static.libsyn.com/p/assets/0/6/d/8/06d80148b6dff5d6e5bbc093207a2619/1_Pod_Jared_1.png"
     },
     {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Nick Shirley: Exposing Government Fraud, Suing California & Taking on the Media",
-      "link": "https://allinchamathjason.libsyn.com/nick-shirley-exposing-government-fraud-suing-california-taking-on-the-media",
-      "pubDate": "2026-09-18T00:30:00.000Z",
-      "duration": "32:32",
-      "summary": "(0:00) Nick Shirley debuts his new video: \"Inside California's High Speed Rail to Nowhere\" (11:42) Nick joins The Besties to discuss California's \"Stop Nick Shirley Act\" and recent fraud arrests (17:0",
-      "art": "https://static.libsyn.com/p/assets/8/9/7/8/897867a4e87f7793e5bbc093207a2619/1_Pod_NickShirley.png"
-    },
-    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -1142,17 +1153,6 @@
       "duration": "01:16:56",
       "summary": "【主播的话】 今年八月，哲学学者王小伟出版了新书《重新回到生活：科技时代的工作、情绪、爱情和死亡》。在这本书中，他把目光投向工作、情绪、爱情这些领域，而 AI 正以前所未有的速度介入其中。 AI 会成为我们的爱人吗？王小伟说，人与人之间最特殊之处，是愿意为另一个人付出人格成本；而 AI 没有脆弱、没有恐惧、也不会死去，无法与我们构成真正的共同经验。可正是这种无损耗的陪伴，让越来越多人觉得比真实关系",
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: 7 Predictions for How AI Changes the World: Labour, Engineering, Social Media, GrokBots Buying Cybercabs and more with Matteo Franceschetti, Co-Founder @ Eight Sleep",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-7-predictions-for-how-ai-changes-the-world-labour-engineering-social-media-grokbots-buying-cybercabs-and-more-with-matteo-franceschetti-co-founder-eight-sleep",
-      "pubDate": "2026-09-12T07:07:00.000Z",
-      "duration": "01:15:43",
-      "summary": "AGENDA: 04:30 How Do You Hire Exceptional People in the AI Era? 08:00 What Actually Works in Growth—and Why Can't You Trust Meta's Numbers? 17:00 How to Run Hundreds of Millions in Marketing with Zero",
-      "art": "https://static.libsyn.com/p/assets/2/5/f/4/25f4c74c1bf7c958d959afa2a1bf1c87/WhatsApp_Image_2026-09-11_at_11.45.57.jpeg"
     },
     {
       "showId": "left-right",
