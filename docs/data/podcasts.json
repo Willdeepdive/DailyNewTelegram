@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-17T21:53:14.736Z",
+    "updatedAt": "2026-10-18T12:09:14.257Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Will AI take my job? Ask an economist!",
+      "link": "https://www.npr.org/2026/10/18/nx-s1-6006805/will-ai-take-my-job-ask-an-economist",
+      "pubDate": "2026-10-18T07:00:02.000Z",
+      "duration": "148",
+      "summary": "Is AI coming for our jobs? Anthropic CEO Dario Amodei believes AI could wipe out many white-collar jobs in the next few years. While Nvidia CEO Jensen Huang argues AI will reshape existing roles and c",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F54%2F4f%2F2889fd194e04864f760675ded4ba%2Fe916ba6d-c0e2-41a9-8c07-85ff255ea8ef.png"
+    },
     {
       "showId": "20vc",
       "showName": "20VC",
@@ -779,17 +790,6 @@
       "duration": "01:09:34",
       "summary": "Alex Mashrabov is the Founder and CEO of Higgsfield, the third fastest scaling company to $1BN in ARR behind OpenAI and Anthropic. Reports suggest their latest funding round could place an $8BN valuat",
       "art": "https://static.libsyn.com/p/assets/3/4/0/7/34073c0516b23917e5bbc093207a2619/WhatsApp_Image_2026-09-25_at_13.19.00.jpeg"
-    },
-    {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "How the rich make money by losing money",
-      "link": "https://www.npr.org/2026/09/28/nx-s1-5981349/how-the-rich-make-money-by-losing-money",
-      "pubDate": "2026-09-28T07:00:04.000Z",
-      "duration": "565",
-      "summary": "Decades ago, rich Americans used to pay taxes as high as 40% on their investments. Nowadays, an obscure investment strategy is helping them slash that figure toward … 0%. Today on the show, Bloomberg ",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1900x1900+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd6%2F98%2F0b8a5030442cb0c08d8390c38a5f%2F71e7c594-c176-4df2-a22e-c56859b19140.jpg"
     },
     {
       "showId": "20vc",
