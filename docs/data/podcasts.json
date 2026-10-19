@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-19T19:43:58.035Z",
+    "updatedAt": "2026-10-19T23:13:15.701Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity",
+      "link": "https://allinchamathjason.libsyn.com/dylan-field-is-ai-replacing-designers-design-is-the-new-code-democratizing-creativity",
+      "pubDate": "2026-10-19T20:43:00.000Z",
+      "duration": "40:33",
+      "summary": "(0:00) Dylan Field joins the show: Figma's origin story and mission (3:16) Adobe's $20B deal blocked: inside the antitrust fight (12:29) Is AI killing SaaS? Frontier Companies vs. Figma, the \"SaaS apo",
+      "art": "https://static.libsyn.com/p/assets/1/d/9/5/1d95ecdfc80cd5e8a04421dee9605cbd/signal-2026-10-19-17-08-19-380.jpg"
+    },
     {
       "showId": "20vc",
       "showName": "20VC",
@@ -1043,17 +1054,6 @@
       "duration": "38:29",
       "summary": "(0:00) Bill Gurley takes the stage at the All-In Summit (1:29) Bill's Presentation: Searching for Feynman Links to additional resources mentioned in talk and used in research: https://www.p3.institute",
       "art": "https://static.libsyn.com/p/assets/7/d/2/6/7d26105dffe94aa0e5bbc093207a2619/1_Pod_Gurley.png"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
-      "link": "https://allinchamathjason.libsyn.com/jared-isaacman-a-new-era-for-nasa-and-american-space-exploration",
-      "pubDate": "2026-09-18T15:59:00.000Z",
-      "duration": "38:34",
-      "summary": "(0:00) NASA Administrator Jared Isaacman lays out the state and future of NASA (17:59) Moon base, creating new space industries, NASA's next chapter (23:29) How to make Mars realistic (25:30) Recruiti",
-      "art": "https://static.libsyn.com/p/assets/0/6/d/8/06d80148b6dff5d6e5bbc093207a2619/1_Pod_Jared_1.png"
     },
     {
       "showId": "etw",
