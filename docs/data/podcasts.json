@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-19T23:13:15.701Z",
+    "updatedAt": "2026-10-20T12:52:12.709Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,39 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "left-right",
+      "showName": "忽左忽右",
+      "category": "zh",
+      "title": "509 通往战时陪都之路：卢作孚建设重庆北碚往事",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6ad72c1ff80d9814a6e11f31?utm_source=rss",
+      "pubDate": "2026-10-20T09:06:30.000Z",
+      "duration": "01:09:05",
+      "summary": "- 导语 - 民国时期，位于四川四县交界的北碚，军阀混战、匪患丛生，被形容为「千年虎狼之邑」。1918年，当地士绅自发组建峡防营守护秩序，后来改组为峡防局，并于1927年交由实业家卢作孚接掌。从开发煤矿、修筑北川铁路推动乡村现代化，再到创办中国西部科学院、推动西南资源调查、将国家意识与民族主义注入地方治理，北碚在十余年间展开了一场「创造新世界」的社会实验。民国时期的地方军阀如何与士绅互相背书？传统",
+      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
+    },
+    {
+      "showId": "ezraklein",
+      "showName": "The Ezra Klein Show",
+      "category": "politics",
+      "title": "Why You Can’t Capitulate to Trump",
+      "link": "https://www.nytimes.com/2026/10/20/opinion/ezra-klein-podcast-chrystia-freeland.html",
+      "pubDate": "2026-10-20T09:00:00.000Z",
+      "duration": "01:17:23",
+      "summary": "If you want to understand the ruins of President Trump’s foreign policy, look no further than Canada. Trump tried to strong-arm America’s trading partner and closest ally with punishing tariffs and th",
+      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "The gamble of trying to inflate away debt",
+      "link": "https://www.npr.org/2026/10/20/nx-s1-6008133/the-gamble-of-trying-to-inflate-away-debt",
+      "pubDate": "2026-10-20T07:00:00.000Z",
+      "duration": "518",
+      "summary": "The United States national debt is running at more than $40 trillion dollars. It’s a potential crisis in the making, but President Donald Trump suggested it can all be solved just by inflating the deb",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F74%2Fb8%2Fc9368adb415298caa5c51deda0d4%2F4d580c5f-793e-4d56-8ef1-75b2ca302108.jpg"
+    },
     {
       "showId": "allin",
       "showName": "All-In",
@@ -748,17 +781,6 @@
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Is investing in sports worth it for universities?",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5985211/is-investing-in-sports-worth-it-for-universities",
-      "pubDate": "2026-09-30T07:00:00.000Z",
-      "duration": "545",
-      "summary": "Universities spend millions of dollars every year on their athletics programs. But does that investment pay off? Today, we interrogate the “Doug Flutie Effect.” Fact checking by Cooper Katz McKim. You",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe1%2Ffa%2F565f0055415b816105469c5da284%2F001378b2-eb6c-422f-9c3a-8b745b8b30e2.jpg"
-    },
-    {
       "showId": "weirdo",
       "showName": "不合时宜",
       "category": "zh",
@@ -1340,28 +1362,6 @@
       "duration": "5:21:57",
       "summary": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc See below for tim",
       "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
-    },
-    {
-      "showId": "ezraklein",
-      "showName": "The Ezra Klein Show",
-      "category": "politics",
-      "title": "This Is Why People Hate the Government",
-      "link": "https://www.nytimes.com/2026/08/25/opinion/ezra-klein-podcast-annie-lowrey.html",
-      "pubDate": "2026-08-25T09:00:00.000Z",
-      "duration": "01:17:28",
-      "summary": "In 2024, Americans spent an average of six full workdays a year filling out government forms, according to the government’s own estimates. That’s a total of 12 billion hours, or $430 billion of uncomp",
-      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a8d2078ef65145dfcc4f6d5?utm_source=rss",
-      "pubDate": "2026-08-25T09:00:00.000Z",
-      "duration": "01:16:41",
-      "summary": "- 导语 - 莎士比亚，一个世界文学绕不开的名字。其魅力不仅在于传世的经典文本，更植根于他所处的时代语境与剧场生态。为什么莎剧会充满市井趣味的反差感？在一个尚无今天这套原创观念的时代，如何理解莎士比亚的原创性？他为现代英语贡献了哪些至今仍在使用的日常表达？覆盖中世纪英格兰历史的大转折，莎翁的历史剧如何改编史实，又如何回应都铎王朝的政治需要？请听本期嘉宾陆大鹏带来的精彩分享！ 本期节目与「戏不戏 ·",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
       "showId": "etw",
