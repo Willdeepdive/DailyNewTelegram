@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-20T22:50:11.054Z",
+    "updatedAt": "2026-10-21T13:04:43.638Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "The case for sharing your salary",
+      "link": "https://www.npr.org/2026/10/21/nx-s1-6009421/the-case-for-sharing-your-salary",
+      "pubDate": "2026-10-21T07:00:00.000Z",
+      "duration": "562",
+      "summary": "Should money and class figure more prominently in how we identify ourselves? Pulitzer Prize-winning data journalist Mona Chalabi thinks yes. Today on the show, a conversation with Mona, author of the ",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2F8a%2F76bc4686453091c3569979f42321%2Fb430ca17-6189-4098-8dff-9a2d89166ed4.png"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -746,17 +757,6 @@
       "duration": "01:18:41",
       "summary": "AGENDA: 00:00 Highlights: Jack Altman Joins The Trio 05:00 Anthropic's S-1 Leaks: $8B Operating Loss and $518B in Compute Commitments 10:00 Instinct Raises $1B at a $10B Valuation to Take On Meta 25:0",
       "art": "https://static.libsyn.com/p/assets/0/b/3/f/0b3f89b81924c7e5e5bbc093207a2619/WhatsApp_Image_2026-09-30_at_14.49.16.jpeg"
-    },
-    {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "New college degrees designed to job-proof graduates",
-      "link": "https://www.npr.org/2026/10/01/nx-s1-5985907/new-college-degrees-designed-to-job-proof-graduates",
-      "pubDate": "2026-10-01T07:00:00.000Z",
-      "duration": "502",
-      "summary": "What do influencing, AI and health sciences have in common? They’re all degree programs colleges have launched in the last few years to attract students looking for a new career path. On today's show,",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1d%2F0c%2F08141cbe47cd8e29723ad1cfca0b%2F04a41de2-e284-47f7-abbd-f44f8e127552.jpg"
     },
     {
       "showId": "allin",
