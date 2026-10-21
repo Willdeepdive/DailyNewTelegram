@@ -1,51 +1,6 @@
 {
-  "generatedAt": "2026-10-20T12:52:02.503Z",
+  "generatedAt": "2026-10-21T13:04:31.841Z",
   "items": [
-    {
-      "title": "The fragile AI trade ",
-      "link": "https://newslink.reuters.com/click/47889834.1374/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtRXVyb3BlJnV0bV90ZXJtPTEwMTMyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OA/699d8f6975a57008a503f158Bf1e3e694",
-      "author": "Reuters Morning Bid Europe",
-      "source": "newsletter:Reuters Morning Bid Europe",
-      "pubDate": "2026-10-13T05:30:03.000Z",
-      "summary": "96 A look at the day ahead in European and global markets Morning Bid Europe Morning Bid Europe A look at the day ahead in European and global markets By Ankur Banerjee, Asia Finance & Markets Breaking News Correspondent Data refreshes every time you open this email. For more European market news, c",
-      "llmComment": null
-    },
-    {
-      "title": "Chips off the table",
-      "link": "https://newslink.reuters.com/click/47896030.32572/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtVVMmdXRtX3Rlcm09MTAxMzI2JnV0bV9jb250ZW50PTEwMTMyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OCZ1c2VyX2VtYWlsPTJmYjc2MWE0ZDA1ODNiMzgyZmY1MzIyYWIxYjAyNjM0MDE3NjEyM2EyZWJjNzk2MTQxYmYxZTJlN2UwOTdhNGI/699d8f6975a57008a503f158B569ad1a4",
-      "author": "Morning Bid U.S.",
-      "source": "newsletter:Morning Bid U.S.",
-      "pubDate": "2026-10-13T10:30:06.000Z",
-      "summary": "96 What matters in U.S. and global markets today Morning Bid U.S. Morning Bid U.S. A Reuters Open Interest newsletter What matters in U.S. and global markets today By Mike Dolan , Editor-at-Large, Finance & Markets Tech and AI stocks suffered another bout of jitters on Tuesday as tensions built ahea",
-      "llmComment": null
-    },
-    {
-      "title": "Why warnings went silent in Riyadh",
-      "link": "https://newslink.reuters.com/click/47900311.403365/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249RGFpbHktQnJpZWZpbmcmdXRtX3Rlcm09MTAxMzI2JnV0bV9jb250ZW50PTEwMTMyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OCZ1c2VyX2VtYWlsPTJmYjc2MWE0ZDA1ODNiMzgyZmY1MzIyYWIxYjAyNjM0MDE3NjEyM2EyZWJjNzk2MTQxYmYxZTJlN2UwOTdhNGI/699d8f6975a57008a503f158B4ebb7f7b",
-      "author": "Reuters Daily Briefing",
-      "source": "newsletter:Reuters Daily Briefing",
-      "pubDate": "2026-10-13T10:58:09.000Z",
-      "summary": "96 Plus, could hackers get inside your fridge? Daily Briefing Daily Briefing By Kate Turton Hello. Saudi Arabia's warning system stayed silent before deadly airport attacks, and AI models may soon self-replicate even without access to data centers. Plus, after hackers heated French supermarket fridg",
-      "llmComment": null
-    },
-    {
-      "title": "JPMorgan posts rare profit miss as dealmaking, bond trading lose momentum",
-      "link": "https://newslink.reuters.com/click/47905712.43690/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249UmV1dGVycy1CdXNpbmVzcyZ1dG1fdGVybT0xMDEzMjYmdXRtX2NvbnRlbnQ9MTAxMzI2JmxjdGc9Njk5ZDhmNjk3NWE1NzAwOGE1MDNmMTU4JnVzZXJfZW1haWw9MmZiNzYxYTRkMDU4M2IzODJmZjUzMjJhYjFiMDI2MzQwMTc2MTIzYTJlYmM3OTYxNDFiZjFlMmU3ZTA5N2E0Yg/699d8f6975a57008a503f158B234a8cad",
-      "author": "Reuters Business",
-      "source": "newsletter:Reuters Business",
-      "pubDate": "2026-10-13T12:02:00.000Z",
-      "summary": "96 JPMorgan Chase fell short of quarterly profit estimates for the first time in nearly three years as market volatility ​and an uncertain economic outlook dampened dealmaking and reduced bond market trading activity in recent months. --> Reuters Business Reuters Business JPMorgan posts rare profit ",
-      "llmComment": null
-    },
-    {
-      "title": "Behind AI industry's call for independent reviews, a fight over what gets made public",
-      "link": "https://newslink.reuters.com/click/47910719.58427/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249VGVjaG5vbG9neS1Sb3VuZHVwJnV0bV90ZXJtPTEwMTMyNiZ1dG1fY29udGVudD0xMDEzMjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTgmdXNlcl9lbWFpbD0yZmI3NjFhNGQwNTgzYjM4MmZmNTMyMmFiMWIwMjYzNDAxNzYxMjNhMmViYzc5NjE0MWJmMWUyZTdlMDk3YTRi/699d8f6975a57008a503f158B2da93da0",
-      "author": "Reuters Technology Roundup",
-      "source": "newsletter:Reuters Technology Roundup",
-      "pubDate": "2026-10-13T15:00:41.000Z",
-      "summary": "96 Anthropic and OpenAI have sought significant control over what outside evaluators can publish, concerned that findings could reveal trade secrets, according to two people familiar with the discussions. --> Technology Roundup Technology Roundup Behind AI industry's call for independent reviews, a ",
-      "llmComment": null
-    },
     {
       "title": "Let the doves sing",
       "link": "https://newslink.reuters.com/click/47917790.17813/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtRXVyb3BlJnV0bV90ZXJtPTEwMTQyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OA/699d8f6975a57008a503f158B0f45e6d1",
@@ -350,6 +305,60 @@
       "source": "newsletter:Reuters Business",
       "pubDate": "2026-10-20T12:02:04.000Z",
       "summary": "96 The cuts are part of an effort to build \"a stronger performance culture\". --> Reuters Business Reuters Business Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows Nasdaq futures fall as oil prices jump, key earnings loom Meta's AI spending, Muse assistant adoption ",
+      "llmComment": null
+    },
+    {
+      "title": "Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows",
+      "link": "https://newslink.reuters.com/click/48014423.54985/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249VGVjaG5vbG9neS1Sb3VuZHVwJnV0bV90ZXJtPTEwMjAyNiZ1dG1fY29udGVudD0xMDIwMjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTgmdXNlcl9lbWFpbD0yZmI3NjFhNGQwNTgzYjM4MmZmNTMyMmFiMWIwMjYzNDAxNzYxMjNhMmViYzc5NjE0MWJmMWUyZTdlMDk3YTRi/699d8f6975a57008a503f158Bb1e77b6c",
+      "author": "Reuters Technology Roundup",
+      "source": "newsletter:Reuters Technology Roundup",
+      "pubDate": "2026-10-20T15:01:41.000Z",
+      "summary": "96 Qualcomm will cut jobs globally in a \"performance-focused reduction\" following its annual employee reviews, CEO Cristiano Amon ​told staff in a memo on Monday reviewed by Reuters, with ‌notifications set to begin in November. --> Technology Roundup Technology Roundup Qualcomm to cut jobs worldwid",
+      "llmComment": null
+    },
+    {
+      "title": "Tesla may get rocket boosters for real this time",
+      "link": "https://newslink.reuters.com/click/48021620.18574/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtRXVyb3BlJnV0bV90ZXJtPTEwMjEyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OA/699d8f6975a57008a503f158B05dfc308",
+      "author": "Reuters Morning Bid Europe",
+      "source": "newsletter:Reuters Morning Bid Europe",
+      "pubDate": "2026-10-21T05:06:02.000Z",
+      "summary": "96 A look at the day ahead in European and global markets Morning Bid Europe Morning Bid Europe A look at the day ahead in European and global markets By Gregor Stuart Hunter, Asia Finance & Markets Breaking News Correspondent Data refreshes every time you open this email. For more European market n",
+      "llmComment": null
+    },
+    {
+      "title": "Musk mulls megacap",
+      "link": "https://newslink.reuters.com/click/48023025.31918/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtVVMmdXRtX3Rlcm09MTAyMTI2JnV0bV9jb250ZW50PTEwMjEyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OCZ1c2VyX2VtYWlsPTJmYjc2MWE0ZDA1ODNiMzgyZmY1MzIyYWIxYjAyNjM0MDE3NjEyM2EyZWJjNzk2MTQxYmYxZTJlN2UwOTdhNGI/699d8f6975a57008a503f158B12225d78",
+      "author": "Morning Bid U.S.",
+      "source": "newsletter:Morning Bid U.S.",
+      "pubDate": "2026-10-21T10:30:06.000Z",
+      "summary": "96 What matters in U.S. and global markets today Morning Bid U.S. Morning Bid U.S. A Reuters Open Interest newsletter What matters in U.S. and global markets today By Mike Dolan , Editor-at-Large, Finance & Markets It was hard to keep track of global markets from hour to hour on Tuesday , with Brent",
+      "llmComment": null
+    },
+    {
+      "title": "Websites could go dark",
+      "link": "https://newslink.reuters.com/click/48023213.375215/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249RGFpbHktQnJpZWZpbmcmdXRtX3Rlcm09MTAyMTI2JnV0bV9jb250ZW50PTEwMjEyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OCZ1c2VyX2VtYWlsPTJmYjc2MWE0ZDA1ODNiMzgyZmY1MzIyYWIxYjAyNjM0MDE3NjEyM2EyZWJjNzk2MTQxYmYxZTJlN2UwOTdhNGI/699d8f6975a57008a503f158B9cef97b8",
+      "author": "Reuters Daily Briefing",
+      "source": "newsletter:Reuters Daily Briefing",
+      "pubDate": "2026-10-21T10:58:49.000Z",
+      "summary": "96 Plus, what comes next for Ukraine? Daily Briefing Daily Briefing By Kate Turton Hello. Our top story is Putin hosting Trump's envoy for new Ukraine peace talks . Elsewhere, our readers are clicking on news of beauty giants targeting \"Ozempic face\" and a cyber agency warning that websites may go d",
+      "llmComment": null
+    },
+    {
+      "title": "Is AI training “fair use”?",
+      "link": "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap",
+      "author": "The Daily Docket",
+      "source": "newsletter:The Daily Docket",
+      "pubDate": "2026-10-21T11:59:03.000Z",
+      "summary": "96 + Judges have split. The Daily Docket The Daily Docket A newsletter by Reuters and Westlaw By Caitlin Tremblay --> Good morning. Today a federal judge will take up an issue that has caused a split among her colleagues: Whether AI training constitutes fair use under copyright law . Plus, the 6th C",
+      "llmComment": null
+    },
+    {
+      "title": "US aims to loan about a third of heating oil reserve in bid to tame prices",
+      "link": "https://newslink.reuters.com/click/48024257.58429/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249UmV1dGVycy1CdXNpbmVzcyZ1dG1fdGVybT0xMDIxMjYmdXRtX2NvbnRlbnQ9MTAyMTI2JmxjdGc9Njk5ZDhmNjk3NWE1NzAwOGE1MDNmMTU4JnVzZXJfZW1haWw9MmZiNzYxYTRkMDU4M2IzODJmZjUzMjJhYjFiMDI2MzQwMTc2MTIzYTJlYmM3OTYxNDFiZjFlMmU3ZTA5N2E0Yg/699d8f6975a57008a503f158B2da84fa1",
+      "author": "Reuters Business",
+      "source": "newsletter:Reuters Business",
+      "pubDate": "2026-10-21T12:00:54.000Z",
+      "summary": "96 The Trump administration is offering to loan up to nearly a third of the 1-million-barrel ‌US emergency heating oil reserve, the Department of Energy said on Wednesday, in a bid to tame prices, which have surged on diesel shortages due to the wars in Iran and Ukraine. --> Reuters Business Reuters",
       "llmComment": null
     }
   ]
