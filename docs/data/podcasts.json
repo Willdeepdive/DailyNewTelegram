@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-22T13:06:40.757Z",
+    "updatedAt": "2026-10-22T18:25:26.586Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "JRE MMA Show #187 with Robert Whittaker",
+      "link": "https://traffic.megaphone.fm/GLT1470402625.mp3",
+      "pubDate": "2026-10-22T17:00:00.000Z",
+      "duration": "10495",
+      "summary": "Joe sits down with Robert Whittaker, a professional mixed martial artist currently competing in the UFC's light heavyweight division and host of the \"MMArcade\" podcast.www.ascendfitnessbyrob.com/www.m",
+      "art": "https://megaphone.imgix.net/podcasts/ed2504ac-cdc1-11f1-b263-83f2c9b36709/image/e76c6af047358fbb0936f2c877c00441.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "etw",
       "showName": "声东击西",
@@ -1021,17 +1032,6 @@
       "duration": "55:44",
       "summary": "(0:00) Steve Hilton joins the Besties! (3:53) How one-party rule broke the state, regulatory bloat & who really writes the laws (12:09) The path to victory: the persuadable voter, the cost-of-living p",
       "art": "https://static.libsyn.com/p/assets/9/8/6/b/986babeb267bdf5888c4a68c3ddbc4f2/Podcast_Thumbnail_-_AIS_26_1.png"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2556 - Siddharth Kara",
-      "link": "https://traffic.megaphone.fm/GLT6395368742.mp3",
-      "pubDate": "2026-09-22T17:00:00.000Z",
-      "duration": "8870",
-      "summary": "Siddharth Kara, PhD, is the author of several books, including \"Cobalt Red: How the Blood of the Congo Powers Our Lives,\" and, most recently, \"The Zorg: A Tale of Greed and Murder That Inspired the Ab",
-      "art": "https://megaphone.imgix.net/podcasts/36952024-b60a-11f1-903c-771baa11d490/image/117c9900038d3269a048bdd082fef824.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "allin",
