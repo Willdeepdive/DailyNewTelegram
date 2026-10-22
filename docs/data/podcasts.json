@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-21T22:54:22.866Z",
+    "updatedAt": "2026-10-22T13:06:40.757Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,50 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "etw",
+      "showName": "声东击西",
+      "category": "zh",
+      "title": "#408 李晶：互联网增长的红利、代价与一个人的十年自我重建丨十周年特别节目",
+      "link": "https://etw.fm/2228",
+      "pubDate": "2026-10-22T10:45:00.000Z",
+      "duration": "1:47:02",
+      "summary": "本期节目是声东击西「十周年」特别系列的第四期。在这个系列中，我们通过访谈那些亲历结构性变化并拥有独特观察的嘉宾们，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理解今天，又如何辨认出那些塑造未来的力量。 过去十多年，互联网大厂是推动中国经济强劲增长的发动机之一。它创造了大量新的就业机会和职业路径，也塑造了一套关于效率、成长和成功的标准；但这套标准也逐渐越过了公司的边界，成了我们今天所说的「",
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/a/a9f77ddf-0b3c-40f4-8837-4eb19d13420e/cover.jpg?v=1"
+    },
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Trillion or Bust: The New VC Game | Coreweave Sell-Off Creates Panic | Town at $1B, Anduril at $90B: Revenue Multiples Out of Control | General Atlantic Eyes IPO & Modal Raises $750M at $15.75B",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-trillion-or-bust-the-new-vc-game-coreweave-sell-off-creates-panic-town-at-1b-anduril-at-90b-revenue-multiples-out-of-control-general-atlantic-eyes-ipo-modal-raises-750m-at-1575b",
+      "pubDate": "2026-10-22T07:07:00.000Z",
+      "duration": "01:00:37",
+      "summary": "AGENDA: 04:20 Billion-Dollar Bets or Nothing: Why VCs Are Rejecting Fast-Growing Startups 13:20 CoreWeave Sell-Off Sparks Fears of Cracks in AI Boom 18:50 Anthropic's IPO Valuation Could Fall From $2 ",
+      "art": "https://static.libsyn.com/p/assets/f/f/6/2/ff62f7a4dc8d3093a04421dee9605cbd/WhatsApp_Image_2026-10-21_at_18.04.29.jpeg"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Can a \"moneyball\" system work for campaign funding?",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-6011504/can-a-moneyball-system-work-for-campaign-funding",
+      "pubDate": "2026-10-22T07:00:00.000Z",
+      "duration": "508",
+      "summary": "Elections are more expensive than ever, but are campaign donations going to the races where they’ll make the most impact? Today, we talk to the startup co-founder of Oath who believes there’s a smarte",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F3b%2F0077149b4b1daf4f74e6c4c4887f%2Fcfd55761-07a8-4f83-bb3e-1b72b6875831.jpg"
+    },
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+      "link": "https://allinchamathjason.libsyn.com/arvind-krishna-nikesh-arora-quantum-threat-open-vs-frontier-ai-ai-cyber-warfare-saas-collapse",
+      "pubDate": "2026-10-21T23:42:00.000Z",
+      "duration": "40:00",
+      "summary": "(0:00) Arvind Krishna & Nikesh Arora talk about Quantum Computing's Threat to Encryption (9:07) Open Weight vs. Frontier AI Models (18:07) AI and Cyber Warfare (21:14) AI Regulation and the Global AI ",
+      "art": "https://static.libsyn.com/p/assets/3/9/0/4/3904e785e65853035f2e77a3093c12a1/All-In_Audio_Thumbnails_1.jpg"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -715,17 +759,6 @@
       "art": "https://static.libsyn.com/p/assets/7/b/0/3/7b0376a2e322dc87e5bbc093207a2619/1_Pod_E291.png"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Can we make Social Security better for blue-collar workers?",
-      "link": "https://www.npr.org/2026/10/02/nx-s1-5988860/can-we-make-social-security-better-for-blue-collar-workers",
-      "pubDate": "2026-10-02T14:13:30.000Z",
-      "duration": "549",
-      "summary": "Most workers can’t start collecting full Social Security benefits until age 67. But a new proposal from Michigan Congresswoman Haley Stevens would allow workers in “physically demanding jobs” to recei",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F80%2F14%2F2cf2b20a4ea899751151d9d80e0a%2Fb8e52981-0667-417f-a926-a2a3a926bf95.jpg"
-    },
-    {
       "showId": "left-right",
       "showName": "忽左忽右",
       "category": "zh",
@@ -1089,17 +1122,6 @@
       "art": "https://static.libsyn.com/p/assets/2/c/2/1/2c2172c45315d9ca88c4a68c3ddbc4f2/WhatsApp_Image_2026-09-17_at_17.31.42.jpeg"
     },
     {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Bill Gurley: Searching for Feynman",
-      "link": "https://allinchamathjason.libsyn.com/bill-gurley-the-covid-cover-up-the-search-for-the-truth",
-      "pubDate": "2026-09-19T00:20:00.000Z",
-      "duration": "38:29",
-      "summary": "(0:00) Bill Gurley takes the stage at the All-In Summit (1:29) Bill's Presentation: Searching for Feynman Links to additional resources mentioned in talk and used in research: https://www.p3.institute",
-      "art": "https://static.libsyn.com/p/assets/7/d/2/6/7d26105dffe94aa0e5bbc093207a2619/1_Pod_Gurley.png"
-    },
-    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -1109,17 +1131,6 @@
       "duration": "1:15:09",
       "summary": "图们江边的一家交通旅社里，挂着一条双语横幅：「牲畜越境，请勿擅自处理。」在地图上，国界通常被画成一条清晰的线，而牲畜不懂国界，只认水草丰美的方向；可人呢？一个非此即彼、排他性的边界，真的存在吗？ 图们江作为边界已延续数百年，河流没有改变，人们认识边界的方式却不断变化。清朝与朝鲜都曾严禁越境，但当晚清面对俄罗斯扩张威胁时，清朝又开始将渡江垦荒的朝鲜人纳入「我民」。进入现代国家体系后，国籍、户籍和证件",
       "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: Why \"Pacing the Frontier\" is BS | Instinct Raising $1BN at $10BN & Meta Launches Muse | Miro Sells for $1.35BN After a $17.5BN Valuation | Mistral Raises €3BN & Could Sam Bankman-Fried Win His Freedom?",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-why-pacing-the-frontier-is-bs-instinct-raising-1bn-at-10bn-meta-launches-muse-miro-sells-for-135bn-after-a-175bn-valuation-mistral-raises-3bn-could-sam-bankman-fried-win-his-freedom",
-      "pubDate": "2026-09-17T07:07:00.000Z",
-      "duration": "01:15:34",
-      "summary": "AGENDA: 03:40 Dario Calls to \"Pace the Frontier\" 11:30 Why the Fed Will Raid Anthropic if Needed 21:50 Meta Launches Muse to Take On Instinct 28:30 Instinct Raising $1BN at $10BN—Would You Invest? 39:",
-      "art": "https://static.libsyn.com/p/assets/e/b/4/c/eb4c88a910c1da60e55e3c100dce7605/WhatsApp_Image_2026-09-16_at_15.41.20.jpeg"
     },
     {
       "showId": "lexfridman",
@@ -1637,17 +1648,6 @@
       "duration": "16289",
       "summary": "The Walt Disney Company is the most successful enterprise ever created for monetizing human nostalgia. Today it’s the king of global entertainment, holding the intellectual property rights to the chil",
       "art": "https://img.transistorcdn.com/kCB3B2iISM-bCdDu6pysFaFa0p3IYktCnNb8Q5VFycc/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS85MmI3/Mjg0MDI2MWU4ZDc4/M2YyOGZjMzllNjll/ODBlYi5qcGc.jpg"
-    },
-    {
-      "showId": "etw",
-      "showName": "声东击西",
-      "category": "zh",
-      "title": "#393 从童年到成年，数字时代「玩」的能力为何重要",
-      "link": "https://etw.fm/2213",
-      "pubDate": "2026-06-18T06:00:00.000Z",
-      "duration": "1:02:39",
-      "summary": "当屏幕、AI 甚至算法越来越多地进入孩子们的生活，现在的「玩」和我们儿时的「玩」还是一个概念吗？ 《玩具总动员》系列从 1995 年走到今天，30 年间，它讨论过友谊、成长、告别……这一次，它把目光投向了一个非常当下的问题 —— 数字时代的童年，「玩」这件事正在发生怎样的改变，今天的我们又应该如何看待「玩」在人类成长过程中扮演的角色？ 这期节目，我们想借《玩具总动员 5》的上映来认真聊一聊：从儿童",
-      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "bg2pod",
