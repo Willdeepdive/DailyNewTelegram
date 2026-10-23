@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updatedAt": "2026-10-23T18:11:44.697Z",
-    "totalEpisodes": 165,
+    "updatedAt": "2026-10-23T22:45:20.749Z",
+    "totalEpisodes": 180,
     "health": [
       {
         "id": "20vc",
@@ -18,8 +18,8 @@
       {
         "id": "jre",
         "name": "Joe Rogan Experience",
-        "ok": false,
-        "error": "所有源均失败"
+        "ok": true,
+        "count": 15
       },
       {
         "id": "indicator",
@@ -96,7 +96,7 @@
       "id": "jre",
       "name": "Joe Rogan Experience",
       "category": "general",
-      "art": null,
+      "art": "https://megaphone.imgix.net/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/44a67bcc8eafc1e9e5a834234176f4c4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "link": "https://feeds.megaphone.fm/GLT1412515089"
     },
     {
@@ -165,6 +165,17 @@
   ],
   "episodes": [
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2570 - Mystery Boys",
+      "link": "https://traffic.megaphone.fm/GLT2538626371.mp3",
+      "pubDate": "2026-10-23T17:00:00.000Z",
+      "duration": "10181",
+      "summary": "Kurt Metzger and Duncan Trussell are comedians and co-hosts of the \"Mystery Boys\" podcast. They also host their respective podcasts, \"The Derp with Kurp\" and \"The Duncan Trussell Family Hour.\"www.ymhs",
+      "art": "https://megaphone.imgix.net/podcasts/ec46995e-ce9a-11f1-9c7e-fbbdba278d52/image/e1a75a1d1caff6a9d53338962b2d8b7d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "left-right",
       "showName": "忽左忽右",
       "category": "zh",
@@ -179,7 +190,7 @@
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
-      "title": "Why Trump’s 2024 Voters Are Turning on Him",
+      "title": "What Hundreds of Focus Groups With Trump Voters Revealed",
       "link": "https://www.nytimes.com/2026/10/23/opinion/ezra-klein-podcast-sarah-longwell.html",
       "pubDate": "2026-10-23T09:00:00.000Z",
       "duration": "01:08:21",
@@ -196,6 +207,17 @@
       "duration": "546",
       "summary": "This week’s notable indicators: A distressing credit warning for CoreWeave, a Pokémon heist, and depleted maple syrup reserves in Canada. Fact checking by Cooper Katz McKim. Your Next Listen – Why Pok",
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc1%2Fa1%2Fab7bc23e45c88907f3f92ec9d414%2F81b32a66-281d-43e8-8c35-194136ed4f39.png"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "JRE MMA Show #187 with Robert Whittaker",
+      "link": "https://traffic.megaphone.fm/GLT1470402625.mp3",
+      "pubDate": "2026-10-22T17:00:00.000Z",
+      "duration": "10495",
+      "summary": "Joe sits down with Robert Whittaker, a professional mixed martial artist currently competing in the UFC's light heavyweight division and host of the \"MMArcade\" podcast.www.ascendfitnessbyrob.com/www.m",
+      "art": "https://megaphone.imgix.net/podcasts/ed2504ac-cdc1-11f1-b263-83f2c9b36709/image/e76c6af047358fbb0936f2c877c00441.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "etw",
@@ -242,6 +264,17 @@
       "art": "https://static.libsyn.com/p/assets/3/9/0/4/3904e785e65853035f2e77a3093c12a1/All-In_Audio_Thumbnails_1.jpg"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2569 - Bill Thompson",
+      "link": "https://traffic.megaphone.fm/GLT2078242472.mp3",
+      "pubDate": "2026-10-21T17:00:00.000Z",
+      "duration": "10382",
+      "summary": "Bill Thompson is a retired U.S. Army chief warrant officer and the founder and CEO of Spartan Forge, a company that develops AI-powered mapping and predictive tools for hunting.www.youtube.com/@sparta",
+      "art": "https://megaphone.imgix.net/podcasts/23251e48-ccfa-11f1-8407-c76a5ec426f3/image/6a8c3e724e4524049098c614ebba05d4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "indicator",
       "showName": "The Indicator",
       "category": "macro",
@@ -251,6 +284,17 @@
       "duration": "562",
       "summary": "Should money and class figure more prominently in how we identify ourselves? Pulitzer Prize-winning data journalist Mona Chalabi thinks yes. Today on the show, a conversation with Mona, author of the ",
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2F8a%2F76bc4686453091c3569979f42321%2Fb430ca17-6189-4098-8dff-9a2d89166ed4.png"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2568 - Ross Edgley",
+      "link": "https://traffic.megaphone.fm/GLT2760842155.mp3",
+      "pubDate": "2026-10-20T17:00:00.000Z",
+      "duration": "10177",
+      "summary": "Ross Edgley is an ultra-marathon sea swimmer, athletic coach, television personality, and author. His new book, \"How to Hero,\" will be available on November 10.www.youtube.com/@rossedgleywww.linktr.ee",
+      "art": "https://megaphone.imgix.net/podcasts/0c8175c2-cc3e-11f1-a160-4bf71fa94203/image/841f9663eb4f7c6638c0c19c70377030.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "left-right",
@@ -363,6 +407,17 @@
       "art": "https://static.libsyn.com/p/assets/c/b/d/8/cbd880726b042b345f2e77a3093c12a1/1_Pod_E293.png"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2567 - Mariana van Zeller",
+      "link": "https://traffic.megaphone.fm/GLT2143664668.mp3",
+      "pubDate": "2026-10-16T17:00:00.000Z",
+      "duration": "9017",
+      "summary": "Mariana van Zeller is a Peabody and Emmy Award-winning journalist whose credits include \"Trafficked with Mariana van Zeller,\" \"The OxyContin Express,\" and \"Inside Secret America.\" She is also the host",
+      "art": "https://megaphone.imgix.net/podcasts/3c876c6c-c94c-11f1-b243-eb26db00851d/image/ebec094f37ff19b138a6b62b98c76582.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -405,6 +460,17 @@
       "duration": "553",
       "summary": "This week’s indicators: Why is inflation so super (derogatory)? How did Bumble go from dating app doldrums to a stock market sweetheart?; And oh, bother! Could Winnie the Pooh be moving home to Englan",
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2Ff3%2Fd44d9d2244248a0eb1ead2be5af0%2Fa0fde56c-f4ef-4c40-8501-66a2fdb83f5d.png"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2566 - Cody Tucker",
+      "link": "https://traffic.megaphone.fm/GLT9650525080.mp3",
+      "pubDate": "2026-10-15T17:00:00.000Z",
+      "duration": "10261",
+      "summary": "Cody Tucker is the host of \"The Cody Tucker Show\" and \"Rewind and Repeat with Cody Tucker\" podcasts and author of \"And Now You Know: Mind-Blowing Stories from History and Pop Culture.\" His new book, \"",
+      "art": "https://megaphone.imgix.net/podcasts/fef1382e-c842-11f1-ac58-43ecb7ca04ed/image/619ee177a144f2f77fc0c09865dd51db.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "bg2pod",
@@ -451,6 +517,17 @@
       "art": "https://static.libsyn.com/p/assets/9/3/a/e/93ae5febfd8efeb75f2e77a3093c12a1/1_Pod_AIS_Evans.png"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2565 - Michael Douglas",
+      "link": "https://traffic.megaphone.fm/GLT7323005226.mp3",
+      "pubDate": "2026-10-14T17:00:00.000Z",
+      "duration": "8185",
+      "summary": "Michael Douglas is an actor, producer, writer, and philanthropist whose film and television credits include \"Wall Street,\" \"Fatal Attraction,\" \"Basic Instinct,\" \"Behind the Candelabra,\" and \"The Komin",
+      "art": "https://megaphone.imgix.net/podcasts/bbd0bd42-c77c-11f1-a9b0-8fbfdfb1c3d8/image/f711426401759dc42b9c6de2fa699a4a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -471,6 +548,17 @@
       "duration": "567",
       "summary": "A labyrinthine rebate process. Shrinking cereal boxes. Mystery rental car charges. Cockroaches?! We share listener tales of Consumer Rage and unpack the economic forces driving that ANGER. Fact checki",
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2F48%2Fce41d9f7456fb846fb384150f425%2F24af91e0-aeeb-450d-9d62-7d35958b5bf9.png"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2564 - Chuck Lorre",
+      "link": "https://traffic.megaphone.fm/GLT8839252815.mp3",
+      "pubDate": "2026-10-13T17:00:00.000Z",
+      "duration": "7698",
+      "summary": "Chuck Lorre is a writer, producer, and director behind numerous hit television series, including \"The Big Bang Theory,\" \"Two and a Half Men,\" \"Young Sheldon,\" and \"Stuart Fails to Save the Universe.\" ",
+      "art": "https://megaphone.imgix.net/podcasts/d8eaec50-c6b3-11f1-8ac9-0fbd42ed0525/image/9d76a459e6782bb5bdcfae45b272134a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "left-right",
@@ -583,6 +671,17 @@
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2F73%2F44926286494a874ff5d6722816f5%2F1a42934e-bc6e-4d00-832e-ebf345052ee3.jpg"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2563 - Dan Richards",
+      "link": "https://traffic.megaphone.fm/GLT1048281357.mp3",
+      "pubDate": "2026-10-08T17:00:00.000Z",
+      "duration": "10483",
+      "summary": "Dan Richards is an independent researcher whose YouTube channel, \"DeDunking the Past,\" examines lost civilizations and alternative history.www.youtube.com/@DeDunkingwww.patreon.com/DeDunking Perplexit",
+      "art": "https://megaphone.imgix.net/podcasts/5a662dac-c2b9-11f1-bf20-5b1cb8cb82fc/image/e25e701024fcfd432b0b9806e9b156bf.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -616,6 +715,17 @@
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F06%2F6cf0206d44a6aca352aa5ebec412%2Fd49d6e0b-a00e-46d8-871f-b3cb876b809d.png"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2562 - Dan McClellan",
+      "link": "https://traffic.megaphone.fm/GLT6084226127.mp3",
+      "pubDate": "2026-10-07T17:00:00.000Z",
+      "duration": "9712",
+      "summary": "Dan McClellan, PhD, is a biblical scholar, author, and co-host of the \"Data Over Dogma\" podcast.www.youtube.com/@dataoverdogmawww.youtube.com/@maklelanhttps://static.macmillan.com/static/smp/bible-say",
+      "art": "https://megaphone.imgix.net/podcasts/5771b05c-c1f7-11f1-93bf-4bf5d16f6f9a/image/0adf163fd3fdd89b10d81e353e59403c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -636,6 +746,17 @@
       "duration": "568",
       "summary": "Rising electricity prices are one of the primary reasons why data centers are a public enemy this election cycle. But is it realistic to expect energy prices to stay high forever? Fact checking by Sie",
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F8e%2Fd8435163460f80ccb2bfb49c2416%2Fc2d2794a-874e-4180-8942-d9791db89519.jpg"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2561 - LL Cool J",
+      "link": "https://traffic.megaphone.fm/GLT5582771746.mp3",
+      "pubDate": "2026-10-06T17:00:00.000Z",
+      "duration": "9498",
+      "summary": "LL Cool J is a Grammy Award-winning rapper, actor, and philanthropist. Look for him on \"NCIS: New York,\" premiering October 6 on CBS and streaming the next day on Paramount+.www.paramountplus.com/show",
+      "art": "https://megaphone.imgix.net/podcasts/2013800e-c120-11f1-a768-6f890ba0aaa8/image/0259df876a79b0a57e1a854db2f13aeb.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "indicator",
@@ -704,6 +825,17 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "JRE MMA Show #186 with Sean Sharaf",
+      "link": "https://traffic.megaphone.fm/GLT1692440444.mp3",
+      "pubDate": "2026-10-01T17:00:00.000Z",
+      "duration": "8486",
+      "summary": "Joe sits down with Sean Sharaf, a professional mixed martial artist competing in the UFC’s heavyweight division. Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan. This ",
+      "art": "https://megaphone.imgix.net/podcasts/2089f348-bd41-11f1-a7c5-d7bc7ba22f90/image/3394d9f5735638705a5db9dfedd0face.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "20vc",
       "showName": "20VC",
       "category": "vc",
@@ -726,6 +858,17 @@
       "art": "https://static.libsyn.com/p/assets/b/f/e/7/bfe70c5fe7acc1f7e5bbc093207a2619/jp_x_chnsmkers_2.png"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2560 - David Grusch",
+      "link": "https://traffic.megaphone.fm/GLT2730878908.mp3",
+      "pubDate": "2026-09-30T17:00:00.000Z",
+      "duration": "9385",
+      "summary": "David Grusch is a former United States Air Force intelligence officer, former representative of the National Reconnaissance Office to the Unidentified Aerial Phenomena Task Force, and former co-lead f",
+      "art": "https://megaphone.imgix.net/podcasts/f3a56dec-bc61-11f1-b794-3f2a4515ae58/image/18f5d398c73d071f87bdcfb5a616b327.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "talksat",
       "showName": "Talks at GS",
       "category": "finance",
@@ -746,6 +889,17 @@
       "duration": "01:28:08",
       "summary": "【主播的话】 人类自古以来就有对战争保持记录的传统——有战争的地方，就有讲故事的需求。“战地记者”在近代随着现代战争的发展，逐渐成为一个专门的职业。身处前线，冒着枪林弹雨做直播的战地记者，一度成为许多人心中对”记者”这个职业的终极想象。 但大多数冲突，其实并不总是以枪炮和热战的形式呈现。战前的摩擦、绵延数十年的族群对抗；战争中的大后方，虽然不是最激烈的交战前线，却也同样在塑造着战争。并且，它常常没",
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2559 - Sam Morril",
+      "link": "https://traffic.megaphone.fm/GLT1481505854.mp3",
+      "pubDate": "2026-09-29T17:00:00.000Z",
+      "duration": "10394",
+      "summary": "Sam Morril is a stand-up comic, writer, actor, and co-host of the \"We Might Be Drunk\" podcast. Look for his new Netflix special, \"Incorrect,\" on September 29.www.netflix.com/title/82155480www.youtube.",
+      "art": "https://megaphone.imgix.net/podcasts/15242aa8-bb9a-11f1-b421-f7d46b049862/image/0ad06ff360f06a9c778a15d0c07c1ad6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
@@ -845,6 +999,17 @@
       "duration": "01:33:53",
       "summary": "Dr. Abdul El-Sayed, the Democratic nominee for Senate in Michigan, has been one of the most argued-over candidates this election cycle. If he wins, he’d be the first-ever Muslim senator, and he’s face",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2558 - Tyler Engle",
+      "link": "https://traffic.megaphone.fm/GLT7969377226.mp3",
+      "pubDate": "2026-09-24T17:00:00.000Z",
+      "duration": "8983",
+      "summary": "Tyler Engle is a musician, researcher, author, and host of the \"BassForge\" YouTube channel.www.youtube.com/@BassForge_ushttps://bassforge.us Perplexity: Download the app or ask Perplexity anything at ",
+      "art": "https://megaphone.imgix.net/podcasts/fdbc67aa-b7a1-11f1-974a-f3fc61fd3468/image/1a031d2726eef38308a4bab0d9ddca69.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "20vc",
