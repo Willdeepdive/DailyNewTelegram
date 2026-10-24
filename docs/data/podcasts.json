@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-23T22:45:20.749Z",
+    "updatedAt": "2026-10-24T12:12:25.602Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Why Robotics Will be 100x Bigger than Coding Agents | Inference Will Be a $10TRN Market: What No One Sees | Why Software Investors are F***** Today with Naveen Rao, Unconventional",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-why-robotics-will-be-100x-bigger-than-coding-agents-inference-will-be-a-10trn-market-what-no-one-sees-why-software-investors-are-f-today-with-naveen-rao-unconventional",
+      "pubDate": "2026-10-24T07:07:00.000Z",
+      "duration": "01:09:23",
+      "summary": "AGENDA: 05:00 Will we run out of energy? 19:00 Will specialised chips threaten NVIDIA's dominance? 26:00 Can we trust AI agents more than humans? 31:00 Will data companies become commodities? 36:00 Wh",
+      "art": "https://static.libsyn.com/p/assets/d/9/b/4/d9b4b33072db6fcc5f2e77a3093c12a1/WhatsApp_Image_2026-10-23_at_15.41.03.jpeg"
+    },
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "AI Cyber Panic, Ken Griffin's Bubble Warning, The Fall of France?",
+      "link": "https://allinchamathjason.libsyn.com/ai-cyber-panic-ken-griffins-bubble-warning-the-fall-of-france",
+      "pubDate": "2026-10-23T23:08:00.000Z",
+      "duration": "01:43:23",
+      "summary": "(0:00) Bestie intros! (0:11) Ken Griffin's AI bubble warning (8:19) Palo Alto Networks CEO Nikesh Arora joins (14:24) AI Cyber panic: PHP exploits and the tumultuous year ahead (44:17) France on the b",
+      "art": "https://static.libsyn.com/p/assets/a/a/d/5/aad5ad1303ccae075f2e77a3093c12a1/1_Pod_E294.png"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -1111,17 +1133,6 @@
       "art": "https://static.libsyn.com/p/assets/8/2/9/0/829042fc775095ffe5bbc093207a2619/WhatsApp_Image_2026-09-18_at_12.41.29.jpeg"
     },
     {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Adam Foroughi, Applovin CEO: Surviving a 92% Drawdown, Ads as ML 1.0 & the $50B Game Ad Market",
-      "link": "https://allinchamathjason.libsyn.com/adam-foroughi-applovin-ceo-surviving-a-92-drawdown-ads-as-ml-10-the-50b-game-ad-market",
-      "pubDate": "2026-09-20T20:49:00.000Z",
-      "duration": "23:52",
-      "summary": "(0:00) Adam Foroughi joins the Besties! (3:07) Discovery vs search & is your phone listening? (10:04) IPO tumble & becoming your own best investor (16:00) Privacy rules, Apple's crackdown & how agents",
-      "art": "https://static.libsyn.com/p/assets/7/6/e/5/76e538ca850ee80de5bbc093207a2619/Podcast_Thumbnail_-_AIS_26-20260920-4hsy5e44i2.png"
-    },
-    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -1131,17 +1142,6 @@
       "duration": "00:31:17",
       "summary": "Fears of out-of-control A.I. have reached a boil over the last few weeks, and several industry executives have called for a coordinated slowdown of A.I. development. But if our goal is to control A.I.",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: \"Anti-Data Centres is a Chinese Psyop\" | How Many Planned Data Centers Will Actually Get Built? | Is Energy AI's Biggest Bottleneck? With Thomas Sohmers, Co-Founder @ Positron",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-anti-data-centres-is-a-chinese-psyop-how-many-planned-data-centers-will-actually-get-built-is-energy-ais-biggest-bottleneck-with-thomas-sohmers-co-founder-positron",
-      "pubDate": "2026-09-19T07:07:00.000Z",
-      "duration": "01:11:42",
-      "summary": "Thomas Sohmers is the co-founder and chairman of Positron AI, building chips to make running AI dramatically cheaper and more energy-efficient. The company recently announced an $875 million Series C ",
-      "art": "https://static.libsyn.com/p/assets/2/c/2/1/2c2172c45315d9ca88c4a68c3ddbc4f2/WhatsApp_Image_2026-09-17_at_17.31.42.jpeg"
     },
     {
       "showId": "etw",
