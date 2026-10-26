@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-25T22:10:46.217Z",
+    "updatedAt": "2026-10-26T19:48:28.688Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Satya Nadella on Open vs Closed Models: Who Wins | Whether to Trust Frontier Model Providers | Why Companies Need to Own Their Own Intelligence | The Importance of Verticalisation: From Chips to Models and More",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-satya-nadella-on-open-vs-closed-models-who-wins-whether-to-trust-frontier-model-providers-why-companies-need-to-own-their-own-intelligence-the-importance-of-verticalisation-from-chips-to-models-and-more",
+      "pubDate": "2026-10-26T07:07:00.000Z",
+      "duration": "26:06",
+      "summary": "Satya Nadella is the CEO of Microsoft and one of the greatest CEOs of our time. Satya has been at the company for an astonishing 34 years. When he joined, Microsoft had a market cap of $23.5BN. 22 yea",
+      "art": "https://static.libsyn.com/p/assets/e/5/c/5/e5c54d6848e445c85f2e77a3093c12a1/WhatsApp_Image_2026-10-23_at_16.06.17.jpeg"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "How bots are overtaking humans on the internet",
+      "link": "https://www.npr.org/2026/10/26/nx-s1-6014541/how-bots-are-overtaking-humans-on-the-internet",
+      "pubDate": "2026-10-26T07:00:00.000Z",
+      "duration": "568",
+      "summary": "There are now more bots than humans online. What does that mean for how we experience the internet? Can bots and humans peacefully coexist online? Fact checking by Sierra Juarez . Your Next Listen – C",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2F52%2Fd952309b4e7dac8360eaa6fd564d%2F073ae05b-edba-44e5-b68d-2ee791473858.png"
+    },
     {
       "showId": "20vc",
       "showName": "20VC",
@@ -781,17 +803,6 @@
       "art": "https://megaphone.imgix.net/podcasts/2013800e-c120-11f1-a768-6f890ba0aaa8/image/0259df876a79b0a57e1a854db2f13aeb.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Inside Norway's sovereign wealth fund dilemma to divest from Israel",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5991846/inside-norways-sovereign-wealth-fund-dilemma-to-divest-from-israel",
-      "pubDate": "2026-10-06T07:00:00.000Z",
-      "duration": "484",
-      "summary": "Norway has the world’s largest sovereign wealth fund, but it’s facing a self-imposed dilemma. Should the fund's investments include companies that directly or indirectly contribute to the ongoing Isra",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb5%2F84%2F31da12db4cbaa9ee68b0a2c59aac%2F700af98f-a4b5-47eb-b2a6-c802faa7eca3.png"
-    },
-    {
       "showId": "20vc",
       "showName": "20VC",
       "category": "vc",
@@ -1120,17 +1131,6 @@
       "duration": "1167",
       "summary": "The luxury real estate brokerage SERHANT. generates over $1 billion in transactions every month. On Talks at GS, Ryan Serhant, founder and CEO of SERHANT., joins Tucker York, chair of Goldman Sachs gl",
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: Why AI Cannot Replace Humans in Enterprise | Why Work Processes Not Models Will Be The Most Valuable Asset in AI | Why Europe Has Lost and Building in the US vs EU with Daniel Dines, UiPath",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-why-ai-cannot-replace-humans-in-enterprise-why-work-processes-not-models-will-be-the-most-valuable-asset-in-ai-why-europe-has-lost-and-building-in-the-us-vs-eu-with-daniel-dines-uipath",
-      "pubDate": "2026-09-21T07:07:00.000Z",
-      "duration": "01:11:11",
-      "summary": "Daniel Dines is one of the greatest European founders of the last decade. As the Co-Founder of UiPath, he has scaled the business to a market cap high of $ 44BN in 2021, with the company now generatin",
-      "art": "https://static.libsyn.com/p/assets/8/2/9/0/829042fc775095ffe5bbc093207a2619/WhatsApp_Image_2026-09-18_at_12.41.29.jpeg"
     },
     {
       "showId": "ezraklein",
