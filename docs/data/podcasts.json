@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-26T23:28:28.252Z",
+    "updatedAt": "2026-10-27T13:29:29.653Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -110,7 +110,7 @@
       "id": "lexfridman",
       "name": "Lex Fridman Podcast",
       "category": "tech",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg",
       "link": "https://lexfridman.com/"
     },
     {
@@ -165,6 +165,39 @@
   ],
   "episodes": [
     {
+      "showId": "left-right",
+      "showName": "忽左忽右",
+      "category": "zh",
+      "title": "511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6ae0674fc96c8942ec13048e?utm_source=rss",
+      "pubDate": "2026-10-27T09:24:33.000Z",
+      "duration": "01:58:27",
+      "summary": "- 导语 - 2016年，一部尘封多年的费孝通英文小说手稿，在伦敦政治经济学院意外重见天日。这部题为《茧》的小说，也为理解费孝通的学术道路提供了新的线索。小说以苏南一家制丝工厂为背景，与茅盾《春蚕》共同触及三十年代江南农村的经济困境，却对农村出路提出了不同设想。这部小说与费孝通的社会学名著《江村经济》究竟是什么关系？它又如何与三十年代的社会性质论战形成关联？费孝通为何最终选择社会学？大革命失败与家",
+      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
+    },
+    {
+      "showId": "ezraklein",
+      "showName": "The Ezra Klein Show",
+      "category": "politics",
+      "title": "Nate Silver Predicts a ‘Momentous’ Midterm",
+      "link": "https://www.nytimes.com/2026/10/27/opinion/ezra-klein-podcast-nate-silver.html",
+      "pubDate": "2026-10-27T09:00:00.000Z",
+      "duration": "00:55:05",
+      "summary": "“If the election goes roughly as the polls say it will go, then in some ways it would mark the end of the Trump era,” Nate Silver told me. The midterms are a week away, and it looks entirely possible ",
+      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Why Meta is giving you Muse for free",
+      "link": "https://www.npr.org/2026/10/27/nx-s1-6018569/why-meta-is-giving-you-muse-for-free",
+      "pubDate": "2026-10-27T07:00:00.000Z",
+      "duration": "606",
+      "summary": "Meta’s new AI agent Muse is one of the fastest-growing apps ever. It’s a big bet from a company spending billions to win the AI race. But what is the real cost of using this powerful, free AI product?",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2F13%2F04af1d9b44dea52c2d9c567670e9%2F9d880988-5110-4959-a321-55ea0e42dfc6.jpg"
+    },
+    {
       "showId": "lexfridman",
       "showName": "Lex Fridman Podcast",
       "category": "tech",
@@ -173,7 +206,7 @@
       "pubDate": "2026-10-26T22:52:28.000Z",
       "duration": "3:42:40",
       "summary": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-St",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "20vc",
@@ -792,17 +825,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "One economist's answer to data center anxiety",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5992976/one-economists-answer-to-data-center-anxiety",
-      "pubDate": "2026-10-07T07:00:00.000Z",
-      "duration": "568",
-      "summary": "Rising electricity prices are one of the primary reasons why data centers are a public enemy this election cycle. But is it realistic to expect energy prices to stay high forever? Fact checking by Sie",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd5%2F8e%2Fd8435163460f80ccb2bfb49c2416%2Fc2d2794a-874e-4180-8942-d9791db89519.jpg"
-    },
-    {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
       "category": "general",
@@ -1174,7 +1196,7 @@
       "pubDate": "2026-09-17T00:40:49.000Z",
       "duration": "3:43:51",
       "summary": "Andrew Scull is a historian of psychiatry. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep502-sc See below for timestamps, transcript, and to give feedback, submit",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "left-right",
@@ -1320,28 +1342,6 @@
       "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a96a621a0210c197dcbb58d?utm_source=rss",
-      "pubDate": "2026-09-01T11:22:56.000Z",
-      "duration": "01:41:26",
-      "summary": "- 导语 - 随着新加坡「信天翁档案」的解密，新加坡与马来西亚的合并与分离中交织的种族政治、冷战格局与不同政治盘算愈发明晰。新加坡真的是被马来西亚单方面踢出联邦吗？李光耀与东姑在新马合并初期的君子协定如何走向破裂？在新加坡与马来西亚之间的谈判中，吴庆瑞如何先斩后奏地推动了最终的分家？请听本期嘉宾许振华带来的精彩分享！ - 本期话题成员 - 程衍樑（微博@GrenadierGuard2） 许振华，关",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
-      "showId": "ezraklein",
-      "showName": "The Ezra Klein Show",
-      "category": "politics",
-      "title": "Best Of: The Tao of Rick Rubin",
-      "link": "https://www.nytimes.com/2023/02/10/opinion/ezra-klein-podcast-rick-rubin.html",
-      "pubDate": "2026-09-01T09:00:00.000Z",
-      "duration": "01:29:56",
-      "summary": "Whatever type of music you love, Rick Rubin has probably left his mark on it. Rubin, a founder of Def Jam Recordings and a former co-chairman of Columbia Records, might be the most influential music p",
-      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
       "showId": "weirdo",
       "showName": "不合时宜",
       "category": "zh",
@@ -1383,7 +1383,7 @@
       "pubDate": "2026-08-26T21:47:04.000Z",
       "duration": "5:21:57",
       "summary": "DHH is the creator of Ruby on Rails, Omarchy Linux, CTO of 37signals, and a racecar driver. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep501-sc See below for tim",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "etw",
@@ -1416,7 +1416,7 @@
       "pubDate": "2026-08-12T13:11:45.000Z",
       "duration": "3:19:53",
       "summary": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. Its translated and dubbed",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "weirdo",
@@ -1482,7 +1482,7 @@
       "pubDate": "2026-07-28T20:06:06.000Z",
       "duration": "3:53:07",
       "summary": "Gary Gallagher is a historian of the American Civil War. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep499-sc See below for timestamps, transcript, and to give fe",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "talksat",
@@ -1592,7 +1592,7 @@
       "pubDate": "2026-06-30T21:33:40.000Z",
       "duration": "3:58:46",
       "summary": "Anthony Kaldellis is a historian of the Roman Empire and author of The New Roman Empire, a comprehensive history of the Byzantine Empire (Eastern Roman Empire). Thank you for listening ❤ Check out our",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "talksat",
@@ -1713,7 +1713,7 @@
       "pubDate": "2026-05-29T16:22:02.000Z",
       "duration": "3:01:52",
       "summary": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "weirdo",
@@ -1768,7 +1768,7 @@
       "pubDate": "2026-05-06T22:06:47.000Z",
       "duration": "4:23:41",
       "summary": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X. Than",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "weirdo",
@@ -1845,7 +1845,7 @@
       "pubDate": "2026-04-09T17:43:17.000Z",
       "duration": "2:09:56",
       "summary": "Lars Brownworth is a historian, teacher, podcaster, and author specializing in Viking history, medieval Europe, and the Byzantine Empire. Thank you for listening ❤ Check out our sponsors: https://lexf",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "weirdo",
@@ -1867,7 +1867,7 @@
       "pubDate": "2026-03-23T16:28:42.000Z",
       "duration": "2:32:13",
       "summary": "Jensen Huang is the co-founder and CEO of NVIDIA, the worlds most valuable company and the engine powering the AI computing revolution. Thank you for listening ❤ Check out our sponsors: https://lexfri",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "bg2pod",
@@ -1889,7 +1889,7 @@
       "pubDate": "2026-03-11T20:37:33.000Z",
       "duration": "5:16:57",
       "summary": "Jeff Kaplan is a legendary Blizzard game designer of World of Warcraft and Overwatch, now preparing to launch a new game, The Legend of California, from his new studio Kintsugiyama available to wishli",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "acquired",
@@ -1911,7 +1911,7 @@
       "pubDate": "2026-03-01T04:33:22.000Z",
       "duration": "2:42:27",
       "summary": "Rick Beato is a music educator, interviewer, producer, songwriter, and a true multi-instrument musician, playing guitar, bass, cello piano. His incredible YouTube channel celebrates great musicians mu",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "lexfridman",
@@ -1922,7 +1922,7 @@
       "pubDate": "2026-02-12T03:10:39.000Z",
       "duration": "3:25:50",
       "summary": "Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework thats the fastest-growing project in GitHub history. Thank you for listening ❤ Check out our sponsors: https://lexfridma",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "lexfridman",
@@ -1933,7 +1933,7 @@
       "pubDate": "2026-02-01T02:46:43.000Z",
       "duration": "4:39:52",
       "summary": "Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training lead at the Allen Institute for AI (Ai2) and the author of The RLHF Book. S",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "acquired",
@@ -1955,7 +1955,7 @@
       "pubDate": "2026-01-13T20:15:15.000Z",
       "duration": "3:14:26",
       "summary": "Paul Rosolie is a naturalist, explorer, author of a new book titled Junglekeeper, and is someone who has dedicated his life to protecting the Amazon rainforest. Thank you for listening ❤ Check out our",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
       "showId": "bg2pod",
