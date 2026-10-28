@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-28T14:18:18.266Z",
+    "updatedAt": "2026-10-28T19:24:21.175Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2571 - Jimmy Carr",
+      "link": "https://traffic.megaphone.fm/GLT7178896407.mp3",
+      "pubDate": "2026-10-28T19:00:00.000Z",
+      "duration": "10355",
+      "summary": "Jimmy Carr is a comedian, television personality, and writer. His new book, \"On Jokes: The Hidden Mechanics of Funny,\" co-authored with Amanda Baker and Abi Grant, is available now. He is currently on",
+      "art": "https://megaphone.imgix.net/podcasts/2261e0d2-d2fd-11f1-88f9-877628146802/image/2c7859684ab1efef4e053287b434d674.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "indicator",
       "showName": "The Indicator",
@@ -1076,17 +1087,6 @@
       "duration": "01:33:53",
       "summary": "Dr. Abdul El-Sayed, the Democratic nominee for Senate in Michigan, has been one of the most argued-over candidates this election cycle. If he wins, he’d be the first-ever Muslim senator, and he’s face",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2558 - Tyler Engle",
-      "link": "https://traffic.megaphone.fm/GLT7969377226.mp3",
-      "pubDate": "2026-09-24T17:00:00.000Z",
-      "duration": "8983",
-      "summary": "Tyler Engle is a musician, researcher, author, and host of the \"BassForge\" YouTube channel.www.youtube.com/@BassForge_ushttps://bassforge.us Perplexity: Download the app or ask Perplexity anything at ",
-      "art": "https://megaphone.imgix.net/podcasts/fdbc67aa-b7a1-11f1-974a-f3fc61fd3468/image/1a031d2726eef38308a4bab0d9ddca69.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "20vc",
