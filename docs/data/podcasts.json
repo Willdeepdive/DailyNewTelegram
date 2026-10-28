@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-28T19:24:21.175Z",
+    "updatedAt": "2026-10-28T23:43:52.445Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "talksat",
+      "showName": "Talks at GS",
+      "category": "finance",
+      "title": "Dimensional’s David Booth on How to Interpret Risk and 'Stay Calm' Amid Uncertainty",
+      "link": "https://traffic.megaphone.fm/GLD5096997500.mp3",
+      "pubDate": "2026-10-28T19:33:00.000Z",
+      "duration": "1096",
+      "summary": "David Booth, the founder and chairman of Dimensional Fund Advisors, uses academic research and market evidence to manage more than $1 trillion in assets. Booth, the author of Stay Calm, joins Raj Maha",
+      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -1813,17 +1824,6 @@
       "duration": "10409",
       "summary": "Costco is not only Charlie Munger’s favorite company of all time (plus he’s on the board, natch), it’s an absolutely fascinating study in how seemingly opposite characteristics can combine to create i",
       "art": "https://img.transistorcdn.com/jFPz1nSL8JfyAmY8ab_xqfZWEVOQ1VqoHhJKdxvzTEY/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS9hMWI0/NTE4ZGMzNWQ2ODli/ZTExZDkwNjBmZjVl/ZmQ1OS5wbmc.jpg"
-    },
-    {
-      "showId": "talksat",
-      "showName": "Talks at GS",
-      "category": "finance",
-      "title": "Winning the Right to Invest: 20VC’s Harry Stebbings",
-      "link": "https://traffic.megaphone.fm/GLD3050822972.mp3",
-      "pubDate": "2026-04-27T16:28:00.000Z",
-      "duration": "1130",
-      "summary": "Harry Stebbings has transformed a bedroom podcast into a media and investment conglomerate, leveraging that platform to back ten unicorns. In conversation with Bobby Molavi, head of EMEA execution ser",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "weirdo",
