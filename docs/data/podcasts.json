@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-29T19:28:19.053Z",
+    "updatedAt": "2026-10-29T23:42:55.916Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "WHOOP CEO, Will Ahmed: 50B Hours of Health Data, a 4 Million Member Data Moat, & the FDA Fight",
+      "link": "https://allinchamathjason.libsyn.com/whoop-ceo-will-ahmed-50b-hours-of-health-data-a-4-million-member-data-moat-the-fda-fight",
+      "pubDate": "2026-10-29T21:26:00.000Z",
+      "duration": "55:39",
+      "summary": "(0:00) Welcome Will Ahmed, CEO of WHOOP (0:59) WHOOP's $500 Hardware Problem & the Subscription Pivot (6:59) Inside 50 Billion Hours of 24/7 Health Data (19:31) WHOOP's AI Coach, Journal Insights & GL",
+      "art": "https://static.libsyn.com/p/assets/a/7/3/9/a73958ffcc02ae365f2e77a3093c12a1/signal-2026-10-29-17-06-43-868.jpg"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -1164,17 +1175,6 @@
       "duration": "01:03:03",
       "summary": "- 导语 - 整四十年前，挑战者号航天飞机在全世界观众的注视之下，于升空73秒后爆炸解体。几十年来，媒体与技术人员对这场悲剧的追问从未停止。在一次技术故障的背后，是美国航天飞机项目在政治承诺、预算削减与过度公关的多重压力下，不断积累的系统性风险。工程师对低温风险的警告，为何最终未能阻止发射？已然看到风险的NASA为何仍执意按时起飞？航天飞机解体之后，至少三位宇航员又曾尝试怎样的自救？请听本期嘉宾刘",
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Naveen Rao: 4D Computing, AI's Energy Wall & Beating Biology",
-      "link": "https://allinchamathjason.libsyn.com/naveen-rao-4d-computing-ais-energy-wall-beating-biology",
-      "pubDate": "2026-09-21T21:03:00.000Z",
-      "duration": "22:35",
-      "summary": "(0:00) Welcome Naveen Rao (4:45) Is energy really the problem? The cost of a token, power contracts & the gap to close (10:24) Cutting out the middleman: abstractions, dynamical systems & a new kind o",
-      "art": "https://static.libsyn.com/p/assets/8/0/d/f/80dfa9286a3a8956e5bbc093207a2619/signal-2026-09-21-15-08-09-760.jpg"
     },
     {
       "showId": "talksat",
