@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-29T14:34:28.140Z",
+    "updatedAt": "2026-10-29T19:28:19.053Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -165,6 +165,17 @@
   ],
   "episodes": [
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2572 - Colum Tyrrell",
+      "link": "https://traffic.megaphone.fm/GLT3844762456.mp3",
+      "pubDate": "2026-10-29T17:00:00.000Z",
+      "duration": "11089",
+      "summary": "Colum Tyrrell is a comedian, streamer, and co-host of the \"Cockfight\" podcast with Lev Fer and Tristan Bowling. His new hour-long comedy special premieres October 28 on YouTube. He is currently on tou",
+      "art": "https://megaphone.imgix.net/podcasts/a7f8279c-d37a-11f1-a462-fb1f7204087b/image/9f156e4c4c5b052ae574871c1a09ef2d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "20vc",
       "showName": "20VC",
       "category": "vc",
@@ -204,7 +215,7 @@
       "title": "#2571 - Jimmy Carr",
       "link": "https://traffic.megaphone.fm/GLT7178896407.mp3",
       "pubDate": "2026-10-28T19:00:00.000Z",
-      "duration": "10355",
+      "duration": "10595",
       "summary": "Jimmy Carr is a comedian, television personality, and writer. His new book, \"On Jokes: The Hidden Mechanics of Funny,\" co-authored with Amanda Baker and Abi Grant, is available now. He is currently on",
       "art": "https://megaphone.imgix.net/podcasts/2261e0d2-d2fd-11f1-88f9-877628146802/image/2c7859684ab1efef4e053287b434d674.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
@@ -999,17 +1010,6 @@
       "duration": "01:28:08",
       "summary": "【主播的话】 人类自古以来就有对战争保持记录的传统——有战争的地方，就有讲故事的需求。“战地记者”在近代随着现代战争的发展，逐渐成为一个专门的职业。身处前线，冒着枪林弹雨做直播的战地记者，一度成为许多人心中对”记者”这个职业的终极想象。 但大多数冲突，其实并不总是以枪炮和热战的形式呈现。战前的摩擦、绵延数十年的族群对抗；战争中的大后方，虽然不是最激烈的交战前线，却也同样在塑造着战争。并且，它常常没",
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2559 - Sam Morril",
-      "link": "https://traffic.megaphone.fm/GLT1481505854.mp3",
-      "pubDate": "2026-09-29T17:00:00.000Z",
-      "duration": "10394",
-      "summary": "Sam Morril is a stand-up comic, writer, actor, and co-host of the \"We Might Be Drunk\" podcast. Look for his new Netflix special, \"Incorrect,\" on September 29.www.netflix.com/title/82155480www.youtube.",
-      "art": "https://megaphone.imgix.net/podcasts/15242aa8-bb9a-11f1-b421-f7d46b049862/image/0ad06ff360f06a9c778a15d0c07c1ad6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
