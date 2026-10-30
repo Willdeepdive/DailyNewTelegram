@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-30T14:27:10.556Z",
+    "updatedAt": "2026-10-30T19:04:38.512Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2573 - Legion of Skanks",
+      "link": "https://traffic.megaphone.fm/GLT3082011100.mp3",
+      "pubDate": "2026-10-30T17:00:00.000Z",
+      "duration": "9858",
+      "summary": "Big Jay Oakerson, Luis J. Gomez, and Steve Rannazzisi are comedians and hosts of the \"Legion of Skanks\" podcast. Big Jay and Luis also co-host the \"Story Warz\" podcast. Big Jay co-hosts \"The Bonfire\" ",
+      "art": "https://megaphone.imgix.net/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/44a67bcc8eafc1e9e5a834234176f4c4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
@@ -1010,17 +1021,6 @@
       "duration": "52:49",
       "summary": "(0:00) Jake Paul joins the Chamath! (6:41) Turning an audience into businesses, the boxing playbook & coming for the UFC (11:54) Attention as capital, investing without the celebrity label & why polit",
       "art": "https://static.libsyn.com/p/assets/b/f/e/7/bfe70c5fe7acc1f7e5bbc093207a2619/jp_x_chnsmkers_2.png"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2560 - David Grusch",
-      "link": "https://traffic.megaphone.fm/GLT2730878908.mp3",
-      "pubDate": "2026-09-30T17:00:00.000Z",
-      "duration": "9385",
-      "summary": "David Grusch is a former United States Air Force intelligence officer, former representative of the National Reconnaissance Office to the Unidentified Aerial Phenomena Task Force, and former co-lead f",
-      "art": "https://megaphone.imgix.net/podcasts/f3a56dec-bc61-11f1-b794-3f2a4515ae58/image/18f5d398c73d071f87bdcfb5a616b327.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "talksat",
