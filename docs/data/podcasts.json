@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-30T19:04:38.512Z",
+    "updatedAt": "2026-10-30T23:22:48.247Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -165,6 +165,17 @@
   ],
   "episodes": [
     {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Anthropic S-1 Shocker, Greatest Business Ever? Google's $500B Wipeout, Midterm Predictions",
+      "link": "https://allinchamathjason.libsyn.com/anthropic-s-1-shocker-greatest-business-ever-googles-500b-wipeout-midterm-predictions",
+      "pubDate": "2026-10-30T21:44:00.000Z",
+      "duration": "01:25:47",
+      "summary": "(0:00) Bestie Intros (3:22) Anthropic S-1 Breakdown: Greatest Business Ever? (32:47) AI's Biggest Problem and Anthropic's Doomer Showdown (1:01:57) Google Sheds $500B Market Cap in Worst Day Ever: Wha",
+      "art": "https://static.libsyn.com/p/assets/2/8/2/4/2824d23e001152e8a04421dee9605cbd/1_Pod_E295.png"
+    },
+    {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
       "category": "general",
@@ -179,7 +190,7 @@
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
-      "title": "What’s Driving Elon Musk?",
+      "title": "Elon Musk’s Endgame",
       "link": "https://www.nytimes.com/2026/10/30/opinion/ezra-klein-podcast-quinn-slobodian.html",
       "pubDate": "2026-10-30T09:00:00.000Z",
       "duration": "01:11:00",
@@ -1175,17 +1186,6 @@
       "duration": "55:44",
       "summary": "(0:00) Steve Hilton joins the Besties! (3:53) How one-party rule broke the state, regulatory bloat & who really writes the laws (12:09) The path to victory: the persuadable voter, the cost-of-living p",
       "art": "https://static.libsyn.com/p/assets/9/8/6/b/986babeb267bdf5888c4a68c3ddbc4f2/Podcast_Thumbnail_-_AIS_26_1.png"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Blake Scholl: Why Plane Speed Stalled, Supersonic Commercial Flight, & Revolutionizing the Engine",
-      "link": "https://allinchamathjason.libsyn.com/blake-scholl-why-plane-speed-stalled-supersonic-commercial-flight-revolutionizing-the-engine",
-      "pubDate": "2026-09-22T09:00:00.000Z",
-      "duration": "17:40",
-      "summary": "(0:00) Welcome Blake Scholl! (5:11) Solving the sonic boom & legalizing supersonic flight (7:59) The pivot to powering data centers (10:38) Jason joins: data center demand, private jets & what winning",
-      "art": "https://static.libsyn.com/p/assets/7/6/e/f/76ef196ad6a901ad88c4a68c3ddbc4f2/signal-2026-09-21-15-08-09-760_002-1.jpg"
     },
     {
       "showId": "left-right",
