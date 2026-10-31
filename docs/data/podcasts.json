@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-30T23:22:48.247Z",
+    "updatedAt": "2026-10-31T13:47:36.039Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: David Tisch on Why High Ownership and Concentration is BS | Why No Manager Actually Wants to Stay Small | Why Competing with the Mega Platforms is a Losing Game | Why the Lean Startup is a Fake?",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-david-tisch-on-why-high-ownership-and-concentration-is-bs-why-no-manager-actually-wants-to-stay-small-why-competing-with-the-mega-platforms-is-a-losing-game-why-the-lean-startup-is-a-fake",
+      "pubDate": "2026-10-31T07:07:00.000Z",
+      "duration": "01:16:56",
+      "summary": "David Tisch is the Founder of Box Group, one of the best seed funds of the last decade with early investments in Cursor, Baseten and Clay to name a few. Today the fund invests from two funds, a $275M ",
+      "art": "https://static.libsyn.com/p/assets/9/5/7/1/9571e67f0f307d07a04421dee9605cbd/WhatsApp_Image_2026-10-30_at_13.54.13.jpeg"
+    },
     {
       "showId": "allin",
       "showName": "All-In",
@@ -1098,17 +1109,6 @@
       "duration": "01:09:34",
       "summary": "Alex Mashrabov is the Founder and CEO of Higgsfield, the third fastest scaling company to $1BN in ARR behind OpenAI and Anthropic. Reports suggest their latest funding round could place an $8BN valuat",
       "art": "https://static.libsyn.com/p/assets/3/4/0/7/34073c0516b23917e5bbc093207a2619/WhatsApp_Image_2026-09-25_at_13.19.00.jpeg"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: Five Predictions for a World of Agents | The Ads Business Model Will Die | Biggest Lessons from Working with Elon Musk at Twitter with Parag Agrawal, Parallel",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-five-predictions-for-a-world-of-agents-the-ads-business-model-will-die-biggest-lessons-from-working-with-elon-musk-at-twitter-with-parag-agrawal-parallel",
-      "pubDate": "2026-09-26T12:27:00.000Z",
-      "duration": "56:50",
-      "summary": "Parag Agrawal is the Co-Founder and CEO of Parallel, building web search infrastructure for AI agents. Parallel has announced $230M in funding from Sequoia, Khosla, and First Round Capital. Previously",
-      "art": "https://static.libsyn.com/p/assets/7/8/9/4/78943ac00fd13441e5bbc093207a2619/WhatsApp_Image_2026-09-25_at_16.13.47.jpeg"
     },
     {
       "showId": "allin",
