@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-31T13:47:36.039Z",
+    "updatedAt": "2026-10-31T18:23:00.171Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2574 - Francis Foster & Konstantin Kisin",
+      "link": "https://traffic.megaphone.fm/GLT8304275411.mp3",
+      "pubDate": "2026-10-31T17:00:00.000Z",
+      "duration": "9614",
+      "summary": "Comedian Francis Foster and political commentator Konstantin Kisin host the \"TRIGGERnometry\" podcast. Francis also hosts \"The Francis Foster Show\" and is the author of \"(Un)educated: My Life as a Teac",
+      "art": "https://megaphone.imgix.net/podcasts/0dc6237e-d512-11f1-816e-5f927e9904ef/image/09d7546396986d25c234aa713fa6fd09.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "20vc",
       "showName": "20VC",
@@ -1010,17 +1021,6 @@
       "duration": "01:07:29",
       "summary": "President Trump and the modern right have a theory of beauty. You see it in Trump’s gilded Oval Office, his imagined arch and his executive order requiring classical and traditional styles for certain",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "JRE MMA Show #186 with Sean Sharaf",
-      "link": "https://traffic.megaphone.fm/GLT1692440444.mp3",
-      "pubDate": "2026-10-01T17:00:00.000Z",
-      "duration": "8486",
-      "summary": "Joe sits down with Sean Sharaf, a professional mixed martial artist competing in the UFC’s heavyweight division. Perplexity: Download the app or ask Perplexity anything at https://pplx.ai/rogan. This ",
-      "art": "https://megaphone.imgix.net/podcasts/2089f348-bd41-11f1-a7c5-d7bc7ba22f90/image/3394d9f5735638705a5db9dfedd0face.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "20vc",
