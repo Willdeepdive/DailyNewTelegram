@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-10-31T18:23:00.171Z",
+    "updatedAt": "2026-10-31T22:56:04.736Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -171,7 +171,7 @@
       "title": "#2574 - Francis Foster & Konstantin Kisin",
       "link": "https://traffic.megaphone.fm/GLT8304275411.mp3",
       "pubDate": "2026-10-31T17:00:00.000Z",
-      "duration": "9614",
+      "duration": "9854",
       "summary": "Comedian Francis Foster and political commentator Konstantin Kisin host the \"TRIGGERnometry\" podcast. Francis also hosts \"The Francis Foster Show\" and is the author of \"(Un)educated: My Life as a Teac",
       "art": "https://megaphone.imgix.net/podcasts/0dc6237e-d512-11f1-816e-5f927e9904ef/image/09d7546396986d25c234aa713fa6fd09.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
@@ -204,9 +204,9 @@
       "title": "#2573 - Legion of Skanks",
       "link": "https://traffic.megaphone.fm/GLT3082011100.mp3",
       "pubDate": "2026-10-30T17:00:00.000Z",
-      "duration": "9858",
+      "duration": "10098",
       "summary": "Big Jay Oakerson, Luis J. Gomez, and Steve Rannazzisi are comedians and hosts of the \"Legion of Skanks\" podcast. Big Jay and Luis also co-host the \"Story Warz\" podcast. Big Jay co-hosts \"The Bonfire\" ",
-      "art": "https://megaphone.imgix.net/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/44a67bcc8eafc1e9e5a834234176f4c4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone.imgix.net/podcasts/a96ed958-d402-11f1-b9a5-576e4cad39df/image/3cb0c5a701b9ebf0dfe3ee8b24434961.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
