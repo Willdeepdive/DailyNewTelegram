@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-10-31",
+  "lastRun": "2026-11-01",
   "feeds": [
     {
       "name": "Stratechery",
@@ -160,9 +160,10 @@
     {
       "name": "Eli Bendersky",
       "url": "https://eli.thegreenplace.net/feeds/all.atom.xml",
-      "ok": true,
-      "itemCount": 5,
-      "consecutiveFails": 0
+      "ok": false,
+      "itemCount": 0,
+      "consecutiveFails": 1,
+      "error": "fetch failed"
     },
     {
       "name": "Daring Fireball",
@@ -210,7 +211,7 @@
       "name": "email",
       "url": "sources/newsletters.json",
       "ok": true,
-      "itemCount": 35,
+      "itemCount": 33,
       "consecutiveFails": 0,
       "skipped": false
     }
