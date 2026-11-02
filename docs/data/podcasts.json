@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-01T23:14:21.649Z",
+    "updatedAt": "2026-11-02T17:20:08.949Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "How crypto world made inroads in Pakistan",
+      "link": "https://www.npr.org/2026/11/02/nx-s1-6022220/how-crypto-world-made-inroads-in-pakistan",
+      "pubDate": "2026-11-02T08:00:00.000Z",
+      "duration": "537",
+      "summary": "Pakistan in recent years has taken a U-turn on cryptocurrency, opting to regulate digital assets instead of outright banning them. On today’s show, what the country’s crypto boosters hope to gain for ",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F5f%2F61e46f2644b3b4a9fdf5601b9aab%2F6985f0c1-1a28-46fd-a918-77488a8addbd.png"
+    },
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Who Wins the Inference Market | Has Open-Source LLM Inference Peaked? | What Happens to the Cost of Compute | The Real Limits of Post-Training and RL with Erik Bernhardsson, Modal CEO",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-who-wins-the-inference-market-has-open-source-llm-inference-peaked-what-happens-to-the-cost-of-compute-the-real-limits-of-post-training-and-rl-with-erik-bernhardsson-modal-ceo",
+      "pubDate": "2026-11-02T07:07:00.000Z",
+      "duration": "01:02:10",
+      "summary": "Erik Bernhardsson is the Co-Founder and CEO of Modal, the AI infrastructure platform for training models, running inference and powering AI agents. Modal has raised over $1.2 billion, including a rece",
+      "art": "https://static.libsyn.com/p/assets/e/8/7/2/e872067a63cd07335f2e77a3093c12a1/WhatsApp_Image_2026-10-30_at_13.54.30.jpeg"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -825,17 +847,6 @@
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "How did we get a Nobel Prize in economics?",
-      "link": "https://www.npr.org/2026/10/13/nx-s1-5999497/how-did-we-get-a-nobel-prize-in-economics",
-      "pubDate": "2026-10-13T07:00:00.000Z",
-      "duration": "568",
-      "summary": "This year's Nobel Prize for Economics went to American economists Robert E. Hall and Michael Woodford! Their research focused on macroeconomic models and economic shocks. But … How did we get a Nobel ",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa9%2Fa4%2F3acd59934cbaba2731155c46876d%2F6dca8926-ca02-47a7-954f-51840a4c4c37.png"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1098,17 +1109,6 @@
       "duration": "51:16",
       "summary": "(0:00) Daniel Ek joins the Besties! (1:14) Starting Spotify: Beating piracy and betting his own money on the record labels (6:10) Neko Health: The Spotify playbook for healthcare, the $499 body scan, ",
       "art": "https://static.libsyn.com/p/assets/4/c/0/c/4c0c09faa895838c88c4a68c3ddbc4f2/ek_spot_square.jpg"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: $1BN ARR in 18 Months; The Untold Story of Higgsfield | Spending $4M Per Month on Models | Why Moats in AI are BS | Scaling a Content Team to 150 People with Alex Mashrabov",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-1bn-arr-in-18-months-the-untold-story-of-higgsfield-spending-4m-per-month-on-models-why-moats-in-ai-are-bs-scaling-a-content-team-to-150-people-with-alex-mashrabov",
-      "pubDate": "2026-09-28T07:07:00.000Z",
-      "duration": "01:09:34",
-      "summary": "Alex Mashrabov is the Founder and CEO of Higgsfield, the third fastest scaling company to $1BN in ARR behind OpenAI and Anthropic. Reports suggest their latest funding round could place an $8BN valuat",
-      "art": "https://static.libsyn.com/p/assets/3/4/0/7/34073c0516b23917e5bbc093207a2619/WhatsApp_Image_2026-09-25_at_13.19.00.jpeg"
     },
     {
       "showId": "allin",
@@ -1895,12 +1895,12 @@
       "showId": "acquired",
       "showName": "Acquired",
       "category": "tech",
-      "title": "Formula 1",
+      "title": "Formula 1: The History and Business",
       "link": "https://www.acquired.fm/episodes/formula-1",
       "pubDate": "2026-03-02T22:18:59.000Z",
       "duration": "15525",
       "summary": "Formula 1 is three competitions in one: a 200mph battle of the world's best race car drivers, the world cup of engineering where thousand-person teams spend hundreds of millions designing cars from sc",
-      "art": "https://img.transistorcdn.com/ORaQ7w0zdqAScJ9YPCf3I4RKe_muT-If0IMRT5rIuE8/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS84MzRh/NWY0NDJlNzAzNDY1/OGY2NThlZDBkYmU1/NzdjMC5wbmc.jpg"
+      "art": "https://img.transistorcdn.com/c-hsi6IkzBgvSbUCmEY_c1bYaCStm_GyxHu5sjFZGrk/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8wNjU5/OWYwMGEyOGY0ZjVi/ZGJhMzk0YmQ5NWNj/YTA0YS5qcGc.jpg"
     },
     {
       "showId": "lexfridman",
