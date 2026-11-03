@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-03T01:55:33.989Z",
+    "updatedAt": "2026-11-03T15:24:46.287Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "left-right",
+      "showName": "忽左忽右",
+      "category": "zh",
+      "title": "513 为永明时代作传：林晓光谈南齐武帝萧赜与南朝文学的爆发",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6ae9a8d3c96c8942ec16aeb7?utm_source=rss",
+      "pubDate": "2026-11-03T09:48:19.000Z",
+      "duration": "01:35:24",
+      "summary": "- 导语 - 「永明末，盛为文章。」在南朝历史中，南齐似乎并不显眼，但永明文学、永明声律与竟陵八友，却在中国文学史上留下了深远影响，也与齐武帝萧赜治下的「永明之治」形成了文学与政治的互文。从刘宋乱世中的地方官到南齐皇帝，萧赜如何一步步崛起？在皇权与士族之间，萧赜如何通过财政、户籍等改革加强中央政府的力量？贵族社会对礼仪与等级的重视，又怎样影响了中国诗歌格律的形成？请听本期嘉宾林晓光老师带来的精彩分",
+      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Is it time to reconsider the adjustable rate mortgage?",
+      "link": "https://www.npr.org/2026/11/03/nx-s1-6026712/is-it-time-to-reconsider-the-adjustable-rate-mortgage",
+      "pubDate": "2026-11-03T08:00:00.000Z",
+      "duration": "511",
+      "summary": "High mortgage rates are nudging some aspiring homeowners to consider adjustable-rate mortgages over the standard 30-year fixed-rate option. Are ARMs the better choice in today’s economy? Fact checking",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F2d%2F8da1ec684fd29e88595562a988a5%2F03288097-9110-49f7-bff1-adc685b7fe07.jpg"
+    },
     {
       "showId": "indicator",
       "showName": "The Indicator",
@@ -814,17 +836,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "A rebate runaround, a car rental rip-off and … roaches?!",
-      "link": "https://www.npr.org/2026/10/14/nx-s1-6001396/a-rebate-runaround-a-car-rental-rip-off-and-roaches",
-      "pubDate": "2026-10-14T07:00:00.000Z",
-      "duration": "567",
-      "summary": "A labyrinthine rebate process. Shrinking cereal boxes. Mystery rental car charges. Cockroaches?! We share listener tales of Consumer Rage and unpack the economic forces driving that ANGER. Fact checki",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F45%2F48%2Fce41d9f7456fb846fb384150f425%2F24af91e0-aeeb-450d-9d62-7d35958b5bf9.png"
-    },
-    {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
       "category": "general",
@@ -1329,17 +1340,6 @@
       "duration": "2:27:38",
       "summary": "本期节目是声东击西「十周年」特别系列的第二期，在这个系列中，我们通过访谈那些亲历结构性变化并拥有独特观察的嘉宾们，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理解今天，又如何辨认出那些塑造未来的力量。 今年七月，徐涛前往了美国加州的佛利蒙市（Fremont），在那里采访了佛利蒙市市议员、前副市长邵阳。 过去十多年，邵阳亲历了美国地方政治中的许多具体变化：从关注华人家庭与学生的教育问题、竞",
       "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/f/f96bdc7a-c667-4594-8719-2070d24f8231/cover.jpg?v=1"
-    },
-    {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a9fd33ba0210c197dcf773e?utm_source=rss",
-      "pubDate": "2026-09-08T09:36:21.000Z",
-      "duration": "00:58:11",
-      "summary": "- 导语 - 从秦人翻越陇山东进关中，到汉朝西出陇山经略河西，位于中国版图中线的陇山是古代中国东西互动的重要轴心。古人翻越陇坂，留下的不仅有「陇头流水，鸣声呜咽」的悲歌，还有不同人群往来的痕迹。为什么说陇山大致位于中国版图的中线？从陇山出发，东西互动为理解早期中国的形成提供了怎样的新视角？请听阎海军老师带来的精彩分享。 - 本期话题成员 - 程衍樑（微博@GrenadierGuard2） 阎海军，",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
       "showId": "weirdo",
