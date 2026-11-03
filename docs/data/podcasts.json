@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-03T15:24:46.287Z",
+    "updatedAt": "2026-11-03T20:27:33.913Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2575 - Sam Tallent",
+      "link": "https://traffic.megaphone.fm/GLT2051514655.mp3",
+      "pubDate": "2026-11-03T18:00:00.000Z",
+      "duration": "9899",
+      "summary": "Sam Tallent is a comedian, author, and host of the \"Chubby Behemoth\" podcast. His most recent book is \"Brut.\" He is currently on tour.www.penguinrandomhouse.com/books/787018/brut-by-sam-tallent/www.yo",
+      "art": "https://megaphone.imgix.net/podcasts/709942d8-d729-11f1-8d39-1fb40a68132d/image/3700eb5e46aadd60d2f67523c7b8d451.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "left-right",
       "showName": "忽左忽右",
@@ -977,17 +988,6 @@
       "duration": "01:11:24",
       "summary": "Last week, David Robinson resigned from OpenAI. He’d been in charge of writing the safety reports for new models and came to believe that OpenAI and the broader artificial intelligence industry lack t",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2561 - LL Cool J",
-      "link": "https://traffic.megaphone.fm/GLT5582771746.mp3",
-      "pubDate": "2026-10-06T17:00:00.000Z",
-      "duration": "9498",
-      "summary": "LL Cool J is a Grammy Award-winning rapper, actor, and philanthropist. Look for him on \"NCIS: New York,\" premiering October 6 on CBS and streaming the next day on Paramount+.www.paramountplus.com/show",
-      "art": "https://megaphone.imgix.net/podcasts/2013800e-c120-11f1-a768-6f890ba0aaa8/image/0259df876a79b0a57e1a854db2f13aeb.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "20vc",
