@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-04T15:39:59.074Z",
+    "updatedAt": "2026-11-04T20:42:23.640Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2576 - Dr. Peter McCullough",
+      "link": "https://traffic.megaphone.fm/GLT1721245652.mp3",
+      "pubDate": "2026-11-04T18:00:00.000Z",
+      "duration": "9728",
+      "summary": "Peter A. McCullough, MD, MPH, is a physician, author, and chief scientific officer of The Wellness Company. His most recent book is \"Vaccines: Mythology, Ideology, and Reality,\" co-authored with John ",
+      "art": "https://megaphone.imgix.net/podcasts/843a4c4c-d814-11f1-b9a1-43aa4be9aada/image/764aae128b0171ebac833146ecdfed19.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "indicator",
       "showName": "The Indicator",
@@ -966,17 +977,6 @@
       "duration": "01:13:22",
       "summary": "Joinin the trio today we have Dev Ittycheria, CEO @ MongoDB. AGENDA: 04:00 OpenAI Nears $70B Run Rate—Anthropic's Lead Under Threat 12:00 Factory vs Cognition: Silicon Valley's Talent War Turns Ugly 2",
       "art": "https://static.libsyn.com/p/assets/d/6/9/e/d69eb3c9c64caa58e5bbc093207a2619/WhatsApp_Image_2026-10-07_at_19.30.30.jpeg"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2562 - Dan McClellan",
-      "link": "https://traffic.megaphone.fm/GLT6084226127.mp3",
-      "pubDate": "2026-10-07T17:00:00.000Z",
-      "duration": "9712",
-      "summary": "Dan McClellan, PhD, is a biblical scholar, author, and co-host of the \"Data Over Dogma\" podcast.www.youtube.com/@dataoverdogmawww.youtube.com/@maklelanhttps://static.macmillan.com/static/smp/bible-say",
-      "art": "https://megaphone.imgix.net/podcasts/5771b05c-c1f7-11f1-93bf-4bf5d16f6f9a/image/0adf163fd3fdd89b10d81e353e59403c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
