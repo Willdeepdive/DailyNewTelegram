@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-05T15:42:00.193Z",
+    "updatedAt": "2026-11-05T20:58:00.816Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2577 - Gregory Forth",
+      "link": "https://traffic.megaphone.fm/GLT6183630462.mp3",
+      "pubDate": "2026-11-05T18:00:00.000Z",
+      "duration": "8319",
+      "summary": "Gregory Forth, DPhil, is an anthropologist, Fellow of the Royal Society of Canada, and author of \"Between Ape and Human: An Anthropologist on the Trail of a Hidden Hominid.\"www.pegasusbooks.com/books/",
+      "art": "https://megaphone.imgix.net/podcasts/6a6c6c02-d907-11f1-ab03-1beaa1609dd6/image/b73d63cd1ed6730e66fcc997aeaa0c94.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "talksat",
+      "showName": "Talks at GS",
+      "category": "finance",
+      "title": "How Aaru Uses Advanced AI Simulations to Predict Human Behavior",
+      "link": "https://traffic.megaphone.fm/GLD4135090234.mp3",
+      "pubDate": "2026-11-05T15:49:00.000Z",
+      "duration": "1292",
+      "summary": "Aaru, a two-and-a-half-year-old startup valued at $1 billion, is redefining market research and consumer intelligence by deploying multi-agent AI simulations to predict how humans will make decisions.",
+      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "etw",
       "showName": "声东击西",
@@ -979,17 +1001,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2563 - Dan Richards",
-      "link": "https://traffic.megaphone.fm/GLT1048281357.mp3",
-      "pubDate": "2026-10-08T17:00:00.000Z",
-      "duration": "10483",
-      "summary": "Dan Richards is an independent researcher whose YouTube channel, \"DeDunking the Past,\" examines lost civilizations and alternative history.www.youtube.com/@DeDunkingwww.patreon.com/DeDunking Perplexit",
-      "art": "https://megaphone.imgix.net/podcasts/5a662dac-c2b9-11f1-bf20-5b1cb8cb82fc/image/e25e701024fcfd432b0b9806e9b156bf.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -1769,17 +1780,6 @@
       "duration": "13685",
       "summary": "Vanguard is the most effective vehicle ever created for participating in the fruits of American capitalism. Today it’s the single largest equity owner of the majority of corporations in the S&P 500, o",
       "art": "https://img.transistorcdn.com/G48S8ousdgdlTFU686aTV1C24y-DL5ua-Ih2SyRvqb0/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS83Nzk4/Y2M5MDcyN2EzZTM3/NjQzYjI1YTBhOTIz/ZjM0NS5qcGc.jpg"
-    },
-    {
-      "showId": "talksat",
-      "showName": "Talks at GS",
-      "category": "finance",
-      "title": "McLaren Racing's Lando Norris and Zak Brown: Building a High-Performance Team",
-      "link": "https://traffic.megaphone.fm/GLD7184374040.mp3",
-      "pubDate": "2026-05-13T18:59:00.000Z",
-      "duration": "1369",
-      "summary": "McLaren Racing returned to the forefront of Formula 1 through a culture of collaboration. Lando Norris, the 2025 Formula 1 World Drivers’ Champion, and Zak Brown, CEO of McLaren Racing, joined Anthony",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "lexfridman",
