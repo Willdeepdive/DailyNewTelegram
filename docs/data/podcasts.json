@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-04T20:42:23.640Z",
+    "updatedAt": "2026-11-05T00:39:40.460Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: OpenAI Cuts Valuation to $1.25TRN | Public Market Meltdown: GOOG Loses $500BN in 12 Hours | DoorDash Buys Instacart for $17BN | Kalshi Raises $1BN and Cognition Eyes $80BN Valuation",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation",
+      "pubDate": "2026-11-04T23:14:00.000Z",
+      "duration": "01:09:27",
+      "summary": "AGENDA: 04:00 OpenAI Cuts Valuation to $1.25 Trillion as Fundraise Shrinks 08:00 Google Loses $500 Billion as AI Stocks Sell Off 10:00 Anthropic's Growth Slows as AI Price War Intensifies 27:00 DoorDa",
+      "art": "https://static.libsyn.com/p/assets/1/d/b/e/1dbe7459626dc0305f2e77a3093c12a1/WhatsApp_Image_2026-11-04_at_16.48.50-20261104-cnsi0fozto.jpeg"
+    },
+    {
+      "showId": "ezraklein",
+      "showName": "The Ezra Klein Show",
+      "category": "politics",
+      "title": "The End of Trumpism",
+      "link": "https://www.nytimes.com/2026/11/04/opinion/ezra-klein-podcast-aaron-retica-midterm-2026.html",
+      "pubDate": "2026-11-04T21:43:35.000Z",
+      "duration": "00:50:04",
+      "summary": "Tuesday night, a blue tsunami crashed across the political map. Democrats won control of the House and the Senate with room to spare, flipping seats in states that once seemed unimaginable: South Caro",
+      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -1045,17 +1067,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: Instinct Raises $1B at $10B Valuation | AMD Buys Fei-Fei Li's World Labs for $8.2B | Meta Poaches MongoDB's CEO | Bessemer Raises $5.75B | Oura Pulls IPO & Nubank Eyes $8–12B Monzo Takeover",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-instinct-raises-1b-at-10b-valuation-amd-buys-fei-fei-lis-world-labs-for-82b-meta-poaches-mongodbs-ceo-bessemer-raises-575b-oura-pulls-ipo-nubank-eyes-812b-monzo-takeover",
-      "pubDate": "2026-10-01T07:07:00.000Z",
-      "duration": "01:18:41",
-      "summary": "AGENDA: 00:00 Highlights: Jack Altman Joins The Trio 05:00 Anthropic's S-1 Leaks: $8B Operating Loss and $518B in Compute Commitments 10:00 Instinct Raises $1B at a $10B Valuation to Take On Meta 25:0",
-      "art": "https://static.libsyn.com/p/assets/0/b/3/f/0b3f89b81924c7e5e5bbc093207a2619/WhatsApp_Image_2026-09-30_at_14.49.16.jpeg"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1318,17 +1329,6 @@
       "duration": "01:35:39",
       "summary": "- 导语 - 晋江陈埭，一个不到40平方公里的福建小镇，却汇集了7000多家制鞋相关企业，全球每五双运动鞋中就有一双来自这里。晋江鞋业如何从侨乡「闲钱、闲房、闲人」的条件中起步？又如何经历星期鞋、亚洲金融危机和北京奥运会后的库存危机？陈埭丁氏有着怎样的历史，又为何走出了安踏、特步、361度等多家运动品牌的创始人？聚焦安踏个案，传统家族企业又如何在市场变化中适应职业经理人与现代管理制度？请听本期嘉宾",
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
-      "showId": "ezraklein",
-      "showName": "The Ezra Klein Show",
-      "category": "politics",
-      "title": "Why I Cant Stop Thinking About The End of History",
-      "link": "https://www.nytimes.com/2026/09/11/opinion/ezra-klein-podcast-francis-fukuyama.html",
-      "pubDate": "2026-09-11T09:00:00.000Z",
-      "duration": "01:17:30",
-      "summary": "Francis Fukuyama's “The End of History and the Last Man” is one of the most insightful books for understanding the strangeness and instability of this political moment. Fukuyama wrote his landmark boo",
-      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
       "showId": "etw",
