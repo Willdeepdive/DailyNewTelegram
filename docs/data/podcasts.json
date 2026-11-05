@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-05T00:39:40.460Z",
+    "updatedAt": "2026-11-05T15:42:00.193Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -165,12 +165,34 @@
   ],
   "episodes": [
     {
+      "showId": "etw",
+      "showName": "声东击西",
+      "category": "zh",
+      "title": "#409 欧阳艳琴：如果教育不必然带来文凭和成功，它还能给一个普通年轻人什么？丨十周年特别节目",
+      "link": "https://etw.fm/2229",
+      "pubDate": "2026-11-05T10:15:00.000Z",
+      "duration": "2:13:50",
+      "summary": "当教育上升通道、就业在发生变化，新技术也加速这一切的时候，普通人如何去思考“出路”、“成长”、“成功”这些事呢？ 本期节目是声东击西「十周年」特别系列的第五期。在这个系列中，我们通过访谈那些亲历结构性变化并拥有独特观察的嘉宾，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理解今天，又如何辨认出那些塑造未来的力量。 本期的嘉宾欧阳艳琴在 2017 年那一年去北京一所打工子弟学校做了半年班主任",
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/9/95e34c80-ffa3-4f50-8077-078d315ee1f4/cover.jpg?v=1"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Can Anthropic make enough money to justify its value?",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6029778/can-anthropic-make-enough-money-to-justify-its-value",
+      "pubDate": "2026-11-05T08:00:00.000Z",
+      "duration": "556",
+      "summary": "Anthropic released its financials to the public as the AI juggernaut prepares for its highly anticipated IPO. So what do these numbers reveal about the future of the AI economy? Fact checking by Leyla",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F88%2F0a%2F76a67dcd42a1a10c234dbfc8840e%2F506166ee-ac33-47d4-b07b-0eaba34d03ea.jpg"
+    },
+    {
       "showId": "20vc",
       "showName": "20VC",
       "category": "vc",
       "title": "20VC: OpenAI Cuts Valuation to $1.25TRN | Public Market Meltdown: GOOG Loses $500BN in 12 Hours | DoorDash Buys Instacart for $17BN | Kalshi Raises $1BN and Cognition Eyes $80BN Valuation",
       "link": "https://thetwentyminutevc.libsyn.com/20vc-openai-cuts-valuation-to-125trn-public-market-meltdown-goog-loses-500bn-in-12-hours-doordash-buys-instacart-for-17bn-kalshi-raises-1bn-and-cognition-eyes-80bn-valuation",
-      "pubDate": "2026-11-04T23:14:00.000Z",
+      "pubDate": "2026-11-05T07:07:00.000Z",
       "duration": "01:09:27",
       "summary": "AGENDA: 04:00 OpenAI Cuts Valuation to $1.25 Trillion as Fundraise Shrinks 08:00 Google Loses $500 Billion as AI Stocks Sell Off 10:00 Anthropic's Growth Slows as AI Price War Intensifies 27:00 DoorDa",
       "art": "https://static.libsyn.com/p/assets/1/d/b/e/1dbe7459626dc0305f2e77a3093c12a1/WhatsApp_Image_2026-11-04_at_16.48.50-20261104-cnsi0fozto.jpeg"
@@ -801,17 +823,6 @@
       "duration": "01:07:29",
       "summary": "The gargantuan bet on the future of A.I. is driving the U.S. stock market and economic growth. And the building of data centers is sucking up so many construction resources, it’s crowding out the cons",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Supercore inflation, Bumble valuation and Pooh's repatriation",
-      "link": "https://www.npr.org/2026/10/16/nx-s1-6004278/supercore-inflation-bumble-valuation-and-poohs-repatriation",
-      "pubDate": "2026-10-16T07:00:00.000Z",
-      "duration": "553",
-      "summary": "This week’s indicators: Why is inflation so super (derogatory)? How did Bumble go from dating app doldrums to a stock market sweetheart?; And oh, bother! Could Winnie the Pooh be moving home to Englan",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Feb%2Ff3%2Fd44d9d2244248a0eb1ead2be5af0%2Fa0fde56c-f4ef-4c40-8501-66a2fdb83f5d.png"
     },
     {
       "showId": "jre",
@@ -1637,17 +1648,6 @@
       "duration": "1557",
       "summary": "Emma Grede has redefined the modern consumer brand landscape, emerging as a global leader in fashion and lifestyle as the co-founder and CEO of Good American, founding partner of SKIMS and co-founder ",
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "etw",
-      "showName": "声东击西",
-      "category": "zh",
-      "title": "#394 从追星之爱，看这个时代爱的结构性变化",
-      "link": "https://etw.fm/2214",
-      "pubDate": "2026-06-25T09:30:00.000Z",
-      "duration": "1:19:14",
-      "summary": "为什么磕 cp 比谈恋爱更快乐？为什么追星让人上头欲罢不能？为什么说这种现象，正展现出我们这个时代「爱」这种最私人的感情也正在发生结构性变化？ 在社交媒体、流量算法与情感商品化的层层作用下，「爱」这个原本属于私人领域的情感，正在被一步步地公共化、量化，乃至商品化 —— 从磕 CP 到情感专制，从乙女游戏到 AI 恋人，爱的形式与爱的能力似乎都在被重新定义。 这一期节目，我们邀请到复旦大学社会学系副",
-      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "weirdo",
