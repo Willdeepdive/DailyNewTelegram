@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-06T15:17:24.214Z",
+    "updatedAt": "2026-11-06T20:18:42.896Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,39 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "talksat",
+      "showName": "Talks at GS",
+      "category": "finance",
+      "title": "LSEG CEO David Schwimmer on Where Global Capital Is Moving",
+      "link": "https://traffic.megaphone.fm/GLD2741874883.mp3",
+      "pubDate": "2026-11-06T18:42:00.000Z",
+      "duration": "1309",
+      "summary": "David Schwimmer, CEO of London Stock Exchange Group, explains why investors may be underestimating risks in today’s markets. In particular, Schwimmer says inflation and geopolitical tension limit the ",
+      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2578 - Calley Means",
+      "link": "https://traffic.megaphone.fm/GLT2681832801.mp3",
+      "pubDate": "2026-11-06T18:00:00.000Z",
+      "duration": "8431",
+      "summary": "Calley Means is a health advocate, author, and former senior advisor to the United States Department of Health and Human Services. He is also a co-founder of Truemed and co-author of the book \"Good En",
+      "art": "https://megaphone.imgix.net/podcasts/9a21b2c6-d99e-11f1-9c2f-e7736191fbbd/image/dba6a76aabfc978b8b4a6ff1a695f11e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Caution: Men NOT at Work",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6032597/caution-men-not-at-work",
+      "pubDate": "2026-11-06T15:35:42.000Z",
+      "duration": "557",
+      "summary": "An increasing number of men are dropping out of the workforce. What’s behind this trend and can anything be done about it? Fact checking by Leyla Doss. Your Next Listen – What's going on with men's la",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2Fa4%2Fbe4b70cd47f8b7d22e1432d3d571%2F57dec99c-9192-41c3-ad96-e5f13fd8dbcc.png"
+    },
     {
       "showId": "left-right",
       "showName": "忽左忽右",
@@ -803,17 +836,6 @@
       "art": "https://static.libsyn.com/p/assets/e/c/b/d/ecbdc845c9b625dd5f2e77a3093c12a1/WhatsApp_Image_2026-10-18_at_21.22.39.jpeg"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Will AI take my job? Ask an economist!",
-      "link": "https://www.npr.org/2026/10/18/nx-s1-6006805/will-ai-take-my-job-ask-an-economist",
-      "pubDate": "2026-10-18T07:00:02.000Z",
-      "duration": "148",
-      "summary": "Is AI coming for our jobs? Anthropic CEO Dario Amodei believes AI could wipe out many white-collar jobs in the next few years. While Nvidia CEO Jensen Huang argues AI will reshape existing roles and c",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F54%2F4f%2F2889fd194e04864f760675ded4ba%2Fe916ba6d-c0e2-41a9-8c07-85ff255ea8ef.png"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -933,17 +955,6 @@
       "duration": "01:14:50",
       "summary": "Roughly half of American adults are using chatbots. Nearly one in five U.S. adults has chatted with an A.I. that simulates a romantic partner. And some children now struggle to distinguish between tal",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2564 - Chuck Lorre",
-      "link": "https://traffic.megaphone.fm/GLT8839252815.mp3",
-      "pubDate": "2026-10-13T17:00:00.000Z",
-      "duration": "7698",
-      "summary": "Chuck Lorre is a writer, producer, and director behind numerous hit television series, including \"The Big Bang Theory,\" \"Two and a Half Men,\" \"Young Sheldon,\" and \"Stuart Fails to Save the Universe.\" ",
-      "art": "https://megaphone.imgix.net/podcasts/d8eaec50-c6b3-11f1-8ac9-0fbd42ed0525/image/9d76a459e6782bb5bdcfae45b272134a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "left-right",
@@ -1769,17 +1780,6 @@
       "duration": "01:18:29",
       "summary": "【主播的话】 （本期节目涉及性暴力与性犯罪的讨论，可能引起部分听众不适，请你斟酌收听。） 上周，我们走进了柏林的法院，在现场见证了近来引发高度关注的华人迷奸案庭审。被审理的是核心八人群组里的邵姓嫌疑人，这个网络里的成员散布在德国、美国、荷兰等地，通过一个 Telegram 群组彼此相连——他们用药物迷昏女性后实施性侵，并把过程拍下来，在群里分享。受害者大多是他们身边的华人女性：留学生、房东、邻居、",
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
-      "showId": "talksat",
-      "showName": "Talks at GS",
-      "category": "finance",
-      "title": "Caitlin Clark on Navigating Pressure and the Future of the WNBA",
-      "link": "https://traffic.megaphone.fm/GLD8598293645.mp3",
-      "pubDate": "2026-05-21T13:00:00.000Z",
-      "duration": "995",
-      "summary": "Caitlin Clark has become a sports and cultural icon, but her success is rooted in a grounded upbringing and a relentless focus on basketball fundamentals. She joins John Mallory, global co-head of Wea",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "acquired",
