@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-07T14:16:40.212Z",
+    "updatedAt": "2026-11-07T18:34:36.531Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -165,6 +165,17 @@
   ],
   "episodes": [
     {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Midterm Blood Bath, $4T AI Sell Off, Data Center Freeze, What's Next for Trump",
+      "link": "https://allinchamathjason.libsyn.com/midterm-blood-bath-4t-ai-sell-off-data-center-freeze-whats-next-for-trump",
+      "pubDate": "2026-11-07T18:27:00.000Z",
+      "duration": "01:33:04",
+      "summary": "(0:00) Bestie intros! (3:37) Midterms postmortem: What led to a generational GOP collapse? (32:26) How can Trump salvage his presidency? (53:13) Market reaction: Data center fears, $4T in market cap s",
+      "art": "https://static.libsyn.com/p/assets/5/2/4/e/524e4f9d0f153f675f2e77a3093c12a1/1_Pod_E296.png"
+    },
+    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -226,7 +237,7 @@
       "title": "514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起",
       "link": "https://www.xiaoyuzhoufm.com/episode/6aed77635b7c4709bfe1fb28?utm_source=rss",
       "pubDate": "2026-11-06T08:58:13.000Z",
-      "duration": "01:32:48",
+      "duration": "01:32:46",
       "summary": "- 导语 - 在中世纪的欧洲道路上，都有哪些人在奔走？既有往返领地的皇帝与国王，也有寻找生计的工匠和四处求学的读书人。对他们而言，远行往往出于统治、谋生或求知的需要，而今天人们熟悉的度假与郊游，则是在此后漫长的社会变迁中逐渐普及的。在大多数人活动范围有限的中世纪，人们为何踏上远途？英国贵族为何将「壮游」视为教育的一部分？铁路的发展与工作时间的调整，如何让郊游逐渐融入城市居民的日常？汽车的普及，又为",
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
@@ -1263,17 +1274,6 @@
       "duration": "01:47:56",
       "summary": "Jensen Huang might just be the single most influential person in artificial intelligence today. Huang is the chief executive of Nvidia, the company that designs nearly all the chips and infrastructure",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Steve Hilton & Spencer Pratt: Fixing California, Cheaper Gas, Ballot Fraud & CA Republicans",
-      "link": "https://allinchamathjason.libsyn.com/steve-hilton-spencer-pratt-fixing-california-cheaper-gas-ballot-fraud-ca-republicans",
-      "pubDate": "2026-09-23T01:44:00.000Z",
-      "duration": "55:44",
-      "summary": "(0:00) Steve Hilton joins the Besties! (3:53) How one-party rule broke the state, regulatory bloat & who really writes the laws (12:09) The path to victory: the persuadable voter, the cost-of-living p",
-      "art": "https://static.libsyn.com/p/assets/9/8/6/b/986babeb267bdf5888c4a68c3ddbc4f2/Podcast_Thumbnail_-_AIS_26_1.png"
     },
     {
       "showId": "left-right",
