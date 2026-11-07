@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-06T23:52:50.156Z",
+    "updatedAt": "2026-11-07T14:16:40.212Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "ezraklein",
+      "showName": "The Ezra Klein Show",
+      "category": "politics",
+      "title": "How the Democrats Did It",
+      "link": "https://www.nytimes.com/2026/11/07/opinion/ezra-klein-podcast-michelle-goldberg.html",
+      "pubDate": "2026-11-07T12:00:00.000Z",
+      "duration": "01:07:20",
+      "summary": "President Trump is primarily responsible for the Republican shellacking on Tuesday. But to get over the finish line in so many places — across the Midwest and deep into the South – Democrats had to ru",
+      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: From $8BN to $19BN: Inside WashU's Endowment Fund | SpaceX Made Up 20% of Our AUM | Why Europe and China Has So Much Opportunity | The Reckoning That is Coming for AI Companies with Scott Wilson",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-from-8bn-to-19bn-inside-washus-endowment-fund-spacex-made-up-20-of-our-aum-why-europe-and-china-has-so-much-opportunity-the-reckoning-that-is-coming-for-ai-companies-with-scott-wilson",
+      "pubDate": "2026-11-07T07:07:00.000Z",
+      "duration": "58:04",
+      "summary": "Scott Wilson is the CIO of WashU, one of the best-performing endowment funds in the world. Under his leadership, Scott has grown the endowment from $8BN to $19BN today. At one point, SpaceX was over 2",
+      "art": "https://static.libsyn.com/p/assets/8/a/3/1/8a313c4d709abaed5f2e77a3093c12a1/WhatsApp_Image_2026-11-06_at_12.19.13.jpeg"
+    },
     {
       "showId": "talksat",
       "showName": "Talks at GS",
@@ -1078,17 +1100,6 @@
       "art": "https://static.libsyn.com/p/assets/7/f/3/a/7f3ae5ea8946c65ee5bbc093207a2619/WhatsApp_Image_2026-10-02_at_16.52.36.jpeg"
     },
     {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: The Future of Datacentres: What You Need to Know | Why Everyone Gets GPU Depreciation and AI's Energy Costs Wrong | Who Really Makes Money From AI & Why Most Moats Don't Exist with Chase Lochmiller",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-the-future-of-datacentres-what-you-need-to-know-why-everyone-gets-gpu-depreciation-and-ais-energy-costs-wrong-who-really-makes-money-from-ai-why-most-moats-dont-exist-with-chase-lochmiller",
-      "pubDate": "2026-10-03T07:07:00.000Z",
-      "duration": "01:01:15",
-      "summary": "Chase Lochmiller is the Co-founder and CEO of Crusoe. Crusoe builds and powers the data centres that companies use to train and run AI. It has raised approximately $6.4 billion in equity, including it",
-      "art": "https://static.libsyn.com/p/assets/7/8/3/4/783491c80829c20f88c4a68c3ddbc4f2/WhatsApp_Image_2026-10-02_at_16.51.58.jpeg"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1329,17 +1340,6 @@
       "duration": "01:19:05",
       "summary": "- 导语 - 从「大哥大」到智能手机，从1G模拟通信到5G连接人与物，手机技术的发展融汇了通信、计算、能源与材料等多条技术路径。在航空与南水北调等大型工程中，通信技术如何发挥作用？5G技术为用户带来的体验变化为何不显著？当数据传输能力继续提升，未来手机技术的革新方向是什么？当手机屏幕形态趋于稳定，折叠屏能否借铰链与柔性屏幕技术的成熟成为新主流？请听本期嘉宾移动通信专家杨旸教授带来的精彩分享！ 本期",
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
-      "showId": "ezraklein",
-      "showName": "The Ezra Klein Show",
-      "category": "politics",
-      "title": "The ‘But China!’ Dilemma Driving the A.I. Race",
-      "link": "https://www.nytimes.com/2026/09/15/opinion/ezra-klein-podcast-matt-sheehan.html",
-      "pubDate": "2026-09-15T09:00:00.000Z",
-      "duration": "01:05:37",
-      "summary": "America is waking up to the critical risks posed by artificial intelligence. But every conversation about possible regulation tends to hit the same wall: “Well, what about China?” Chinese A.I. models ",
-      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
       "showId": "left-right",
