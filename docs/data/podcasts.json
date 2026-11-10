@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-10T15:43:00.621Z",
+    "updatedAt": "2026-11-10T20:44:20.708Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2579 - Gary Sinise",
+      "link": "https://traffic.megaphone.fm/GLT8785723657.mp3",
+      "pubDate": "2026-11-10T18:00:00.000Z",
+      "duration": "8160",
+      "summary": "Gary Sinise is an Academy Award-nominated actor, musician, director, author, and philanthropist. His new book, \"Graceful Warrior,\" is available now.www.nelsonbooks.com/books/graceful-warrior/www.youtu",
+      "art": "https://megaphone.imgix.net/podcasts/ccadeb34-dca4-11f1-af0c-13d358cf1a21/image/24cd4d036137fe8adb3ee33083f9a781.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
@@ -999,17 +1010,6 @@
       "duration": "41:55",
       "summary": "(0:00) Billy Evans joins Friedberg (3:38) How they met, Elizabeth the person vs the headlines, indictment (11:02) Life on trial, having a child, where she went wrong in fundraising (19:28) Understandi",
       "art": "https://static.libsyn.com/p/assets/9/3/a/e/93ae5febfd8efeb75f2e77a3093c12a1/1_Pod_AIS_Evans.png"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2565 - Michael Douglas",
-      "link": "https://traffic.megaphone.fm/GLT7323005226.mp3",
-      "pubDate": "2026-10-14T17:00:00.000Z",
-      "duration": "8185",
-      "summary": "Michael Douglas is an actor, producer, writer, and philanthropist whose film and television credits include \"Wall Street,\" \"Fatal Attraction,\" \"Basic Instinct,\" \"Behind the Candelabra,\" and \"The Komin",
-      "art": "https://megaphone.imgix.net/podcasts/bbd0bd42-c77c-11f1-a9b0-8fbfdfb1c3d8/image/f711426401759dc42b9c6de2fa699a4a.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
