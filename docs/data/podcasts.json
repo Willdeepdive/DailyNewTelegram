@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-10T02:27:33.958Z",
+    "updatedAt": "2026-11-10T15:43:00.621Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,39 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "ezraklein",
+      "showName": "The Ezra Klein Show",
+      "category": "politics",
+      "title": "The Path to a Democratic Supermajority",
+      "link": "https://www.nytimes.com/2026/11/10/opinion/ezra-klein-podcast-adam-jentleson.html",
+      "pubDate": "2026-11-10T10:00:00.000Z",
+      "duration": "00:54:35",
+      "summary": "Democrats are on track to have more power in the next Congress than they’ve had since 2009. How can they navigate the divides in a party that now stretches from Abdul El-Sayed in Michigan to Adam Hami",
+      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
+    {
+      "showId": "left-right",
+      "showName": "忽左忽右",
+      "category": "zh",
+      "title": "515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6af2df3ab4a4e20202f7ae55?utm_source=rss",
+      "pubDate": "2026-11-10T09:21:41.000Z",
+      "duration": "01:22:47",
+      "summary": "- 导语 - 今年恰逢波兰电影大师安杰伊·瓦伊达百年诞辰。他生于波兰第二共和国，十三岁时与奔赴战场的父亲告别，父亲此后在卡廷惨案中遇害。半个多世纪间，在《灰烬与钻石》《大理石人》这些载入影史的作品中，瓦伊达用镜头记录并参与了波兰近现代的伤痛与转型。回顾波兰电影史，战后波兰为何能够涌现出一批重要导演？政治解冻如何改变了波兰电影风格？父亲遇难的经历，怎样影响了瓦伊达对《卡廷》的拍摄？从创作路径与表现风",
+      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Where did all the sitcoms go?",
+      "link": "https://www.npr.org/2026/11/10/nx-s1-6035016/where-did-all-the-sitcoms-go",
+      "pubDate": "2026-11-10T08:00:00.000Z",
+      "duration": "562",
+      "summary": "Comedy writer and producer Mike Schur (\"The Good Place,\" \"Parks and Recreation\") breaks down how streaming killed the classic sitcom — and what comedy is doing to survive. Fact checking by Leyla Doss.",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F5d%2F6c%2F628bda544ddf980c0410ff059e2c%2F67363c67-7dc1-4fa3-bfec-3ead45e56afa.png"
+    },
     {
       "showId": "indicator",
       "showName": "The Indicator",
@@ -825,17 +858,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "The gamble of trying to inflate away debt",
-      "link": "https://www.npr.org/2026/10/20/nx-s1-6008133/the-gamble-of-trying-to-inflate-away-debt",
-      "pubDate": "2026-10-20T07:00:00.000Z",
-      "duration": "518",
-      "summary": "The United States national debt is running at more than $40 trillion dollars. It’s a potential crisis in the making, but President Donald Trump suggested it can all be solved just by inflating the deb",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F74%2Fb8%2Fc9368adb415298caa5c51deda0d4%2F4d580c5f-793e-4d56-8ef1-75b2ca302108.jpg"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1298,17 +1320,6 @@
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
-      "showId": "ezraklein",
-      "showName": "The Ezra Klein Show",
-      "category": "politics",
-      "title": "We Cant Lose Control of A.I.",
-      "link": "https://www.nytimes.com/2026/09/20/opinion/ezra-klein-column-ban-recursive-self-improvement-artificial-intelligence.html",
-      "pubDate": "2026-09-20T04:55:00.000Z",
-      "duration": "00:31:17",
-      "summary": "Fears of out-of-control A.I. have reached a boil over the last few weeks, and several industry executives have called for a coordinated slowdown of A.I. development. But if our goal is to control A.I.",
-      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -1339,17 +1350,6 @@
       "pubDate": "2026-09-16T16:00:00.000Z",
       "duration": "01:19:05",
       "summary": "- 导语 - 从「大哥大」到智能手机，从1G模拟通信到5G连接人与物，手机技术的发展融汇了通信、计算、能源与材料等多条技术路径。在航空与南水北调等大型工程中，通信技术如何发挥作用？5G技术为用户带来的体验变化为何不显著？当数据传输能力继续提升，未来手机技术的革新方向是什么？当手机屏幕形态趋于稳定，折叠屏能否借铰链与柔性屏幕技术的成熟成为新主流？请听本期嘉宾移动通信专家杨旸教授带来的精彩分享！ 本期",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6aa8fe83051af796b9e8832e?utm_source=rss",
-      "pubDate": "2026-09-15T08:29:40.000Z",
-      "duration": "01:14:30",
-      "summary": "- 导语 - 嘉道之际的清王朝，表面延续着盛世余晖，内部却已积累了难以化解的治理困境。人口膨胀、社会分化、形式主义，种种「积弊」开始让士大夫察觉时代氛围变化。鸦片战争前夕的清王朝面临哪些结构性难题？盐、漕、河三大政如何滋生出「食弊者」群体？龚自珍、魏源等人的经世思想，存在着哪些对王朝周期的反思？请听本期嘉宾孙明教授带来的精彩分享！ - 本期话题成员 - 程衍樑（微博@GrenadierGuard2",
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
