@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-11T00:18:59.140Z",
+    "updatedAt": "2026-11-11T15:30:43.491Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "So … is the stock market the economy now?",
+      "link": "https://www.npr.org/2026/11/11/nx-s1-6035794/so-is-the-stock-market-the-economy-now",
+      "pubDate": "2026-11-11T08:00:00.000Z",
+      "duration": "520",
+      "summary": "The old adage “the stock market is not the economy” used to hold more weight, but lately, financial markets are reflecting the overall economy a lot more. Today, we look at what Walmart’s stock and AI",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2Ff7%2F8b20da8842f2905e17b1e48db961%2F49ce3dce-c938-4cb3-9632-02894c8b0a46.jpg"
+    },
+    {
+      "showId": "weirdo",
+      "showName": "不合时宜",
+      "category": "zh",
+      "title": "运动员最大的对手，是自己的大脑",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6af2deeb5b7c4709bfe3fd31?utm_source=rss",
+      "pubDate": "2026-11-11T00:00:00.000Z",
+      "duration": "00:55:39",
+      "summary": "【主播的话】 运动心理学家的工作，不是替运动员消除焦虑，而是帮他们与压力共处。他们要找到合适的动机水平，把注意力从结果拉回到动作本身，再为赛场上可能的意外提前写好预案。这样的心理练习，往往对我们普通人来说也很有启发。 这一期，我们请来运动心理学博士温筱茜。她在里约和巴黎奥运会期间，分别服务了国家射击队、女子水球队和摔跤队。在节目里，我们聊了心流为何可遇不可求，新一代运动员又和上一代在心理素质上有什",
+      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
+    },
     {
       "showId": "lexfridman",
       "showName": "Lex Fridman Podcast",
@@ -845,17 +867,6 @@
       "duration": "10382",
       "summary": "Bill Thompson is a retired U.S. Army chief warrant officer and the founder and CEO of Spartan Forge, a company that develops AI-powered mapping and predictive tools for hunting.www.youtube.com/@sparta",
       "art": "https://megaphone.imgix.net/podcasts/23251e48-ccfa-11f1-8407-c76a5ec426f3/image/6a8c3e724e4524049098c614ebba05d4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "The case for sharing your salary",
-      "link": "https://www.npr.org/2026/10/21/nx-s1-6009421/the-case-for-sharing-your-salary",
-      "pubDate": "2026-10-21T07:00:00.000Z",
-      "duration": "562",
-      "summary": "Should money and class figure more prominently in how we identify ourselves? Pulitzer Prize-winning data journalist Mona Chalabi thinks yes. Today on the show, a conversation with Mona, author of the ",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1b%2F8a%2F76bc4686453091c3569979f42321%2Fb430ca17-6189-4098-8dff-9a2d89166ed4.png"
     },
     {
       "showId": "jre",
@@ -1813,17 +1824,6 @@
       "duration": "4:23:41",
       "summary": "Jean-Baptiste Kempf is lead developer of VLC and president of VideoLAN. Kieran Kunhya is a longtime FFmpeg contributor, codec engineer, and the person behind the now-infamous FFmpeg account on X. Than",
       "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
-    },
-    {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "贫困的根源、政策的意义与亚裔的领导力：对话哥大教授高琴",
-      "link": "https://www.xiaoyuzhoufm.com/episode/69fa1324f93890ea8147bee7?utm_source=rss",
-      "pubDate": "2026-05-06T00:00:00.000Z",
-      "duration": "01:03:52",
-      "summary": "【主播的话】 去年一个偶然的机会，我在纽约认识了高琴教授，还发现我们是邻居。 在那之前，我已经对高琴教授的有所耳闻。她是著作丰硕的社会政策学者，在哥伦比亚大学社会工作学院任教，是讲席教授，同时担任博士项目主管副院长，以研究中国贫困问题见长。她常年组织大规模的社会调查，用数据来研究贫困的根源、影响与政策应对。她同时还是哥大“亚裔美国人”项目主任。在哥大——一个竞争激烈、精英云集、以全球化和多元化闻名",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
     },
     {
       "showId": "acquired",
