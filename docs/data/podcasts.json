@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-12T16:07:14.191Z",
+    "updatedAt": "2026-11-12T21:22:32.450Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2580 - Kenneth Lacovara",
+      "link": "https://traffic.megaphone.fm/GLT9977701761.mp3",
+      "pubDate": "2026-11-12T18:00:00.000Z",
+      "duration": "8829",
+      "summary": "Kenneth Lacovara, PhD, is a paleontologist, founding dean of the School of Earth & Environment at Rowan University, and director of the Jean & Ric Edelman Fossil Park. He is the author of \"Why Dinosau",
+      "art": "https://megaphone.imgix.net/podcasts/717f0dd4-de4c-11f1-af83-9f5e45b228c5/image/47ec8788fc7d173b3c63d14cd6aab039.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "etw",
       "showName": "声东击西",
@@ -988,17 +999,6 @@
       "duration": "01:34:06",
       "summary": "(0:00) Ben Horowitz fills in for Friedberg! (2:18) CoreWeave's debt selloff: did the AI bubble just pop? (31:14) AI's deflationary impact: decompiled software (45:44) Anthropic's investor day gets mix",
       "art": "https://static.libsyn.com/p/assets/c/b/d/8/cbd880726b042b345f2e77a3093c12a1/1_Pod_E293.png"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2567 - Mariana van Zeller",
-      "link": "https://traffic.megaphone.fm/GLT2143664668.mp3",
-      "pubDate": "2026-10-16T17:00:00.000Z",
-      "duration": "9017",
-      "summary": "Mariana van Zeller is a Peabody and Emmy Award-winning journalist whose credits include \"Trafficked with Mariana van Zeller,\" \"The OxyContin Express,\" and \"Inside Secret America.\" She is also the host",
-      "art": "https://megaphone.imgix.net/podcasts/3c876c6c-c94c-11f1-b243-eb26db00851d/image/ebec094f37ff19b138a6b62b98c76582.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "etw",
