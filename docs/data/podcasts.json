@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-12T01:44:21.666Z",
+    "updatedAt": "2026-11-12T16:07:14.191Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,39 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "etw",
+      "showName": "声东击西",
+      "category": "zh",
+      "title": "#一次关于热爱、冒险与生命代价的特别对话｜Bonus",
+      "link": "https://etw.fm/2230",
+      "pubDate": "2026-11-12T09:15:00.000Z",
+      "duration": "16:58",
+      "summary": "如果热爱和梦想需要付出巨大代价，你会如何选择？ 对于登山滑雪运动员吉姆·莫里森（Jim Morrison）和他的伴侣 希拉里·尼尔森 （Hilaree Nelson） 来说，他们的热爱和梦想是从珠穆朗玛峰的北壁登顶，再踩着雪板滑降而下，途中是陡峭的雪沟、冰面和裸露的岩石。而且他们知道，追逐这样的热爱和梦想会非常危险。 《徒手攀岩》的导演金国威（Jimmy Chin）把这段旅程拍成了纪录片「珠穆朗玛",
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Should personal finance be part of the liberal arts?",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6037729/should-personal-finance-be-part-of-the-liberal-arts",
+      "pubDate": "2026-11-12T08:00:00.000Z",
+      "duration": "561",
+      "summary": "We take you inside an AP personal finance class in Alabama where students are learning about Roth IRAs and compound interest. As states add personal finance classes, should business be more woven into",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2d%2Ff9%2F09a15958453b9cc3b5ad45af3555%2Fdcf918a1-abaf-4227-ae3f-2e0f99b7c394.jpg"
+    },
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Jensen Huang Investigation: What Happens Now | Sequoia Leave London, Close Scout Program and End Evergreen Fund | NASDAQ Loses $2.5TRN in 24 hours | Anthropic targets $1.4TRN IPO valuation",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-jensen-huang-investigation-what-happens-now-sequoia-leave-london-close-scout-program-and-end-evergreen-fund-nasdaq-loses-25trn-in-24-hours-anthropic-targets-14trn-ipo-valuation",
+      "pubDate": "2026-11-12T07:07:00.000Z",
+      "duration": "01:06:46",
+      "summary": "AGENDA: 03:47 Sequoia exits London and ends its scout program 14:46 Nvidia board opens inquiry into Jensen Huang 21:51 Nasdaq 100 sheds $2.5T in one day 24:13 Anthropic targets $1T IPO valuation at $7",
+      "art": "https://static.libsyn.com/p/assets/7/2/7/1/72719cd1d3fab9eea04421dee9605cbd/WhatsApp_Image_2026-11-11_at_16.36.40.jpeg"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -847,17 +880,6 @@
       "art": "https://static.libsyn.com/p/assets/f/f/6/2/ff62f7a4dc8d3093a04421dee9605cbd/WhatsApp_Image_2026-10-21_at_18.04.29.jpeg"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Can a \"moneyball\" system work for campaign funding?",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6011504/can-a-moneyball-system-work-for-campaign-funding",
-      "pubDate": "2026-10-22T07:00:00.000Z",
-      "duration": "508",
-      "summary": "Elections are more expensive than ever, but are campaign donations going to the races where they’ll make the most impact? Today, we talk to the startup co-founder of Oath who believes there’s a smarte",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd0%2F3b%2F0077149b4b1daf4f74e6c4c4887f%2Fcfd55761-07a8-4f83-bb3e-1b72b6875831.jpg"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1142,17 +1164,6 @@
       "duration": "1:01:44",
       "summary": "来和「声东击西」一起线下庆祝十周年吧！ 从 10 月 10 日至 12 月 9 日，我们将和「岩时攀岩」一起，在北京、上海、杭州三座城市的活动门店，推出「声东击西」的十周年定制攀岩线路。 如果你本来就攀岩，欢迎来到线下爬一爬这条线，参加打卡体验活动并带走一份小礼物；即使不会攀岩也没关系，因为我们就是想要换一种方式和你一起庆祝十周年，所以即使不上墙，只是拍照打卡，也能带走一份属于十周年的小纪念。 除",
       "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/2/2f9cb979-23b4-4112-b345-4cb9fd31014b/cover.jpg?v=1"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: Cognition vs Factory: Vinod Khosla Creates a Storm | OpenAI Nears $70B Run Rate: Anthropic Under Threat | ElevenLabs Doubles Its Valuation to $22B & Salesforce Buys Listen Labs for $2B",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-cognition-vs-factory-vinod-khosla-creates-a-storm-openai-nears-70b-run-rate-anthropic-under-threat-elevenlabs-doubles-its-valuation-to-22b-salesforce-buys-listen-labs-for-2b",
-      "pubDate": "2026-10-08T07:07:00.000Z",
-      "duration": "01:13:22",
-      "summary": "Joinin the trio today we have Dev Ittycheria, CEO @ MongoDB. AGENDA: 04:00 OpenAI Nears $70B Run Rate—Anthropic's Lead Under Threat 12:00 Factory vs Cognition: Silicon Valley's Talent War Turns Ugly 2",
-      "art": "https://static.libsyn.com/p/assets/d/6/9/e/d69eb3c9c64caa58e5bbc093207a2619/WhatsApp_Image_2026-10-07_at_19.30.30.jpeg"
     },
     {
       "showId": "ezraklein",
@@ -1648,17 +1659,6 @@
       "duration": "01:22:50",
       "summary": "【主播的话】 2026年6-7月，美墨加三国首次联合举办世界杯。这场足球盛事的意义也早已溢出球场之外。本期节目，我们连线正在墨西哥前线报道的资深足球记者王勤伯，与身处美国西岸的政治学者林垚，从拉美足球的“酒神精神”聊起，谈到梅罗之争如何成为年轻一代进步派与保守派的价值符号之争，谈到运动科学如何为球星续命、也谈到巴西足球史上关于人种与临门一脚的“杂种狗”心结。 视野拉回国内，我们讨论董路的青训实验能",
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
-      "showId": "etw",
-      "showName": "声东击西",
-      "category": "zh",
-      "title": "#395 四面谴责，但以色列的战争机器为何依然难以停下？",
-      "link": "https://etw.fm/2215",
-      "pubDate": "2026-07-02T08:30:00.000Z",
-      "duration": "1:02:31",
-      "summary": "以色列的多面战线正越扩越大。在刚刚过去的 6 月 30 日，以色列总理内塔尼亚胡在采访中赞扬以色列「近年来取得的军事成就」，坦言这场战斗「永无止境」。而仅仅一周前，联合国人权理事会发布的最新报告显示，自 2023 年 10 月以来，因为以色列的行动，加沙已有近 7.5 万人非正常死亡，其中儿童约 2 万人。 如果仔细盘点，以色列同时深陷加沙、黎巴嫩、叙利亚、也门、伊朗、约旦河西岸等多条战线。战争之",
-      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
       "showId": "talksat",
