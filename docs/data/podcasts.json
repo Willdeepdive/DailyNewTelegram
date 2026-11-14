@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-14T00:33:34.284Z",
+    "updatedAt": "2026-11-14T14:24:38.911Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Taking on NVIDIA: Fractile CEO on the Future of Chips | What Everyone Gets Wrong About Capex Spending | The Winners and Losers in Neo Clouds with Walter Goodwin",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-taking-on-nvidia-fractile-ceo-on-the-future-of-chips-what-everyone-gets-wrong-about-capex-spending-the-winners-and-losers-in-neo-clouds-with-walter-goodwin",
+      "pubDate": "2026-11-14T07:07:00.000Z",
+      "duration": "01:15:33",
+      "summary": "Walter Goodwin is the founder and CEO of Fractile, the British chipmaker taking on Nvidia in the race to make AI models answer faster. Fractile has raised $940M , including a $720M Series C that value",
+      "art": "https://static.libsyn.com/p/assets/b/9/f/1/b9f1a2aebe9370a15f2e77a3093c12a1/WhatsApp_Image_2026-11-13_at_12.16.37.jpeg"
+    },
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Jensen Ousted as Nvidia CEO: \"Spy\" Scandal, Export Restrictions, Market Impact",
+      "link": "https://allinchamathjason.libsyn.com/jensen-ousted-as-nvidia-ceo-spy-scandal-export-restrictions-market-impact",
+      "pubDate": "2026-11-14T02:35:00.000Z",
+      "duration": "01:24:55",
+      "summary": "(0:00) Bestie intros! (1:20) Jensen Huang out as CEO: Spy allegations, classified memo leak, who wanted Jensen out? (31:22) Market impact: AI trade, what happens to \"The Bank of Nvidia,\" China's strat",
+      "art": "https://static.libsyn.com/p/assets/c/b/1/f/cb1fdd299945f2f6a04421dee9605cbd/1_Pod_E297.png"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -1133,17 +1155,6 @@
       "art": "https://static.libsyn.com/p/assets/f/3/b/d/f3bd264c3558be8288c4a68c3ddbc4f2/WhatsApp_Image_2026-10-09_at_13.12.59.jpeg"
     },
     {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20Sales: Inside Ramp's Sales Playbook: How to Build a Sales Machine with Max Freeman, SVP Sales @ Ramp",
-      "link": "https://thetwentyminutevc.libsyn.com/20sales-inside-ramps-sales-playbook-how-to-build-a-17bn-arr-sales-machine-with-max-freeman-svp-sales-ramp",
-      "pubDate": "2026-10-10T13:33:00.000Z",
-      "duration": "01:07:59",
-      "summary": "Max Freeman is SVP of Sales at Ramp. He joined the company as its first sales hire. By 2025, he was leading more than 300 salespeople, helping build Ramp's sales organisation from the ground up. Ramp'",
-      "art": "https://static.libsyn.com/p/assets/d/f/5/8/df589da8ca48b38c88c4a68c3ddbc4f2/WhatsApp_Image_2026-10-09_at_13.12.26.jpeg"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1296,17 +1307,6 @@
       "duration": "51:16",
       "summary": "(0:00) Daniel Ek joins the Besties! (1:14) Starting Spotify: Beating piracy and betting his own money on the record labels (6:10) Neko Health: The Spotify playbook for healthcare, the $499 body scan, ",
       "art": "https://static.libsyn.com/p/assets/4/c/0/c/4c0c09faa895838c88c4a68c3ddbc4f2/ek_spot_square.jpg"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Anthropic IPO at Risk, Meta's Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
-      "link": "https://allinchamathjason.libsyn.com/anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-gains-share-alignment-fails",
-      "pubDate": "2026-09-26T02:02:00.000Z",
-      "duration": "01:34:24",
-      "summary": "(0:00) Bestie Intros: Favorite All-In Summit moments (3:54) Reacting to AI chaos: Liability, competition, and rebranding frontier \"labs\" (20:03) Open Source performance and cost: What this means for f",
-      "art": "https://static.libsyn.com/p/assets/8/3/4/9/8349b7bbe0bfdf43e5bbc093207a2619/1_pod_E290.png"
     },
     {
       "showId": "talksat",
