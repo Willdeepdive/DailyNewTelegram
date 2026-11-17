@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-17T02:42:04.265Z",
+    "updatedAt": "2026-11-17T17:03:51.283Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,50 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "talksat",
+      "showName": "Talks at GS",
+      "category": "finance",
+      "title": "Citadel’s Pablo Salame on Risk-Taking, Leadership, and the Pursuit of Great Ideas",
+      "link": "https://traffic.megaphone.fm/GLD9960011829.mp3",
+      "pubDate": "2026-11-17T14:12:00.000Z",
+      "duration": "1448",
+      "summary": "The best investors are often wrong. What sets them apart is how they learn, adapt, and respond to risk, says Citadel co-CIO Pablo Salame. In this episode of Talks at GS, Salame joins Alexandra Wilson-",
+      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "ezraklein",
+      "showName": "The Ezra Klein Show",
+      "category": "politics",
+      "title": "The Winning Democrat Who Wants to Break Up Political Parties",
+      "link": "https://www.nytimes.com/2026/11/17/opinion/ezra-klein-podcast-rob-sand.html",
+      "pubDate": "2026-11-17T10:00:00.000Z",
+      "duration": "01:04:41",
+      "summary": "Rob Sand will soon be Iowa’s first Democratic governor in more than 15 years. And he won the race in a walk – trouncing his opponent by 11 points, a 24-point swing from how Kamala Harris performed in ",
+      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
+    {
+      "showId": "left-right",
+      "showName": "忽左忽右",
+      "category": "zh",
+      "title": "517 关陇集团是如何炼成的：「八柱国」与西魏北周政权的崛起",
+      "link": "https://www.xiaoyuzhoufm.com/episode/6afc18f3fe62f8f52c4c8ff6?utm_source=rss",
+      "pubDate": "2026-11-17T09:51:11.000Z",
+      "duration": "01:26:59",
+      "summary": "- 导语 - 历史学家陈寅恪曾以「关中本位政策」概括西魏宇文泰的政治布局，并提出这一集团的政治影响延续至隋唐，至今仍有争论。八柱国中，李虎为何没有在《周书》中留下本传？宇文泰一面恢复鲜卑姓氏，一面以《周礼》改造官制，究竟在尝试建立怎样的国家？在与东魏的正面交锋中难占上风，西魏如何趁南梁内乱夺取巴蜀，为后来北周灭齐积累国力？请听本期嘉宾赵帅淇老师带来的精彩分享！ - 本期话题成员 - 程衍樑（微博@",
+      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "How a tribal water deal could put a price tag on the Colorado River",
+      "link": "https://www.npr.org/2026/11/17/nx-s1-6042565/how-a-tribal-water-deal-could-put-a-price-tag-on-the-colorado-river",
+      "pubDate": "2026-11-17T08:00:00.000Z",
+      "duration": "557",
+      "summary": "What’s stopping a pipeline that would bring running water from the Colorado River to tribal lands who’ve long gone without it? Today on the show, the multi-billion dollar project to bring clean water ",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0b%2F8d%2Fc6a2d83e468aac9c33722f08c5ce%2F48951c94-b4c5-4b7e-b5de-cea8e8169b8b.png"
+    },
     {
       "showId": "indicator",
       "showName": "The Indicator",
@@ -836,17 +880,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Why Meta is giving you Muse for free",
-      "link": "https://www.npr.org/2026/10/27/nx-s1-6018569/why-meta-is-giving-you-muse-for-free",
-      "pubDate": "2026-10-27T07:00:00.000Z",
-      "duration": "606",
-      "summary": "Meta’s new AI agent Muse is one of the fastest-growing apps ever. It’s a big bet from a company spending billions to win the AI race. But what is the real cost of using this powerful, free AI product?",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2F13%2F04af1d9b44dea52c2d9c567670e9%2F9d880988-5110-4959-a321-55ea0e42dfc6.jpg"
-    },
-    {
       "showId": "lexfridman",
       "showName": "Lex Fridman Podcast",
       "category": "tech",
@@ -1331,28 +1364,6 @@
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
-      "showId": "ezraklein",
-      "showName": "The Ezra Klein Show",
-      "category": "politics",
-      "title": "What Does Abdul El-Sayed Believe?",
-      "link": "https://www.nytimes.com/2026/09/25/opinion/ezra-klein-podcast-abdul-el-sayed.html",
-      "pubDate": "2026-09-25T09:00:00.000Z",
-      "duration": "01:33:53",
-      "summary": "Dr. Abdul El-Sayed, the Democratic nominee for Senate in Michigan, has been one of the most argued-over candidates this election cycle. If he wins, he’d be the first-ever Muslim senator, and he’s face",
-      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6ab23bbe93d5eb3bdc793ad3?utm_source=rss",
-      "pubDate": "2026-09-22T08:39:24.000Z",
-      "duration": "01:03:03",
-      "summary": "- 导语 - 整四十年前，挑战者号航天飞机在全世界观众的注视之下，于升空73秒后爆炸解体。几十年来，媒体与技术人员对这场悲剧的追问从未停止。在一次技术故障的背后，是美国航天飞机项目在政治承诺、预算削减与过度公关的多重压力下，不断积累的系统性风险。工程师对低温风险的警告，为何最终未能阻止发射？已然看到风险的NASA为何仍执意按时起飞？航天飞机解体之后，至少三位宇航员又曾尝试怎样的自救？请听本期嘉宾刘",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
       "showId": "talksat",
       "showName": "Talks at GS",
       "category": "finance",
@@ -1758,17 +1769,6 @@
       "duration": "01:27:36",
       "summary": "【主播的话】 今年五月，我去了一趟奥马哈，参加了一年一度的巴菲特股东大会。 作为一个平日里并不算关注投资的人，去参会纯粹是记者的好奇心作祟：我想看看，这个每年让几万人专程飞来朝圣的地方，究竟供着什么“神”？现场的第一印象，像是一个巨大的县城大卖场，人声鼎沸，摩肩接踵，中国投资者组团涌入，对着一个九十多岁的老人的照片虔诚地举起手机。那种氛围也让人深思：他们在这里寻找的，究竟是财富密码，还是某种更难言",
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
-      "showId": "talksat",
-      "showName": "Talks at GS",
-      "category": "finance",
-      "title": "Leading Through Complexity: EY’s Janet Truncale on Leadership, AI, and the Modern Boardroom",
-      "link": "https://traffic.megaphone.fm/GLD7615987056.mp3",
-      "pubDate": "2026-06-08T17:23:00.000Z",
-      "duration": "1251",
-      "summary": "EY operates as one of the world’s largest and most globally connected professional services firms, employing 400,000 people across more than 150 countries. EY Global Chair and CEO Janet Truncale joins",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "weirdo",
