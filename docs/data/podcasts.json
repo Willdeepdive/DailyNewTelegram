@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-17T17:03:51.283Z",
+    "updatedAt": "2026-11-17T22:07:07.342Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "talksat",
+      "showName": "Talks at GS",
+      "category": "finance",
+      "title": "Adam Goldston and Ryan Goldston on Defining Luxury Performance Footwear",
+      "link": "https://traffic.megaphone.fm/GLD7101662657.mp3",
+      "pubDate": "2026-11-17T20:08:00.000Z",
+      "duration": "1195",
+      "summary": "When APL (Athletic Propulsion Labs) set out to create basketball shoes that helped athletes instantly jump higher, the technology worked so well that the NBA banned the shoes for providing the wearer ",
+      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "JRE MMA Show #189 with Tommy McMililen",
+      "link": "https://traffic.megaphone.fm/GLT7685860836.mp3",
+      "pubDate": "2026-11-17T18:00:00.000Z",
+      "duration": "8682",
+      "summary": "Joe sits down with Tommy McMillen, a professional mixed martial artist competing in the UFC Featherweight division.www.ufc.com/athlete/tommy-mcmillenwww.youtube.com/@TommyGunMafia Download Uber Eats a",
+      "art": "https://megaphone.imgix.net/podcasts/e4225d06-e238-11f1-8b63-ab796739cefe/image/3af13aedebea55521f19b57a05fbe000.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "talksat",
       "showName": "Talks at GS",
@@ -1001,17 +1023,6 @@
       "art": "https://static.libsyn.com/p/assets/3/9/0/4/3904e785e65853035f2e77a3093c12a1/All-In_Audio_Thumbnails_1.jpg"
     },
     {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2569 - Bill Thompson",
-      "link": "https://traffic.megaphone.fm/GLT2078242472.mp3",
-      "pubDate": "2026-10-21T17:00:00.000Z",
-      "duration": "10382",
-      "summary": "Bill Thompson is a retired U.S. Army chief warrant officer and the founder and CEO of Spartan Forge, a company that develops AI-powered mapping and predictive tools for hunting.www.youtube.com/@sparta",
-      "art": "https://megaphone.imgix.net/podcasts/23251e48-ccfa-11f1-8407-c76a5ec426f3/image/6a8c3e724e4524049098c614ebba05d4.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
       "showId": "left-right",
       "showName": "忽左忽右",
       "category": "zh",
@@ -1725,17 +1736,6 @@
       "duration": "01:36:30",
       "summary": "【主播的话】 本期节目是不合时宜的系列节目——跨世代女性对话。这是不合时宜策划的一档栏目，我们收集了来自不同世代女性所面对的困惑和思考，通过与嘉宾深入对谈的方式展开回应这些困惑。 本期节目中时隔两年，我们又和闾丘露薇在播客中重聚了。这次她还带来了大学同学以及播客伙伴 Helen。我们这期节目里聊了聊对于工作、友谊和创作的理解与困惑，不同阶段的女性与自己身体的关系。想起一个好玩的插曲，在准备这期节目",
       "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
-      "showId": "talksat",
-      "showName": "Talks at GS",
-      "category": "finance",
-      "title": "Thelma Golden on Preserving Black Culture and the New Era of the Studio Museum in Harlem",
-      "link": "https://traffic.megaphone.fm/GLD5049642702.mp3",
-      "pubDate": "2026-06-22T17:02:00.000Z",
-      "duration": "1289",
-      "summary": "The Studio Museum in Harlem serves as an internationally recognized home for Black art and artists, championing new scholarships and cultural dialogue while anchoring the historic 125th Street corrido",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "acquired",
