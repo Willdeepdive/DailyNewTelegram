@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-18T16:40:22.198Z",
+    "updatedAt": "2026-11-18T21:45:10.962Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "talksat",
+      "showName": "Talks at GS",
+      "category": "finance",
+      "title": "ESPN’s Jimmy Pitaro on the New Playbook for Sports Fans",
+      "link": "https://traffic.megaphone.fm/GLD1384445172.mp3",
+      "pubDate": "2026-11-18T18:03:00.000Z",
+      "duration": "1225",
+      "summary": "The launch of ESPN’s direct-to-consumer service a year ago was a marker of change in the sports media business—offering the full suite of ESPN networks without a pay-TV bundle for the first time. ESPN",
+      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2582 - Greg Anderson",
+      "link": "https://traffic.megaphone.fm/GLT8132860054.mp3",
+      "pubDate": "2026-11-18T18:00:00.000Z",
+      "duration": "9994",
+      "summary": "Greg Anderson is a Brazilian jiu-jitsu black belt, U.S. Army veteran, former law enforcement officer, and founder of Electric North Jiu-Jitsu. He is the author of \"Courage Through Adversity\" and host ",
+      "art": "https://megaphone.imgix.net/podcasts/2e58f11e-e306-11f1-8e27-277008c7b349/image/0242781da8df6edfd95c11b2c79ddb31.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "indicator",
       "showName": "The Indicator",
@@ -990,17 +1012,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "JRE MMA Show #187 with Robert Whittaker",
-      "link": "https://traffic.megaphone.fm/GLT1470402625.mp3",
-      "pubDate": "2026-10-22T17:00:00.000Z",
-      "duration": "10495",
-      "summary": "Joe sits down with Robert Whittaker, a professional mixed martial artist currently competing in the UFC's light heavyweight division and host of the \"MMArcade\" podcast.www.ascendfitnessbyrob.com/www.m",
-      "art": "https://megaphone.imgix.net/podcasts/ed2504ac-cdc1-11f1-b263-83f2c9b36709/image/e76c6af047358fbb0936f2c877c00441.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -1713,17 +1724,6 @@
       "pubDate": "2026-06-30T20:33:00.000Z",
       "duration": "1431",
       "summary": "Honeywell Technologies Chairman and CEO Vimal Kapur joined John Waldron to discuss the organization's transformation into a more focused automation company and its strategy to unlock growth through in",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "talksat",
-      "showName": "Talks at GS",
-      "category": "finance",
-      "title": "Emma Grede on Building Iconic Brands and the Inspiration Behind 'Start with Yourself '",
-      "link": "https://traffic.megaphone.fm/GLD5027791818.mp3",
-      "pubDate": "2026-06-26T13:00:00.000Z",
-      "duration": "1557",
-      "summary": "Emma Grede has redefined the modern consumer brand landscape, emerging as a global leader in fashion and lifestyle as the co-founder and CEO of Good American, founding partner of SKIMS and co-founder ",
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
