@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-17T22:07:07.342Z",
+    "updatedAt": "2026-11-18T01:57:46.721Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -165,6 +165,17 @@
   ],
   "episodes": [
     {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Databricks CEO: AGI Is Already Here, Why Companies Are Behind, and the Superintelligence Debate",
+      "link": "https://allinchamathjason.libsyn.com/databricks-ceo-agi-is-already-here-why-companies-are-behind-and-the-superintelligence-debate",
+      "pubDate": "2026-11-17T21:43:00.000Z",
+      "duration": "01:02:06",
+      "summary": "(0:00) Ali Ghodsi joins the show: Databricks' early bets on cloud, AI, and open source (8:50) Is AGI Already Here? Why Enterprise AI Is Falling Behind (22:04) Live Demo: How Databricks Uses Agentic AI",
+      "art": "https://static.libsyn.com/p/assets/1/3/2/1/132133a6532dd05e5f2e77a3093c12a1/ghodsi_1x1_1.png"
+    },
+    {
       "showId": "talksat",
       "showName": "Talks at GS",
       "category": "finance",
@@ -182,7 +193,7 @@
       "title": "JRE MMA Show #189 with Tommy McMililen",
       "link": "https://traffic.megaphone.fm/GLT7685860836.mp3",
       "pubDate": "2026-11-17T18:00:00.000Z",
-      "duration": "8682",
+      "duration": "8922",
       "summary": "Joe sits down with Tommy McMillen, a professional mixed martial artist competing in the UFC Featherweight division.www.ufc.com/athlete/tommy-mcmillenwww.youtube.com/@TommyGunMafia Download Uber Eats a",
       "art": "https://megaphone.imgix.net/podcasts/e4225d06-e238-11f1-8b63-ab796739cefe/image/3af13aedebea55521f19b57a05fbe000.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
@@ -1340,17 +1351,6 @@
       "duration": "01:20:16",
       "summary": "- 导语 - 9月6日，报人林行止离世。作为《信报》创办人，他被称为「香江第一健笔」，一生写下逾一万一千篇专栏文章。从露宿街头的少年，到《明报》资料室职员，再到创办《信报》成为香港财经媒体的标志性人物，林行止的报人生涯几乎贯穿战后香港数十年的经济与社会变迁。他与金庸从知遇到分歧，对北京和伦敦的针砭，与张五常的深度合作，也成为香港文人办报传统的生动注脚。一个来自潮汕的偷渡青年如何获得金庸的赏识？刚创",
       "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Daniel Ek: Life After Spotify, Broken Healthcare Incentives, Catching Disease Early & AI's Potential",
-      "link": "https://allinchamathjason.libsyn.com/daniel-ek-life-after-spotify-broken-healthcare-incentives-catching-disease-early-ais-potential",
-      "pubDate": "2026-09-28T22:16:00.000Z",
-      "duration": "51:16",
-      "summary": "(0:00) Daniel Ek joins the Besties! (1:14) Starting Spotify: Beating piracy and betting his own money on the record labels (6:10) Neko Health: The Spotify playbook for healthcare, the $499 body scan, ",
-      "art": "https://static.libsyn.com/p/assets/4/c/0/c/4c0c09faa895838c88c4a68c3ddbc4f2/ek_spot_square.jpg"
     },
     {
       "showId": "talksat",
