@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-18T01:57:46.721Z",
+    "updatedAt": "2026-11-18T16:40:22.198Z",
     "totalEpisodes": 180,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "We got this economics podcast before GTA VI",
+      "link": "https://www.npr.org/2026/11/18/nx-s1-6044776/we-got-this-economics-podcast-before-gta-vi",
+      "pubDate": "2026-11-18T08:00:00.000Z",
+      "duration": "529",
+      "summary": "GTA VI is poised to become one of the biggest entertainment launches of all time when it’s released on November 19. Today, we dig into why this game is such a global phenomenon and how the developers ",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2F14%2Fb56516924606aa8a740e2c418ed5%2F1a319c3a-3796-49cf-a279-e49bb0403c8d.jpg"
+    },
     {
       "showId": "allin",
       "showName": "All-In",
@@ -867,17 +878,6 @@
       "duration": "10595",
       "summary": "Jimmy Carr is a comedian, television personality, and writer. His new book, \"On Jokes: The Hidden Mechanics of Funny,\" co-authored with Amanda Baker and Abi Grant, is available now. He is currently on",
       "art": "https://megaphone.imgix.net/podcasts/2261e0d2-d2fd-11f1-88f9-877628146802/image/2c7859684ab1efef4e053287b434d674.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Is it time to abolish the MBA?",
-      "link": "https://www.npr.org/2026/10/28/nx-s1-6019698/is-it-time-to-abolish-the-mba",
-      "pubDate": "2026-10-28T07:00:00.000Z",
-      "duration": "559",
-      "summary": "Does business school fix the world? Or does it just churn out consultants, bankers and tech workers? A professor and a dean debate the value of the modern-day MBA. Fact checking by Sierra Juarez . You",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F16%2F9e%2F09dc646f40c3a0d7c9d38f9ffe49%2F4c095cc9-9dad-442a-8637-8cbdffe11929.png"
     },
     {
       "showId": "weirdo",
