@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updatedAt": "2026-11-19T01:33:54.488Z",
-    "totalEpisodes": 180,
+    "updatedAt": "2026-11-19T16:43:08.067Z",
+    "totalEpisodes": 150,
     "health": [
       {
         "id": "20vc",
@@ -61,13 +61,13 @@
         "id": "left-right",
         "name": "忽左忽右",
         "ok": true,
-        "count": 15
+        "count": 0
       },
       {
         "id": "weirdo",
         "name": "不合时宜",
         "ok": true,
-        "count": 15
+        "count": 0
       },
       {
         "id": "etw",
@@ -145,15 +145,15 @@
       "id": "left-right",
       "name": "忽左忽右",
       "category": "zh",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea",
-      "link": "https://www.xiaoyuzhoufm.com/podcast/5e4ee557418a84a0466737b7?utm_source=rss"
+      "art": null,
+      "link": "https://feed.xyzfm.space/cv4bkgpuglwp"
     },
     {
       "id": "weirdo",
       "name": "不合时宜",
       "category": "zh",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png",
-      "link": "https://www.xiaoyuzhoufm.com/podcast/5e280fb8418a84a0461fd076?utm_source=rss"
+      "art": null,
+      "link": "https://feed.xyzfm.space/ww7cqnybekty"
     },
     {
       "id": "etw",
@@ -164,6 +164,50 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "etw",
+      "showName": "声东击西",
+      "category": "zh",
+      "title": "#410 赵玉顺、袁贞贞：两个没能留在大城市的年轻人，开始记录时代的另一面丨十周年特别节目",
+      "link": "https://etw.fm/2231",
+      "pubDate": "2026-11-19T08:30:00.000Z",
+      "duration": "1:24:22",
+      "summary": "本期节目是声东击西「十周年」特别系列的第六期。在这个系列中，我们通过访谈那些亲历结构性变化并拥有独特观察的嘉宾，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理解今天，又如何辨认出那些塑造未来的力量。 本期的嘉宾赵玉顺和袁贞贞，是村镇纪录片频道「遇真纪事」的两位创作者。2016 年前后，赵玉顺和袁贞贞带着对新闻和纪录片的憧憬走入职场。几年辗转后，他们选择离开大城市、辞掉工作，把镜头对准那些",
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/9/98b809db-0025-4671-9ca4-195f6e0c722f/cover.jpg?v=1"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Why the 'good old days' of American manufacturing are long gone",
+      "link": "https://www.npr.org/2026/11/19/nx-s1-6045922/why-the-good-old-days-of-american-manufacturing-are-long-gone",
+      "pubDate": "2026-11-19T08:00:00.000Z",
+      "duration": "534",
+      "summary": "Harvard professor Willy Shih tells us why the manufacturing renaissance President Trump envisioned has not come to pass and how a different type of resurgence may still be possible. Willy Shih’s book ",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Feb%2Fd7%2Fde373ed74f25acbafb0309d036b3%2F18403627-49e2-4d84-8cca-202f3f941a4d.jpg"
+    },
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Will Jensen Return to NVIDIA | Anthropic Set for Largest IPO of All Time | Kalshi, Mercor & Fractile: Mega-Rounds Continue",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-will-jensen-return-to-nvidia-anthropic-set-for-largest-ipo-of-all-time-kalshi-mercor-fractile-mega-rounds-continue",
+      "pubDate": "2026-11-19T07:07:00.000Z",
+      "duration": "01:12:57",
+      "summary": "AGENDA: 00:00 Nvidia's $600B Wipeout: Pressure Mounts for Jensen's Return 14:00 Anthropic's $1.4T IPO: A New Record for Venture Capital 19:00 The $20B Club: Unicorns Are No Longer Enough 23:00 Kalshi,",
+      "art": "https://static.libsyn.com/p/assets/a/c/1/f/ac1f4c6176edbf8b5f2e77a3093c12a1/WhatsApp_Image_2026-11-18_at_15.35.10.jpeg"
+    },
+    {
+      "showId": "lexfridman",
+      "showName": "Lex Fridman Podcast",
+      "category": "tech",
+      "title": "#505 – GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami Money",
+      "link": "https://lexfridman.com/larry-lawton/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=larry-lawton",
+      "pubDate": "2026-11-19T04:37:34.000Z",
+      "duration": "3:26:58",
+      "summary": "Larry Lawton is one of the most notorious and prolific jewelry thieves in US history, who was eventually caught by the FBI, spent more than a decade in prison, including a lot of time in the hole, and",
+      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
+    },
     {
       "showId": "talksat",
       "showName": "Talks at GS",
@@ -253,17 +297,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "517 关陇集团是如何炼成的：「八柱国」与西魏北周政权的崛起",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6afc18f3fe62f8f52c4c8ff6?utm_source=rss",
-      "pubDate": "2026-11-17T09:51:11.000Z",
-      "duration": "01:26:59",
-      "summary": "- 导语 - 历史学家陈寅恪曾以「关中本位政策」概括西魏宇文泰的政治布局，并提出这一集团的政治影响延续至隋唐，至今仍有争论。八柱国中，李虎为何没有在《周书》中留下本传？宇文泰一面恢复鲜卑姓氏，一面以《周礼》改造官制，究竟在尝试建立怎样的国家？在与东魏的正面交锋中难占上风，西魏如何趁南梁内乱夺取巴蜀，为后来北周灭齐积累国力？请听本期嘉宾赵帅淇老师带来的精彩分享！ - 本期话题成员 - 程衍樑（微博@",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
       "showId": "indicator",
       "showName": "The Indicator",
       "category": "macro",
@@ -328,17 +361,6 @@
       "duration": "13648",
       "summary": "Shane Gillis is the co-host of \"Matt and Shane's Secret Podcast,\" creator and star of Netflix's comedy series \"Tires,\" and one half of the sketch comedy duo Gilly and Keeves. His new movie, \"Madden,\" ",
       "art": "https://megaphone.imgix.net/podcasts/8ea2bc8c-df8a-11f1-b646-13979babfcd7/image/a8ad6548fba60b52f5dc74e5619bae7e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6af6e5b03caef3b52f5543d4?utm_source=rss",
-      "pubDate": "2026-11-13T10:39:59.000Z",
-      "duration": "01:29:29",
-      "summary": "- 导语 - 2026年6月，马克龙将历史学家马克·布洛赫与妻子西蒙娜一同迎入先贤祠。这位年鉴学派创始人之一，先后参加两次世界大战，最终因参与里昂抵抗运动被盖世太保逮捕处决。布洛赫为何主张历史学要研究「复数的人」？逆向法、长时段与总体史，如何改变传统的历史研究？从萨科齐到马克龙，法国总统为何不断强调「抵抗记忆」？请听本期嘉宾徐之凯老师带来的精彩分享！ - 本期话题成员 - 程衍樑（微博@Grena",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
       "showId": "ezraklein",
@@ -429,17 +451,6 @@
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7e%2Ff7%2F8b20da8842f2905e17b1e48db961%2F49ce3dce-c938-4cb3-9632-02894c8b0a46.jpg"
     },
     {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "运动员最大的对手，是自己的大脑",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6af2deeb5b7c4709bfe3fd31?utm_source=rss",
-      "pubDate": "2026-11-11T00:00:00.000Z",
-      "duration": "00:55:39",
-      "summary": "【主播的话】 运动心理学家的工作，不是替运动员消除焦虑，而是帮他们与压力共处。他们要找到合适的动机水平，把注意力从结果拉回到动作本身，再为赛场上可能的意外提前写好预案。这样的心理练习，往往对我们普通人来说也很有启发。 这一期，我们请来运动心理学博士温筱茜。她在里约和巴黎奥运会期间，分别服务了国家射击队、女子水球队和摔跤队。在节目里，我们聊了心流为何可遇不可求，新一代运动员又和上一代在心理素质上有什",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
       "showId": "lexfridman",
       "showName": "Lex Fridman Podcast",
       "category": "tech",
@@ -482,17 +493,6 @@
       "duration": "00:54:33",
       "summary": "Democrats are on track to have more power in the next Congress than they’ve had since 2009. How can they navigate the divides in a party that now stretches from Abdul El-Sayed in Michigan to Adam Hami",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6af2df3ab4a4e20202f7ae55?utm_source=rss",
-      "pubDate": "2026-11-10T09:21:41.000Z",
-      "duration": "01:22:47",
-      "summary": "- 导语 - 今年恰逢波兰电影大师安杰伊·瓦伊达百年诞辰。他生于波兰第二共和国，十三岁时与奔赴战场的父亲告别，父亲此后在卡廷惨案中遇害。半个多世纪间，在《灰烬与钻石》《大理石人》这些载入影史的作品中，瓦伊达用镜头记录并参与了波兰近现代的伤痛与转型。回顾波兰电影史，战后波兰为何能够涌现出一批重要导演？政治解冻如何改变了波兰电影风格？父亲遇难的经历，怎样影响了瓦伊达对《卡廷》的拍摄？从创作路径与表现风",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
       "showId": "indicator",
@@ -594,28 +594,6 @@
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2Fa4%2Fbe4b70cd47f8b7d22e1432d3d571%2F57dec99c-9192-41c3-ad96-e5f13fd8dbcc.png"
     },
     {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6aed77635b7c4709bfe1fb28?utm_source=rss",
-      "pubDate": "2026-11-06T08:58:13.000Z",
-      "duration": "01:32:46",
-      "summary": "- 导语 - 在中世纪的欧洲道路上，都有哪些人在奔走？既有往返领地的皇帝与国王，也有寻找生计的工匠和四处求学的读书人。对他们而言，远行往往出于统治、谋生或求知的需要，而今天人们熟悉的度假与郊游，则是在此后漫长的社会变迁中逐渐普及的。在大多数人活动范围有限的中世纪，人们为何踏上远途？英国贵族为何将「壮游」视为教育的一部分？铁路的发展与工作时间的调整，如何让郊游逐渐融入城市居民的日常？汽车的普及，又为",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "“打工诗人”小海：做一块滚石，泥沙俱下，也不停下",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6aed507c5b7c4709bfe1e595?utm_source=rss",
-      "pubDate": "2026-11-06T04:17:20.000Z",
-      "duration": "00:57:10",
-      "summary": "【主播的话】 十五岁辍学南下，小海在电子厂做过收音机，也在制衣厂一边踩缝纫机，一边背唐诗。海子让他第一次愿意正视自己的工人身份，汪峰、张楚和鲍勃·迪伦的歌陪他熬过孤独的日子。他揣着在工体开十万人演唱会的梦来到北京，在街头露宿，后来落脚在皮村附近一家二手衣店，在那里卖衣服、读诗，和工友聊天。 本期节目，我们和小海聊起这二十多年的打工与漂泊，也聊一篇非虚构文章如何经由译者托尼走进《格兰塔》，最终促成英",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
       "category": "general",
@@ -715,17 +693,6 @@
       "art": "https://megaphone.imgix.net/podcasts/709942d8-d729-11f1-8d39-1fb40a68132d/image/3700eb5e46aadd60d2f67523c7b8d451.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "513 为永明时代作传：林晓光谈南齐武帝萧赜与南朝文学的爆发",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6ae9a8d3c96c8942ec16aeb7?utm_source=rss",
-      "pubDate": "2026-11-03T09:48:19.000Z",
-      "duration": "01:35:24",
-      "summary": "- 导语 - 「永明末，盛为文章。」在南朝历史中，南齐似乎并不显眼，但永明文学、永明声律与竟陵八友，却在中国文学史上留下了深远影响，也与齐武帝萧赜治下的「永明之治」形成了文学与政治的互文。从刘宋乱世中的地方官到南齐皇帝，萧赜如何一步步崛起？在皇权与士族之间，萧赜如何通过财政、户籍等改革加强中央政府的力量？贵族社会对礼仪与等级的重视，又怎样影响了中国诗歌格律的形成？请听本期嘉宾林晓光老师带来的精彩分",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
       "showId": "indicator",
       "showName": "The Indicator",
       "category": "macro",
@@ -814,17 +781,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "512 与王恺漫话江南食事：从文人蟹宴到乡野土菜",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6ae4546797726cd4675a2ef0?utm_source=rss",
-      "pubDate": "2026-10-30T08:46:29.000Z",
-      "duration": "01:24:06",
-      "summary": "- 导语 - 秋风起，蟹脚痒，又到了吃蟹的时节。苏州的蟹宴与糕团、南京的盐水鸭与野菜，再到杭州的醋鱼与乡间土菜，虽同处江南，各地的饮食也藏着许多不同讲究。传统苏州蟹宴为何不提倡客人自己动手剥蟹？养殖技术的发展如何改变了人们餐桌上的大闸蟹？那些古籍中有名的菜肴，又经过了当代厨师怎样的改造？从家宴旧事到市井小馆，本期节目与王恺一起聊聊江南的地方风味，以及食物背后的日常生活。 感谢支付宝碰一下对本期节目",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
       "showId": "indicator",
       "showName": "The Indicator",
       "category": "macro",
@@ -869,17 +825,6 @@
       "art": "https://static.libsyn.com/p/assets/b/1/2/e/b12e9193604ad96fa04421dee9605cbd/WhatsApp_Image_2026-07-08_at_13.10.53.jpeg"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Can Montana end Citizens United?",
-      "link": "https://www.npr.org/2026/10/29/nx-s1-6021286/can-montana-end-citizens-united",
-      "pubDate": "2026-10-29T07:00:00.000Z",
-      "duration": "516",
-      "summary": "The landmark supreme source case Citizens United v. Federal Election Commission opened the floodgates for massive corporate spending in elections. Today, can a Montana ballot initiative pave the way f",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff9%2Ff4%2F19d4f2214ee5941ae0d0aba7a9ad%2F440b494e-4857-4484-8cb5-d2c1acd9a658.jpg"
-    },
-    {
       "showId": "talksat",
       "showName": "Talks at GS",
       "category": "finance",
@@ -900,28 +845,6 @@
       "duration": "10595",
       "summary": "Jimmy Carr is a comedian, television personality, and writer. His new book, \"On Jokes: The Hidden Mechanics of Funny,\" co-authored with Amanda Baker and Abi Grant, is available now. He is currently on",
       "art": "https://megaphone.imgix.net/podcasts/2261e0d2-d2fd-11f1-88f9-877628146802/image/2c7859684ab1efef4e053287b434d674.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "能源转型进入下半场：当环保与经济增长不再是二选一",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6ae16a4497726cd46758df37?utm_source=rss",
-      "pubDate": "2026-10-28T04:05:51.000Z",
-      "duration": "00:46:40",
-      "summary": "【主播的话】 环保和经济增长，曾经常被视为一道二选一的题。但随着光伏、电池、电动车等技术成熟、成本下降，绿色转型与经济发展似乎正变得越来越可能相互兼容、相互推动。 本期节目，我们邀请了ember 亚洲能源分析师杨碧晴，一起聊聊能源转型的经济账为什么变了。绿色低碳发展，中国在其中扮演着怎样的角色？当新能源从“有没有”走向“怎么用好”，下一步的挑战是什么？脱碳的未来将如何想象？ 这期，我们从“电气技术",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6ae0674fc96c8942ec13048e?utm_source=rss",
-      "pubDate": "2026-10-27T09:24:33.000Z",
-      "duration": "01:58:27",
-      "summary": "- 导语 - 2016年，一部尘封多年的费孝通英文小说手稿，在伦敦政治经济学院意外重见天日。这部题为《茧》的小说，也为理解费孝通的学术道路提供了新的线索。小说以苏南一家制丝工厂为背景，与茅盾《春蚕》共同触及三十年代江南农村的经济困境，却对农村出路提出了不同设想。这部小说与费孝通的社会学名著《江村经济》究竟是什么关系？它又如何与三十年代的社会性质论战形成关联？费孝通为何最终选择社会学？大革命失败与家",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
       "showId": "ezraklein",
@@ -990,17 +913,6 @@
       "art": "https://megaphone.imgix.net/podcasts/ec46995e-ce9a-11f1-9c7e-fbbdba278d52/image/e1a75a1d1caff6a9d53338962b2d8b7d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6adb27a497726cd4675696ad?utm_source=rss",
-      "pubDate": "2026-10-23T09:46:46.000Z",
-      "duration": "01:26:02",
-      "summary": "- 导语 - 电影《给阿嬷的情书》曾让更多人认识了「侨批」与「侨汇」，在这些钱和信的背后，连接着一套横跨曼谷、香港与汕头的商业网络。学者汪玉姣以泰国华人为切入点，梳理十九世纪下半叶至二十世纪末泰国侨批业兴衰。早期福建商人如何与暹罗王室建立联系？批局怎样通过汇兑与贸易对冲实现跨境资金流转？民族主义兴起后，泰国对华人推行了哪些同化政策与金融管制？在「泰日同盟」的二战局势下，侨批业者又如何维系秘密汇路？",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -1043,17 +955,6 @@
       "duration": "40:00",
       "summary": "(0:00) Arvind Krishna & Nikesh Arora talk about Quantum Computing's Threat to Encryption (9:07) Open Weight vs. Frontier AI Models (18:07) AI and Cyber Warfare (21:14) AI Regulation and the Global AI ",
       "art": "https://static.libsyn.com/p/assets/3/9/0/4/3904e785e65853035f2e77a3093c12a1/All-In_Audio_Thumbnails_1.jpg"
-    },
-    {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "509 通往战时陪都之路：卢作孚建设重庆北碚往事",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6ad72c1ff80d9814a6e11f31?utm_source=rss",
-      "pubDate": "2026-10-20T09:06:30.000Z",
-      "duration": "01:09:05",
-      "summary": "- 导语 - 民国时期，位于四川四县交界的北碚，军阀混战、匪患丛生，被形容为「千年虎狼之邑」。1918年，当地士绅自发组建峡防营守护秩序，后来改组为峡防局，并于1927年交由实业家卢作孚接掌。从开发煤矿、修筑北川铁路推动乡村现代化，再到创办中国西部科学院、推动西南资源调查、将国家意识与民族主义注入地方治理，北碚在十余年间展开了一场「创造新世界」的社会实验。民国时期的地方军阀如何与士绅互相背书？传统",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
       "showId": "ezraklein",
@@ -1133,17 +1034,6 @@
       "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6ad1e13c0e4e410a05bdd935?utm_source=rss",
-      "pubDate": "2026-10-16T09:17:07.000Z",
-      "duration": "01:35:22",
-      "summary": "- 导语 - 纵横国际关系学界的相蓝欣教授，曾长期在日内瓦任教，并与基辛格等外交政策圈人士保持交往。从陪同《凯恩斯传》作者、俄裔学者斯基德尔斯基重返哈尔滨，到走进五角大楼与美国战略大师安德鲁·马歇尔长谈，相蓝欣在本期节目中分享了诸多国际政治掌故，以及对当下中美欧关系的观察。他为何判断北约已进入「最后的倒计时」？如何从「三个特朗普」框架和WWE表演模式理解特朗普的外交手段？戴高乐如何影响了基辛格而基",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -1164,17 +1054,6 @@
       "duration": "01:39:52",
       "summary": "Can AI revenues justify the spending? Jensen Huang breaks down the biggest bottlenecks heading into 2027, the path to the singularity, open vs. closed models, and why he’s 99.99% optimistic about the ",
       "art": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40236188/40236188-1706073929930-da002b9be1355.jpg"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: The Pro-Rata Battle: Valar Atomics Sues Day One Ventures | Meta Returns to the AI Frontier With Muse Wonder | NVIDIA Eyes $30B Reflection Deal & Jev Raises $870M at a $7.5B Valuation",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-the-pro-rata-battle-valar-atomics-sues-day-one-ventures-meta-returns-to-the-ai-frontier-with-muse-wonder-nvidia-eyes-30b-reflection-deal-jev-raises-870m-at-a-75b-valuation",
-      "pubDate": "2026-10-15T07:07:00.000Z",
-      "duration": "01:13:20",
-      "summary": "AGENDA: 04:00 Valar Atomics Sues Seed Investor Day One Ventures Over Pro Rata 17:00 Meta Returns to the AI Frontier With Muse Wonder 20:00 NVIDIA Eyes $30B Reflection Deal as Amazon Circles Decart 26:",
-      "art": "https://static.libsyn.com/p/assets/3/e/7/c/3e7c39b4c7cb008b5f2e77a3093c12a1/WhatsApp_Image_2026-10-14_at_16.57.59.jpeg"
     },
     {
       "showId": "allin",
@@ -1199,17 +1078,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6acdee13195d838e2af13466?utm_source=rss",
-      "pubDate": "2026-10-13T08:55:38.000Z",
-      "duration": "01:03:53",
-      "summary": "- 导语 - 葡萄酒「盲品」是一种玄学吗？曾拿下葡萄酒盲品全国冠军的纪录片导演安德烈，即将代表中国队出征在法国举办的葡萄酒盲品世锦赛。在他的讲述里，盲品既有日常娱乐的趣味，也有严格的竞技规则。1976年的「巴黎审判」如何挑战法国人长期掌握的葡萄酒评价权威？在葡萄酒鉴赏圈，风土、审美与评判标准是从何而来？从山东烟台到云南德钦梅里，中国葡萄酒的短板与潜力又在哪里？请听本期嘉宾安德烈带来的精彩分享！ -",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1230,17 +1098,6 @@
       "duration": "01:33:15",
       "summary": "(0:00) Bestie intros! (2:53) Anthropic believes Claude might be conscious: a new religion? Lobbying the Pope, alignment risks, model welfare (38:28) OpenAI's math breakthroughs and community backlash ",
       "art": "https://static.libsyn.com/p/assets/0/5/1/0/05106eb3c174bb5de5bbc093207a2619/1_Pod_E292.png"
-    },
-    {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6ac8a47fe742e36efcc052a9?utm_source=rss",
-      "pubDate": "2026-10-09T09:08:34.000Z",
-      "duration": "01:13:50",
-      "summary": "- 导语 - 20世纪70年代末，经历了一段缓和期的美苏关系再度紧张，双方军事竞争与情报较量持续升级。苏联电子工程师托卡契夫在1979年至1985年间持续向美国中央情报局提供情报，其泄露的苏联军工机密价值连城，也因此有了「亿万美元间谍」之称。美苏新一轮军事竞争为何让苏联军工情报变得如此重要？在真假叛逃者难辨的冷战年代，托卡契夫如何一步步获得中央情报局的信赖？双方又如何在克格勃的监视下完成21次莫斯",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
       "showId": "ezraklein",
@@ -1287,17 +1144,6 @@
       "art": "https://static.libsyn.com/p/assets/7/b/0/3/7b0376a2e322dc87e5bbc093207a2619/1_Pod_E291.png"
     },
     {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "505 茶海轶闻：与王恺漫谈中国茶的真假传说",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6abf70bee742e36efcbdbcba?utm_source=rss",
-      "pubDate": "2026-10-02T09:11:35.000Z",
-      "duration": "01:43:35",
-      "summary": "- 导语 - 为寻访「中国茶之道」，王恺曾走遍各地茶山。从安徽太平湖畔的猴魁，到武夷山的岩茶山场，再到云南边陲的古茶林，记录了中国茶的种种传说、黑话与玄学。中国茶的诠释权如何掌握在福建茶商手中？那些名噪一时的茶叶为何纷纷淡出大众视野？从香港茶楼到东莞仓库，普洱如何一步步变成金融产品？东亚三国的喝茶审美又如何互相影响？请听本期嘉宾王恺带来的精彩分享！ - 本期话题成员 - 程衍樑（微博@Grenad",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -1331,17 +1177,6 @@
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "当科技让战争触屏可见，记者为何仍要抵达冲突现场？",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6abc9e05195d838e2aebebb9?utm_source=rss",
-      "pubDate": "2026-09-30T05:42:45.000Z",
-      "duration": "01:28:08",
-      "summary": "【主播的话】 人类自古以来就有对战争保持记录的传统——有战争的地方，就有讲故事的需求。“战地记者”在近代随着现代战争的发展，逐渐成为一个专门的职业。身处前线，冒着枪林弹雨做直播的战地记者，一度成为许多人心中对”记者”这个职业的终极想象。 但大多数冲突，其实并不总是以枪炮和热战的形式呈现。战前的摩擦、绵延数十年的族群对抗；战争中的大后方，虽然不是最激烈的交战前线，却也同样在塑造着战争。并且，它常常没",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -1353,17 +1188,6 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "504 林行止、《信报》与香港经济黄金年代",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6abb74cee742e36efcbca2c3?utm_source=rss",
-      "pubDate": "2026-09-29T08:59:52.000Z",
-      "duration": "01:20:16",
-      "summary": "- 导语 - 9月6日，报人林行止离世。作为《信报》创办人，他被称为「香江第一健笔」，一生写下逾一万一千篇专栏文章。从露宿街头的少年，到《明报》资料室职员，再到创办《信报》成为香港财经媒体的标志性人物，林行止的报人生涯几乎贯穿战后香港数十年的经济与社会变迁。他与金庸从知遇到分歧，对北京和伦敦的针砭，与张五常的深度合作，也成为香港文人办报传统的生动注脚。一个来自潮汕的偷渡青年如何获得金庸的赏识？刚创",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
-    },
-    {
       "showId": "talksat",
       "showName": "Talks at GS",
       "category": "finance",
@@ -1373,17 +1197,6 @@
       "duration": "1583",
       "summary": "U.S. Soccer has entered a transformative era, driving the growth of the sport across the nation as it capitalizes on hosting the 2026 World Cup and other global sporting tournaments to come. JT Batson",
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "left-right",
-      "showName": "忽左忽右",
-      "category": "zh",
-      "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6ab638ece742e36efcbb1e4e?utm_source=rss",
-      "pubDate": "2026-09-25T09:25:44.000Z",
-      "duration": "01:49:04",
-      "summary": "- 导语 - 历经战乱、迁徙与先天的身体残疾，一位历史学家如何在动荡中思考家国命运？本期邀请许倬云晚年重要助手冯俊文，回溯许先生从战时童年、赴台求学、芝加哥留学到匹兹堡治学的人生。抗战经验如何塑造他「从中国看世界，从世界看中国」的历史眼光？两蒋时代的台湾纷争与赴美留学如何让许倬云走向学术前沿？许倬云和他最意外的弟子王小波在美国相遇又是怎么一回事？请听冯俊文的精彩分享！ - 本期话题成员 - 程衍樑",
-      "art": "https://image.xyzcdn.net/FrYMqb37Wg_LA8aenDJJ8SFGsjea"
     },
     {
       "showId": "talksat",
@@ -1430,17 +1243,6 @@
       "art": "https://img.transistorcdn.com/DpYRwLVYbt09NDhOfdtKg4KNCH0yCkhX7PeHyOBbH14/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS81MDNm/MDk2YTNmOTBkNmFk/MzJkZmYzZTQ4OWMz/MjdhOS5qcGc.jpg"
     },
     {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "在科技时代，重新理解我们的爱、工作与生活",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6aa65785492687f6aad91b26?utm_source=rss",
-      "pubDate": "2026-09-14T00:00:00.000Z",
-      "duration": "01:16:56",
-      "summary": "【主播的话】 今年八月，哲学学者王小伟出版了新书《重新回到生活：科技时代的工作、情绪、爱情和死亡》。在这本书中，他把目光投向工作、情绪、爱情这些领域，而 AI 正以前所未有的速度介入其中。 AI 会成为我们的爱人吗？王小伟说，人与人之间最特殊之处，是愿意为另一个人付出人格成本；而 AI 没有脆弱、没有恐惧、也不会死去，无法与我们构成真正的共同经验。可正是这种无损耗的陪伴，让越来越多人觉得比真实关系",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -1452,17 +1254,6 @@
       "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/f/f96bdc7a-c667-4594-8719-2070d24f8231/cover.jpg?v=1"
     },
     {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "我们如何老去？从《前浪》窥见中国老年生活的真实图景",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a9f76a7f03e74ee6b06d00f?utm_source=rss",
-      "pubDate": "2026-09-08T02:56:31.000Z",
-      "duration": "01:09:37",
-      "summary": "【主播的话】 2022年，上海普陀公证处的公证员李辰阳，开始处理一位孤寡老人的身后事。老人一生未婚，与亲属断绝往来，签了意定监护协议住进养老院，四十天后猝然离世，只留下五百万无人继承的遗产。是按法律把钱交给她生前刻意疏远的亲人，还是尊重她想捐给社会的心愿？李辰阳最终促成了一个各方都能接受的结果，这是《前浪》第二季第一集《我在天堂等你》里的故事之一，也是意定监护，这项写入民法典不过四五年的新制度，第",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
       "showId": "etw",
       "showName": "声东击西",
       "category": "zh",
@@ -1472,28 +1263,6 @@
       "duration": "45:16",
       "summary": "80 年前，国泰航空第一架飞机 Betsy 降落上海龙华机场；80 年后，一场关于飞行的对谈，在这片曾经的机场旧址展开：从最初连接几座城市的货运与客运航线，到今天遍布世界的航空网络，一架飞机、一座机场，一条航线如何改变人们抵达远方的方式，又如何深刻影响一座城市的发展，乃至一个国家与世界之间的关系？ 8月末，在「国泰航空八十周年庆典」现场，国泰航空联合「声东击西」进行了一场线下圆桌。我们邀请到了北京",
       "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
-    },
-    {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "漫长的告别：失智症、照护者与终将老去的我们",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a93e755a0210c197dca6ffc?utm_source=rss",
-      "pubDate": "2026-08-31T00:00:00.000Z",
-      "duration": "01:04:00",
-      "summary": "【主播的话】 我们常以为，失智是一种“消失”——一个人渐渐忘记名字、忘记至亲、忘记自己是谁。但社会学者唐咏通过研究告诉我们，事情没那么简单：有人忘记了今天发生的一切，却能完整唱出几十年前的老歌；有人认不出朝夕相处的儿女，却依然保有情感和尊严感。失智老人丧失的和保留的部分，从来都不是我们以为的那样。 唐咏是深圳大学政府管理学院社会学系教授。她的研究兴趣始于一次意外——母亲的一场车祸，让她的学术兴趣转",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "从基因编辑女童之死说起：自闭症不是需要被修复的错误",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a912d76f03e74ee6b0123d1?utm_source=rss",
-      "pubDate": "2026-08-28T06:50:15.000Z",
-      "duration": "00:49:29",
-      "summary": "【主播的话】 一年多前的春天，一个穿着粉色外套、行李箱里装满毛绒玩具的6岁女孩小美，被父母带进了上海一间医院。他们筹集了数百万人民币，只为修复女儿DNA里一个碱基的“错误”——这个“错误”让她语言发育迟缓，让她的成长轨迹偏离了所谓“正常”的标准。但悲剧发生了，七天后，小美因为治疗过程中出现的排异反应，不幸离世。 一年多之后，这起事件被《科学》杂志的调查曝光，随即引发了全球科学界和公众的强烈震动。小",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
     },
     {
       "showId": "etw",
@@ -1549,17 +1318,6 @@
       "duration": "3:19:53",
       "summary": "Khabib Nurmagomedov is one of the greatest fighters of all time, who retired from the UFC undefeated with a perfect 29-0 record. We did this conversation entirely in Russian. Its translated and dubbed",
       "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
-    },
-    {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "华人家庭这个巨兽，爱与剥削为何总是同时存在",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a7bf7ef17676351c5709fa1?utm_source=rss",
-      "pubDate": "2026-08-12T04:55:46.000Z",
-      "duration": "00:59:06",
-      "summary": "【主播的话】 2025 年，一位以公共报道著称的华人记者，突然把笔调转向了自己的家。 记者谭蕙芸，曾在新闻业里追问外部世界的真相，教学生如何采访弱势社群。可她自己的家中，一直藏着一个不能言说的秘密。她的哥哥，那位被寄予最高期望的长子长孙，青少年时期被情绪问题困扰。全家从香港移民到加拿大后，在\"家丑不可外扬\"的家风影响下，未能持续就医，就这样被隐去了三十年，失去机会建立成年人的独立生活和自理能力。 ",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
     },
     {
       "showId": "acquired",
@@ -1628,17 +1386,6 @@
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "亲密革命：当婚姻退场、AI降临，我们该如何相爱？",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a62df56a3fec224d5a28b05?utm_source=rss",
-      "pubDate": "2026-07-24T04:05:10.000Z",
-      "duration": "01:07:34",
-      "summary": "【主播的话】 十几年前，还在读研究生的於嘉向一本知名社会科学期刊投了一篇自己刚写完的论文——关于中国人结婚影响因素的研究。但很快，她收到了拒信。期刊的专家当时认为，选题意义不大，因为中国并不存在所谓的“结婚率下降”的问题。 十几年过去，这个曾被认为“并不存在”的问题变成了全民的焦虑，牵动了全国甚至是全球的神经。於嘉也从学校里毕业，成为了北京大学光华管理学院的一名老师，专事与婚姻、家庭、人口结构有关",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
       "showId": "talksat",
       "showName": "Talks at GS",
       "category": "finance",
@@ -1670,28 +1417,6 @@
       "duration": "53:20",
       "summary": "7 月 7 日至 8 日，北约峰会在土耳其安卡拉举行。美国总统特朗普在会议开场就因为军费问题向盟友施压，威胁切断与西班牙的贸易，甚至再次提起格陵兰岛的主权归属。随着「美国优先」与「欧洲自主」理念的碰撞，本次会议成了我们观察「北约是否已经脑死亡？」争论的关键窗口。 从会议内容上看，理念的碰撞似乎并不意味着联盟走向瓦解。从人工智能与军事能力的进一步结合，到美欧围绕防务支出、军工产业和全球责任展开新的博",
       "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
-    },
-    {
-      "showId": "etw",
-      "showName": "声东击西",
-      "category": "zh",
-      "title": "#396 脱欧十年：当经济撑不起身份叙事，英国还剩什么？",
-      "link": "https://etw.fm/2216",
-      "pubDate": "2026-07-09T09:30:00.000Z",
-      "duration": "59:18",
-      "summary": "十年前的 6 月 23 日，英国以 51.9% 对 48.1% 的公投结果决定退出欧盟，十年后的当下，这个国家却似乎比任何时候都要显得迷茫。 来自工党的基尔·斯塔默宣布辞去首相职务，英国将在 10 年间迎来第 7 位首相。从穿衣的仪式感、王室的余晖，到「拿回控制权」的脱欧口号，英国一直在用各种方式证明自己“与众不同”——可当经济基础再也撑不起这套身份叙事，这个曾经的日不落帝国，究竟还能靠什么找到自",
-      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
-    },
-    {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "漫谈世界杯：梅罗之争、拉美神话与运动科学",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a4732032e335a35a80d5b83?utm_source=rss",
-      "pubDate": "2026-07-03T04:07:44.000Z",
-      "duration": "01:22:50",
-      "summary": "【主播的话】 2026年6-7月，美墨加三国首次联合举办世界杯。这场足球盛事的意义也早已溢出球场之外。本期节目，我们连线正在墨西哥前线报道的资深足球记者王勤伯，与身处美国西岸的政治学者林垚，从拉美足球的“酒神精神”聊起，谈到梅罗之争如何成为年轻一代进步派与保守派的价值符号之争，谈到运动科学如何为球星续命、也谈到巴西足球史上关于人种与临门一脚的“杂种狗”心结。 视野拉回国内，我们讨论董路的青训实验能",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
     },
     {
       "showId": "talksat",
@@ -1727,17 +1452,6 @@
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "跨世代的女性友谊，在创造中一起度过漫长",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a3ca7889d2f5743683d8c96?utm_source=rss",
-      "pubDate": "2026-06-25T04:18:48.000Z",
-      "duration": "01:36:30",
-      "summary": "【主播的话】 本期节目是不合时宜的系列节目——跨世代女性对话。这是不合时宜策划的一档栏目，我们收集了来自不同世代女性所面对的困惑和思考，通过与嘉宾深入对谈的方式展开回应这些困惑。 本期节目中时隔两年，我们又和闾丘露薇在播客中重聚了。这次她还带来了大学同学以及播客伙伴 Helen。我们这期节目里聊了聊对于工作、友谊和创作的理解与困惑，不同阶段的女性与自己身体的关系。想起一个好玩的插曲，在准备这期节目",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
       "showId": "acquired",
       "showName": "Acquired",
       "category": "tech",
@@ -1760,28 +1474,6 @@
       "art": "https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/40236188/40236188-1706073929930-da002b9be1355.jpg"
     },
     {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "如何在不确定的时代中安排人生？一个资产配置的视角",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a28e6c3dbccffcfa9c68f77?utm_source=rss",
-      "pubDate": "2026-06-10T04:31:25.000Z",
-      "duration": "01:27:36",
-      "summary": "【主播的话】 今年五月，我去了一趟奥马哈，参加了一年一度的巴菲特股东大会。 作为一个平日里并不算关注投资的人，去参会纯粹是记者的好奇心作祟：我想看看，这个每年让几万人专程飞来朝圣的地方，究竟供着什么“神”？现场的第一印象，像是一个巨大的县城大卖场，人声鼎沸，摩肩接踵，中国投资者组团涌入，对着一个九十多岁的老人的照片虔诚地举起手机。那种氛围也让人深思：他们在这里寻找的，究竟是财富密码，还是某种更难言",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "一名精神科医生的30年： 人如何与痛苦共存？",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a20a1af7444b5722232f90c?utm_source=rss",
-      "pubDate": "2026-06-03T22:41:35.000Z",
-      "duration": "00:41:02",
-      "summary": "【主播的话】 1993年，刚刚从医学院毕业的姜涛决定成为一名精神科医生。他加入了安定医院——这是中国在精神卫生领域最权威的机构之一。 那时候，中国刚刚经历了市场转型最初的阶段，整个社会正在加速变化。而他走进的，是一个几乎与社会完全隔绝的地方。 安定医院一度是“疯人院”的代名词。那时候的精神病院，是一个“飞地”般的存在。病人被进去，外面的人不太知道里面发生了什么，里面的人也几乎看不见外面的世界。\"神",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
-    },
-    {
       "showId": "lexfridman",
       "showName": "Lex Fridman Podcast",
       "category": "tech",
@@ -1791,17 +1483,6 @@
       "duration": "3:01:52",
       "summary": "Don Lincoln is a particle physicist at Fermilab who has spent decades working at the frontiers of high energy physics. Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors",
       "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
-    },
-    {
-      "showId": "weirdo",
-      "showName": "不合时宜",
-      "category": "zh",
-      "title": "在德国法庭见证华人迷奸案的审判，我感到一种集体的愤怒",
-      "link": "https://www.xiaoyuzhoufm.com/episode/6a17c96fac7bdb080c31fe3c?utm_source=rss",
-      "pubDate": "2026-05-28T06:31:48.000Z",
-      "duration": "01:18:29",
-      "summary": "【主播的话】 （本期节目涉及性暴力与性犯罪的讨论，可能引起部分听众不适，请你斟酌收听。） 上周，我们走进了柏林的法院，在现场见证了近来引发高度关注的华人迷奸案庭审。被审理的是核心八人群组里的邵姓嫌疑人，这个网络里的成员散布在德国、美国、荷兰等地，通过一个 Telegram 群组彼此相连——他们用药物迷昏女性后实施性侵，并把过程拍下来，在群里分享。受害者大多是他们身边的华人女性：留学生、房东、邻居、",
-      "art": "https://image.xyzcdn.net/Fq-ccfNzhgTqQNzlG-1qA_jOow7l.png"
     },
     {
       "showId": "acquired",
@@ -1933,17 +1614,6 @@
       "pubDate": "2026-02-12T03:10:39.000Z",
       "duration": "3:25:50",
       "summary": "Peter Steinberger is the creator of OpenClaw, an open-source AI agent framework thats the fastest-growing project in GitHub history. Thank you for listening ❤ Check out our sponsors: https://lexfridma",
-      "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
-    },
-    {
-      "showId": "lexfridman",
-      "showName": "Lex Fridman Podcast",
-      "category": "tech",
-      "title": "#490 – State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI",
-      "link": "https://lexfridman.com/ai-sota-2026/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ai-sota-2026",
-      "pubDate": "2026-02-01T02:46:43.000Z",
-      "duration": "4:39:52",
-      "summary": "Nathan Lambert and Sebastian Raschka are machine learning researchers, engineers, and educators. Nathan is the post-training lead at the Allen Institute for AI (Ai2) and the author of The RLHF Book. S",
       "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
     },
     {
