@@ -1,60 +1,6 @@
 {
-  "generatedAt": "2026-11-18T16:40:12.342Z",
+  "generatedAt": "2026-11-19T16:42:57.116Z",
   "items": [
-    {
-      "title": "AI training startup Mercor valued at $20 billion in latest funding round",
-      "link": "https://newslink.reuters.com/click/48358970.62457/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249VGVjaG5vbG9neS1Sb3VuZHVwJnV0bV90ZXJtPTExMTAyNiZ1dG1fY29udGVudD0xMTEwMjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTgmdXNlcl9lbWFpbD0yZmI3NjFhNGQwNTgzYjM4MmZmNTMyMmFiMWIwMjYzNDAxNzYxMjNhMmViYzc5NjE0MWJmMWUyZTdlMDk3YTRi/699d8f6975a57008a503f158Bedfeadbf",
-      "author": "Reuters Technology Roundup",
-      "source": "newsletter:Reuters Technology Roundup",
-      "pubDate": "2026-11-10T16:00:18.000Z",
-      "summary": "96 Mercor said on Tuesday it had raised $750 million in a funding round that ​valued the AI training startup at $20 billion. --> Technology Roundup Technology Roundup AI training startup Mercor valued at $20 billion in latest funding round Anthropic eyes $1.4 trillion IPO valuation in test of Wall S",
-      "llmComment": null
-    },
-    {
-      "title": "Everyone loves CoreWeave",
-      "link": "https://newslink.reuters.com/click/48367295.21295/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtRXVyb3BlJnV0bV90ZXJtPTExMTEyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OA/699d8f6975a57008a503f158B33923591",
-      "author": "Reuters Morning Bid Europe",
-      "source": "newsletter:Reuters Morning Bid Europe",
-      "pubDate": "2026-11-11T06:00:07.000Z",
-      "summary": "96 A look at the day ahead in European and global markets Morning Bid Europe Morning Bid Europe A look at the day ahead in European and global markets By Stella Qiu, Australia Economics & Markets Correspondent Data refreshes every time you open this email. For more European market news, click here .",
-      "llmComment": null
-    },
-    {
-      "title": "Jumbo Fed hike hits radar",
-      "link": "https://newslink.reuters.com/click/48369146.38597/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtVVMmdXRtX3Rlcm09MTExMTI2JnV0bV9jb250ZW50PTExMTEyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OCZ1c2VyX2VtYWlsPTJmYjc2MWE0ZDA1ODNiMzgyZmY1MzIyYWIxYjAyNjM0MDE3NjEyM2EyZWJjNzk2MTQxYmYxZTJlN2UwOTdhNGI/699d8f6975a57008a503f158B8351ae91",
-      "author": "Morning Bid U.S.",
-      "source": "newsletter:Morning Bid U.S.",
-      "pubDate": "2026-11-11T11:30:56.000Z",
-      "summary": "96 What matters in U.S. and global markets today Morning Bid U.S. Morning Bid U.S. A Reuters Open Interest newsletter What matters in U.S. and global markets today By Mike Dolan , Editor-at-Large, Finance & Markets With stock markets in thrall to the fascinating tech sagas at Nvidia and Anthropic, a",
-      "llmComment": null
-    },
-    {
-      "title": "Spain strikes as election nears",
-      "link": "https://newslink.reuters.com/click/48369299.403509/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249RGFpbHktQnJpZWZpbmcmdXRtX3Rlcm09MTExMTI2JnV0bV9jb250ZW50PTExMTEyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OCZ1c2VyX2VtYWlsPTJmYjc2MWE0ZDA1ODNiMzgyZmY1MzIyYWIxYjAyNjM0MDE3NjEyM2EyZWJjNzk2MTQxYmYxZTJlN2UwOTdhNGI/699d8f6975a57008a503f158Bc21787ef",
-      "author": "Reuters Daily Briefing",
-      "source": "newsletter:Reuters Daily Briefing",
-      "pubDate": "2026-11-11T12:02:23.000Z",
-      "summary": "96 Plus, schools ‌in Italy evacuated after a bomb alert message. Daily Briefing Daily Briefing By Kate Turton Hello. Workers across Spain stage a general strike as anger rages over housing , Russia, Ukraine and the US start second day of peace talks , and a Chinese university bought Nvidia H200 chip",
-      "llmComment": null
-    },
-    {
-      "title": "Can AI close the justice gap?",
-      "link": "https://newslink.reuters.com/click/48369759.45702/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249RGFpbHktRG9ja2V0JnV0bV90ZXJtPTExMTEyNiZ1dG1fY29udGVudD0xMTExMjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTgmdXNlcl9lbWFpbD0yZmI3NjFhNGQwNTgzYjM4MmZmNTMyMmFiMWIwMjYzNDAxNzYxMjNhMmViYzc5NjE0MWJmMWUyZTdlMDk3YTRi/699d8f6975a57008a503f158B0a64a07c",
-      "author": "The Daily Docket",
-      "source": "newsletter:The Daily Docket",
-      "pubDate": "2026-11-11T12:45:04.000Z",
-      "summary": "96 + Law firms are sharing tech but the hurdles are real. The Daily Docket The Daily Docket A newsletter by Reuters and Westlaw By Caitlin Tremblay Good morning. Law firms are starting to share their AI tools with legal aid nonprofits, and an early pilot in Florida shows both the promise and the pit",
-      "llmComment": null
-    },
-    {
-      "title": "S&P 500, Nasdaq futures rise as CoreWeave results calm AI jitters",
-      "link": "https://newslink.reuters.com/click/48370315.50905/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249UmV1dGVycy1CdXNpbmVzcyZ1dG1fdGVybT0xMTExMjYmdXRtX2NvbnRlbnQ9MTExMTI2JmxjdGc9Njk5ZDhmNjk3NWE1NzAwOGE1MDNmMTU4JnVzZXJfZW1haWw9MmZiNzYxYTRkMDU4M2IzODJmZjUzMjJhYjFiMDI2MzQwMTc2MTIzYTJlYmM3OTYxNDFiZjFlMmU3ZTA5N2E0Yg/699d8f6975a57008a503f158Bcae1e837",
-      "author": "Reuters Business",
-      "source": "newsletter:Reuters Business",
-      "pubDate": "2026-11-11T13:02:02.000Z",
-      "summary": "96 Futures tracking the S&#x26;P ​500 and the Nasdaq 100 climbed on Wednesday after CoreWeave's strong earnings eased investor concerns over excessive ‌AI spending. --> Reuters Business Reuters Business S&P 500, Nasdaq futures rise as CoreWeave results calm AI jitters Military-linked Chinese univers",
-      "llmComment": null
-    },
     {
       "title": "Romanian intelligence agency says it identified Russian-linked cyber attack",
       "link": "https://newslink.reuters.com/click/48372719.57687/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249VGVjaG5vbG9neS1Sb3VuZHVwJnV0bV90ZXJtPTExMTEyNiZ1dG1fY29udGVudD0xMTExMjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTgmdXNlcl9lbWFpbD0yZmI3NjFhNGQwNTgzYjM4MmZmNTMyMmFiMWIwMjYzNDAxNzYxMjNhMmViYzc5NjE0MWJmMWUyZTdlMDk3YTRi/699d8f6975a57008a503f158Bec005599",
@@ -368,6 +314,69 @@
       "source": "newsletter:Reuters Technology Roundup",
       "pubDate": "2026-11-18T16:01:23.000Z",
       "summary": "96 Nvidia shares rose on Wednesday, lifting AI-linked stocks ​after a blockbuster forecast from the chip giant suggested surging computing demand could withstand the uncertainty caused by co-founder Jensen Huang's abrupt departure. --> Technology Roundup Technology Roundup Nvidia gains, lifts batter",
+      "llmComment": null
+    },
+    {
+      "title": "Inside Europe's bomb hoax campaign",
+      "link": "https://newslink.reuters.com/click/48490995.458745/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249T25lLUVzc2VudGlhbC1SZWFkJnV0bV90ZXJtPTExMTgyNiZ1dG1fY29udGVudD0xMTE4MjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTgmdXNlcl9lbWFpbD0yZmI3NjFhNGQwNTgzYjM4MmZmNTMyMmFiMWIwMjYzNDAxNzYxMjNhMmViYzc5NjE0MWJmMWUyZTdlMDk3YTRi/699d8f6975a57008a503f158B7c339f22",
+      "author": "Reuters One Essential Read",
+      "source": "newsletter:Reuters One Essential Read",
+      "pubDate": "2026-11-18T17:00:51.000Z",
+      "summary": "96 Reuters examines more than 8,000 threats. One Essential Read One Essential Read Recommended by Kate Turton, Newsletter Editor Inside the hoax bomb threats that rattled Europe's schools and airports The A.B. Cairoli primary school after it was evacuated following a bomb alert in Rome. REUTERS/Fran",
+      "llmComment": null
+    },
+    {
+      "title": "Can Huang pull off an Altman?",
+      "link": "https://newslink.reuters.com/click/48496815.65716/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249UmV1dGVycy1BSSZ1dG1fdGVybT0xMTE4MjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTg/699d8f6975a57008a503f158Baa38b956",
+      "author": "Reuters Artificial Intelligencer",
+      "source": "newsletter:Reuters Artificial Intelligencer",
+      "pubDate": "2026-11-18T21:15:07.000Z",
+      "summary": "96 Plus, the non-stop tech outages Artificial Intelligencer Artificial Intelligencer What matters in AI this week --> By Krystal Hu , Technology Correspondent Last week, while our team was in the middle of the busiest tech news cycle in recent memory, we were also dealing with something much more mu",
+      "llmComment": null
+    },
+    {
+      "title": "Soccer and the state",
+      "link": "https://newslink.reuters.com/click/48500307.81083/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249RWNvbi1Xb3JsZCZ1dG1fdGVybT0xMTE5MjYmdXRtX2NvbnRlbnQ9MTExOTI2JmxjdGc9Njk5ZDhmNjk3NWE1NzAwOGE1MDNmMTU4JnVzZXJfZW1haWw9MmZiNzYxYTRkMDU4M2IzODJmZjUzMjJhYjFiMDI2MzQwMTc2MTIzYTJlYmM3OTYxNDFiZjFlMmU3ZTA5N2E0Yg/699d8f6975a57008a503f158B94d93e3b",
+      "author": "Reuters Econ World",
+      "source": "newsletter:Reuters Econ World",
+      "pubDate": "2026-11-19T09:57:11.000Z",
+      "summary": "96 Plus, AI’s long game Econ World Econ World --> By Carmel Crimmins, host, Econ World podcast Greetings from Las Vegas, I’m in Sin City to talk soccer. Well, Ted Lasso to be specific. Jason Sudeikis, the show’s star and co-creator, was appearing at a Thomson Reuters event and yours truly interviewe",
+      "llmComment": null
+    },
+    {
+      "title": "Trump meets his friends Putin and Xi",
+      "link": "https://newslink.reuters.com/click/48516235.395676/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249RGFpbHktQnJpZWZpbmcmdXRtX3Rlcm09MTExOTI2JnV0bV9jb250ZW50PTExMTkyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OCZ1c2VyX2VtYWlsPTJmYjc2MWE0ZDA1ODNiMzgyZmY1MzIyYWIxYjAyNjM0MDE3NjEyM2EyZWJjNzk2MTQxYmYxZTJlN2UwOTdhNGI/699d8f6975a57008a503f158Bef468a40",
+      "author": "Reuters Daily Briefing",
+      "source": "newsletter:Reuters Daily Briefing",
+      "pubDate": "2026-11-19T12:18:43.000Z",
+      "summary": "96 And Elon Musk feels pretty foolish. Daily Briefing Daily Briefing By Robert MacMillan Thanks for reading today’s briefing. Vladimir Putin, Donald Trump and Xi Jinping got together for a chat. Read about that and more from Shenzhen in our live coverage of the APEC summit . Today's Top News REUTERS",
+      "llmComment": null
+    },
+    {
+      "title": "The fine print of the Nvidia scandal",
+      "link": "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap",
+      "author": "The Daily Docket",
+      "source": "newsletter:The Daily Docket",
+      "pubDate": "2026-11-19T12:30:02.000Z",
+      "summary": "96 + Two lawsuits, and a reported insurance gap. The Daily Docket The Daily Docket A newsletter by Reuters and Westlaw By Caitlin Tremblay --> Good morning. Today let’s wade into the two lawsuits Nvidia is facing in the wake of the Jensen Huang spy scandal and how a gap in insurance coverage (of all",
+      "llmComment": null
+    },
+    {
+      "title": "Anthropic's historic debut to put AI's promise and peril on Wall St trial",
+      "link": "https://newslink.reuters.com/click/48516638.63893/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249UmV1dGVycy1CdXNpbmVzcyZ1dG1fdGVybT0xMTE5MjYmdXRtX2NvbnRlbnQ9MTExOTI2JmxjdGc9Njk5ZDhmNjk3NWE1NzAwOGE1MDNmMTU4JnVzZXJfZW1haWw9MmZiNzYxYTRkMDU4M2IzODJmZjUzMjJhYjFiMDI2MzQwMTc2MTIzYTJlYmM3OTYxNDFiZjFlMmU3ZTA5N2E0Yg/699d8f6975a57008a503f158B1b4a7a5b",
+      "author": "Reuters Business",
+      "source": "newsletter:Reuters Business",
+      "pubDate": "2026-11-19T13:01:58.000Z",
+      "summary": "96 Anthropic's record $81 billion IPO puts to the test Wall Street's faith in the AI boom, pitting promises of the technology as an economic game-changer against fears of ​a market bubble and risks to humanity. --> Reuters Business Reuters Business Anthropic's historic debut to put AI's promise and ",
+      "llmComment": null
+    },
+    {
+      "title": "Anthropic set to be worth $1.9 trillion in strong Nasdaq debut",
+      "link": "https://newslink.reuters.com/click/48522344.57786/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249VGVjaG5vbG9neS1Sb3VuZHVwJnV0bV90ZXJtPTExMTkyNiZ1dG1fY29udGVudD0xMTE5MjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTgmdXNlcl9lbWFpbD0yZmI3NjFhNGQwNTgzYjM4MmZmNTMyMmFiMWIwMjYzNDAxNzYxMjNhMmViYzc5NjE0MWJmMWUyZTdlMDk3YTRi/699d8f6975a57008a503f158B1caf2861",
+      "author": "Reuters Technology Roundup",
+      "source": "newsletter:Reuters Technology Roundup",
+      "pubDate": "2026-11-19T16:00:30.000Z",
+      "summary": "96 Anthropic is on track to be worth a massive $1.9 trillion when it launches on the Nasdaq on Thursday, as investors rush to own a stake in the world's first publicly ​traded frontier AI company. --> Technology Roundup Technology Roundup Anthropic set to be worth $1.9 trillion in strong Nasdaq debu",
       "llmComment": null
     }
   ]
