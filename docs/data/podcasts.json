@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-19T16:43:08.067Z",
+    "updatedAt": "2026-11-19T22:01:24.834Z",
     "totalEpisodes": 150,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2583 - Bob Gymlan",
+      "link": "https://traffic.megaphone.fm/GLT1211480054.mp3",
+      "pubDate": "2026-11-19T18:00:00.000Z",
+      "duration": "9969",
+      "summary": "Bob Gymlan is a YouTuber who explores cryptozoology, unexplained phenomena, and other mysterious topics.www.patreon.com/BobGymlanwww.youtube.com/@BobGymlan Perplexity: Download the app or ask Perplexi",
+      "art": "https://megaphone.imgix.net/podcasts/40e30eaa-e3e2-11f1-9bd1-c34e7b9c9d32/image/817bb93be3a7453d0a3bd56fe12e81d8.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "etw",
       "showName": "声东击西",
@@ -900,17 +911,6 @@
       "duration": "01:43:23",
       "summary": "(0:00) Bestie intros! (0:11) Ken Griffin's AI bubble warning (8:19) Palo Alto Networks CEO Nikesh Arora joins (14:24) AI Cyber panic: PHP exploits and the tumultuous year ahead (44:17) France on the b",
       "art": "https://static.libsyn.com/p/assets/a/a/d/5/aad5ad1303ccae075f2e77a3093c12a1/1_Pod_E294.png"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2570 - Mystery Boys",
-      "link": "https://traffic.megaphone.fm/GLT2538626371.mp3",
-      "pubDate": "2026-10-23T17:00:00.000Z",
-      "duration": "10181",
-      "summary": "Kurt Metzger and Duncan Trussell are comedians and co-hosts of the \"Mystery Boys\" podcast. They also host their respective podcasts, \"The Derp with Kurp\" and \"The Duncan Trussell Family Hour.\"www.ymhs",
-      "art": "https://megaphone.imgix.net/podcasts/ec46995e-ce9a-11f1-9c7e-fbbdba278d52/image/e1a75a1d1caff6a9d53338962b2d8b7d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
