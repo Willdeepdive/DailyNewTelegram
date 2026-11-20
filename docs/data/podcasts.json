@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-20T01:33:10.515Z",
+    "updatedAt": "2026-11-20T16:17:40.011Z",
     "totalEpisodes": 150,
     "health": [
       {
@@ -96,7 +96,7 @@
       "id": "jre",
       "name": "Joe Rogan Experience",
       "category": "general",
-      "art": "https://megaphone.imgix.net/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/9dcaedf424ec3888e0c3056037a2d4c7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/9dcaedf424ec3888e0c3056037a2d4c7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "link": "https://feeds.megaphone.fm/GLT1412515089"
     },
     {
@@ -165,6 +165,28 @@
   ],
   "episodes": [
     {
+      "showId": "ezraklein",
+      "showName": "The Ezra Klein Show",
+      "category": "politics",
+      "title": "The Democrats’ Plan for Investigating Trump",
+      "link": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
+      "pubDate": "2026-11-20T10:00:00.000Z",
+      "duration": "00:54:39",
+      "summary": "As the incoming chairman of the Oversight Committee, Representative Robert Garcia will be leading the investigations into the Trump administration’s alleged corruption. One challenge Democrats like Ga",
+      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Tech blackouts, Black Friday fake-outs, and C-suite tariff cash-outs",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6047743/tech-blackouts-black-friday-fake-outs-and-c-suite-tariff-cash-outs",
+      "pubDate": "2026-11-20T08:00:00.000Z",
+      "duration": "564",
+      "summary": "This week’s indicators: Software outages are piling up, Black Friday deals might not actually be Black Friday deals, and companies are cashing in on tariff refund payouts. Fact-checking by Leyla Doss.",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd7%2Fce%2F6f4e73014228963205f024e801b7%2F0dcd815b-6f54-4a26-8270-b11e4334de5e.png"
+    },
+    {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
       "category": "general",
@@ -173,7 +195,7 @@
       "pubDate": "2026-11-19T18:00:00.000Z",
       "duration": "9969",
       "summary": "Bob Gymlan is a YouTuber who explores cryptozoology, unexplained phenomena, and other mysterious topics.www.patreon.com/BobGymlanwww.youtube.com/@BobGymlan Perplexity: Download the app or ask Perplexi",
-      "art": "https://megaphone.imgix.net/podcasts/40e30eaa-e3e2-11f1-9bd1-c34e7b9c9d32/image/817bb93be3a7453d0a3bd56fe12e81d8.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/40e30eaa-e3e2-11f1-9bd1-c34e7b9c9d32/image/817bb93be3a7453d0a3bd56fe12e81d8.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "etw",
@@ -239,7 +261,7 @@
       "pubDate": "2026-11-18T18:00:00.000Z",
       "duration": "9994",
       "summary": "Greg Anderson is a Brazilian jiu-jitsu black belt, U.S. Army veteran, former law enforcement officer, and founder of Electric North Jiu-Jitsu. He is the author of \"Courage Through Adversity\" and host ",
-      "art": "https://megaphone.imgix.net/podcasts/2e58f11e-e306-11f1-8e27-277008c7b349/image/0242781da8df6edfd95c11b2c79ddb31.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/2e58f11e-e306-11f1-8e27-277008c7b349/image/0242781da8df6edfd95c11b2c79ddb31.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "indicator",
@@ -283,7 +305,7 @@
       "pubDate": "2026-11-17T18:00:00.000Z",
       "duration": "8922",
       "summary": "Joe sits down with Tommy McMillen, a professional mixed martial artist competing in the UFC Featherweight division.www.ufc.com/athlete/tommy-mcmillenwww.youtube.com/@TommyGunMafia Download Uber Eats a",
-      "art": "https://megaphone.imgix.net/podcasts/e4225d06-e238-11f1-8b63-ab796739cefe/image/3af13aedebea55521f19b57a05fbe000.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/e4225d06-e238-11f1-8b63-ab796739cefe/image/3af13aedebea55521f19b57a05fbe000.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "talksat",
@@ -371,7 +393,7 @@
       "pubDate": "2026-11-13T18:30:00.000Z",
       "duration": "13648",
       "summary": "Shane Gillis is the co-host of \"Matt and Shane's Secret Podcast,\" creator and star of Netflix's comedy series \"Tires,\" and one half of the sketch comedy duo Gilly and Keeves. His new movie, \"Madden,\" ",
-      "art": "https://megaphone.imgix.net/podcasts/8ea2bc8c-df8a-11f1-b646-13979babfcd7/image/a8ad6548fba60b52f5dc74e5619bae7e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/8ea2bc8c-df8a-11f1-b646-13979babfcd7/image/a8ad6548fba60b52f5dc74e5619bae7e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
@@ -404,7 +426,7 @@
       "pubDate": "2026-11-12T18:00:00.000Z",
       "duration": "8829",
       "summary": "Kenneth Lacovara, PhD, is a paleontologist, founding dean of the School of Earth & Environment at Rowan University, and director of the Jean & Ric Edelman Fossil Park. He is the author of \"Why Dinosau",
-      "art": "https://megaphone.imgix.net/podcasts/717f0dd4-de4c-11f1-af83-9f5e45b228c5/image/3f909d4d2c389987a417643139868e55.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/717f0dd4-de4c-11f1-af83-9f5e45b228c5/image/3f909d4d2c389987a417643139868e55.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "etw",
@@ -448,7 +470,7 @@
       "pubDate": "2026-11-11T18:00:00.000Z",
       "duration": "10902",
       "summary": "Joe sits down with Paddy Pimblett, a professional mixed martial artist currently competing in the UFC Lightweight division.www.youtube.com/@PaddyTheBaddyUFCwww.thebaddy.com Don’t miss out on all the a",
-      "art": "https://megaphone.imgix.net/podcasts/61caf9fa-dd90-11f1-a603-032ff04a3020/image/0b39d2f62a17a13c93dc0cf1e5b219b6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/61caf9fa-dd90-11f1-a603-032ff04a3020/image/0b39d2f62a17a13c93dc0cf1e5b219b6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "indicator",
@@ -492,7 +514,7 @@
       "pubDate": "2026-11-10T18:00:00.000Z",
       "duration": "8160",
       "summary": "Gary Sinise is an Academy Award-nominated actor, musician, director, author, and philanthropist. His new book, \"Graceful Warrior,\" is available now.www.nelsonbooks.com/books/graceful-warrior/www.youtu",
-      "art": "https://megaphone.imgix.net/podcasts/ccadeb34-dca4-11f1-af0c-13d358cf1a21/image/24cd4d036137fe8adb3ee33083f9a781.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/ccadeb34-dca4-11f1-af0c-13d358cf1a21/image/24cd4d036137fe8adb3ee33083f9a781.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
@@ -591,7 +613,7 @@
       "pubDate": "2026-11-06T18:00:00.000Z",
       "duration": "8671",
       "summary": "Calley Means is a health advocate, author, and former senior advisor to the United States Department of Health and Human Services. He is also a co-founder of Truemed and co-author of the book \"Good En",
-      "art": "https://megaphone.imgix.net/podcasts/9a21b2c6-d99e-11f1-9c2f-e7736191fbbd/image/dba6a76aabfc978b8b4a6ff1a695f11e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/9a21b2c6-d99e-11f1-9c2f-e7736191fbbd/image/dba6a76aabfc978b8b4a6ff1a695f11e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "indicator",
@@ -613,7 +635,7 @@
       "pubDate": "2026-11-05T18:00:00.000Z",
       "duration": "8559",
       "summary": "Gregory Forth, DPhil, is an anthropologist, Fellow of the Royal Society of Canada, and author of \"Between Ape and Human: An Anthropologist on the Trail of a Hidden Hominid.\"www.pegasusbooks.com/books/",
-      "art": "https://megaphone.imgix.net/podcasts/6a6c6c02-d907-11f1-ab03-1beaa1609dd6/image/b73d63cd1ed6730e66fcc997aeaa0c94.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/6a6c6c02-d907-11f1-ab03-1beaa1609dd6/image/b73d63cd1ed6730e66fcc997aeaa0c94.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "talksat",
@@ -679,7 +701,7 @@
       "pubDate": "2026-11-04T18:00:00.000Z",
       "duration": "9728",
       "summary": "Peter A. McCullough, MD, MPH, is a physician, author, and chief scientific officer of The Wellness Company. His most recent book is \"Vaccines: Mythology, Ideology, and Reality,\" co-authored with John ",
-      "art": "https://megaphone.imgix.net/podcasts/843a4c4c-d814-11f1-b9a1-43aa4be9aada/image/764aae128b0171ebac833146ecdfed19.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/843a4c4c-d814-11f1-b9a1-43aa4be9aada/image/764aae128b0171ebac833146ecdfed19.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "indicator",
@@ -701,7 +723,7 @@
       "pubDate": "2026-11-03T18:00:00.000Z",
       "duration": "10139",
       "summary": "Sam Tallent is a comedian, author, and host of the \"Chubby Behemoth\" podcast. His most recent book is \"Brut.\" He is currently on tour.www.penguinrandomhouse.com/books/787018/brut-by-sam-tallent/www.yo",
-      "art": "https://megaphone.imgix.net/podcasts/709942d8-d729-11f1-8d39-1fb40a68132d/image/3700eb5e46aadd60d2f67523c7b8d451.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/709942d8-d729-11f1-8d39-1fb40a68132d/image/3700eb5e46aadd60d2f67523c7b8d451.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "indicator",
@@ -745,7 +767,7 @@
       "pubDate": "2026-10-31T17:00:00.000Z",
       "duration": "9854",
       "summary": "Comedian Francis Foster and political commentator Konstantin Kisin host the \"TRIGGERnometry\" podcast. Francis also hosts \"The Francis Foster Show\" and is the author of \"(Un)educated: My Life as a Teac",
-      "art": "https://megaphone.imgix.net/podcasts/0dc6237e-d512-11f1-816e-5f927e9904ef/image/09d7546396986d25c234aa713fa6fd09.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/0dc6237e-d512-11f1-816e-5f927e9904ef/image/09d7546396986d25c234aa713fa6fd09.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "20vc",
@@ -778,7 +800,7 @@
       "pubDate": "2026-10-30T17:00:00.000Z",
       "duration": "10098",
       "summary": "Big Jay Oakerson, Luis J. Gomez, and Steve Rannazzisi are comedians and hosts of the \"Legion of Skanks\" podcast. Big Jay and Luis also co-host the \"Story Warz\" podcast. Big Jay co-hosts \"The Bonfire\" ",
-      "art": "https://megaphone.imgix.net/podcasts/a96ed958-d402-11f1-b9a5-576e4cad39df/image/3cb0c5a701b9ebf0dfe3ee8b24434961.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/a96ed958-d402-11f1-b9a5-576e4cad39df/image/3cb0c5a701b9ebf0dfe3ee8b24434961.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
@@ -790,17 +812,6 @@
       "duration": "01:11:00",
       "summary": "Ahead of the midterm elections, Elon Musk has become the single largest campaign donor in any election cycle, giving about $450 million to Republicans. It is just a fraction of a percent of his near-t",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Corporate tax cheats, recession deal eats and costly Halloween treats!",
-      "link": "https://www.npr.org/2026/10/30/nx-s1-6022553/corporate-tax-cheats-recession-deal-eats-and-costly-halloween-treats",
-      "pubDate": "2026-10-30T07:00:00.000Z",
-      "duration": "563",
-      "summary": "On a very spooktacular Indicators of the EEK!: How America’s top corporations are ghosting their taxes; why more meal deals are an ominous sign; and terrifying Halloween candy prices! Fact checking by",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa8%2F5a%2Fa251813440df8b615f2348fffa7a%2Feb0fc470-b52e-4141-94f7-1b84361b49ad.png"
     },
     {
       "showId": "allin",
@@ -822,7 +833,7 @@
       "pubDate": "2026-10-29T17:00:00.000Z",
       "duration": "11084",
       "summary": "Colum Tyrrell is a comedian, streamer, and co-host of the \"Cockfight\" podcast with Lev Fer and Tristan Bowling. His new hour-long comedy special premieres October 28 on YouTube. He is currently on tou",
-      "art": "https://megaphone.imgix.net/podcasts/a7f8279c-d37a-11f1-a462-fb1f7204087b/image/9f156e4c4c5b052ae574871c1a09ef2d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/a7f8279c-d37a-11f1-a462-fb1f7204087b/image/9f156e4c4c5b052ae574871c1a09ef2d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "20vc",
@@ -855,7 +866,7 @@
       "pubDate": "2026-10-28T19:00:00.000Z",
       "duration": "10595",
       "summary": "Jimmy Carr is a comedian, television personality, and writer. His new book, \"On Jokes: The Hidden Mechanics of Funny,\" co-authored with Amanda Baker and Abi Grant, is available now. He is currently on",
-      "art": "https://megaphone.imgix.net/podcasts/2261e0d2-d2fd-11f1-88f9-877628146802/image/2c7859684ab1efef4e053287b434d674.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/2261e0d2-d2fd-11f1-88f9-877628146802/image/2c7859684ab1efef4e053287b434d674.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
@@ -1175,17 +1186,6 @@
       "duration": "1096",
       "summary": "OpenEvidence is working to rapidly advance clinical decision-making, emerging as a global leader in delivering gold-standard medical knowledge to physicians at the point of care. Daniel Nadler, co-fou",
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "ezraklein",
-      "showName": "The Ezra Klein Show",
-      "category": "politics",
-      "title": "Bill Gates’s Blunt Warning on A.I.",
-      "link": "https://www.nytimes.com/2026/09/29/opinion/ezra-klein-podcast-bill-gates.html",
-      "pubDate": "2026-09-29T09:00:00.000Z",
-      "duration": "01:14:13",
-      "summary": "Bill Gates thinks A.I. alarmism hasn’t gone far enough. He believes the years ahead will be marred by catastrophic cyberattacks, bio-terrorism and mass job loss unless the government acts, because he ",
-      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
       "showId": "talksat",
