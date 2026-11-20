@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-20T16:17:40.011Z",
+    "updatedAt": "2026-11-20T21:43:35.504Z",
     "totalEpisodes": 150,
     "health": [
       {
@@ -165,10 +165,21 @@
   ],
   "episodes": [
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2584 - Mike Baker",
+      "link": "https://traffic.megaphone.fm/GLT2887940704.mp3",
+      "pubDate": "2026-11-20T18:00:00.000Z",
+      "duration": "10079",
+      "summary": "Mike Baker is a former CIA covert operations officer and CEO of Portman Square Group, a global intelligence and security firm. He is the author of \"Company Rules\" and host of the twice-daily news podc",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/1ea015ee-e497-11f1-8bae-bb726a86569e/image/0ca9f9f522caabb328c6ce7d87999875.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
-      "title": "The Democrats’ Plan for Investigating Trump",
+      "title": "How Do You Investigate a President This Corrupt?",
       "link": "https://www.nytimes.com/2026/11/20/opinion/ezra-klein-podcast-robert-garcia.html",
       "pubDate": "2026-11-20T10:00:00.000Z",
       "duration": "00:54:39",
@@ -193,7 +204,7 @@
       "title": "#2583 - Bob Gymlan",
       "link": "https://traffic.megaphone.fm/GLT1211480054.mp3",
       "pubDate": "2026-11-19T18:00:00.000Z",
-      "duration": "9969",
+      "duration": "10209",
       "summary": "Bob Gymlan is a YouTuber who explores cryptozoology, unexplained phenomena, and other mysterious topics.www.patreon.com/BobGymlanwww.youtube.com/@BobGymlan Perplexity: Download the app or ask Perplexi",
       "art": "https://megaphone-images.spotifycdn.com/podcasts/40e30eaa-e3e2-11f1-9bd1-c34e7b9c9d32/image/817bb93be3a7453d0a3bd56fe12e81d8.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
@@ -856,17 +867,6 @@
       "duration": "1096",
       "summary": "David Booth, the founder and chairman of Dimensional Fund Advisors, uses academic research and market evidence to manage more than $1 trillion in assets. Booth, the author of Stay Calm, joins Raj Maha",
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2571 - Jimmy Carr",
-      "link": "https://traffic.megaphone.fm/GLT7178896407.mp3",
-      "pubDate": "2026-10-28T19:00:00.000Z",
-      "duration": "10595",
-      "summary": "Jimmy Carr is a comedian, television personality, and writer. His new book, \"On Jokes: The Hidden Mechanics of Funny,\" co-authored with Amanda Baker and Abi Grant, is available now. He is currently on",
-      "art": "https://megaphone-images.spotifycdn.com/podcasts/2261e0d2-d2fd-11f1-88f9-877628146802/image/2c7859684ab1efef4e053287b434d674.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
