@@ -1,78 +1,6 @@
 {
-  "generatedAt": "2026-11-19T16:42:57.116Z",
+  "generatedAt": "2026-11-20T16:17:32.757Z",
   "items": [
-    {
-      "title": "Romanian intelligence agency says it identified Russian-linked cyber attack",
-      "link": "https://newslink.reuters.com/click/48372719.57687/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249VGVjaG5vbG9neS1Sb3VuZHVwJnV0bV90ZXJtPTExMTEyNiZ1dG1fY29udGVudD0xMTExMjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTgmdXNlcl9lbWFpbD0yZmI3NjFhNGQwNTgzYjM4MmZmNTMyMmFiMWIwMjYzNDAxNzYxMjNhMmViYzc5NjE0MWJmMWUyZTdlMDk3YTRi/699d8f6975a57008a503f158Bec005599",
-      "author": "Reuters Technology Roundup",
-      "source": "newsletter:Reuters Technology Roundup",
-      "pubDate": "2026-11-11T16:00:33.000Z",
-      "summary": "96 A hacking group linked to Russia's FSB security service staged a cyberattack on a Romanian government organisation ​last year, the country's intelligence agency said on Wednesday. --> Technology Roundup Technology Roundup Romanian intelligence agency says it identified Russian-linked cyber attack",
-      "llmComment": null
-    },
-    {
-      "title": "Nvidia drama revives chip export debate",
-      "link": "https://newslink.reuters.com/click/48376694.46364/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249UmV1dGVycy1BSSZ1dG1fdGVybT0xMTExMjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTg/699d8f6975a57008a503f158Baf7400ad",
-      "author": "Reuters Artificial Intelligencer",
-      "source": "newsletter:Reuters Artificial Intelligencer",
-      "pubDate": "2026-11-11T21:02:37.000Z",
-      "summary": "96 Plus, how AI transforms CEO jobs. Artificial Intelligencer Artificial Intelligencer What matters in AI this week --> By Krystal Hu , Technology Correspondent We’ve heard plenty from CEOs about how AI will change everyone’s job. But how does it change the CEO’s own job? Ali Ghodsi, CEO of Databric",
-      "llmComment": null
-    },
-    {
-      "title": "Jensen hangs on as Nvidia tumbles",
-      "link": "https://newslink.reuters.com/click/48379381.1443/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtRXVyb3BlJnV0bV90ZXJtPTExMTIyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OA/699d8f6975a57008a503f158B41ce63df",
-      "author": "Reuters Morning Bid Europe",
-      "source": "newsletter:Reuters Morning Bid Europe",
-      "pubDate": "2026-11-12T06:00:09.000Z",
-      "summary": "96 A look at the day ahead in European and global markets Morning Bid Europe Morning Bid Europe A look at the day ahead in European and global markets By Gregor Stuart Hunter, Asia Finance & Markets Breaking News Correspondent Data refreshes every time you open this email. For more European market n",
-      "llmComment": null
-    },
-    {
-      "title": "Nvidious",
-      "link": "https://newslink.reuters.com/click/48381925.40274/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtVVMmdXRtX3Rlcm09MTExMjI2JnV0bV9jb250ZW50PTExMTIyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OCZ1c2VyX2VtYWlsPTJmYjc2MWE0ZDA1ODNiMzgyZmY1MzIyYWIxYjAyNjM0MDE3NjEyM2EyZWJjNzk2MTQxYmYxZTJlN2UwOTdhNGI/699d8f6975a57008a503f158B40caf224",
-      "author": "Morning Bid U.S.",
-      "source": "newsletter:Morning Bid U.S.",
-      "pubDate": "2026-11-12T11:30:02.000Z",
-      "summary": "96 What matters in U.S. and global markets today Morning Bid U.S. Morning Bid U.S. A Reuters Open Interest newsletter What matters in U.S. and global markets today By Mike Dolan , Editor-at-Large, Finance & Markets Just when tech stocks looked to be finding their feet again, chip behemoth Nvidia plu",
-      "llmComment": null
-    },
-    {
-      "title": "Nvidia board weighs ousting Jensen Huang",
-      "link": "https://newslink.reuters.com/click/48392122.401486/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249RGFpbHktQnJpZWZpbmcmdXRtX3Rlcm09MTExMjI2JnV0bV9jb250ZW50PTExMTIyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OCZ1c2VyX2VtYWlsPTJmYjc2MWE0ZDA1ODNiMzgyZmY1MzIyYWIxYjAyNjM0MDE3NjEyM2EyZWJjNzk2MTQxYmYxZTJlN2UwOTdhNGI/699d8f6975a57008a503f158B20481f0d",
-      "author": "Reuters Daily Briefing",
-      "source": "newsletter:Reuters Daily Briefing",
-      "pubDate": "2026-11-12T12:15:52.000Z",
-      "summary": "96 And Ukraine's rescue drones make big advances. Daily Briefing Daily Briefing By Robert MacMillan Thanks for joining me for today’s Daily Briefing. Nvidia’s board is discussing whether to oust Jensen Huang over reports of two extramarital affairs , including an alleged Chinese spy. Shares are down",
-      "llmComment": null
-    },
-    {
-      "title": "Nvidia's legal exposure, explained",
-      "link": "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap",
-      "author": "The Daily Docket",
-      "source": "newsletter:The Daily Docket",
-      "pubDate": "2026-11-12T12:30:05.000Z",
-      "summary": "96 + What the scandal could mean for Huang and the board. The Daily Docket The Daily Docket A newsletter by Reuters and Westlaw By Caitlin Tremblay --> Good morning. Today let’s take a look at the Nvidia CEO scandal, the legal risks for the company and why it tapped prominent law firm Wachtell to le",
-      "llmComment": null
-    },
-    {
-      "title": "Nasdaq, S&P 500 futures fall as Nvidia turbulence unsettles AI stocks",
-      "link": "https://newslink.reuters.com/click/48396221.61215/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249UmV1dGVycy1CdXNpbmVzcyZ1dG1fdGVybT0xMTEyMjYmdXRtX2NvbnRlbnQ9MTExMjI2JmxjdGc9Njk5ZDhmNjk3NWE1NzAwOGE1MDNmMTU4JnVzZXJfZW1haWw9MmZiNzYxYTRkMDU4M2IzODJmZjUzMjJhYjFiMDI2MzQwMTc2MTIzYTJlYmM3OTYxNDFiZjFlMmU3ZTA5N2E0Yg/699d8f6975a57008a503f158B26198d91",
-      "author": "Reuters Business",
-      "source": "newsletter:Reuters Business",
-      "pubDate": "2026-11-12T13:02:26.000Z",
-      "summary": "96 Futures tracking the ​Nasdaq 100 led Wall Street lower on Thursday after Nvidia shares plunged on reports that its board was ‌weighing the ouster of CEO Jensen Huang, souring sentiment toward AI-linked stocks. --> Reuters Business Reuters Business Nasdaq, S&P 500 futures fall as Nvidia turbulence",
-      "llmComment": null
-    },
-    {
-      "title": "Drama at Nvidia",
-      "link": "https://newslink.reuters.com/click/48397433.88222/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249RWNvbi1Xb3JsZCZ1dG1fdGVybT0xMTEyMjYmdXRtX2NvbnRlbnQ9MTExMjI2JmxjdGc9Njk5ZDhmNjk3NWE1NzAwOGE1MDNmMTU4JnVzZXJfZW1haWw9MmZiNzYxYTRkMDU4M2IzODJmZjUzMjJhYjFiMDI2MzQwMTc2MTIzYTJlYmM3OTYxNDFiZjFlMmU3ZTA5N2E0Yg/699d8f6975a57008a503f158B1c0be029",
-      "author": "Reuters Econ World",
-      "source": "newsletter:Reuters Econ World",
-      "pubDate": "2026-11-12T13:13:00.000Z",
-      "summary": "96 Plus, the price of AI Econ World Econ World --> By Carmel Crimmins, host, Econ World podcast Hello there, This has to be one of the wildest weeks in tech history. Nvidia, the most important cog in the AI ecosystem, is at the center of a leadership crisis just as frontier lab Anthropic is set to g",
-      "llmComment": null
-    },
     {
       "title": "Prolific jurist Richard Posner dies at 87",
       "link": "https://newslink.reuters.com/click/48406138.34105/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249QWZ0ZXJub29uLURvY2tldCZ1dG1fdGVybT0xMTEyMjYmdXRtX2NvbnRlbnQ9MTExMjI2JmxjdGc9Njk5ZDhmNjk3NWE1NzAwOGE1MDNmMTU4JnVzZXJfZW1haWw9MmZiNzYxYTRkMDU4M2IzODJmZjUzMjJhYjFiMDI2MzQwMTc2MTIzYTJlYmM3OTYxNDFiZjFlMmU3ZTA5N2E0Yg/699d8f6975a57008a503f158B95322653",
@@ -377,6 +305,69 @@
       "source": "newsletter:Reuters Technology Roundup",
       "pubDate": "2026-11-19T16:00:30.000Z",
       "summary": "96 Anthropic is on track to be worth a massive $1.9 trillion when it launches on the Nasdaq on Thursday, as investors rush to own a stake in the world's first publicly ​traded frontier AI company. --> Technology Roundup Technology Roundup Anthropic set to be worth $1.9 trillion in strong Nasdaq debu",
+      "llmComment": null
+    },
+    {
+      "title": "Kirkland did $11.8 million in free legal work for Trump admin, Dems say",
+      "link": "https://newslink.reuters.com/click/48526940.38881/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249QWZ0ZXJub29uLURvY2tldCZ1dG1fdGVybT0xMTE5MjYmdXRtX2NvbnRlbnQ9MTExOTI2JmxjdGc9Njk5ZDhmNjk3NWE1NzAwOGE1MDNmMTU4JnVzZXJfZW1haWw9MmZiNzYxYTRkMDU4M2IzODJmZjUzMjJhYjFiMDI2MzQwMTc2MTIzYTJlYmM3OTYxNDFiZjFlMmU3ZTA5N2E0Yg/699d8f6975a57008a503f158B1ee50c9d",
+      "author": "The Afternoon Docket",
+      "source": "newsletter:The Afternoon Docket",
+      "pubDate": "2026-11-19T20:20:02.000Z",
+      "summary": "96 + Associate pay raises spread to more firms. The Afternoon Docket The Afternoon Docket A weekly newsletter by Reuters and Westlaw By Sara Merken What's going on this week? Associates at more major law firms are getting raises ; two DOJ lawyers are facing misconduct inquiries over AI use; and Keke",
+      "llmComment": null
+    },
+    {
+      "title": "Anthropic's splashy IPO fails to lift AI boat",
+      "link": "https://newslink.reuters.com/click/48531918.22388/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtRXVyb3BlJnV0bV90ZXJtPTExMjAyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OA/699d8f6975a57008a503f158Bc86d1859",
+      "author": "Reuters Morning Bid Europe",
+      "source": "newsletter:Reuters Morning Bid Europe",
+      "pubDate": "2026-11-20T06:13:01.000Z",
+      "summary": "96 A look at the day ahead in European and global markets Morning Bid Europe Morning Bid Europe A look at the day ahead in European and global markets By Jiaxing Li, China Markets Correspondent Data refreshes every time you open this email. For more European market news, click here . Please send any",
+      "llmComment": null
+    },
+    {
+      "title": "AI's last stand?",
+      "link": "https://newslink.reuters.com/click/48533810.54714/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249TW9ybmluZy1CaWQtVVMmdXRtX3Rlcm09MTEyMDI2JnVzZXJfZW1haWw9MmZiNzYxYTRkMDU4M2IzODJmZjUzMjJhYjFiMDI2MzQwMTc2MTIzYTJlYmM3OTYxNDFiZjFlMmU3ZTA5N2E0YiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OA/699d8f6975a57008a503f158B0f8e63a6",
+      "author": "Reuters Morning Bid",
+      "source": "newsletter:Reuters Morning Bid",
+      "pubDate": "2026-11-20T11:30:23.000Z",
+      "summary": "96 Have we reached peak AI? Morning Bid Weekend Morning Bid Weekend A Reuters Open Interest newsletter Your weekly market recap, with reading, watching and listening recommendations from the ROI team From the Editor Hello Morning Bid readers! This should have been a fantastic week for AI bulls: Nvid",
+      "llmComment": null
+    },
+    {
+      "title": "Why Jeffrey Epstein loved Russia",
+      "link": "https://newslink.reuters.com/click/48533918.387264/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249RGFpbHktQnJpZWZpbmcmdXRtX3Rlcm09MTEyMDI2JnV0bV9jb250ZW50PTExMjAyNiZsY3RnPTY5OWQ4ZjY5NzVhNTcwMDhhNTAzZjE1OCZ1c2VyX2VtYWlsPTJmYjc2MWE0ZDA1ODNiMzgyZmY1MzIyYWIxYjAyNjM0MDE3NjEyM2EyZWJjNzk2MTQxYmYxZTJlN2UwOTdhNGI/699d8f6975a57008a503f158B7efa6fd9",
+      "author": "Reuters Daily Briefing",
+      "source": "newsletter:Reuters Daily Briefing",
+      "pubDate": "2026-11-20T12:01:09.000Z",
+      "summary": "96 And Donald Trump’s personalized diplomacy hits its limits. Daily Briefing Daily Briefing By Robert MacMillan Thank you for reading today’s edition of the Daily Briefing. Anthropic is testing Wall Street’s faith in the AI boom, President Trump says nuclear-arms limits with China and Russia will be",
+      "llmComment": null
+    },
+    {
+      "title": "The lame-duck judicial logjam",
+      "link": "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap",
+      "author": "The Daily Docket",
+      "source": "newsletter:The Daily Docket",
+      "pubDate": "2026-11-20T12:50:03.000Z",
+      "summary": "96 + Lifetime judgeships are on the line. The Daily Docket The Daily Docket A newsletter by Reuters and Westlaw By Caitlin Tremblay --> Good morning. Today let’s talk about judges, specifically those of the federal variety. There’s a bit of a Republican tug-of-war going on in the Senate over Preside",
+      "llmComment": null
+    },
+    {
+      "title": "PayPal names Claire Bramley as chief financial officer",
+      "link": "https://newslink.reuters.com/click/48534994.60434/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249UmV1dGVycy1CdXNpbmVzcyZ1dG1fdGVybT0xMTIwMjYmdXRtX2NvbnRlbnQ9MTEyMDI2JmxjdGc9Njk5ZDhmNjk3NWE1NzAwOGE1MDNmMTU4JnVzZXJfZW1haWw9MmZiNzYxYTRkMDU4M2IzODJmZjUzMjJhYjFiMDI2MzQwMTc2MTIzYTJlYmM3OTYxNDFiZjFlMmU3ZTA5N2E0Yg/699d8f6975a57008a503f158Bba436e1f",
+      "author": "Reuters Business",
+      "source": "newsletter:Reuters Business",
+      "pubDate": "2026-11-20T13:01:53.000Z",
+      "summary": "96 Payments firm PayPal said on ​Friday it has named Claire ‌Bramley as chief financial officer, succeeding Jamie Miller, as part of ​a broader shake-up of ​its senior leadership team. --> Reuters Business Reuters Business PayPal names Claire Bramley as chief financial officer Anthropic IPO haul ris",
+      "llmComment": null
+    },
+    {
+      "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
+      "link": "https://newslink.reuters.com/click/48537659.52897/aHR0cHM6Ly9yZXV0ZXJzLmNvbT91dG1fc291cmNlPVNhaWx0aHJ1JnV0bV9tZWRpdW09TmV3c2xldHRlciZ1dG1fY2FtcGFpZ249VGVjaG5vbG9neS1Sb3VuZHVwJnV0bV90ZXJtPTExMjAyNiZ1dG1fY29udGVudD0xMTIwMjYmbGN0Zz02OTlkOGY2OTc1YTU3MDA4YTUwM2YxNTgmdXNlcl9lbWFpbD0yZmI3NjFhNGQwNTgzYjM4MmZmNTMyMmFiMWIwMjYzNDAxNzYxMjNhMmViYzc5NjE0MWJmMWUyZTdlMDk3YTRi/699d8f6975a57008a503f158B7a1189c0",
+      "author": "Reuters Technology Roundup",
+      "source": "newsletter:Reuters Technology Roundup",
+      "pubDate": "2026-11-20T16:00:17.000Z",
+      "summary": "96 Anthropic's much-hyped arrival on Wall Street fizzled out on Friday, as a dramatic unraveling of the AI trade showed that even a blockbuster ​listing could not shake the gloom hanging over the sector. --> Technology Roundup Technology Roundup Anthropic's post-debut stumble delivers reality check ",
       "llmComment": null
     }
   ]
