@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-20T21:43:35.504Z",
+    "updatedAt": "2026-11-21T00:59:19.827Z",
     "totalEpisodes": 150,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?",
+      "link": "https://allinchamathjason.libsyn.com/anthropic-goes-public-nvidia-in-crisis-markets-tank-open-source-crackdown",
+      "pubDate": "2026-11-20T22:14:00.000Z",
+      "duration": "01:16:41",
+      "summary": "(0:00) Chamath's theory on 10 AI Megacorps that go \"Dirt to Application\" (3:27) Anthropic goes public, how companies are handling AI disruption (16:41) Bull/bear case for Anthropic and the market (36:",
+      "art": "https://static.libsyn.com/p/assets/2/2/f/d/22fd0b9c51d9114ea04421dee9605cbd/1_Pod_E298.png"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -1164,17 +1175,6 @@
       "duration": "01:07:29",
       "summary": "President Trump and the modern right have a theory of beauty. You see it in Trump’s gilded Oval Office, his imagined arch and his executive order requiring classical and traditional styles for certain",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Jake Paul & The Chainsmokers: Turning Fame into Funds, Jake Enters Politics? & Venture Bubble Signs",
-      "link": "https://allinchamathjason.libsyn.com/jake-paul-the-chainsmokers-turning-fame-into-funds-jake-enters-politics-venture-bubble-signs",
-      "pubDate": "2026-09-30T21:00:00.000Z",
-      "duration": "52:49",
-      "summary": "(0:00) Jake Paul joins the Chamath! (6:41) Turning an audience into businesses, the boxing playbook & coming for the UFC (11:54) Attention as capital, investing without the celebrity label & why polit",
-      "art": "https://static.libsyn.com/p/assets/b/f/e/7/bfe70c5fe7acc1f7e5bbc093207a2619/jp_x_chnsmkers_2.png"
     },
     {
       "showId": "talksat",
