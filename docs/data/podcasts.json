@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updatedAt": "2026-11-21T20:25:04.375Z",
-    "totalEpisodes": 135,
+    "updatedAt": "2026-11-21T23:59:33.998Z",
+    "totalEpisodes": 150,
     "health": [
       {
         "id": "20vc",
@@ -18,8 +18,8 @@
       {
         "id": "jre",
         "name": "Joe Rogan Experience",
-        "ok": false,
-        "error": "所有源均失败"
+        "ok": true,
+        "count": 15
       },
       {
         "id": "indicator",
@@ -96,7 +96,7 @@
       "id": "jre",
       "name": "Joe Rogan Experience",
       "category": "general",
-      "art": null,
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/9dcaedf424ec3888e0c3056037a2d4c7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "link": "https://feeds.megaphone.fm/GLT1412515089"
     },
     {
@@ -187,6 +187,17 @@
       "art": "https://static.libsyn.com/p/assets/2/2/f/d/22fd0b9c51d9114ea04421dee9605cbd/1_Pod_E298.png"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2584 - Mike Baker",
+      "link": "https://traffic.megaphone.fm/GLT2887940704.mp3",
+      "pubDate": "2026-11-20T18:00:00.000Z",
+      "duration": "10079",
+      "summary": "Mike Baker is a former CIA covert operations officer and CEO of Portman Square Group, a global intelligence and security firm. He is the author of \"Company Rules\" and host of the twice-daily news podc",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/1ea015ee-e497-11f1-8bae-bb726a86569e/image/0ca9f9f522caabb328c6ce7d87999875.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -207,6 +218,17 @@
       "duration": "564",
       "summary": "This week’s indicators: Software outages are piling up, Black Friday deals might not actually be Black Friday deals, and companies are cashing in on tariff refund payouts. Fact-checking by Leyla Doss.",
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd7%2Fce%2F6f4e73014228963205f024e801b7%2F0dcd815b-6f54-4a26-8270-b11e4334de5e.png"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2583 - Bob Gymlan",
+      "link": "https://traffic.megaphone.fm/GLT1211480054.mp3",
+      "pubDate": "2026-11-19T18:00:00.000Z",
+      "duration": "10209",
+      "summary": "Bob Gymlan is a YouTuber who explores cryptozoology, unexplained phenomena, and other mysterious topics.www.patreon.com/BobGymlanwww.youtube.com/@BobGymlan Perplexity: Download the app or ask Perplexi",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/40e30eaa-e3e2-11f1-9bd1-c34e7b9c9d32/image/817bb93be3a7453d0a3bd56fe12e81d8.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "etw",
@@ -264,6 +286,17 @@
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2582 - Greg Anderson",
+      "link": "https://traffic.megaphone.fm/GLT8132860054.mp3",
+      "pubDate": "2026-11-18T18:00:00.000Z",
+      "duration": "9994",
+      "summary": "Greg Anderson is a Brazilian jiu-jitsu black belt, U.S. Army veteran, former law enforcement officer, and founder of Electric North Jiu-Jitsu. He is the author of \"Courage Through Adversity\" and host ",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/2e58f11e-e306-11f1-8e27-277008c7b349/image/0242781da8df6edfd95c11b2c79ddb31.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "indicator",
       "showName": "The Indicator",
       "category": "macro",
@@ -295,6 +328,17 @@
       "duration": "1195",
       "summary": "When APL (Athletic Propulsion Labs) set out to create basketball shoes that helped athletes instantly jump higher, the technology worked so well that the NBA banned the shoes for providing the wearer ",
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "JRE MMA Show #189 with Tommy McMililen",
+      "link": "https://traffic.megaphone.fm/GLT7685860836.mp3",
+      "pubDate": "2026-11-17T18:00:00.000Z",
+      "duration": "8922",
+      "summary": "Joe sits down with Tommy McMillen, a professional mixed martial artist competing in the UFC Featherweight division.www.ufc.com/athlete/tommy-mcmillenwww.youtube.com/@TommyGunMafia Download Uber Eats a",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/e4225d06-e238-11f1-8b63-ab796739cefe/image/3af13aedebea55521f19b57a05fbe000.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "talksat",
@@ -374,6 +418,17 @@
       "art": "https://static.libsyn.com/p/assets/c/b/1/f/cb1fdd299945f2f6a04421dee9605cbd/1_Pod_E297.png"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2581 - Protect Our Parks 18",
+      "link": "https://traffic.megaphone.fm/GLT2131296942.mp3",
+      "pubDate": "2026-11-13T18:30:00.000Z",
+      "duration": "13648",
+      "summary": "Shane Gillis is the co-host of \"Matt and Shane's Secret Podcast,\" creator and star of Netflix's comedy series \"Tires,\" and one half of the sketch comedy duo Gilly and Keeves. His new movie, \"Madden,\" ",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/8ea2bc8c-df8a-11f1-b646-13979babfcd7/image/a8ad6548fba60b52f5dc74e5619bae7e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -394,6 +449,17 @@
       "duration": "546",
       "summary": "This week’s indicators: Inflation is disturbing, workers are getting their stolen wages back, and NVIDIA ex-CEO’s alleged affairs become a $465 billion business expense. (Woof!) Fact-checking by Tyler",
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F27%2Fff%2Fe7924a7241bb8b92527f80b3fa34%2F7bd550be-ddc6-4c3f-83fe-fc2a9a8969c4.png"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2580 - Kenneth Lacovara",
+      "link": "https://traffic.megaphone.fm/GLT9977701761.mp3",
+      "pubDate": "2026-11-12T18:00:00.000Z",
+      "duration": "8829",
+      "summary": "Kenneth Lacovara, PhD, is a paleontologist, founding dean of the School of Earth & Environment at Rowan University, and director of the Jean & Ric Edelman Fossil Park. He is the author of \"Why Dinosau",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/717f0dd4-de4c-11f1-af83-9f5e45b228c5/image/3f909d4d2c389987a417643139868e55.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "etw",
@@ -429,6 +495,17 @@
       "art": "https://static.libsyn.com/p/assets/7/2/7/1/72719cd1d3fab9eea04421dee9605cbd/WhatsApp_Image_2026-11-11_at_16.36.40.jpeg"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "JRE MMA Show #188 with Paddy Pimblett",
+      "link": "https://traffic.megaphone.fm/GLT7656101079.mp3",
+      "pubDate": "2026-11-11T18:00:00.000Z",
+      "duration": "10902",
+      "summary": "Joe sits down with Paddy Pimblett, a professional mixed martial artist currently competing in the UFC Lightweight division.www.youtube.com/@PaddyTheBaddyUFCwww.thebaddy.com Don’t miss out on all the a",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/61caf9fa-dd90-11f1-a603-032ff04a3020/image/0b39d2f62a17a13c93dc0cf1e5b219b6.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "indicator",
       "showName": "The Indicator",
       "category": "macro",
@@ -460,6 +537,17 @@
       "duration": "55:36",
       "summary": "(0:00) Axon CEO Rick Smith joins David Friedberg (2:39) History of TASER/Axon: brink of bankruptcy to IPO (9:05) Going public during the dot-com crash, selling to police, battling shorts and an SEC in",
       "art": "https://static.libsyn.com/p/assets/0/d/7/2/0d727740547c20335f2e77a3093c12a1/1_Pod_RickSmith.png"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2579 - Gary Sinise",
+      "link": "https://traffic.megaphone.fm/GLT8785723657.mp3",
+      "pubDate": "2026-11-10T18:00:00.000Z",
+      "duration": "8160",
+      "summary": "Gary Sinise is an Academy Award-nominated actor, musician, director, author, and philanthropist. His new book, \"Graceful Warrior,\" is available now.www.nelsonbooks.com/books/graceful-warrior/www.youtu",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/ccadeb34-dca4-11f1-af0c-13d358cf1a21/image/24cd4d036137fe8adb3ee33083f9a781.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
@@ -550,6 +638,17 @@
       "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2578 - Calley Means",
+      "link": "https://traffic.megaphone.fm/GLT2681832801.mp3",
+      "pubDate": "2026-11-06T18:00:00.000Z",
+      "duration": "8671",
+      "summary": "Calley Means is a health advocate, author, and former senior advisor to the United States Department of Health and Human Services. He is also a co-founder of Truemed and co-author of the book \"Good En",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/9a21b2c6-d99e-11f1-9c2f-e7736191fbbd/image/dba6a76aabfc978b8b4a6ff1a695f11e.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "indicator",
       "showName": "The Indicator",
       "category": "macro",
@@ -559,6 +658,17 @@
       "duration": "557",
       "summary": "An increasing number of men are dropping out of the workforce. What’s behind this trend and can anything be done about it? Fact checking by Leyla Doss. Your Next Listen – What's going on with men's la",
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa2%2Fa4%2Fbe4b70cd47f8b7d22e1432d3d571%2F57dec99c-9192-41c3-ad96-e5f13fd8dbcc.png"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2577 - Gregory Forth",
+      "link": "https://traffic.megaphone.fm/GLT6183630462.mp3",
+      "pubDate": "2026-11-05T18:00:00.000Z",
+      "duration": "8559",
+      "summary": "Gregory Forth, DPhil, is an anthropologist, Fellow of the Royal Society of Canada, and author of \"Between Ape and Human: An Anthropologist on the Trail of a Hidden Hominid.\"www.pegasusbooks.com/books/",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/6a6c6c02-d907-11f1-ab03-1beaa1609dd6/image/b73d63cd1ed6730e66fcc997aeaa0c94.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "talksat",
@@ -616,6 +726,17 @@
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2576 - Dr. Peter McCullough",
+      "link": "https://traffic.megaphone.fm/GLT1721245652.mp3",
+      "pubDate": "2026-11-04T18:00:00.000Z",
+      "duration": "9728",
+      "summary": "Peter A. McCullough, MD, MPH, is a physician, author, and chief scientific officer of The Wellness Company. His most recent book is \"Vaccines: Mythology, Ideology, and Reality,\" co-authored with John ",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/843a4c4c-d814-11f1-b9a1-43aa4be9aada/image/764aae128b0171ebac833146ecdfed19.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "indicator",
       "showName": "The Indicator",
       "category": "macro",
@@ -625,6 +746,17 @@
       "duration": "539",
       "summary": "Are AI job losses showing up in the job numbers? What does a pro-worker approach to AI development look like? What advice do you have for college students? It’s our latest “Ask an Economist” segment, ",
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2F03%2F9bd32648452f93214906074d8a03%2F488e5755-6205-40ed-8912-bfc1120309dd.png"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2575 - Sam Tallent",
+      "link": "https://traffic.megaphone.fm/GLT2051514655.mp3",
+      "pubDate": "2026-11-03T18:00:00.000Z",
+      "duration": "10139",
+      "summary": "Sam Tallent is a comedian, author, and host of the \"Chubby Behemoth\" podcast. His most recent book is \"Brut.\" He is currently on tour.www.penguinrandomhouse.com/books/787018/brut-by-sam-tallent/www.yo",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/709942d8-d729-11f1-8d39-1fb40a68132d/image/3700eb5e46aadd60d2f67523c7b8d451.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "indicator",
@@ -660,6 +792,17 @@
       "art": "https://static.libsyn.com/p/assets/e/8/7/2/e872067a63cd07335f2e77a3093c12a1/WhatsApp_Image_2026-10-30_at_13.54.30.jpeg"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2574 - Francis Foster & Konstantin Kisin",
+      "link": "https://traffic.megaphone.fm/GLT8304275411.mp3",
+      "pubDate": "2026-10-31T17:00:00.000Z",
+      "duration": "9854",
+      "summary": "Comedian Francis Foster and political commentator Konstantin Kisin host the \"TRIGGERnometry\" podcast. Francis also hosts \"The Francis Foster Show\" and is the author of \"(Un)educated: My Life as a Teac",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/0dc6237e-d512-11f1-816e-5f927e9904ef/image/09d7546396986d25c234aa713fa6fd09.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "20vc",
       "showName": "20VC",
       "category": "vc",
@@ -682,6 +825,17 @@
       "art": "https://static.libsyn.com/p/assets/2/8/2/4/2824d23e001152e8a04421dee9605cbd/1_Pod_E295.png"
     },
     {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2573 - Legion of Skanks",
+      "link": "https://traffic.megaphone.fm/GLT3082011100.mp3",
+      "pubDate": "2026-10-30T17:00:00.000Z",
+      "duration": "10098",
+      "summary": "Big Jay Oakerson, Luis J. Gomez, and Steve Rannazzisi are comedians and hosts of the \"Legion of Skanks\" podcast. Big Jay and Luis also co-host the \"Story Warz\" podcast. Big Jay co-hosts \"The Bonfire\" ",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/a96ed958-d402-11f1-b9a5-576e4cad39df/image/3cb0c5a701b9ebf0dfe3ee8b24434961.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -702,6 +856,17 @@
       "duration": "55:39",
       "summary": "(0:00) Welcome Will Ahmed, CEO of WHOOP (0:59) WHOOP's $500 Hardware Problem & the Subscription Pivot (6:59) Inside 50 Billion Hours of 24/7 Health Data (19:31) WHOOP's AI Coach, Journal Insights & GL",
       "art": "https://static.libsyn.com/p/assets/a/7/3/9/a73958ffcc02ae365f2e77a3093c12a1/signal-2026-10-29-17-06-43-868.jpg"
+    },
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2572 - Colum Tyrrell",
+      "link": "https://traffic.megaphone.fm/GLT3844762456.mp3",
+      "pubDate": "2026-10-29T17:00:00.000Z",
+      "duration": "11084",
+      "summary": "Colum Tyrrell is a comedian, streamer, and co-host of the \"Cockfight\" podcast with Lev Fer and Tristan Bowling. His new hour-long comedy special premieres October 28 on YouTube. He is currently on tou",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/a7f8279c-d37a-11f1-a462-fb1f7204087b/image/9f156e4c4c5b052ae574871c1a09ef2d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "20vc",
