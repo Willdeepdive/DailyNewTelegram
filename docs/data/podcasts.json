@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-21T00:59:19.827Z",
+    "updatedAt": "2026-11-21T15:31:11.839Z",
     "totalEpisodes": 150,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: The State of Compute: What Everyone Needs to Know | Why Neo-Clouds are Great Businesses | What Everyone Is Missing About GPU Prices? | How AI Infrastructure Investors Will Win with Kush Bavaria, Co-Founder @ Ornn",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-the-state-of-compute-what-everyone-needs-to-know-why-neo-clouds-are-great-businesses-what-everyone-is-missing-about-gpu-prices-how-ai-infrastructure-investors-will-win-with-kush-bavaria-co-founder-ornn",
+      "pubDate": "2026-11-21T14:50:00.000Z",
+      "duration": "01:12:30",
+      "summary": "Kush Bavaria is the Co-founder and CEO of Ornn, building the financial market for AI compute. Ornn helps companies price, finance and hedge GPU capacity—bringing the tools of commodity markets to AI i",
+      "art": "https://static.libsyn.com/p/assets/b/3/b/1/b3b1e73c6867eee9a04421dee9605cbd/WhatsApp_Image_2026-11-20_at_16.04.16.jpeg"
+    },
     {
       "showId": "allin",
       "showName": "All-In",
@@ -1021,17 +1032,6 @@
       "duration": "13820",
       "summary": "Seinfeld, which ended three decades ago, has been watched by 72 million Americans so far THIS YEAR. Behind that incredible stat is an equally incredible business story: obsessive creators, perfect mar",
       "art": "https://img.transistorcdn.com/UeflZq2BnWJL1OgSrOEoiAs2XTQAn_T8KemShoFGQ3Y/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zYTMw/MDFhMjlmMmNhZTNl/ZDMxNWVhNzJlNzZh/NjRiNC5qcGc.jpg"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: Horizontal vs Vertical Agents: Who Wins | Model Routing: Commodity or Increasing in Value | The Future of the Inference Market | Why Founders Should Take Discounts for Tier 1 Firms with Harrison Chase, LangChain",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-horizontal-vs-vertical-agents-who-wins-model-routing-commodity-or-increasing-in-value-the-future-of-the-inference-market-why-founders-should-take-discounts-for-tier-1-firms-with-harrison-chase-langchain",
-      "pubDate": "2026-10-18T22:37:00.000Z",
-      "duration": "01:01:49",
-      "summary": "Harrison Chase is the co-founder and CEO of LangChain, which helps developers build, test and deploy AI agents. Backed by Sequoia Capital, Benchmark and IVP, LangChain has announced approximately $160",
-      "art": "https://static.libsyn.com/p/assets/e/c/b/d/ecbdc845c9b625dd5f2e77a3093c12a1/WhatsApp_Image_2026-10-18_at_21.22.39.jpeg"
     },
     {
       "showId": "allin",
