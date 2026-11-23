@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-23T00:31:57.882Z",
+    "updatedAt": "2026-11-23T19:25:19.799Z",
     "totalEpisodes": 150,
     "health": [
       {
@@ -96,7 +96,7 @@
       "id": "jre",
       "name": "Joe Rogan Experience",
       "category": "general",
-      "art": "https://megaphone-images.spotifycdn.com/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/9dcaedf424ec3888e0c3056037a2d4c7.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/8e5bcebc-ca16-11ee-89f0-0fa0b9bdfc7c/image/8be4c98f6aff9e407c1257ce3c35beea.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "link": "https://feeds.megaphone.fm/GLT1412515089"
     },
     {
@@ -164,6 +164,28 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "How American money is changing Europe's defense strategy",
+      "link": "https://www.npr.org/2026/11/23/nx-s1-6048592/how-american-money-is-changing-europes-defense-strategy",
+      "pubDate": "2026-11-23T08:00:00.000Z",
+      "duration": "548",
+      "summary": "European Union countries are boosting their defense spending while billions of dollars in private American investment pour in. But does all this cash lead to a stronger, better defended Europe? Fact c",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fa8%2F90%2F8563482b45f69b341391d86740e0%2F9e3fbd34-5b08-4d2d-8f22-9ccd675aad90.jpg"
+    },
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Nvidia Without Jensen: Is Anthropic the Real Winner? | \"Fire the Bankers\": Why Most VCs Won't Survive AI | Why the Inference Layer is Uninvestable and Tranched Rounds Should Be Banned with Anjney Midha",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-nvidia-without-jensen-is-anthropic-the-real-winner-fire-the-bankers-why-most-vcs-wont-survive-ai-why-the-inference-layer-is-uninvestable-and-tranched-rounds-should-be-banned-with-anjney-midha",
+      "pubDate": "2026-11-23T07:07:00.000Z",
+      "duration": "56:36",
+      "summary": "Anjney Midha is one of Anthropic's earliest angel investors, backing the company in its founding round in 2021. Previously a General Partner at Andreessen Horowitz, he led investments in Mistral and B",
+      "art": "https://static.libsyn.com/p/assets/e/b/d/6/ebd6ee025124bf28a04421dee9605cbd/WhatsApp_Image_2026-11-20_at_16.27.07.jpeg"
+    },
     {
       "showId": "20vc",
       "showName": "20VC",
@@ -770,17 +792,6 @@
       "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F2d%2F8da1ec684fd29e88595562a988a5%2F03288097-9110-49f7-bff1-adc685b7fe07.jpg"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "How crypto world made inroads in Pakistan",
-      "link": "https://www.npr.org/2026/11/02/nx-s1-6022220/how-crypto-world-made-inroads-in-pakistan",
-      "pubDate": "2026-11-02T08:00:00.000Z",
-      "duration": "537",
-      "summary": "Pakistan in recent years has taken a U-turn on cryptocurrency, opting to regulate digital assets instead of outright banning them. On today’s show, what the country’s crypto boosters hope to gain for ",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ff8%2F5f%2F61e46f2644b3b4a9fdf5601b9aab%2F6985f0c1-1a28-46fd-a918-77488a8addbd.png"
-    },
-    {
       "showId": "20vc",
       "showName": "20VC",
       "category": "vc",
@@ -1010,17 +1021,6 @@
       "duration": "40:33",
       "summary": "(0:00) Dylan Field joins the show: Figma's origin story and mission (3:16) Adobe's $20B deal blocked: inside the antitrust fight (12:29) Is AI killing SaaS? Frontier Companies vs. Figma, the \"SaaS apo",
       "art": "https://static.libsyn.com/p/assets/1/d/9/5/1d95ecdfc80cd5e8a04421dee9605cbd/signal-2026-10-19-17-08-19-380.jpg"
-    },
-    {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: You Need $1BN To Do Seed Today: The Untold Truths of Venture | Who Wins and Who Loses in the Next Decade of VC | Why Margin and Price Matter Less in a World of AI with Sameer Dholakia, Bessemer",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-you-need-1bn-to-do-seed-today-the-untold-truths-of-venture-who-wins-and-who-loses-in-the-next-decade-of-vc-why-margin-and-price-matter-less-in-a-world-of-ai-with-sameer-dholakia-bessemer",
-      "pubDate": "2026-10-19T07:07:00.000Z",
-      "duration": "01:15:15",
-      "summary": "Sameer Dholakia is a Partner @ Bessemer, the first that has just raised $5.75BN across a $1.75BN seed fund and $4BN growth fund. Sameer has led investments into the likes of Anthropic, Fireworks and L",
-      "art": "https://static.libsyn.com/p/assets/0/e/d/0/0ed0259c0d48c11e5f2e77a3093c12a1/WhatsApp_Image_2026-10-16_at_14.05.10.jpeg"
     },
     {
       "showId": "acquired",
