@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-24T04:30:45.401Z",
+    "updatedAt": "2026-11-24T19:00:56.511Z",
     "totalEpisodes": 150,
     "health": [
       {
@@ -164,6 +164,50 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2585 - Sam Tripoli & Eddie Bravo",
+      "link": "https://traffic.megaphone.fm/GLT3903659981.mp3",
+      "pubDate": "2026-11-24T18:00:00.000Z",
+      "duration": "10241",
+      "summary": "Sam Tripoli is a stand-up comedian, writer, and host of the \"Tin Foil Hat with Sam Tripoli\" podcast. He also co-hosts several podcasts, including \"Cash Daddies\" and \"Broken Simulation.\" His latest sta",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/f0ddd1ca-e7b9-11f1-a591-d7385ac06142/image/6be06ba8f7fa3521240c26c8f984f1b1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "ezraklein",
+      "showName": "The Ezra Klein Show",
+      "category": "politics",
+      "title": "The ‘Everywhere, All at Once’ Cybersecurity Crisis",
+      "link": "https://www.nytimes.com/2026/11/24/opinion/ezra-klein-podcast-nicole-perlroth.html",
+      "pubDate": "2026-11-24T10:00:00.000Z",
+      "duration": "00:55:50",
+      "summary": "It's been called a lot of names: “black October,” “bugmageddon,” “the patchpocalypse,” “a new dark age,” “software Beirut.” Artificial intelligence has thrown us into a new era of digital insecurity, ",
+      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Is Jensen Huang too big to fail?",
+      "link": "https://www.npr.org/2026/11/24/nx-s1-6051562/is-nvidias-jensen-huang-too-big-to-fail",
+      "pubDate": "2026-11-24T08:00:07.000Z",
+      "duration": "569",
+      "summary": "A couple of weeks ago, Jensen Huang resigned as CEO of Nvidia due to a flurry of scandals. Now, Huang is back at the helm. So… what happened? Today on the show, what you need to know about the drama. ",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3386x3386+0+0/resize/3000/quality/66/format/jpg/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe7%2F6b%2F61460b8045bbb704622f00b85ef2%2Fd45444f7-a7b9-48b9-8824-1b201000c4c1.jpg"
+    },
+    {
+      "showId": "allin",
+      "showName": "All-In",
+      "category": "tech",
+      "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+      "link": "https://allinchamathjason.libsyn.com/crowdstrike-ceo-ai-cyberattack-wave-hyperspeed-hacks-the-patching-problem",
+      "pubDate": "2026-11-24T02:30:00.000Z",
+      "duration": "53:28",
+      "summary": "(0:00) CrowdStrike CEO, George Kurtz joins the show! (1:38) Are the Outages Cyberattacks? (10:36) How AI Lets Anyone Hack Like a Nation-State Level Threat (16:33) Patching, Technical Debt, and Outages",
+      "art": "https://static.libsyn.com/p/assets/6/0/c/d/60cd692a544cded75f2e77a3093c12a1/gk_sqaure_thumb_final.jpg"
+    },
     {
       "showId": "indicator",
       "showName": "The Indicator",
@@ -781,17 +825,6 @@
       "art": "https://megaphone-images.spotifycdn.com/podcasts/709942d8-d729-11f1-8d39-1fb40a68132d/image/3700eb5e46aadd60d2f67523c7b8d451.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Is it time to reconsider the adjustable rate mortgage?",
-      "link": "https://www.npr.org/2026/11/03/nx-s1-6026712/is-it-time-to-reconsider-the-adjustable-rate-mortgage",
-      "pubDate": "2026-11-03T08:00:00.000Z",
-      "duration": "511",
-      "summary": "High mortgage rates are nudging some aspiring homeowners to consider adjustable-rate mortgages over the standard 30-year fixed-rate option. Are ARMs the better choice in today’s economy? Fact checking",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fae%2F2d%2F8da1ec684fd29e88595562a988a5%2F03288097-9110-49f7-bff1-adc685b7fe07.jpg"
-    },
-    {
       "showId": "20vc",
       "showName": "20VC",
       "category": "vc",
@@ -867,17 +900,6 @@
       "duration": "55:39",
       "summary": "(0:00) Welcome Will Ahmed, CEO of WHOOP (0:59) WHOOP's $500 Hardware Problem & the Subscription Pivot (6:59) Inside 50 Billion Hours of 24/7 Health Data (19:31) WHOOP's AI Coach, Journal Insights & GL",
       "art": "https://static.libsyn.com/p/assets/a/7/3/9/a73958ffcc02ae365f2e77a3093c12a1/signal-2026-10-29-17-06-43-868.jpg"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2572 - Colum Tyrrell",
-      "link": "https://traffic.megaphone.fm/GLT3844762456.mp3",
-      "pubDate": "2026-10-29T17:00:00.000Z",
-      "duration": "11084",
-      "summary": "Colum Tyrrell is a comedian, streamer, and co-host of the \"Cockfight\" podcast with Lev Fer and Tristan Bowling. His new hour-long comedy special premieres October 28 on YouTube. He is currently on tou",
-      "art": "https://megaphone-images.spotifycdn.com/podcasts/a7f8279c-d37a-11f1-a462-fb1f7204087b/image/9f156e4c4c5b052ae574871c1a09ef2d.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "20vc",
@@ -1152,28 +1174,6 @@
       "pubDate": "2026-10-07T09:00:00.000Z",
       "duration": "01:11:24",
       "summary": "Last week, David Robinson resigned from OpenAI. He’d been in charge of writing the safety reports for new models and came to believe that OpenAI and the broader artificial intelligence industry lack t",
-      "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
-    },
-    {
-      "showId": "allin",
-      "showName": "All-In",
-      "category": "tech",
-      "title": "Trump's Super Intelligence Summit, AI Safety Accord, GDP Beats, Midterm Predictions",
-      "link": "https://allinchamathjason.libsyn.com/trumps-super-intelligence-summit-ai-safety-accord-gdp-beats-midterm-predictions",
-      "pubDate": "2026-10-02T22:30:00.000Z",
-      "duration": "01:22:29",
-      "summary": "(0:00) Bestie intros! (2:01) Trump's Super Intelligence Summit: Behind the scenes and how the accord was created and signed (17:57) Cybersecurity arms race, data center national security, America.gov,",
-      "art": "https://static.libsyn.com/p/assets/7/b/0/3/7b0376a2e322dc87e5bbc093207a2619/1_Pod_E291.png"
-    },
-    {
-      "showId": "ezraklein",
-      "showName": "The Ezra Klein Show",
-      "category": "politics",
-      "title": "Is the World Getting Uglier?",
-      "link": "https://www.nytimes.com/2026/10/02/opinion/ezra-klein-podcast-debbie-millman.html",
-      "pubDate": "2026-10-02T09:00:00.000Z",
-      "duration": "01:07:29",
-      "summary": "President Trump and the modern right have a theory of beauty. You see it in Trump’s gilded Oval Office, his imagined arch and his executive order requiring classical and traditional styles for certain",
       "art": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed"
     },
     {
