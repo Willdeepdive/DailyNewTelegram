@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-25T03:15:14.505Z",
+    "updatedAt": "2026-11-25T18:06:17.928Z",
     "totalEpisodes": 150,
     "health": [
       {
@@ -117,7 +117,7 @@
       "id": "talksat",
       "name": "Talks at GS",
       "category": "finance",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress",
       "link": "http://www.goldmansachs.com/our-thinking/talks-at-gs/index.html"
     },
     {
@@ -164,6 +164,39 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2586 - Jocko Willink",
+      "link": "https://traffic.megaphone.fm/GLT3001876879.mp3",
+      "pubDate": "2026-11-25T18:00:00.000Z",
+      "duration": "9174",
+      "summary": "Jocko Willink is a retired U.S. Navy SEAL, author, podcaster, and leadership instructor. He hosts the \"Jocko Podcast\" and authored several books, including \"Way of the Warrior Kid,\" which has been ada",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d65cc440-e7f6-11f1-92c7-07f9881e21ab/image/c71a3adb1fb611dc0ae79d3ffaf6eb0c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "talksat",
+      "showName": "Talks at GS",
+      "category": "finance",
+      "title": "Lord Chris Holmes on Turning Ambition into Action",
+      "link": "https://traffic.megaphone.fm/GLD8233637652.mp3",
+      "pubDate": "2026-11-25T17:00:00.000Z",
+      "duration": "1232",
+      "summary": "After losing his sight at the age of 14, Lord Chris Holmes became one of Britain’s most successful Paralympic swimmers and went on to build a career spanning law, public service, and technology policy",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
+    {
+      "showId": "indicator",
+      "showName": "The Indicator",
+      "category": "macro",
+      "title": "Sorry, even store brands are expensive now",
+      "link": "https://www.npr.org/2026/11/25/nx-s1-6053235/sorry-even-store-brands-are-expensive-now",
+      "pubDate": "2026-11-25T08:00:00.000Z",
+      "duration": "508",
+      "summary": "Why have prices for budget groceries risen faster than name brands? Meet cheapflation. Fact checking by Sierra Juarez . Your Next Listen – Go ask ALICE about grocery prices –Over 2,000 episodes in our",
+      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=https%3A%2F%2Fnpr-production-npr.s3.us-east-1.amazonaws.com%2Fbrightspot%2F55%2F90%2Fceaff47746b7ac0b788a820ff462%2Fc51db5f4-97e6-4da5-97f0-1f2dea5f5aa4.png"
+    },
     {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
@@ -349,7 +382,7 @@
       "pubDate": "2026-11-18T18:03:00.000Z",
       "duration": "1225",
       "summary": "The launch of ESPN’s direct-to-consumer service a year ago was a marker of change in the sports media business—offering the full suite of ESPN networks without a pay-TV bundle for the first time. ESPN",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "jre",
@@ -393,7 +426,7 @@
       "pubDate": "2026-11-17T20:08:00.000Z",
       "duration": "1195",
       "summary": "When APL (Athletic Propulsion Labs) set out to create basketball shoes that helped athletes instantly jump higher, the technology worked so well that the NBA banned the shoes for providing the wearer ",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "jre",
@@ -415,7 +448,7 @@
       "pubDate": "2026-11-17T14:12:00.000Z",
       "duration": "1448",
       "summary": "The best investors are often wrong. What sets them apart is how they learn, adapt, and respond to risk, says Citadel co-CIO Pablo Salame. In this episode of Talks at GS, Salame joins Alexandra Wilson-",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
@@ -701,7 +734,7 @@
       "pubDate": "2026-11-06T18:42:00.000Z",
       "duration": "1309",
       "summary": "David Schwimmer, CEO of London Stock Exchange Group, explains why investors may be underestimating risks in today’s markets. In particular, Schwimmer says inflation and geopolitical tension limit the ",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "jre",
@@ -745,7 +778,7 @@
       "pubDate": "2026-11-05T15:49:00.000Z",
       "duration": "1292",
       "summary": "Aaru, a two-and-a-half-year-old startup valued at $1 billion, is redefining market research and consumer intelligence by deploying multi-agent AI simulations to predict how humans will make decisions.",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "etw",
@@ -803,17 +836,6 @@
       "art": "https://megaphone-images.spotifycdn.com/podcasts/843a4c4c-d814-11f1-b9a1-43aa4be9aada/image/764aae128b0171ebac833146ecdfed19.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
-      "showId": "indicator",
-      "showName": "The Indicator",
-      "category": "macro",
-      "title": "Will AI take my job? Ask an economist!",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6028029/will-ai-take-my-job-ask-an-economist",
-      "pubDate": "2026-11-04T08:00:00.000Z",
-      "duration": "539",
-      "summary": "Are AI job losses showing up in the job numbers? What does a pro-worker approach to AI development look like? What advice do you have for college students? It’s our latest “Ask an Economist” segment, ",
-      "art": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7b%2F03%2F9bd32648452f93214906074d8a03%2F488e5755-6205-40ed-8912-bfc1120309dd.png"
-    },
-    {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
       "category": "general",
@@ -869,17 +891,6 @@
       "art": "https://static.libsyn.com/p/assets/2/8/2/4/2824d23e001152e8a04421dee9605cbd/1_Pod_E295.png"
     },
     {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2573 - Legion of Skanks",
-      "link": "https://traffic.megaphone.fm/GLT3082011100.mp3",
-      "pubDate": "2026-10-30T17:00:00.000Z",
-      "duration": "10098",
-      "summary": "Big Jay Oakerson, Luis J. Gomez, and Steve Rannazzisi are comedians and hosts of the \"Legion of Skanks\" podcast. Big Jay and Luis also co-host the \"Story Warz\" podcast. Big Jay co-hosts \"The Bonfire\" ",
-      "art": "https://megaphone-images.spotifycdn.com/podcasts/a96ed958-d402-11f1-b9a5-576e4cad39df/image/3cb0c5a701b9ebf0dfe3ee8b24434961.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
-    },
-    {
       "showId": "ezraklein",
       "showName": "The Ezra Klein Show",
       "category": "politics",
@@ -921,7 +932,7 @@
       "pubDate": "2026-10-28T19:33:00.000Z",
       "duration": "1096",
       "summary": "David Booth, the founder and chairman of Dimensional Fund Advisors, uses academic research and market evidence to manage more than $1 trillion in assets. Booth, the author of Stay Calm, joins Raj Maha",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "ezraklein",
@@ -1185,7 +1196,7 @@
       "pubDate": "2026-09-30T13:30:00.000Z",
       "duration": "1096",
       "summary": "OpenEvidence is working to rapidly advance clinical decision-making, emerging as a global leader in delivering gold-standard medical knowledge to physicians at the point of care. Daniel Nadler, co-fou",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "talksat",
@@ -1196,7 +1207,7 @@
       "pubDate": "2026-09-25T22:20:00.000Z",
       "duration": "1583",
       "summary": "U.S. Soccer has entered a transformative era, driving the growth of the sport across the nation as it capitalizes on hosting the 2026 World Cup and other global sporting tournaments to come. JT Batson",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "talksat",
@@ -1207,7 +1218,7 @@
       "pubDate": "2026-09-21T17:14:00.000Z",
       "duration": "1167",
       "summary": "The luxury real estate brokerage SERHANT. generates over $1 billion in transactions every month. On Talks at GS, Ryan Serhant, founder and CEO of SERHANT., joins Tucker York, chair of Goldman Sachs gl",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "etw",
@@ -1350,7 +1361,7 @@
       "pubDate": "2026-08-05T21:40:00.000Z",
       "duration": "1454",
       "summary": "WellWithAll is a purpose-led health and wellness company built on an inclusive capitalism model that reinvests 20% of its profits into health equity initiatives to help close the wellness gap across g",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "talksat",
@@ -1361,7 +1372,7 @@
       "pubDate": "2026-07-29T13:00:00.000Z",
       "duration": "1547",
       "summary": "The NobleReach Foundation taps into leaders across sectors – technology, science, government, academia – who have a penchant for national service and a desire to bridge the gap between a flourishing p",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "lexfridman",
@@ -1383,7 +1394,7 @@
       "pubDate": "2026-07-27T14:18:00.000Z",
       "duration": "1059",
       "summary": "TPG has evolved into one of the world's leading alternative asset management firms, with over $300 billion in assets under management. Jon Winkelried, CEO of TPG and a Goldman Sachs alum, joins Matt M",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "talksat",
@@ -1394,7 +1405,7 @@
       "pubDate": "2026-07-17T18:53:00.000Z",
       "duration": "1178",
       "summary": "The 2026 FIFA World Cup is set to become the largest and most inclusive tournament in the sport's history, spanning 104 soccer matches across the US, Canada, and Mexico. Carlos Cordeiro, senior adviso",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "etw",
@@ -1427,7 +1438,7 @@
       "pubDate": "2026-07-01T15:01:00.000Z",
       "duration": "1399",
       "summary": "The Navy SEAL Foundation serves as a critical pillar of support for the SEAL community, providing comprehensive resources for active-duty operators, veterans, and their families. Goldman Sachs’ Vanya ",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "lexfridman",
@@ -1439,17 +1450,6 @@
       "duration": "3:58:46",
       "summary": "Anthony Kaldellis is a historian of the Roman Empire and author of The New Roman Empire, a comprehensive history of the Byzantine Empire (Eastern Roman Empire). Thank you for listening ❤ Check out our",
       "art": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/lex_fridman_podcast_cover_3000.jpg"
-    },
-    {
-      "showId": "talksat",
-      "showName": "Talks at GS",
-      "category": "finance",
-      "title": "The Future of Industrial AI with Honeywell Technologies Chairman and CEO Vimal Kapur",
-      "link": "https://traffic.megaphone.fm/GLD1896665660.mp3",
-      "pubDate": "2026-06-30T20:33:00.000Z",
-      "duration": "1431",
-      "summary": "Honeywell Technologies Chairman and CEO Vimal Kapur joined John Waldron to discuss the organization's transformation into a more focused automation company and its strategy to unlock growth through in",
-      "art": "https://megaphone.imgix.net/podcasts/d7dd0072-23bb-11e8-a138-ebc0493f0300/image/f42c08e86983fb85b23803bf9d271384.png?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "acquired",
