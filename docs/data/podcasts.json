@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-26T02:32:48.200Z",
+    "updatedAt": "2026-11-26T17:50:51.272Z",
     "totalEpisodes": 150,
     "health": [
       {
@@ -165,13 +165,35 @@
   ],
   "episodes": [
     {
+      "showId": "etw",
+      "showName": "声东击西",
+      "category": "zh",
+      "title": "#411 钟淑如：生死存亡的菜市场，和我们与食物的关系丨十周年特别节目",
+      "link": "https://etw.fm/2232",
+      "pubDate": "2026-11-26T10:15:00.000Z",
+      "duration": "1:16:53",
+      "summary": "十年间，我们的餐桌是更丰富了，还是更单调了？本期节目是声东击西「十周年」特别系列的第七期。在这个系列中，我们通过访谈那些亲历结构性变化并拥有独特观察的嘉宾，去听听过去这十年中，他们看见了什么，洞察到了什么，如何理解今天，又如何辨认出那些塑造未来的力量。本期和上一期「十周年」特别节目有一些关联：农村和小农的变化，其实正通过菜市场，和每一个城市人的日常连在了一起。 在广州，菜市场从 2017 年的六百",
+      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/4/486d1fea-dd57-4ff1-8de9-cfea1f9de16a/cover.jpg?v=1"
+    },
+    {
+      "showId": "20vc",
+      "showName": "20VC",
+      "category": "vc",
+      "title": "20VC: Jensen Huang's $1TRN Return: What Happens Now | Anthropic Goes Public: Largest IPO Of All Time & How It Changes Venture | Applied Compute, Bill.com and Mailchimp Acquisitions Broken Down",
+      "link": "https://thetwentyminutevc.libsyn.com/20vc-jensen-huangs-1trn-return-what-happens-now-anthropic-goes-public-largest-ipo-of-all-time-how-it-changes-venture-applied-compute-billcom-and-mailchimp-acquisitions-broken-down",
+      "pubDate": "2026-11-26T07:07:00.000Z",
+      "duration": "01:09:54",
+      "summary": "AGENDA: 04:00 Jensen's $1 Trillion Comeback: Nvidia's King Returns 13:00 Anthropic Goes Public: Inside the Biggest IPO Ever 21:00 AI Cyberattacks Threaten SaaS and Vibe Coding 29:00 Cognition Eyes $75",
+      "art": "https://static.libsyn.com/p/assets/c/8/a/5/c8a56cf003798980a04421dee9605cbd/WhatsApp_Image_2026-11-25_at_13.48.33.jpeg"
+    },
+    {
       "showId": "jre",
       "showName": "Joe Rogan Experience",
       "category": "general",
       "title": "#2586 - Jocko Willink",
       "link": "https://traffic.megaphone.fm/GLT3001876879.mp3",
       "pubDate": "2026-11-25T18:00:00.000Z",
-      "duration": "9174",
+      "duration": "9414",
       "summary": "Jocko Willink is a retired U.S. Navy SEAL, author, podcaster, and leadership instructor. He hosts the \"Jocko Podcast\" and authored several books, including \"Way of the Warrior Kid,\" which has been ada",
       "art": "https://megaphone-images.spotifycdn.com/podcasts/d65cc440-e7f6-11f1-92c7-07f9881e21ab/image/c71a3adb1fb611dc0ae79d3ffaf6eb0c.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
@@ -204,7 +226,7 @@
       "title": "#2585 - Sam Tripoli & Eddie Bravo",
       "link": "https://traffic.megaphone.fm/GLT3903659981.mp3",
       "pubDate": "2026-11-24T18:00:00.000Z",
-      "duration": "10241",
+      "duration": "10481",
       "summary": "Sam Tripoli is a stand-up comedian, writer, and host of the \"Tin Foil Hat with Sam Tripoli\" podcast. He also co-hosts several podcasts, including \"Cash Daddies\" and \"Broken Simulation.\" His latest sta",
       "art": "https://megaphone-images.spotifycdn.com/podcasts/f0ddd1ca-e7b9-11f1-a591-d7385ac06142/image/6be06ba8f7fa3521240c26c8f984f1b1.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
@@ -1012,17 +1034,6 @@
       "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/episodes/a/a9f77ddf-0b3c-40f4-8837-4eb19d13420e/cover.jpg?v=1"
     },
     {
-      "showId": "20vc",
-      "showName": "20VC",
-      "category": "vc",
-      "title": "20VC: Trillion or Bust: The New VC Game | Coreweave Sell-Off Creates Panic | Town at $1B, Anduril at $90B: Revenue Multiples Out of Control | General Atlantic Eyes IPO & Modal Raises $750M at $15.75B",
-      "link": "https://thetwentyminutevc.libsyn.com/20vc-trillion-or-bust-the-new-vc-game-coreweave-sell-off-creates-panic-town-at-1b-anduril-at-90b-revenue-multiples-out-of-control-general-atlantic-eyes-ipo-modal-raises-750m-at-1575b",
-      "pubDate": "2026-10-22T07:07:00.000Z",
-      "duration": "01:00:37",
-      "summary": "AGENDA: 04:20 Billion-Dollar Bets or Nothing: Why VCs Are Rejecting Fast-Growing Startups 13:20 CoreWeave Sell-Off Sparks Fears of Cracks in AI Boom 18:50 Anthropic's IPO Valuation Could Fall From $2 ",
-      "art": "https://static.libsyn.com/p/assets/f/f/6/2/ff62f7a4dc8d3093a04421dee9605cbd/WhatsApp_Image_2026-10-21_at_18.04.29.jpeg"
-    },
-    {
       "showId": "allin",
       "showName": "All-In",
       "category": "tech",
@@ -1416,17 +1427,6 @@
       "pubDate": "2026-07-16T10:15:00.000Z",
       "duration": "52:06",
       "summary": "特朗普政府收紧移民政策、暂停难民接收后，南非白人却成了少数例外：一些人以「难民」身份进入美国，另一些人拿着农业签证，来到密西西比的农场工作。为什么偏偏是他们？ 今年 4 月，刘骁骞前往密西西比州中部的农业地区。在黄昏的加油站和餐馆里，穿着卡其色短裤的南非白人劳工陆续出现，聚在吧台旁喝酒；有人从早上 6 点工作到晚上 8 点，握手时指甲缝里还沾满泥土。更高的收入之外，围绕本地就业、工资差异和种族问题",
-      "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
-    },
-    {
-      "showId": "etw",
-      "showName": "声东击西",
-      "category": "zh",
-      "title": "#397 从「责任分担」到「责任转移」：欧洲为何难以真正与美国「分道扬镳」？",
-      "link": "https://etw.fm/2217",
-      "pubDate": "2026-07-14T07:00:00.000Z",
-      "duration": "53:20",
-      "summary": "7 月 7 日至 8 日，北约峰会在土耳其安卡拉举行。美国总统特朗普在会议开场就因为军费问题向盟友施压，威胁切断与西班牙的贸易，甚至再次提起格陵兰岛的主权归属。随着「美国优先」与「欧洲自主」理念的碰撞，本次会议成了我们观察「北约是否已经脑死亡？」争论的关键窗口。 从会议内容上看，理念的碰撞似乎并不意味着联盟走向瓦解。从人工智能与军事能力的进一步结合，到美欧围绕防务支出、军工产业和全球责任展开新的博",
       "art": "https://cdn.fireside.fm/file/fireside-images-2024/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=4"
     },
     {
