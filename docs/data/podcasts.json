@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updatedAt": "2026-11-26T17:50:51.272Z",
+    "updatedAt": "2026-11-26T22:53:26.369Z",
     "totalEpisodes": 150,
     "health": [
       {
@@ -164,6 +164,17 @@
     }
   ],
   "episodes": [
+    {
+      "showId": "jre",
+      "showName": "Joe Rogan Experience",
+      "category": "general",
+      "title": "#2587 - Anthony Kim",
+      "link": "https://traffic.megaphone.fm/GLT9030692803.mp3",
+      "pubDate": "2026-11-26T18:00:00.000Z",
+      "duration": "8193",
+      "summary": "Anthony Kim is a professional golfer competing in LIV Golf. A three-time PGA Tour winner and member of the 2008 U.S. Ryder Cup team, he returned to professional golf in 2024 following a 12-year absenc",
+      "art": "https://megaphone-images.spotifycdn.com/podcasts/cd9cc458-e92d-11f1-85de-7723364e53f0/image/773e84fe8b593efad8ceb25164090619.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
+    },
     {
       "showId": "etw",
       "showName": "声东击西",
@@ -878,17 +889,6 @@
       "duration": "01:02:10",
       "summary": "Erik Bernhardsson is the Co-Founder and CEO of Modal, the AI infrastructure platform for training models, running inference and powering AI agents. Modal has raised over $1.2 billion, including a rece",
       "art": "https://static.libsyn.com/p/assets/e/8/7/2/e872067a63cd07335f2e77a3093c12a1/WhatsApp_Image_2026-10-30_at_13.54.30.jpeg"
-    },
-    {
-      "showId": "jre",
-      "showName": "Joe Rogan Experience",
-      "category": "general",
-      "title": "#2574 - Francis Foster & Konstantin Kisin",
-      "link": "https://traffic.megaphone.fm/GLT8304275411.mp3",
-      "pubDate": "2026-10-31T17:00:00.000Z",
-      "duration": "9854",
-      "summary": "Comedian Francis Foster and political commentator Konstantin Kisin host the \"TRIGGERnometry\" podcast. Francis also hosts \"The Francis Foster Show\" and is the author of \"(Un)educated: My Life as a Teac",
-      "art": "https://megaphone-images.spotifycdn.com/podcasts/0dc6237e-d512-11f1-816e-5f927e9904ef/image/09d7546396986d25c234aa713fa6fd09.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"
     },
     {
       "showId": "20vc",
